@@ -30,16 +30,6 @@ python main.py \
 ## contributors
 Thanks to these amazing contributors:
 
-
-Hyeon Jin, 
-
-chaewon yoon 
-<a href="https://github.com/lluvecwonv">
-  <img src="https://github.com/lluvecwonv.png" width="50" height="50" alt="lluvecwonv">
-</a>
-
-
-yurim oh
-<a href="https://github.com/ohyurim1010">
-  <img src="https://github.com/ohyurim1010" width="50" height="50" alt="lluvecwonv">
-</a>
+-[!Hyeon Jin, ]
+- [![lluvecwonv](https://github.com/lluvecwonv.png)](https://github.com/lluvecwonv) **chaewon yoon**
+- [![ohyurim1010](https://github.com/ohyurim1010.png)](https://github.com/ohyurim1010) **yurim oh**
