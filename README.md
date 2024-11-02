@@ -11,9 +11,6 @@ based on a large language model.
 - **GitHub Repository**: ([https://github.com/your-repo-link](https://github.com/lluvecwonv/AACSum)
 
 
-## collaborator
-Hyeon Jin, chaewon Yoon, yurim oh
-
 
 ## run file
 ```bash
@@ -28,4 +25,7 @@ python main.py \
     --assigner_model "gpt-4o-mini" \
     --assigner_prompt "/root/AACS/templet/gpt_assigner.txt" \
     --comp_text
-  
+```  
+
+## contributor
+Hyeon Jin, chaewon Yoon, yurim oh
