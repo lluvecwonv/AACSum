@@ -28,4 +28,14 @@ python main.py \
 ```  
 
 ## contributors
-Hyeon Jin, chaewon Yoon, yurim oh
+Thanks to these amazing contributors:
+
+
+Hyeon Jin, 
+<a href="https://github.com/lluvecwonv">
+  <img src="https://github.com/lluvecwonv.png" width="50" height="50" alt="lluvecwonv">
+</a>
+yurim oh
+<a href="https://github.com/ohyurim1010">
+  <img src="https://github.com/ohyurim1010" width="50" height="50" alt="lluvecwonv">
+</a>
