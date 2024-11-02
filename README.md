@@ -27,5 +27,5 @@ python main.py \
     --comp_text
 ```  
 
-## contributor
+## contributors
 Hyeon Jin, chaewon Yoon, yurim oh
