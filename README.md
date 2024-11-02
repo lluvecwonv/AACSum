@@ -36,19 +36,19 @@ Thanks to these amazing contributors:
 <a href="https://github.com/your-github-username">
   <img src="https://github.com/your-github-username.png" width="50" height="50" style="border-radius: 50%;" alt="Hyeon Jin">
 </a>  
-Hyeon Jin**
+Hyeon Jin
 
 <br>
 
 <a href="https://github.com/lluvecwonv">
   <img src="https://github.com/lluvecwonv.png" width="50" height="50" style="border-radius: 50%;" alt="lluvecwonv">
 </a>  
-chaewon yoon**
+chaewon yoon
 
 <br>
 
 <a href="https://github.com/ohyurim1010">
   <img src="https://github.com/ohyurim1010.png" width="50" height="50" style="border-radius: 50%;" alt="yurim oh">
 </a>  
-yurim oh**
+yurim oh
 
