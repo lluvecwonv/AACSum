@@ -14,8 +14,6 @@ based on a large language model.
 ## collaborator
 Hyeon Jin, chaewon Yoon, yurim oh
 
-## run file
-hyun jin, chaewon yoon, yurim oh
 
 ## run file
 ```bash
