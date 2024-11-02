@@ -27,8 +27,6 @@ python main.py \
     --comp_text
 ```  
 
-## contributors
-Thanks to these amazing contributors:
 ## Contributors
 
 Thanks to these amazing contributors:
