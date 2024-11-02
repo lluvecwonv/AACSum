@@ -1,0 +1,48 @@
+{
+    "common_aspects": {
+      "staff": {
+        "common": "The staff are friendly, helpful, and attentive, providing excellent local recommendations.",
+        "unique": {
+        }
+      },
+      "location": {
+        "common": "The hotel is conveniently located near major shopping areas and tourist spots.",
+        "unique": {
+          "itemA": "The hotel is ideally situated on the outskirts of downtown, close to the Eaton Centre and Yonge Street, although the surrounding area is not ideal.",
+          "itemB": "The location is excellent, ideal for sightseeing."
+        }
+      },
+      "internet": {
+        "common": "Internet access is available.",
+        "unique": {
+          "itemA": "The burden is somewhat alleviated by complimentary internet access.",
+          "itemB": "Internet access requires a fee of $16, which is a significant drawback for many guests."
+        }
+      },
+      "rooms": {
+        "common": "The rooms are generally clean and comfortable.",
+        "unique": {
+          "itemA": "The rooms at the Grand Hotel  ensuring a pleasant stay.",
+          "itemB": "The rooms at the hotel are fairly small and vary in cleanliness; some are a little dirty while others are very clean, featuring large, comfortable beds."
+        }
+      },
+      "dining": {
+        "common": "The hotel offers dining options, including breakfast.",
+        "unique": {
+          "itemA": "The hotel's food options, including a buffet breakfast with hot and cold dishes, are generally okay, though some guests noted the breakfast could be disappointing.",
+          "itemB": "The restaurants at the hotel offer brilliant dining experiences with excellent quality breakfast."
+        }
+      }
+    },
+    "unique_aspects": {
+      "itemA": {
+        "facility": "The hotel features a nice swimming pool with hot tubs and locker room facilities, as well as a scenic rooftop area with plenty of seating.",
+        "parking": "Parking is notably expensive at $19.00 per night for underground access.",
+        "secure": "the feeling of safety is present despite what other reviews have said."
+      },
+      "itemB": {
+        "atmosphere": "The hotel is grand, giving a royal vibe with a charming and atmospheric environment, especially noted in its large lobby."
+      }
+    }
+  } 
+  

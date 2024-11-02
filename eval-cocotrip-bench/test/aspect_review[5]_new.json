@@ -1,0 +1,55 @@
+{
+  "common_aspects": {
+    "location": {
+      "common": "This hotel is conveniently located.",
+      "unique": {
+        "itemA": "The hotel is highly recommended and is located in a perfect spot in the old quarter of Istanbul, within minutes of major attractions such as the Blue Mosque and the Grand Bazaar, as well as many other traditional and historic sites in Sultanahmet.",
+        "itemB": "It is conveniently located just across a park from many popular restaurants, which are favored by local university students."
+      }
+    },
+    "staff": {
+      "common": "The staff are generally friendly and willing to assist guests with their needs.",
+      "unique": {
+        "itemA": "The staff are knowledgeable, polite, and always willing to assist guests with their needs.",
+        "itemB": "The staff at the hotel generally provide friendly and personalized service, greeting guests with warm messages and efficiently handling requests, though there were occasional instances of unprofessional conduct."
+      }
+    },
+    "room": {
+      "common": "The rooms are clean.",
+      "unique": {
+        "itemA": "The rooms are cosy and on the small side, but they are always very comfortable, although there is no WiFi available in the rooms and limited storage space.",
+        "itemB": "The hotel's rooms are modern, and adequately sized, with competitive pricing, and some rooms even offer lovely views of the Bosphorus."
+      }
+    },
+    "food": {
+      "common": "The breakfast is highly praised.",
+      "unique": {
+        "itemA": "The breakfast, which is served on an open terrace, is highly praised and considered fit for a king, with both breakfast and dinner available at the rooftop dining area that provides stunning views of the Golden Horn, Blue Mosque, and sunsets.",
+        "itemB": "While all meals were delicious, the bar closes at a designated hour."
+      }
+    },
+    "internet": {
+      "common": "Complimentary internet access is provided in some areas.",
+      "unique": {
+        "itemA": "complimentary internet access is provided in the reception area, which was a pleasant surprise for guests.",
+        "itemB": "the dial-up internet service incurs a fee on some floors."
+      }
+    },
+    "satisfaction": {
+      "common": "The hotel is highly recommended.",
+      "unique": {
+        "itemA": "this hotel goes above and beyond for its customers, making it a wonderful choice for a stay in Istanbul's old city.",
+        "itemB": "Despite its slightly out-of-the-way location, the Conrad Hotel is highly recommended for those visiting Istanbul."
+      }
+    }
+  },
+  "unique_aspects": {
+    "itemA": {
+      "amenities": "The hotel features a wonderful boutique style and offers pleasant surprises, such as complimentary wines, fresh fruits, and arranged transport to the hotel."
+    },
+    "itemB": {
+      "gym": "The hotel features a small gym, which is adequate for a quick workout.",
+      "price": "the price was a competitive rate."
+    }
+  }
+}

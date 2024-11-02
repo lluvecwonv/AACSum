@@ -1,0 +1,46 @@
+{
+  "common_aspects": {
+    "location": {
+      "common": "The hotel offers views of the Bosphorus and is conveniently close to major sights.",
+      "unique": {
+        "itemA": "the hotel boasts an excellent location being on a quiet street, making it ideal for relaxation.",
+        "itemB": "The hotel is located on a hillside, easy access to nearby restaurants and shopping."
+      }
+    },
+    "staff": {
+      "common": "The staff are friendly and always helpful.",
+      "unique": {
+      }
+    },
+    "room": {
+      "common": "The room with a view overlooks the Bosphorus.",
+      "unique": {
+        "itemA": "The rooms are comfortable, although there is an issue with cigarette smoke drifting from the lobby into the surrounding rooms.",
+        "itemB": "The rooms are particularly large, spacious, and well-furnished, with the bathrooms also being of decent size and equipped with all expected amenities."
+      }
+    },
+    "food": {
+      "common": "Breakfast is of good quality.",
+      "unique": {
+        "itemA": "Breakfast is included in the excellently valued price of the stay.",
+        "itemB": "The hotel features a variety of restaurants, although the food quality can be pricey and does not quite meet traditional Turkish standards."
+      }
+    },
+    "internet": {
+      "common": "There is internet access for guests.",
+      "unique": {
+        "itemA": "There is free internet.",
+        "itemB": "The internet access is steeply priced at $25 per day."
+      }
+    }
+  },
+  "unique_aspects": {
+    "itemA": {
+      "transfer": "it's important to note that the hotel offers only one-way airport transfer, so guests will need to pay for either the pickup or the drop-off, though these costs are quite cheap."
+    },
+    "itemB": {
+      "amenities": "Guests can enjoy luxurious amenities such as a spa and a thoughtful turn-down service, complete with fresh bathrobes provided each evening.",
+      "recommendation": "Despite its few shortcomings, including the need for exterior updates, the hotel is highly recommended for its overall experience."
+    }
+  }
+}

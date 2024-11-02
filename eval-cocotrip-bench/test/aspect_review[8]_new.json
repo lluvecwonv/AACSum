@@ -1,0 +1,37 @@
+{
+  "common_aspects": {
+    "location": {
+      "common": "The hotel is located on the Grand Canal and is within walking distance of most tourist attractions and boat routes.",
+      "unique": {
+        "itemA": "The hotel is nicely located in a quiet neighborhood, off the beaten path, which helps avoid crowds but may make it initially difficult to find. Once familiar with Venice, the location is very convenient, close to the main attractions and right on the Grand Canal. The hotel is also centrally located for the main water boat routes, enhancing accessibility to various parts of the city including the recommended local boat trip to Murano\u2014though for this trip, it is advised to use the normal boat service rather than the smaller, box-sized boat provided for free by the hotel.",
+        "itemB": "The hotel is advantageously situated opposite the Santa Lucia train station, located in a quieter part of the city. Despite being a bit of a distance from St. Mark's, it remains within walking distance of most tourist attractions and boat routes. The location combines tranquility with accessibility, making it easy to explore the city by foot or via the nearby railway station if needed."
+      }
+    },
+    "staff": {
+      "common": "The staff are friendly and helpful, providing great advice and recommendations for the local area.",
+      "unique": {
+      }
+    },
+    "room": {
+      "common": "The rooms are clean and well-maintained.",
+      "unique": {
+        "itemA": "The rooms can feel more like dorm rooms than typical hotel accommodations, especially the smaller rooms located away from the main hotel; however, guests can upgrade for an additional cost of 20 euros to enjoy a more spacious room.",
+        "itemB": "The rooms offer stunning views of the canal, featuring amenities like twin basins ideal for couples, and luxurious touches such as gorgeous chandeliers. The blue room is notably spacious, enhancing the overall charm and appeal of the accommodations."
+      }
+    },
+    "breakfast": {
+      "common": "The breakfast provided by the hotel is adequate.",
+      "unique": {
+        "itemA": "The breakfast offered is basic and adequate, but served in a small area that fills up quickly. The hotel can book the restaurant for you at your preferred time."
+      }
+    }
+  },
+  "unique_aspects": {
+    "itemA": {
+      "busyness": "This lovely and charming hotel can be busy during September time."
+    },
+    "itemB": {
+      "facility": "The hotel features a small but well-maintained elevator."
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "common_aspects": {
+    "location": {
+      "common": "The hotel is located near a Metro station, making it convenient for guests.",
+      "unique": {
+        "itemA": "This hotel is highly recommended for a short stay due to its great value for money and excellent location, being very close to the Musee d'Orsay and within walking distance of the Saint Germain area.",
+        "itemB": "The hotel is located in a picturesque setting just outside Paris, on a tree-lined avenue frequented by locals."
+      }
+    },
+    "room": {
+      "common": "The rooms are equipped with modern amenities.",
+      "unique": {
+        "itemA": "The design of the hotel rooms is stylish and colorful, with each room being unique and equipped with an iPod dock, minibar, flat-screen television, and a safe, ensuring a comfortable stay.",
+        "itemB": "The rooms are spacious, clean, and tidy, featuring large, comfortable beds, a good-sized bathroom with a great shower (but no bath), and all the expected facilities, including an internet connection and coffee or tea."
+      }
+    },
+    "staff": {
+      "common": "The staff are friendly.",
+      "unique": {
+        "itemB": "While some staff members were helpful and friendly, others exhibited unprofessional attitudes, and service could be improved at times."
+      }
+    },
+    "dining": {
+      "common": "The breakfast offered is plentiful.",
+      "unique": {
+        "itemA": "The breakfast features fresh, organic produce, and includes generous offerings.",
+        "itemB": "The on-site restaurant serves simple French cuisine with a view of the canal, which is a great place to eat."
+      }
+    }
+  },
+  "unique_aspects": {
+    "itemA": {
+      "service": "the hotel provides tickets that allow guests to skip the line at designated venues, which is a great bonus for visitors."
+    },
+    "itemB": {
+      "view": "The views from the rooms overlook the canal, with the rotunda and Stalingrad station visible in the background, providing a lovely and memorable experience."
+    }
+  }
+}

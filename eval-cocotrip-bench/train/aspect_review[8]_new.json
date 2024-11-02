@@ -1,0 +1,42 @@
+{
+    "common_aspects": {
+      "location": {
+        "common": "The hotel is ideally located close to public transportation.",
+        "unique": {
+          "itemA": "The hotel is ideally located in the center of Venice, close to excellent restaurants and water-ferry stations, away from the usual tourist traps, making it a perfect venue for a stay.",
+          "itemB": "The hotel is ideally located in a quiet spot just a few minutes' walk from public transportation, including trains, buses, and the Vaporetto station, making it perfect for tourists, especially those on cruises, while St. Mark's Square is about an hour's walk away, and the airport is only 15 minutes away."
+        }
+      },
+      "rooms": {
+        "common": "The rooms are decorated beautifully and provide a comfortable stay.",
+        "unique": {
+          "itemA": "The hotel rooms are spacious, quiet, and decorated with a charming old-world style that respects history, while the bathrooms are modern and newly renovated, providing a comfortable stay overall, although the rooms can be somewhat cold.",
+          "itemB": "The rooms in the hotel vary in size but tend to be small, though they are beautifully decorated with nice views of the canal, and thanks to the minimal noise, it\u2019s pleasant to keep the windows and shutters open."
+        }
+      },
+      "staff": {
+        "common": "The staff are friendly and helpful.",
+        "unique": {
+        }
+      },
+      "breakfast": {
+        "common": "Breakfast is basic.",
+        "unique": {
+          "itemA": "Breakfast at the hotel is basic but satisfactory, offering a continental style with yogurts, cereals, coffee, and pastries.",
+          "itemB": "The food at the hotel was okay but not exceptional; however, the breakfast was plentiful, and dining with a view overlooking the canal provided a magical experience."
+        }
+      },
+      "cleanliness": {
+        "common": "The hotel was really clean.",
+        "unique": {}
+      }
+    },
+    "unique_aspects": {
+      "itemA": {
+        "value": "the hotel provides great value for money."
+      },
+      "itemB": {
+        "advertisement": "The hotel looks exactly as advertised, with photos that accurately reflect its reality, living up to all the images and promises on its website."
+      }
+    }
+  } 

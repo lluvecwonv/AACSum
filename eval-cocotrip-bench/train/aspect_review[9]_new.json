@@ -1,0 +1,45 @@
+{
+    "common_aspects": {
+      "location": {
+        "common": "The hotel is conveniently located near the beach and close to shops.",
+        "unique": {
+          "itemA": "The location is near the beach on the quieter far side of Waikiki, close to various dining options, shopping, and action, making it perfect for honeymooners and tourists interested in local attractions.",
+          "itemB": "The hotel is conveniently located near a zoo and aquarium, among other tourist sights, and it's also close to shops, making it a great spot for those interested in both attractions and shopping."
+        }
+      },
+      "staff": {
+        "common": "The staff are generally friendly and provide good service.",
+        "unique": {
+          "itemA": "The staff at the hotel were mostly very helpful, with the concierge assisting in arranging transportation to Pearl Harbor, and the bell desk also being helpful in organizing transport.",
+          "itemB": "The staff at the hotel are generally friendly and knowledgeable, providing good service with a clear understanding of the area. However, there are some inconsistencies, as not all staff members are equally helpful, making the service overall satisfactory but not extraordinary."
+        }
+      },
+      "rooms": {
+        "common": "The rooms offer views.",
+        "unique": {
+          "itemA": "The room was clean with adequate disabled access, though it was small and it may take a while to get access; after receiving an upgrade due to the first room being unacceptable, the King-sized room offered partial ocean views and was okay, but nothing special; while the hotel is generally clean and a nice place, perfect for germaphobes, there were some concerns about cleanliness that could be improved, and occasional noise issues were noted.",
+          "itemB": "The hotel rooms offer nice views of the city, Diamond Head, and the zoo, with some rooms overlooking the ocean as well. While the rooms and bathrooms are of adequate size, they could benefit from a deep clean. The impressive views unfortunately don't compensate for the tired decor and low standard of cleaning in some rooms, with issues like mold smells and the need for updates being noted in certain areas."
+        }
+      },
+      "dining": {
+        "common": "The hotel offers dining options and provides a buffet.",
+        "unique": {
+          "itemA": "Dinner at the hotel was really good and pleasing, with the hotel's restaurants serving good food, and there are also a variety of other dining options nearby, including an Italian restaurant, along with two restaurants and a sports bar on offer at the hotel.",
+          "itemB": "The hotel provides a complimentary buffet every day, which is a significant perk for guests. The daily free buffet is something guests should take full advantage of during their stay."
+        }
+      }
+    },
+    "unique_aspects": {
+      "itemA": {
+        "noise": "The hotel offers some peace and quiet while still being close to the action, though the small outdoor patio overlooking the pool and other patios can make it quite noisy, making the overall experience generally good but with some potential for noise disturbances.",
+        "parking": "The hotel offers valet and parking services, but they enforce valet parking, which some guests find off-putting; the valet parking is expensive, and the parking options could have been clearer, as it was implied that valet was enforced when self-parking was available."
+      },
+      "itemB": {
+        "promotion": "The hotel has a deal where you get the fourth night free if you stay three nights, making it an attractive option for longer stays.",
+        "pool": "The hotel has a swimming pool, but the tiles around the pool are very slippery, which poses a hazard. Caution is advised when using this facility due to the risk of slipping.",
+        "value": "While the hotel is not a luxury establishment, it still offers a good and affordable stay, making it a recommended option for those seeking value for money.",
+        "amenities": "The hotel\u2019s amenities are adequate, providing sufficient facilities for a comfortable stay, though they are not particularly luxurious."
+      }
+    }
+  } 
+  

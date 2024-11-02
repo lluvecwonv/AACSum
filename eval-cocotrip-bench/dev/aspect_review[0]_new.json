@@ -1,0 +1,39 @@
+{
+    "common_aspects": {
+      "location": {
+        "common": "The hotel is located in a convenient area close to the city center.",
+        "unique": {
+          "itemA": "Le Place D'Armes is an elegantly designed hotel with a fantastic location in Montreal, making it easy to access local restaurants, bars, and shops, as well as attractions like the Mont Royal and the river.",
+          "itemB": "The hotel is located in a really convenient area, close to the city center, making it a lovely place for nice walks."
+        }
+      },
+      "staff": {
+        "common": "The staff are friendly, accommodating, and provide excellent service overall.",
+        "unique": {}
+      },
+      "food": {
+        "common": "The quality of the food at the hotel is excellent.",
+        "unique": {
+          "itemA": "The hotel boasts two highly recommended restaurants and a roof terrace for drinks, offering beautiful views.",
+          "itemB": "Both breakfast and dinner are tasty and enjoyable, although they are quite expensive."
+        }
+      },
+      "room": {
+        "common": "The rooms are clean and well-decorated.",
+        "unique": {
+          "itemA": "The hotel features spacious and comfortable rooms equipped with luxurious amenities in the bathrooms, including massive bathtubs and lovely rainfall showers. Small touches, such as chocolates left on the pillows and turn-down service, enhance the guest experience.",
+          "itemB": "The rooms are modern but smaller than expected, including the bathrooms, which are inadequately sized. An upgrade to a suite is an option worth considering, as the suites are very nice and offer a great view. The hotel uses Miller Harris citron toiletries, which is a nice touch. Additionally, coffee in the rooms does not come free of charge."
+        }
+      }
+    },
+    "unique_aspects": {
+      "itemA": {
+        "facility": "The hotel has conference rooms available for rent, making it suitable for business events.",
+        "improvement": "it is missing a pool, which some guests feel is a notable absence."
+      },
+      "itemB": {
+        "value": "this hotel is slightly expensive but highly recommended for a memorable visit to the area."
+      }
+    }
+  }
+  

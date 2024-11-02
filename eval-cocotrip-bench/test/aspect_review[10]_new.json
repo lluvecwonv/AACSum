@@ -1,0 +1,40 @@
+{
+  "common_aspects": {
+    "location": {
+      "common": "The hotel is located very near the MRT.",
+      "unique": {
+        "itemA": "The hotel is superbly located in a central area, close to City Hall, a Burger King, and a 7 Eleven convenience store, providing good access to everything guests might need.",
+        "itemB": "The Fullerton Hotel is located in the heart of the financial district, making it one of the few hotels in the area, which is an excellent base for those needing proximity to the business center. Marina Bay is also walking distance away and is a great way to start the day."
+      }
+    },
+    "staff": {
+      "common": "The staff are friendly and helpful, consistently offering great suggestions and assistance to guests.",
+      "unique": {
+      }
+    },
+    "room": {
+      "common": "The rooms are reasonably sized and have been cleaned to a good standard.",
+      "unique": {
+        "itemA": "but they are noticeably cold, and even the non-smoking rooms have a lingering smell of smoke.",
+        "itemB": "The hotel rooms were adequate, but the toilet, bed, and television were on the upper floor, which can be inconvenient. The rooms are of a high standard and medium-sized. Though the facilities and TV are all on the upper levels, the rooms are good enough."
+      }
+    },
+    "food": {
+      "common": "The hotel offers food, including a buffet for breakfast.",
+      "unique": {
+        "itemA": "The hotel offers a great selection of food, including a buffet for breakfast and dinner, and features a bar on the ground floor with really good, tasty food.",
+        "itemB": "The food at this hotel is mediocre and quite bland, but the free-flowing champagne provided during tea compensates for the disappointing food."
+      }
+    }
+  },
+  "unique_aspects": {
+    "itemA": {
+      "pool": "The hotel features a very clean and high-quality pool, consistently maintained to ensure a pleasant swimming experience.",
+      "internet": "The hotel charges a $10 fee for internet use, which unfortunately does not provide the most reliable service."
+    },
+    "itemB": {
+      "appearance": "The Fullerton Hotel is spectacular and beautiful, from the exterior which is particularly striking at night, to the well-appointed lobby and guestrooms. Both inside and outside, the hotel maintains a consistent, appealing aesthetic.",
+      "value": "it is cheap for all you get."
+    }
+  }
+}

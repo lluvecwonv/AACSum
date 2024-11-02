@@ -1,0 +1,46 @@
+{
+    "common_aspects": {
+      "recommendation": {
+        "common": "This hotel is a great place to stay, offering a convenient experience and justifying its price.",
+        "unique": {
+          "itemA": "This is a superbly elegant and modern hotel with luxurious amenities that not only meets but exceeds expectations, thoroughly deserving its high-star rating.",
+          "itemB": "This hotel is so ideal for repeat visits that it will be frequented over and over by its guests due to its cleanliness and convenience."
+        }
+      },
+      "location": {
+        "common": "The location is excellent, making it easy to access the city center and nearby attractions.",
+        "unique": {
+          "itemA": "Situated perfectly for Boston, within walking distance to major sights, which is very convenient for guests.",
+          "itemB": "The hotel is beautifully situated close to the theatre district, Macy's, TJ Maxx, Marshall's, and other shopping centers, with easy access to the subway."
+        }
+      },
+      "rooms": {
+        "common": "The rooms are clean.",
+        "unique": {
+          "itemA": "This hotel features elegant and quiet rooms with comfortable beds and cozy fireplaces, but there is a lack of soundproofing.",
+          "itemB": "The rooms are consistently praised for being nice and particularly noted for their adequate bathrooms and linens."
+        }
+      },
+      "service": {
+        "common": "The staff are attentive and provide excellent service.",
+        "unique": {
+        }
+      },
+      "dining": {
+        "common": "The food provided by the hotel is excellent.",
+        "unique": {
+          "itemA": "Every dish tastes great, enhancing the overall dining experience.",
+          "itemB": "The hotel features only one restaurant and a small bar, limiting food choices, and a complimentary breakfast is provided but not clearly advertised."
+        }
+      }
+    },
+    "unique_aspects": {
+      "itemA": {
+        "value": "It is a little pricey however well-worth it because it exceeds all expectations."
+      },
+      "itemB": {
+        "wifi": "WiFi access requires a fee, which has been a point of disappointment for guests.",
+        "fitness": "The fitness center is available but described as not great or somewhat mediocre."
+      }
+    }
+  } 

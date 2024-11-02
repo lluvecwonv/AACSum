@@ -1,0 +1,32 @@
+{
+    "common_aspects": {
+      "location": {
+        "common": "The hotel is located near Michigan Avenue and has easy access to public transportation.",
+        "unique": {
+          "itemA": "The hotel is located next to the fire station, which can be noisy at times, but the convenient location near the train station, Rock Bottom Brewery, and easy access to public transportation more than makes up for it.",
+          "itemB": "The Hyatt hotel offers a prime location close to the river, Grant Park, and Navy Pier, making it ideal for exploring downtown Chicago."
+        }
+      },
+      "staff": {
+        "common": "The staff is helpful and friendly, contributing to a pleasant atmosphere for guests."
+        }
+      },
+      "rooms": {
+        "common": "The hotel rooms are overall clean..",
+        "unique": {
+          "itemA": "Though in need of some updating and redecoration. The accessible rooms and bathrooms are well-designed to accommodate wheelchair access, including features like an accessible bath.",
+          "itemB": "The rooms were spacious but quite hot and dusty, with beds that were adequate but not great, and while the bathrooms were amazing, the overall cleanliness was lacking as some areas were missed by the cleaning staff. Additionally, the soft drinks from the minibar were overpriced at $4 each."
+        }
+    },
+    "unique_aspects": {
+      "itemA": {
+        "food": "The hotel offers a free breakfast buffet from 6AM to 10AM, which is a hit with families, along with free hot drinks available all day. The breakfast items are tasty, and guests can enjoy coffee and tea 24 hours a day. Additionally, the hotel is close to Rock Bottom Brewery, known for its great food, including burgers, carrot cake, and local beers."
+      },
+      "itemB": {
+        "view": "The price of the hotel makes it a really good choice especially with the view overlooking the river.",
+        "parking": "The only available parking at the hotel is valet which can be costly.",
+        "internet": "The use of internet is costly.",
+        "cost": "The price of the hotel is generally considered reasonable by some, though others find it slightly expensive."
+      }
+    }
+  } 

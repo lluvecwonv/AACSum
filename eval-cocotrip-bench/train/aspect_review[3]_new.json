@@ -1,0 +1,35 @@
+{
+    "common_aspects": {
+      "location": {
+        "common": "The hotel is centrally located within walking distance of the main train terminus and offers convenient public transportation including a metro station directly opposite the hotel.",
+        "unique": {
+          "itemBA": "Superbly located, the Apollo Hotel is within a 7-minute walk of the Colosseum and 15 minutes from the Trevi Fountain and easy access to a variety of local transportation options and restaurants including trams and trains.",
+          "itemB": "it's close to a large supermarket, providing easy access to groceries which is especially useful for visitors."
+        }
+      },
+      "rooms": {
+        "common": "The rooms are spacious and well-maintained.",
+        "unique": {
+          "itemA": "The rooms are nicely decorated and equipped with essential amenities including a coffee machine, though the beds and shower cubicles are relatively small. Guests can choose between an apartment-style room away from the main hotel or a larger room with a bigger bathroom in the hotel.",
+          "itemB": "The rooms at the hotel offer great views, with some featuring balconies for guests to enjoy, though the showers are noted to be a bit small."
+        }
+      },
+      "staff": {
+        "common": "The staff are helpful and show care and kindness from check-in to departure.",
+        "unique": {
+          "itemA": "While not all staff are fluent in English, the majority communicate clearly."
+        }
+      },
+      "breakfast": {
+        "common": "The hotel serves a tasty Continental breakfast with a variety of options.",
+        "unique": {
+          "itemA": "The hotel serves a delicious continental buffet breakfast with excellent cappuccino on the rooftop terrace, complemented by a variety of tasty food options and nearby grocery shops and restaurants for alternative dining choices.",
+          "itemB": "The hotel offers a wide range of options from pastries to scrambled eggs."
+        }
+      }
+    },
+    "unique_aspects": {
+      "itemA": {},
+      "itemB": {}
+    }
+  } 

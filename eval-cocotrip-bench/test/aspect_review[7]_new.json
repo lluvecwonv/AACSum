@@ -1,0 +1,40 @@
+{
+  "common_aspects": {
+    "location": {
+      "common": "The hotel is situated a short distance from the town center.",
+      "unique": {
+        "itemA": "Although it is not in the heart of the city,  The hotel is situated about five minutes away from the airport and offers a free shuttle service to the downtown area, departing at twenty minutes past the hour.",
+        "itemB": "It is situated a short taxi ride away from the town center, but getting to Duval Street can be quite expensive due to the distance."
+      }
+    },
+    "room": {
+      "common": "The rooms offer beautiful views and are highly recommended for stays, weddings, or last-minute bookings.",
+      "unique": {
+        "itemA": "The two-bedroom suite is stunning and impressive, featuring granite worktops, marble flooring, and stainless steel appliances for guest use. The bathrooms are luxurious, equipped with Jacuzzi tubs and large walk-in showers, providing options for a Jacuzzi bath as well as a shower in each room.",
+        "itemB": "The room especially from the upper floors which offer ocean views obscured slightly by foliage on lower levels. The cottages also provide impressive bedding and are set in gorgeous grounds. The hotel consistently receives high praise for its clean and spacious rooms, nicely furnished and well-maintained."
+      }
+    },
+    "staff": {
+      "common": "The staff are accommodating, friendly, and contribute to a comfortable stay.",
+      "unique": {
+      }
+    },
+    "value": {
+      "common": "The rooms are quite pricey.",
+      "unique": {
+        "itemA": "It is worth upgrading to experience the luxury of a beach facing or poolside room with a balcony.",
+        "itemB": "the overall price can be steep."
+      }
+    }
+  },
+  "unique_aspects": {
+    "itemA": {
+      "breakfast": "the breakfast for Rewards members was limited to just fruit and bread, lacking typical options like powdered eggs.",
+      "parking": "The parking facility at the hotel costs $18 per day, which is considered expensive.",
+      "complaints": "There have been complaints about the provided water quality, which appears discolored and full of seaweed."
+    },
+    "itemB": {
+      "amenities": "The resort features four amazing saltwater pools and an outdoor bar, where guests can sip cocktails and enjoy peace and tranquility."
+    }
+  }
+}

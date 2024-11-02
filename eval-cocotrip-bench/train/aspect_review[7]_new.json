@@ -1,0 +1,34 @@
+{
+    "common_aspects": {
+      "location": {
+        "common": "The hotel has a central location that provides easy access to major attractions.",
+        "unique": {
+          "itemA": "The hotel boasts an ideal location for exploring the city, being conveniently situated near key transportation routes, including the St. Charles line. It is within walking distance to the Garden District and a short distance further to the French Quarter. Moreover, its central location provides easy access to major attractions in the area, surrounded by fine dining options and excellent shopping opportunities.",
+          "itemB": "The location of the hotel is central and unbeatable, though it is frequently noisy due to its proximity to areas with crowds and music."
+        }
+      },
+      "rooms": {
+        "common": "The rooms are  clean.",
+        "unique": {
+          "itemA": "The rooms at the hotel are described as spacious and well-appointed, featuring a kitchen equipped with essential appliances such as a refrigerator, stove, and coffee pot. Guests will find the rooms to be very clean, though the bathrooms are noted to be somewhat small. Despite being slightly outdated, the rooms retain a reasonably modern appearance and are maintained to a high standard. The quality of the showers in the rooms is particularly excellent, adding to the overall comfort and convenience for guests.",
+          "itemB": "The rooms are small and noisy, with some facing the hotel's central courtyard, and were not ready upon arrival with cleaning not promptly addressed when necessary. Additionally, there were issues with the water, which was often only lukewarm. Despite these drawbacks, it's worth mentioning that splurging a little extra for a room with a Bourbon Street balcony is considered worthwhile, offering a distinct and valued experience within the hotel."
+        }
+      },
+      "staff": {
+        "common": "The staff are friendly.",
+        "unique": {
+          "itemB": "Some staff were unprofessional and unhelpful, displaying a lack of knowledge about essential services such as the nearest hospital."
+        }
+      }
+    },
+    "unique_aspects": {
+      "itemA": {
+        "security": "Hotel security is enhanced by requiring wristbands for entry, which guests appreciated as a pleasing security feature."
+      },
+      "itemB": {
+        "parking": "Parking is consistently described as difficult and expensive, reflecting both the limited space of the garage and the high daily rates.",
+        "breakfast": "The hotel's breakfast is highly praised, offering very good food despite other service shortcomings.",
+        "noise": "The hotel and surrounding area can be noisy, with disturbances from rowdy crowds, especially late at night and early in the morning due to convention attendees."
+      }
+    }
+  } 

@@ -1,0 +1,31 @@
+{
+  "common_aspects": {
+    "location": {
+      "common": "The hotel is situated close to a metro station and within walking distance of various attractions.",
+      "unique": {
+        "itemA": "The hotel is ideally situated close to a metro station, allowing easy access to the restaurants of Old Montreal and within walking distance of the Montreal Jazz Festival, as well as the entire Old Town.",
+        "itemB": "Hotel Vogue is located in the heart of Montreal's shopping district, close to McGill University and Ogilvy, in a safe area."
+      }
+    },
+    "room": {
+      "common": "The rooms are clean and provide a spacious feel.",
+      "unique": {
+        "itemA": "The rooms are adequately sized, elegantly furnished, retaining some historical elements from its previous incarnation as a bank, with tall ceilings that create an illusion of spaciousness.",
+        "itemB": "The rooms are spacious and luxurious, equipped with modern features such as iPod docking stations, televisions, and Jacuzzi tubs in the bathrooms, with executive suites offering additional space and two televisions."
+      }
+    },
+    "staff": {
+      "common": "The staff are friendly and provide high-quality service.",
+      "unique": {
+      }
+    }
+  },
+  "unique_aspects": {
+    "itemA": {
+      "ambiance": "there is no street noise, allowing guests to fully enjoy the ambiance."
+    },
+    "itemB": {
+      "parking": "Parking is available in the hotel\u2019s garage for those who choose to drive."
+    }
+  }
+}

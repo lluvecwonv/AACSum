@@ -1,0 +1,34 @@
+{
+    "common_aspects": {
+      "staff": {
+        "common": "The staff are friendly and accommodating.",
+        "unique": {
+          "itemB": "Most of the hotel staff were friendly and provided memorable service, though the front desk staff and doormen were occasionally rude or dismissive."
+        }
+      },
+      "rooms": {
+        "common": "The rooms are comfortable and adequately sized.",
+        "unique": {
+          "itemA": "The 2-bed condos are spacious and offer a relaxing experience away from the Strip, while the lake-facing units feature large covered patios perfect for enjoying coffee. Although the rooms are very comfortable, some beds squeak, and the thin walls make it easy to hear noises from nearby rooms. One major complaint is that guests on the upper floors were noisy and partied all night.",
+          "itemB": "The rooms lacked a mini-fridge, but are equipped with a high-quality pull-out couch, although some rooms can be noisy due to proximity to air conditioning units and a delivery door."
+        }
+      },
+      "satisfaction": {
+        "common": "The stay provides a comfortable experience.",
+        "unique": {
+          "itemA": "Nestled in the trees with a charming, antiquated rustic look, this condo was comfortable, convenient, and much nicer than staying in a hotel, making it a place you'd want to return to.",
+          "itemB": "This hotel may not be perfect for everyone, but it offers excellent facilities and beautiful scenery that will satisfy many."
+        }
+      }
+    },
+    "unique_aspects": {
+      "itemA": {
+        "location": "The condo is perfectly situated on the lake with the option to rent boats at Indian Point, making the location superb. Although it's a bit of a drive to get downtown, the roads around the area are decent.",
+        "service": "Coffee wasn't always available at the hotel, but when it was it was adequate."
+      },
+      "itemB": {
+        "food": "The food at the cafe restaurant was excellent but a bit pricey, and the hotel bar is a great spot to enjoy a drink in the sunshine.",
+        "facility": "The hotel boasts top-class spa facilities and a beautiful setting with a lake and an indoor atrium, where you can wake up to the sounds of chirping birds and trickling water."
+      }
+    }
+  } 

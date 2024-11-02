@@ -1,0 +1,47 @@
+{
+  "common_aspects": {
+    "location": {
+      "common": "The hotel is centrally located in Boston, providing easy access to various activities and attractions.",
+      "unique": {
+        "itemA": "The Colonnade Hotel is a unique and highly recommended hotel providing easy access to a variety of activities, including the Hynes Convention Centre and a T connection, which are within walking distance.",
+        "itemB": "It is conveniently located near the Boston Public Gardens and the Arlington stop of the T line, providing easy access to nearby attractions and dining options."
+      }
+    },
+    "room": {
+      "common": "The hotel rooms are clean and comfortable.",
+      "unique": {
+        "itemA": "The hotel rooms are spacious, featuring nice elements such as feather pillows and comforters, although the televisions are quite small compared to other hotels.",
+        "itemB": "The rooms, although smaller, are newly updated and decorated with a homely charm. If you politely request you can get a really great room on the eighth floor which is a King room with upgraded rooms being particularly spacious."
+      }
+    },
+    "staff": {
+      "common": "The staff are friendly and professional.",
+      "unique": {
+        "itemB": "The staff are professional, friendly, and always available to answer questions, ensuring a comfortable stay, although some members of the security team were not as helpful."
+      }
+    },
+    "food": {
+      "common": "The hotel has a restaurant that offers a variety of food choices.",
+      "unique": {
+        "itemA": "Brasserie Jo, the hotel's restaurant, offers delicious food and a charming atmosphere, complemented by excellent service.",
+        "itemB": "Food-wise, the hotel does have The Whiskey Bar, a hotel restaurant and seafood. The hotel features a restaurant that serves a variety of food choices, including seafood, and offers lunch and a special Christmas Tea, which guests particularly enjoyed."
+      }
+    },
+    "satisfaction": {
+      "common": "this hotel provides a comfortable atmosphere.",
+      "unique": {
+        "itemA": "this hotel provides a comfortable and unique atmosphere, leaving visitors wanting to return for another stay.",
+        "itemB": "this hotel is ideal for mixed business and pleasure trips to Boston at any time of the year, providing a vintage charm reminiscent of when quality was paramount."
+      }
+    }
+  },
+  "unique_aspects": {
+    "itemA": {
+      "gym": "The hotel also boasts a decent-sized gym located on the fifth floor, equipped with a variety of cardio machines for a varied workout."
+    },
+    "itemB": {
+      "service": "free breakfasts and appetisers as well as WiFi internet.",
+      "facility": "there were maintenance issues, particularly with the elevators, which malfunctioned repeatedly during the stay, including instances of stopping between floors after power outages."
+    }
+  }
+}

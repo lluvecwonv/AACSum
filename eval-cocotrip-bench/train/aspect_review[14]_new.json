@@ -1,0 +1,43 @@
+{
+    "common_aspects": {
+      "recommendation": {
+        "common": "This hotel is recommended for both business and pleasure.",
+        "unique": {
+          "itemA": "This hotel is the best choice for staying and is absolutely beautiful. Typically, there are many guests at the hotel as it is very popular. It's a very popular hotel with crowds and queuing at the door.",
+          "itemB": "This was a great stay, ideal for those seeking a few extras that aren't typical of most hotels in Singapore."
+        }
+      },
+      "staff": {
+        "common": "The staff provided excellent service with a friendly and helpful demeanor.",
+        "unique": {
+        }
+      },
+      "dining": {
+        "common": "Breakfast options are available.",
+        "unique": {
+          "itemA": "The hotel's food selection was limited and lacked freshness, with overall disappointing offerings, and while the restaurants were mostly great, the afternoon tea left a lot to be desired.",
+          "itemB": "The breakfast options at the hotel are great, featuring a buffet-style selection that includes a huge choice of fresh and tasty food, with rave reviews for the Eggs Benedict. Additionally, the afternoon tea and canap\u00e9s were really nice and appreciated."
+        }
+      },
+      "rooms": {
+        "common": "The rooms in the hotel are comfortable and cleaned to a high standard.",
+        "unique": {
+          "itemA": "The rooms in the hotel feature a super comfortable bed and strong water pressure in the bathroom, equipped with a DVD player, which proved really useful during rainy days, but the toilets around the corner are below Singapore standards.",
+          "itemB": "The rooms in the hotel are absolutely amazing, spacious, and luxurious, feature quiet air conditioning, providing a comfortable and stunningly luxurious stay, as well as welcoming tea and fruit, in all rooms."
+        }
+      }
+    },
+    "unique_aspects": {
+      "itemA": {
+        "tradition": "The hotel has a unique tradition of having peanut shells on the floor, which, while part of the experience, can be a slipping hazard.",
+        "value": "The hotel is beautiful and, despite being expensive, is considered worth every penny due to its stunning decor and top-class restaurant."
+      },
+      "itemB": {
+        "location": "The hotel, situated close to the Orchard Road shopping area, isn't exactly central but is within walking distance of major shopping locations, offers a free shuttle service, and is only a short, inexpensive taxi ride away from other areas of interest.",
+        "decorations": "The hotel along with unique touches like a changing carpet that reflects the day of the week.",
+        "facility": "The hotel offers a gym for fitness needs and features a swimming pool, with additional comforts such as cold water and iced face towels available around the pool area.",
+        "wifi": "Free Wi-Fi access is provided throughout the hotel."
+      }
+    }
+  } 
+  

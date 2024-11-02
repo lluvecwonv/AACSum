@@ -1,0 +1,39 @@
+{
+    "common_aspects": {
+      "location": {
+        "common": "The location is convenient for exploring local attractions and dining.",
+        "unique": {
+          "itemA": "The location is ideal for exploring local restaurants and bars, contributing to a recommended stay for its convenience and attractions.",
+          "itemB": "This hotel is ideally situated only 10 minutes from Disney and 20 minutes from Universal Studios and Seaworld, with major attractions and big chain restaurants all within a maximum of 20 minutes."
+        }
+      },
+      "staff": {
+        "common": "The staff are helpful and provide excellent service.",
+        "unique": {
+        }
+      },
+      "rooms": {
+        "common": "The rooms are equipped with a television and air conditioning.",
+        "unique": {
+          "itemA": "The rooms are spacious and equipped with a high-definition flat-screen TV. They are always kept very clean, with toiletries provided upon request. The rooms in the Emerald Bay section are particularly well-maintained, with all necessary items readily available. The bedrooms are also spacious, with some overlooking a glass-covered interior courtyard. Each room includes a refrigerator and offers a clean environment, although the view is limited to the interior courtyard.",
+          "itemB": "The hotel rooms are comfortable and affordable but not large enough for more than two people. Although the air conditioning works well, the rooms may not be clean, are quite small for more than two occupants, and have unclean carpets. Additionally, there were bugs in the room and the refrigerator."
+        }
+      },
+      "value": {
+        "common": "The hotel's prices are higher than expected.",
+        "unique": {
+        }
+      }
+    },
+    "unique_aspects": {
+      "itemA": {
+        "food": "The food at the hotel, while quite expensive, does not meet the expected quality for the price, which has been a consistent point of dissatisfaction among guests.",
+        "decorations": "The hotel features ice sculptures, with an ice sculpture display available for viewing.",
+        "amenities": "The hotel offers a relaxing spa and several pools for guests to explore, along with a stunning atrium where various wildlife, including alligators and different species of fish, can be observed, creating a picturesque environment."
+      },
+      "itemB": {
+        "website": "The BBQ and lagoon areas were both misrepresented, with the pictures on the website showing them in a much more positive way than they actually are. In reality, the BBQ was disappointing, and the lagoon areas were not up to an acceptable standard.",
+        "bar": "The beach is within a 10-minute walk, and there's easy access to a shopping mall and restaurants."
+      }
+    }
+  } 

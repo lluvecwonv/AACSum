@@ -1,0 +1,43 @@
+{
+  "common_aspects": {
+    "location": {
+      "common": "The hotel is located in a quiet area with good access to local attractions.",
+      "unique": {
+        "itemA": "Hotel Oceania is located on a quiet side street just off Piazza della Repubblica, offering excellent access to the metro, city tour bus stops, and principal city sights.",
+        "itemB": "The hotel is ideally situated for local restaurants, being only a stone's throw from Santa Maria Maggiore and Ponte Sisto, and within walking distance of the center of Rome, Campo Fiore, and Janiculum."
+      }
+    },
+    "room": {
+      "common": "The rooms are clean and spacious.",
+      "unique": {
+        "itemA": "The hotel features renovated bathrooms, ensuring a comfortable stay.",
+        "itemB": "The rooms are lovely and clean, with the option to open onto the courtyards, but they can be quite noisy due to tiled floors and banging doors."
+      }
+    },
+    "staff": {
+      "common": "The staff are knowledgeable and helpful.",
+      "unique": {
+        "itemA": "The staff provide valuable information about nearby restaurants and side trips.",
+        "itemB": "the limited staff presence may detract from the overall experience."
+      }
+    },
+    "breakfast": {
+      "common": "The breakfast is good, offering a variety of options.",
+      "unique": {
+        "itemA": "Guests can enjoy an ample continental breakfast that includes bread, pastries, juices, and coffee, with the option to take away if needed.",
+        "itemB": "The breakfast buffet is generally very good, offering tasty options like scrambled eggs and cappuccino, and can be enjoyed in a pleasant courtyard filled with orange trees."
+      }
+    }
+  },
+  "unique_aspects": {
+    "itemA": {
+      "internet": "While the hotel lacks wireless internet in the rooms, it is available in the lobby.",
+      "atmosphere": "The atmosphere is enhanced by the delightful classical music drifting from a nearby opera school, adding a unique charm to the experience.",
+      "value": "Hotel Oceania may be a 2-3 star hotel, but it compensates for its lack of grandeur with its comfort, cleanliness, and attentive service."
+    },
+    "itemB": {
+      "noise": "guests may hear church bells from a nearby church, which could disrupt sleep, so bringing earplugs is recommended.",
+      "impression": "The hotel provides a cozy and convenient base to explore Rome and the Vatican, although some guests feel it may be slightly overrated and lacking in personal touches."
+    }
+  }
+}

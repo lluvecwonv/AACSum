@@ -1,0 +1,46 @@
+{
+    "common_aspects": {
+      "location": {
+        "common": "The hotel is centrally located, offering easy access to tourist attractions.",
+        "unique": {
+          "itemA": "The hotel is excellently situated on a quiet canal street in central Amsterdam, within walking distance to major attractions such as Leidsplein, Dam Square, and Anne Frank's House.",
+          "itemB": "The hotel is superbly located close to the Metro, train stations, and Central Station."
+        }
+      },
+      "rooms": {
+        "common": "The rooms offer great views and comfortable beds.",
+        "unique": {
+          "itemA": "The rooms, while small, provide large bathrooms and wonderful canal views, making them adequate for short stays. The showers in the bathrooms posed safety concerns, being scalding hot and sometimes malfunctioning dangerously, although management addressed these issues when confronted.",
+          "itemB": "Despite several requests for cleaning, the room was not always cleaned, but it remains stylish with great views from the balcony, offers excellent amenities including Apple TV."
+        }
+      },
+      "staff": {
+        "common": "The staff are friendly and helpful.",
+        "unique": {
+          "itemA": "The staff displayed mixed behavior; some were very helpful and friendly, contributing to a positive vibe, while others appeared rude, snooty, uninterested, and less professional, highlighting a need for improved customer service training.",
+          "itemB": "The staff at the hotel are consistently polite, very helpful, and friendly, though some guests reported delays in service without compensation."
+        }
+      },
+      "breakfast": {
+        "common": "Breakfast at the hotel is sometimes delayed.",
+        "unique": {
+          "itemA": "Breakfast is reasonably priced but often runs out of items, with some food like pastries and eggs being of poor quality and tasting funny.",
+          "itemB": "Breakfast at the hotel is highly praised."
+        }
+      },
+      "value": {
+        "common": "The hotel offers good value for money.",
+        "unique": {
+          "itemA": "This hotel is worth the money because the stay was exceptional, and it's so great that you'll likely want to stay again.",
+          "itemB": "The hotel is a favorable choice for special occasions like birthdays, and many guests expressed a desire to return."
+        }
+      }
+    },
+    "unique_aspects": {
+      "itemA": {},
+      "itemB": {
+        "service": "Towels and room service were frequently delayed, affecting the overall guest experience.",
+        "Lounge": "The drinks at this hotel are quite expensive, but the sky lounge on the top floor is really good, definitely a must-visit, offering a comfortable setting ideal for celebrating birthdays and despite being pricey, it is highly recommended."
+      }
+    }
+  } 

@@ -1,0 +1,46 @@
+{
+  "common_aspects": {
+    "location": {
+      "common": "The surrounding area is not very pleasant for walking.",
+      "unique": {
+        "itemA": "The location is rather disappointing and not very scenic in Hong Kong.",
+        "itemB": "This hotel is attached to the mall and cinema which was great because sometimes this location has unpredictable weather. Overall, the hotel provides a nice atmosphere."
+      }
+    },
+    "room": {
+      "common": "The rooms are clean and well-maintained.",
+      "unique": {
+        "itemA": "The hotel\u2019s rooms are quiet and comfortable, but they may be a little darkly lit; for a more updated experience, booking a room on the Club floor is recommended.",
+        "itemB": "The rooms are medium-sized, to a high standard, offering great views, although some guests found the beds a bit firm."
+      }
+    },
+    "staff": {
+      "common": "The staff were generally friendly and helpful.",
+      "unique": {
+        "itemB": "While most of the staff were friendly and helpful, some were noted to lack training and professionalism in handling issues."
+      }
+    },
+    "food": {
+      "common": "The food offered is of great quality and taste.",
+      "unique": {
+        "itemA": "The buffet breakfast offered an amazing variety and was plentiful, with delicious food available in the restaurant as well.",
+        "itemB": "The multicultural food offered at the hotel is of great quality and taste, with a buffet-style dinner available every evening; however, the options can become repetitive for longer stays."
+      }
+    },
+    "service": {
+      "common": "There was free internet connection provided.",
+      "unique": {
+        "itemA": "The 30 minute minibus service was really great and also free.",
+        "itemB": "The hotel provided free DVDs for guests to watch."
+      }
+    }
+  },
+  "unique_aspects": {
+    "itemA": {
+      "facility": "The hotel features two restaurants and a comfortable Club area offering tea, coffee, and newspapers."
+    },
+    "itemB": {
+      "amenities": "Guests particularly appreciated the daily cocktail hour and complimentary nibbles provided by the hotel."
+    }
+  }
+}

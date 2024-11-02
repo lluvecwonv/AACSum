@@ -1,0 +1,48 @@
+{
+    "common_aspects": {
+      "staff": {
+        "common": "The staff are consistently amiable and helpful.",
+        "unique": {
+        }
+      },
+      "rooms": {
+        "common": "The rooms are spacious and modern.",
+        "unique": {
+          "itemA": "The rooms are consistently cleaned to a high standard, featuring double beds that are great for one or two people, with soft sheets, plenty of pillows, and additional amenities like a fridge and microwave; although the building seems old, the rooms are surprisingly well-maintained, with the only minor issue being the shower drain that needs some attention.",
+          "itemB": "The rooms in this hotel well-decorated, and extremely spacious, offering a high level of comfort with essential amenities and luxurious features such as flat-screen satellite TVs, iHome alarm clocks, and lovely down-feather duvets. The bathrooms are equally impressive, well-equipped, and one of the highlights of the stay. Free Wi-Fi is also available in all rooms."
+        }
+      },
+      "location": {
+        "common": "The hotel is conveniently located near various attractions.",
+        "unique": {
+          "itemA": "The hotel is conveniently located on Clark Street in the center of Lincoln Park, surrounded by numerous restaurants, bars, and vibrant nightlife, with easy access to bus routes into the city and major shopping areas, including the nearby Century Mall which offers parking.",
+          "itemB": "The hotel is located in a quiet area on the Gold Coast, conveniently near Michigan Avenue, State Street, Navy Pier, Hancock Tower, and Sears Tower, making it an ideal spot for accessing major attractions and numerous restaurants."
+        }
+      },
+      "wifi": {
+        "common": "Free Wi-Fi is available throughout the property.",
+        "unique": {
+        }
+      },
+      "dining": {
+        "common": "The hotel offers breakfast.",
+        "unique": {
+          "itemA": "The hotel offers a great breakfast that is not only good but also super tasty.",
+          "itemB": "The hotel\u2019s dining options were limited, with a small variety of food items to choose from. Although the menu offered a range of cuisine types, the overall selection was quite restricted."
+        }
+      }
+    },
+    "unique_aspects": {
+      "itemA": {
+        "atmosphere": "The hotel is ideal for a boisterous and young crowd, providing a lively atmosphere suitable for activities like a girl's trip.",
+        "secure": "The hotel has good security, as your key card is needed to access the elevators or stairwells, providing added peace of mind and ensuring guests feel secure during their stay.",
+        "parking": "Parking is challenging, particularly for valet services at the front of the hotel, although nearby Century Mall offers parking solutions.",
+        "noise": "While there is some street noise, it is generally not disruptive enough to cause concern, maintaining a balance between a lively location and a restful stay."
+      },
+      "itemB": {
+        "price": "The hotel is quite expensive, but despite the cost, it offers a fairer price compared to other hotels in the area. Additionally, a new hotel is currently being built nearby.",
+        "expansion": "The hotel is currently undergoing expansion with a new building, which may affect the overall tranquility for some guests."
+      }
+    }
+  } 
+  

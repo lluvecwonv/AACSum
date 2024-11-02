@@ -1,0 +1,42 @@
+{
+  "common_aspects": {
+    "location": {
+      "common": "It is located close to major tourist sights, including the Blue Mosque.",
+      "unique": {
+        "itemA": "It is located in close proximity to major tourist sights, making it an excellent choice for visitors.",
+        "itemB": "The superb location allows easy access to major tourist sights, including the Chora Church, and Spice Bazaar, all within walking distance or a short taxi ride away."
+      }
+    },
+    "staff": {
+      "common": "The staff are friendly and accommodating.",
+      "unique": {
+        "itemB": "The staff speak excellent English and are always available to offer local knowledge, suggestions, and assistance."
+      }
+    },
+    "room": {
+      "common": "The rooms are comfortable and clean.",
+      "unique": {
+        "itemA": "Some rooms offer stunning sea views and are suitable for both adults and young children.",
+        "itemB": "The rooms are well-sized, particularly spacious, featuring comfortable beds that are of high quality."
+      }
+    },
+    "breakfast": {
+      "common": "The breakfast is delicious.",
+      "unique": {
+        "itemA": "The continental-style breakfast served on the rooftop terrace offers beautiful views, though guests often enjoy drinks available until 11pm on the terrace.",
+        "itemB": "The hotel provides a cozy breakfast room with a varied selection of delicious food amidst a lovely atmosphere."
+      }
+    }
+  },
+  "unique_aspects": {
+    "itemA": {
+      "decor": "The hotel is a tranquil escape from the bustle of the Old Town, featuring modest and antiquated decor that adds to its charm.",
+      "amenities": "The slippers provided by the hotel are comfortable, durable, and add to the overall enjoyable experience.",
+      "noise": "the hotel is located near loudspeakers from multiple mosques, which may be a consideration for some guests."
+    },
+    "itemB": {
+      "maintenance": "The hotel presents itself as brand new and excellently maintained to a very high standard.",
+      "facility": "A roof terrace is soon to be available, which will enhance the hotel experience even further."
+    }
+  }
+}

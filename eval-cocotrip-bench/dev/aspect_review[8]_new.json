@@ -1,0 +1,38 @@
+{
+    "common_aspects": {
+      "location": {
+        "common": "The hotel is centrally located, only a few minutes' walk from the Duomo and close to downtown sights.",
+        "unique": {
+          "itemA": "This hotel provides a great stay and comes highly recommended, particularly due to its superb central location in Florence, making it convenient for exploring downtown sights and experiencing local culture.",
+          "itemB": "The hotel is situated on a quiet side street, which helps reduce noise and is representative of local life."
+        }
+      },
+      "room": {
+        "common": "The rooms are spacious and clean.",
+        "unique": {
+          "itemA": "The rooms are well-appointed, contributing to a delightful experience, although some guests noted outside noise from the bells of the Duomo in the morning, which may be a drawback for light sleepers.",
+          "itemB": "Some rooms offer balconies and amazing views over the rooftops, although the walls are thin; however, double-paned windows further minimize disturbances. The decor is beautiful and the cleanliness is to a high standard, but the shower facilities are in the American stand-up style, and the bathrooms could use some updating."
+        }
+      },
+      "staff": {
+        "common": "The staff are very helpful and friendly.",
+        "unique": {
+        }
+      },
+      "breakfast": {
+        "common": "The breakfast is great and includes a wide variety of options.",
+        "unique": {
+          "itemA": "Guests are encouraged to enjoy a picnic on the rooftop terrace for a truly memorable experience.",
+          "itemB": "The hotel provides a grand continental breakfast available from two self-service tables in a gorgeous sun-lit breakfast room, and this is included in the room price."
+        }
+      }
+    },
+    "unique_aspects": {
+      "itemA": {
+        "facility": "The hotel features a beautiful rooftop terrace, which is a lovely spot and offers gorgeous views of the city.",
+        "improvement": "navigating the hotel can be challenging due to its multi-level layout."
+      },
+      "itemB": {}
+    }
+  }
+  

@@ -1,0 +1,38 @@
+{
+    "common_aspects": {
+      "location": {
+        "common": "The location is close to 5th Avenue and within walking distance to various dining options.",
+        "unique": {
+          "itemA": "The location is excellent, very close to 5th Avenue Playa Del Carmen and just a short walk from the beach, though the proximity to a busy street may introduce some noise, which could be a consideration for guests.",
+          "itemB": "The location is ideal, only about 45 minutes from Cancun airport with a shuttle service available, and close to major shopping streets."
+        }
+      },
+      "staff": {
+        "common": "The staff is friendly and helpful, enhancing the overall guest experience.",
+        "unique": {
+        }
+      },
+      "rooms": {
+        "common": "The rooms are has comfortable beds and clean.",
+        "unique": {
+          "itemA": "The rooms, though small and rustic, are characterized by high-vaulted thatched roofs which, while not soundproof, add an airy feel to the space. The beds are big ensuring a good night's sleep.",
+          "itemB": "The rooms equipped with well-functioning showers, and unique touches like sculptured towels and artwork, but purposely lack modern conveniences such as TVs, radios, clocks, and phones. Some rooms also feature sheltered porches and hammocks."
+        }
+      },
+      "dining": {
+        "common": "Breakfast is praised for its quality.",
+        "unique": {
+          "itemA": "Breakfast is highly praised, available either above the garden or as a convenient take-away option, consistently recognized for its quality."
+        }
+      }
+    },
+    "unique_aspects": {
+      "itemA": {
+        "parking": "there was no private parking available here at this hotel."
+      },
+      "itemB": {
+        "amenities": "There are multiple amenities like two large swimming pools, and a table tennis table, enhancing the recreational options available to guests.",
+        "internet": "Internet access is noted as a drawback, with poor connectivity that could be improved."
+      }
+    }
+  } 

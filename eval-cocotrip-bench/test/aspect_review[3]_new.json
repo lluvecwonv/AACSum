@@ -1,0 +1,39 @@
+{
+  "common_aspects": {
+    "location": {
+      "common": "The hotel is located near the beach and is secure, not too far from the city center.",
+      "unique": {
+        "itemA": "This highly recommended five-star hotel is located just a minute from the beach in both directions and is also near Port Olympic and Barcelonetta, making it ideal for a combined city and beach holiday.",
+        "itemB": "The hotel is located in a secure area that is industrial but safe, within short walking distance to many main attractions and public transport options for quicker access further afield."
+      }
+    },
+    "staff": {
+      "common": "The staff are helpful, knowledgeable, and provide excellent service.",
+      "unique": {
+      }
+    },
+    "room": {
+      "common": "The rooms are spacious, clean, and comfortable.",
+      "unique": {
+        "itemA": "The rooms are equipped with all necessary amenities, including WiFi and a large television, and those on higher floors boast breathtaking views of the sea.",
+        "itemB": "The rooms of high quality, featuring air conditioning, a complimentary mini bar (though not restocked), and great views of the Sagrada Familia. However, the rooms need a small touch-up, and the towels provided are of poor quality, being too firm and cardboard-like."
+      }
+    },
+    "breakfast": {
+      "common": "Breakfast is tasty and plentiful.",
+      "unique": {
+        "itemA": "Breakfast is particularly praised for its quality, and affordable options are available at nearby cafes. The food was really good here especially the breakfast. Sometimes the restaurant did not open for dinner but the chef would be flexible for a small party, which is great.",
+        "itemB": "The breakfast buffet offers a good selection of pastries, cheeses, and breads, catering to even the fussiest of eaters."
+      }
+    },
+    "price": {
+      "common": "The hotel is worth the higher price."
+    }
+  },
+  "unique_aspects": {
+    "itemA": {
+      "facility": "The hotel features excellent facilities, including two pools, a rooftop Jacuzzi, and a fitness center. The pools were a great addition to this hotel as well at the fitness centre. There's even a Jacuzzi on the rooftop, which was really fun."
+    },
+    "itemB": {}
+  }
+}

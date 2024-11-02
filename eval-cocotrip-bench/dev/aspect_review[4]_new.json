@@ -1,0 +1,52 @@
+{
+    "common_aspects": {
+      "location": {
+        "common": "The hotel is well-kept and comfortable, located downtown with shops and restaurants nearby, as well as attractions such as a theatre and cathedral.",
+        "unique": {
+          "itemA": "It is only a ten-minute walk from the metro station and near the river, making it convenient for guests.",
+          "itemB": "The hotel is connected to the underground city for shopping and entertainment."
+        }
+      },
+      "staff": {
+        "common": "The staff are friendly, warm and helpful, and welcoming.",
+        "unique": {}
+      },
+      "food": {
+        "common": "The breakfast is delicious with a great variety of food available.",
+        "unique": {
+          "itemA": "There is a lovely outdoor dining area that is well-suited for lunch.",
+          "itemB": "with a great variety of food available at the bar. Guests booking rooms on the executive floor enjoy complimentary breakfast, as well as evening appetizers and snacks for a minimal fee."
+        }
+      },
+      "room": {
+        "common": "The rooms are comfortable and clean.",
+        "unique": {
+          "itemA": "The rooms are large and luxurious, capable of accommodating four guests comfortably. Rooms on the first floor have access to a lovely courtyard garden.",
+          "itemB": "There were some disappointments with downgraded rooms. Each room has access to wired internet for only one computer."
+        }
+      },
+      "WiFi": {
+        "common": "Wi-Fi is available.",
+        "unique": {
+          "itemA": "The hotel offers free Wi-Fi.",
+          "itemB": "Wi-Fi is available in the lobby but is limited."
+        }
+      },
+      "value": {
+        "common": "The hotel provides good value for the price.",
+        "unique": {
+          "itemA": "The price is reasonable considering the comfort and elegance of the hotel.",
+          "itemB": "The Bonaventure Hotel provides a lot for the cost and is wonderful."
+        }
+      }
+    },
+    "unique_aspects": {
+      "itemA": {
+        "amenities": "The hotel offers excellent toiletries."
+      },
+      "itemB": {
+        "pool": "Rooms are close to a private pool, with there being a pool for each wing of the hotel, and guests have private access to the beautiful landscaping that surrounds their rooms."
+      }
+    }
+  }
+  

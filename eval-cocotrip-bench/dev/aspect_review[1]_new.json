@@ -1,0 +1,38 @@
+{
+    "common_aspects": {
+      "location": {
+        "common": "The hotel is located close to many attractions, nightclubs, and popular sights within walking distance.",
+        "unique": {
+          "itemA": "The hotel is located in an excellent place, perfect for walking to the entertainment district, nightclubs, pubs, and restaurants.",
+          "itemB": "The hotel is located close to the CN Tower, the Hockey Hall of Fame, and the Rogers Centre."
+        }
+      },
+      "room": {
+        "common": "The rooms are clean.",
+        "unique": {
+          "itemA": "Some rooms are on higher floors, offering lovely views of the CN Tower. The room quality is lovely and includes full kitchens, which are incredibly useful for preparing your own food.",
+          "itemB": "The deluxe room was quite small and lacked a view, but it was clean. Unfortunately, the rooms are small with poor storage, and there was a lot of noise from the hallway and rowdy guests at all hours."
+        }
+      },
+      "staff": {
+        "common": "Some staff were courteous and helpful, while others were not great at fixing issues and did not treat guests well.",
+        "unique": {}
+      },
+      "food": {
+        "common": "The breakfast is available and is good.",
+        "unique": {
+          "itemA": "The complimentary breakfast was really great.",
+          "itemB": "The breakfast is included in the room's price but is a bit expensive, and while the food was mostly fine, the buffet breakfast didn't come cheaply."
+        }
+      }
+    },
+    "unique_aspects": {
+      "itemA": {
+        "value": "This is a great hotel to visit and you will look forward to coming back again and again."
+      },
+      "itemB": {
+        "facility": "The hotel is considerable small, with limited room available for guests to move around and use some of the facilities with ease."
+      }
+    }
+  }
+  

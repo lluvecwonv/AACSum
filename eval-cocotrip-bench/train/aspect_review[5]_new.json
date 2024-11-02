@@ -1,0 +1,43 @@
+{
+    "common_aspects": {
+      "rooms": {
+        "common": "The rooms are modern and well-kept.",
+        "unique": {
+          "itemA": "The rooms at the hotel feature free Wi-Fi, Apple TV, and excellent showers, though they lack refrigerators and some guests find the pillows too full.",
+          "itemB": "The rooms are very clean, well-equipped with features like a comfortable bed, kitchenette, and good showers, although the showers tend to leak onto the bathroom floor. There is no bottled water available in the rooms. The rooms are generally dark but offer nice views."
+        }
+      },
+      "location": {
+        "common": "The hotel's location is within walking distance of major sights such as the Eaton Centre, making it convenient for sightseeing.",
+        "unique": {
+        }
+      },
+      "staff": {
+        "common": "The staff are polite, accommodating, and enhance the overall guest experience.",
+        "unique": {
+          "itemA": "The staff across the board, from the Sales Manager to Housekeeping, are efficient in their duties.",
+          "itemB": "The staff are mostly friendly and lovely, though there have been some issues with the concierge."
+        }
+      },
+      "satisfaction": {
+        "common": "the hotel provides good value for money and is highly recommended for its lovely experience.",
+        "unique": {
+        }
+      },
+      "breakfast": {
+        "common": "The breakfast offered is nice.",
+        "unique": {
+          "itemA": "Breakfast at the hotel's connected restaurant, Over Easy, is highly praised, and the area offers a variety of great food options, though there are ample dining alternatives nearby for those seeking variety.",
+          "itemB": "The breakfast is considered a bit overpriced."
+        }
+      }
+    },
+    "unique_aspects": {
+      "itemA": {
+        "renovation": "The hotel has undergone recent renovations, ensuring quiet and newly refurbished rooms, particularly noticeable on the second floor, adding to the comfort of the stay."
+      },
+      "itemB": {
+        "parking": "Parking at the hotel is notably expensive, costing $30 per day."
+      }
+    }
+  } 

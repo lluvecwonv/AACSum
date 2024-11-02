@@ -1,0 +1,44 @@
+{
+    "common_aspects": {
+      "location": {
+        "common": "The hotel is situated away from the main attractions, which may be inconvenient for some guests.",
+        "unique": {
+          "itemA": "The location is perfect for peace and quiet, situated close to Smathers Beach and the airport, with Duval Street and downtown accessible via a short shuttle ride or bike trip, though downtown is quite far.",
+          "itemB": "The hotel is situated outside of the old town, away from the main attractions, which may be inconvenient for some guests, but others might appreciate the quieter location away from the main strip."
+        }
+      },
+      "staff": {
+        "common": "The staff are friendly and helpful, willing to accommodate requests.",
+        "unique": {
+          "itemA": "The staff at the hotel are consistently friendly and helpful, willing to accommodate requests such as late checkouts and always providing excellent service.",
+          "itemB": "The staff's attitude varies; some guests found them to be rude and unhelpful, while others appreciated their friendly and helpful service, consistently trying to resolve any issues."
+        }
+      },
+      "rooms": {
+        "common": "The rooms are clean and have comfortable beds.",
+        "unique": {
+          "itemA": "The all-suite hotel is flawlessly maintained, offering spacious, modern rooms with great size and a lot of storage space.",
+          "itemB": "The rooms at this hotel are generally clean, and the accommodation provides a comfortable and fun atmosphere for a holiday stay."
+        }
+      },
+      "restaurant": {
+        "common": "The hotel has a restaurant that offers great food.",
+        "unique": {
+          "itemA": "The hotel's restaurant offers great food but closes early at 9 PM, which may be inconvenient for some guests, and the bar also closes early at 11 PM.",
+          "itemB": "The outdoor restaurant where breakfast is served offers a pleasant dining experience."
+        }
+      }
+    },
+    "unique_aspects": {
+      "itemA": {
+        "decorations": "The hotel is beautifully decorated for Christmas with lights on the palm trees, enhancing the holiday atmosphere.",
+        "facility": "The elevators at the hotel are not recommended to be used as they feel unsafe.",
+        "parking": "Parking in the Duval Street area is pricey, ranging from $10 to $35 per day, but the hotel offers bikes for rent which can help avoid or lessen parking costs."
+      },
+      "itemB": {
+        "cleanliness": "Cleanliness issues like cockroaches have been noted, affecting the overall value perception.",
+        "price": "The hotel is considered overpriced by some guests, but a Florida resident's rate for discounts is available.",
+        "amenities": "The hotel boasts a fantastic pool area and hot tub, highly recommended by visitors."
+      }
+    }
+  } 

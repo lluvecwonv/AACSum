@@ -1,0 +1,46 @@
+{
+    "common_aspects": {
+      "location": {
+        "common": "The hotel is located in a great area, offering excellent access to main attractions nearby.",
+        "unique": {
+          "itemA": "The hotel within walking distance of shopping areas, restaurants, and the Vancouver Convention Centre, It is just 10 minutes from Canada Place where cruise ships depart.",
+          "itemB": "This hotel is the best in Vancouver. The hotel is in a great downtown location and is highly recommended."
+        }
+      },
+      "staff": {
+        "common": "The staff are friendly and helpful, catering to guests' needs effectively.",
+        "unique": {
+          "itemB": "Some staff need a bit more time to develop their professional attitude since it is a new venue. However, we were provided a complimentary round of drinks by staff as an apology for any service delays. The housekeeping staff were excellent, friendly, and helpful, contributing to a smooth check-in and check-out process."
+        }
+      },
+      "food": {
+        "common": "The hotel provides a nice breakfast and buffet.",
+        "unique": {
+          "itemA": "The food at this hotel is delicious, and is particularly pricey if you choose to eat in the restaurant as opposed to the buffet style breakfast on offer, with the morning pastries and buffet being particularly good.",
+          "itemB": "The hotel provides a nice breakfast and an afternoon hors d'oeuvres buffet that are included in the price, so it's definitely recommended to take advantage of this. The hotel offers a nice breakfast and buffet inclusive in the costs, a lovely guest lounge to enjoy drinks and nearby restaurants."
+        }
+      },
+      "room": {
+        "common": "The rooms are spacious.",
+        "unique": {
+          "itemA": "The rooms are flawlessly clean, equipped with everything you could possibly need. The beds are unbelievably comfortable, ensuring a great night's sleep, and it does have beautiful suites.",
+          "itemB": "The rooms very comfortable, feeling luxurious."
+        }
+      },
+      "value": {
+        "common": "The hotel is reasonably priced.",
+        "unique": {
+          "itemA": "But The hotel feels somewhat dated and may need an overall makeover.",
+          "itemB": "The pricing compared to other hotels makes this a very reasonable option, and the hotel is even better in person than on its website."
+        }
+      }
+    },
+    "unique_aspects": {
+      "itemA": {
+        "facilities": "The hotel has great facilities, including a pool that is open for a good amount of time for guests.",
+        "parking": "There is parking available, which is somewhat pricey, but the hotel can assist with a deal to help with the cost."
+      },
+      "itemB": {}
+    }
+  }
+  

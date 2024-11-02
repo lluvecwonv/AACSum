@@ -1,0 +1,41 @@
+{
+    "common_aspects": {
+      "location": {
+        "common": "The hotel is close to many local restaurants and major historical sites, making it convenient to walk to attractions.",
+        "unique": {
+          "itemA": "The location is unbeatable, close to busy areas of the city.",
+          "itemB": "It\u2019s in central Rome, right around the corner from Campo de' Fiori, offering a 20-minute walk to both Vatican City and the Colosseum. It\u2019s great for food and nightlife, and is near Piazza Navona."
+        }
+      },
+      "staff": {
+        "common": "The staff are friendly and helpful.",
+        "unique": {
+          "itemA": "The staff contribute to a pleasant stay.",
+          "itemB": "The staff were approachable, kind, and knowledgeable about the city, providing detailed information about local attractions and activities."
+        }
+      },
+      "room": {
+        "common": "The rooms are adequate and quiet.",
+        "unique": {
+          "itemA": "The rooms have spacious bathrooms, and delicious chocolates are provided on the bed each night. Some rooms are small, but upgrading to a newly renovated suite solves this issue.",
+          "itemB": "The rooms are lovely, designed beautifully in a period setting with European charm. The bathroom is fantastic. Despite the noisy location, the rooms are soundproof with windows closed."
+        }
+      },
+      "breakfast": {
+        "common": "The buffet breakfast is very good.",
+        "unique": {
+          "itemA": "There's an option to enjoy pre-dinner wine while watching the sunset from the hotel's rooftop.",
+          "itemB": "The hotel offers ample breakfast, with drinks available on the viewing deck, and the coffee is excellent."
+        }
+      }
+    },
+    "unique_aspects": {
+      "itemA": {
+        "amenities": "The hotel provides free Wi-Fi, which works well, and offers gorgeous Bulgari toiletries that enhance the bathing experience, perfect for lovely soaks in the bathtub.",
+        "improvement": "The hotel's corridors are quite plain and could benefit from some decoration, but overall, the facilities are great."
+      },
+      "itemB": {
+        "facility": "The top-deck roof garden is really spectacular and lives up to the photos provided on the website."
+      }
+    }
+  }

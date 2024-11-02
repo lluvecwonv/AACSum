@@ -1,0 +1,44 @@
+{
+    "common_aspects": {
+      "location": {
+        "common": "The hotel is centrally located and offers easy access to transport links and the city center.",
+        "unique": {
+          "itemA": "The hotel is charming and European, situated on the River Arno in a quiet locale, offering beautiful views and a peaceful atmosphere away from city bustle.",
+          "itemB": "The hotel's location is excellent, situated close to the train station, main attractions in Florence, and bus routes to Fiosole, Plaza Michelangelo, and a discount mall."
+        }
+      },
+      "rooms": {
+        "common": "The rooms are clean and well-decorated.",
+        "unique": {
+          "itemA": "The rooms are spacious, especially compared to other hotels in the area, and feature fully functioning air conditioning and large bathrooms. They provide beautiful views, though some guests found the beds to be incredibly hard.",
+          "itemB": "The rooms at this hotel are generally small, with some facing a construction site; while they are clean, the sound insulation is lacking, making them feel unsafe, and the view isn't the best, though the handicap rooms are somewhat larger."
+        }
+      },
+      "staff": {
+        "common": "Staff service affected hotel stay",
+        "unique": {
+          "itemA": "The staff at the hotel are extremely friendly, polite, and hardworking, including a knowledgeable manager who offers valuable local outing advice. The team is small but very helpful in accommodating guests' needs, such as providing directions, arranging taxis, or recommending restaurants.",
+          "itemB": "The staff generally displayed an unprofessional and uncaring attitude, with reports of being unhelpful during check-in and check-out, and failing to apologize after incidents, which significantly impacts the quality of service perceived by guests."
+        }
+      },
+      "breakfast": {
+        "common": "breakfast is available",
+        "unique": {
+          "itemA": "Breakfast at the hotel offers a surprisingly good selection and a lovely variety of foods, consistently praised for its quality and variety.",
+          "itemB": "While the dining experience at the hotel's restaurant received mixed reviews, the affordability of the hotel was appreciated by some guests, indicating a balance between cost and quality."
+        }
+      }
+    },
+    "unique_aspects": {
+      "itemA": {
+        "internet": "Internet access is freely available, with a computer provided in the lobby and a booth terminal for guests' use.",
+        "views": "The hotel features a balcony and a rooftop with views of the Arno, perfect spots for relaxation and enjoying the scenery.",
+        "convenience": "You can also have a drink in the lobby before going to dine."
+      },
+      "itemB": {
+        "noise": "Noise issues are a common complaint, attributed to both external construction and poor sound insulation, potentially disturbing the peace of guests.",
+        "discrepancy": "This hotel appears older than depicted on its website, which does not accurately portray the hotel's current condition.",
+        "price": "For a cheap hotel, the quality isn't bad, overall, it's a decent place for the price."
+      }
+    }
+  } 

@@ -1,0 +1,44 @@
+{
+  "common_aspects": {
+    "location": {
+      "common": "The hotel is located in the city center, making it convenient for trips into the city.",
+      "unique": {
+        "itemA": "The hotel is located right next to a canal, making it ideal for those wanting to explore the area, with many main attractions within walking distance.",
+        "itemB": "The hotel is perfectly situated for easy access to the main city, with the tram line and train station nearby."
+      }
+    },
+    "staff": {
+      "common": "The staff are helpful and friendly.",
+      "unique": {
+        "itemA": "Many guests describe them as compassionate and amiable.",
+        "itemB": "While some staff members were helpful and amiable, there were instances of unfriendly service, with tasks being left unfinished."
+      }
+    },
+    "room": {
+      "common": "The rooms are clean and well-furnished.",
+      "unique": {
+        "itemA": "The rooms can be small with limited bed sizes; it is advisable to book a larger room to avoid this issue.",
+        "itemB": "The rooms are large and comfortable, offering complimentary Wi-Fi; however, some rooms feature an open toilet design that may be an issue for guests sharing the space."
+      }
+    },
+    "food": {
+      "common": "The hotel provides a breakfast.",
+      "unique": {
+        "itemA": "It is a complimentary continental breakfast with a varied selection of foods, including hot drinks available at all times, although it is not a buffet style.",
+        "itemB": "The restaurant at the hotel serves reasonable food, though it can be quite expensive, particularly the wines by the glass."
+      }
+    }
+  },
+  "unique_aspects": {
+    "itemA": {
+      "value": "The price of staying at this hotel is reasonable, especially considering its great style and central location.",
+      "facility": "guests should be aware of the steep stairs, which can make navigating with heavy luggage challenging.",
+      "policy": "The hotel is gay-friendly, but some guests noted the presence of homosexual pornographic materials left out in public areas."
+    },
+    "itemB": {
+      "cleanliness": "the rooms were not very clean, with reports of dirtiness being a significant concern.",
+      "building condition": "The hotel is located in a historical building, which gives it character, but it also means that the walls and floors are damaged, detracting from the overall experience.",
+      "security": "there were reports of thievery from locked luggage."
+    }
+  }
+}

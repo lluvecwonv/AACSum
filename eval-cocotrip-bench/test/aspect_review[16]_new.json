@@ -1,0 +1,42 @@
+{
+  "common_aspects": {
+    "location": {
+      "common": "The hotel is located near the Grand Canal, providing access to numerous art galleries.",
+      "unique": {
+        "itemA": "It is excellently located on the Grand Canal, just a couple of stops from San Marco Square and near the Salute Church, with easy access to the Vaporetto.",
+        "itemB": "The hotel is located in a picturesque area with walking paths nearby, although reaching the hotel can be uncomfortable due to the boat ride, which is not highly recommended."
+      }
+    },
+    "room": {
+      "common": "The hotel features clean rooms with pleasant views.",
+      "unique": {
+        "itemA": "The hotel features well-maintained, some of which overlook the canal, providing a pleasant view.",
+        "itemB": "This hotel is beautifully designed in a typical Venetian style with modern twists, such as mirrors housing flat-screen televisions, and offers rooms with exceptional views overlooking popular attractions. The upgraded rooms feature a sky window that opens up at night, providing a unique experience of viewing the sky, and the highest room available is notably quiet."
+      }
+    },
+    "staff": {
+      "common": "The staff are helpful and contribute to a pleasant experience.",
+      "unique": {
+        "itemB": "While some staff members were unhelpful, many went above and beyond to assist guests, contributing to a generally positive experience."
+      }
+    },
+    "breakfast": {
+      "common": "The breakfast is of high quality and can be enjoyed on the terrace.",
+      "unique": {
+        "itemA": "although some guests found it a little lacking in variety food.",
+        "itemB": "The complimentary breakfast, which includes freshly made croissants and a free bottle of Prosecco considered an absolute gem."
+      }
+    }
+  },
+  "unique_aspects": {
+    "itemA": {
+      "design": "The hotel offers a unique experience with a blend of traditional and modern features, making it highly recommended for visitors.",
+      "value": "While the hotel is a bit overpriced, it lives up to expectations, making it worth the cost.",
+      "facility": "Guests can enjoy a simple menu that can be served anywhere, and the minibar is always stocked.",
+      "atmosphere": "This stylish contemporary boutique hotel pays attention to every detail, providing a peaceful retreat away from tourist crowds while remaining conveniently close to major sightseeing spots."
+    },
+    "itemB": {
+      "service": "The attention to detail throughout the hotel, from the placement of plug sockets to the light fittings, reflects high standards and quality."
+    }
+  }
+}

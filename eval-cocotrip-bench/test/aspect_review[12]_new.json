@@ -1,0 +1,40 @@
+{
+  "common_aspects": {
+    "location": {
+      "common": "The hotel is located in a good spot with easy access to shopping and tourist attractions.",
+      "unique": {
+        "itemA": "The hotel is located in a brilliant spot, only a five-minute walk from the Town Hall rail station, making it highly recommended for those looking to sightsee.",
+        "itemB": "The hotel is located in a perfect spot with excellent transport links and stunning views, making it convenient for guests to explore the area without stress."
+      }
+    },
+    "staff": {
+      "common": "The staff were generally nice and helpful.",
+      "unique": {
+        "itemA": "Although their professionalism varied, and some guests felt like an inconvenience at times."
+      }
+    },
+    "room": {
+      "common": "The rooms are comfortable.",
+      "unique": {
+        "itemA": "The rooms are quite large, spotless, quiet, with some offering great views of the city and balconies.",
+        "itemB": "The rooms are quite small and plain, lacking personality, but they do feature large beds and plush robes for comfort."
+      }
+    },
+    "food": {
+      "common": "Breakfast is included in the rate.",
+      "unique": {
+        "itemA": "The hotel\u2019s restaurant offers good meals, although the prices are slightly high, consisting of a basic continental selection that lacks excitement.",
+        "itemB": "The buffet breakfast was superb, and the evening cocktails overlooking the harbour are highly recommended."
+      }
+    }
+  },
+  "unique_aspects": {
+    "itemA": {
+      "complaint": "Check-in can be arranged for an earlier time upon request, but checkout was drawn out and frustrating."
+    },
+    "itemB": {
+      "amenities": "The hotel offers a variety of amenities, including a delightful rooftop swimming pool and a perfectly adequate gym, although both are on the smaller side.",
+      "wifi": "it is worth noting that Wi-Fi is a paid service, which is inconvenient compared to many other hotels that offer it for free."
+    }
+  }
+}

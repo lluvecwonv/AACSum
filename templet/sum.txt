@@ -1,0 +1,200 @@
+Task:
+Analyze the provided review data and classify the information into 'common' and 'unique' categories. After classification, provide a more detailed summary of the key common aspects. If the review data is provided in the form of multiple items, extract the main ideas and summarize them using key sentences.
+
+Common: Extract only the facts explicitly mentioned in both files. Only list facts that are explicitly mentioned in both items. (For example: if both reviews mention "clean rooms" but differ on other details, only list "clean rooms" in the common section). Do not extract facts that exist in only one file. Sentences should be factual and avoid subjective statements, comparisons, or opinions. The 'common' section should include only truly shared information.
+
+Content (cont): This section will contain the detailed content for each file, including the original sentences for each aspect. If there is additional information specific to only one file, leave it here. If the data is provided in list form, summarize the key points of the list and provide the full list if necessary. This 'cont' section should preserve as much of the original content as possible while capturing the details relevant to each individual review.
+
+Summary: After classifying the sentences into 'common' and 'cont', provide a more comprehensive and detailed summary of the key common aspects and detailed content in both sections. Focus on including all key sentences corresponding to the common aspects mentioned in both files (itemA and itemB). The 'common' section should include all shared information, not just a minimal summary. Summarize the details of each review in the 'cont' section with key sentences, avoiding unnecessary repetition, while highlighting unique features. Do not repeat common information but ensure that both the 'common' and 'cont' sections effectively highlight the main features of each review. The final summary should provide more detailed insights into both the common and unique aspects of each review.
+
+If the reviews are provided in list form, the 'common' and 'cont' sections should be summarized into sentences. The results must be output in JSON format, and lists must also be summarized in this format. If there is no information, output "".### Example Input:
+
+        {
+            "common_aspects": {
+                "location": {
+                    "itemA": [
+                        "This hotel is not centrally located in Rome.",
+                        "The area is quite safe.",
+                        "It is close to the main Metro train station and a train station.",
+                        "It is convenient for those who wish to travel further afield."
+                    ],
+                    "itemB": [
+                        "The hotel is centrally located in Rome.",
+                        "Within a short walking distance to Termini train station and several restaurants.",
+                        "It is easy to explore the city on foot."
+                    ]
+                },
+                "staff": {
+                    "itemA": [
+                        "The staff at Le Place D'Armes are friendly.",
+                        "They are accommodating.",
+                        "They provide excellent service overall."
+                    ],
+                    "itemB": [
+                        "The staff at the hotel are incredibly accommodating.",
+                        "They are friendly and helpful.",
+                        "They contribute to a generally good experience."
+                    ]
+                },
+                "rooms": {
+                    "itemA": [
+                        "The rooms are modern and clean.",
+                        "They vary in size.",
+                        "All are wheelchair accessible, including the bathrooms.",
+                        "The beds are comfortable.",
+                        "The overall room maintenance is commendable."
+                    ],
+                    "itemB": [
+                        "The rooms are luxurious, spacious, and clean.",
+                        "They are beautifully decorated.",
+                        "Many offer splendid canal views.",
+                        "They come equipped with comfortable beds."
+                    ]
+                },
+                "breakfast": {
+                    "itemA": [
+                        "The hotel offers a delicious and sumptuous breakfast.",
+                        "It is quite pricey.",
+                        "The seafood bistro provides a fantastic selection of dishes."
+                    ],
+                    "itemB": [
+                        "Breakfast is delicious and lavish.",
+                        "It is pricey."
+                    ]
+                }
+            }}
+
+        ### Example Output:
+        {{
+            "common_aspects": {{
+                "location": {{
+                    "comm": "The hotel is close to the train station, making it convenient for travel.",
+                    "cont": {{
+                        "itemA": "This hotel is not centrally located in Rome, but the area is quite safe and it is close to the Metro station.",
+                        "itemB": "The hotel is centrally located in Rome, within a short walking distance to Termini train station and several restaurants, making it easy to explore the city on foot."
+                    }}
+                }},
+                "staff": {{
+                    "comm": "The staff are friendly, accommodating, and provide excellent service overall.",
+                    "cont": {{
+                    }}
+                }},
+                "rooms": {{
+                    "comm": "The rooms are clean and come with comfortable beds.",
+                    "cont": {{
+                        "itemA": "The rooms are modern, vary in size, and are wheelchair accessible, including the bathrooms.",
+                        "itemB": "The rooms are luxurious, spacious, beautifully decorated, and many offer splendid canal views."
+                    }}
+                }},
+                "breakfast": {{
+                    "comm": "Breakfast is delicious and lavish, though pricey.",
+                    "cont": {{
+                        "itemA": "its seafood bistro provides a fantastic selection of dishes."
+                    }}
+                }}
+            }},
+            "unique_aspects": {{
+                "itemA": {
+                    "view": "The views from the hotel aren't great, as you mainly see skyscrapers.",
+                    "improvement": "Overall, the hotel is well-recommended and offers a pleasant experience, but it could benefit from more unique and personal touches to enhance the guest experience."
+                }},
+                "itemB": {{
+                    "service": "The hotel provides a free shuttle service to the local outlet mall Tung Chung and other shopping centers in downtown Hong Kong.",
+                    "value": "Regal Hotel is a lovely place to stay with direct links to the airport, although it may not feel like value for money due to the issues with room equipment."
+                }}
+            }}
+        }}
+
+   ##Exampel input
+   {
+    "common_aspects": {
+        "location": {
+            "itemA": [
+                "The hotel is located in the city center of Paris.",
+                "It is a short walk to popular landmarks like the Eiffel Tower and the Louvre.",
+                "Public transportation is easily accessible from the hotel."
+            ],
+            "itemB": [
+                "This hotel is in a central location, close to major attractions in Paris.",
+                "You can walk to the Eiffel Tower and the Louvre from the hotel.",
+                "It has great access to public transportation."
+            ]
+        },
+        "staff": {
+            "itemA": [
+                "The staff are attentive and professional.",
+                "They speak multiple languages, including English and French."
+            ],
+            "itemB": [
+                "Staff members are very professional and polite.",
+                "They are fluent in several languages, including French and English."
+            ]
+        },
+        "rooms": {
+            "itemA": [
+                "The rooms are spacious and modern, with clean bathrooms.",
+                "The beds are large and comfortable."
+            ],
+            "itemB": [
+                "Rooms are modern and clean, with spacious bathrooms.",
+                "The beds are incredibly comfortable and large."
+            ]
+        },
+        "breakfast": {
+            "itemA": [
+                "The breakfast offers a wide selection of fresh pastries, fruits, and hot items.",
+                "It is included in the room price, but can get crowded during peak times."
+            ],
+            "itemB": [
+                "A delicious breakfast buffet with pastries, fruits, and hot dishes is included in the room rate.",
+                "It gets quite busy in the morning."
+            ]
+        }
+    }
+}
+### Example Output:
+
+{
+    "common_aspects": {
+        "location": {
+            "comm": "The hotel is centrally located in Paris, with easy access to major attractions like the Eiffel Tower and the Louvre, as well as public transportation.",
+            "cont": {
+                "itemA": "The hotel is located in the city center of Paris, with a short walk to popular landmarks like the Eiffel Tower and the Louvre, and easy access to public transportation.",
+                "itemB": "This hotel is in a central location, close to major attractions like the Eiffel Tower and the Louvre, with great access to public transportation."
+            }
+        },
+        "staff": {
+            "comm": "The staff are professional, attentive, and fluent in multiple languages including French and English.",
+            "cont": {
+                "itemA": "The staff are attentive and professional, and they speak multiple languages including English and French.",
+                "itemB": "Staff members are very professional and polite, and they are fluent in several languages, including French and English."
+            }
+        },
+        "rooms": {
+            "comm": "The rooms are modern, spacious, and clean, with large, comfortable beds.",
+            "cont": {
+                "itemA": "The rooms are spacious and modern, with clean bathrooms and large, comfortable beds.",
+                "itemB": "Rooms are modern and clean, with spacious bathrooms and incredibly comfortable, large beds."
+            }
+        },
+        "breakfast": {
+            "comm": "Breakfast includes a wide selection of pastries, fruits, and hot dishes, though it can get crowded.",
+            "cont": {
+                "itemA": "The breakfast offers a wide selection of fresh pastries, fruits, and hot items, included in the room price but can get crowded during peak times.",
+                "itemB": "A delicious breakfast buffet with pastries, fruits, and hot dishes is included in the room rate, though it gets busy in the morning."
+            }
+        }
+    },
+    "unique_aspects": {
+        "itemA": {
+            "amenities": "The hotel has a rooftop bar with a panoramic view of the Eiffel Tower."
+        },
+        "itemB": {
+            "service": "The hotel offers an airport shuttle service, which is convenient for international travelers."
+        }
+    }
+}
+
+  
+            
+### Input to Process: {input} 

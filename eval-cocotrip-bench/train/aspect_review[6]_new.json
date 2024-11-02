@@ -1,0 +1,49 @@
+{
+    "common_aspects": {
+      "rooms": {
+        "common": "The rooms are comfortable and clean.",
+        "unique": {
+          "itemA": "The rooms at the hotel boast a unique and fun design that is both pleasant and modern, featuring innovative showers similar to horizontal MRI machines. While some aspects may be disappointing, the beds are exceptionally comfortable, and there is the option to upgrade if guests would like to do so.",
+          "itemB": "The rooms at this hotel are very spacious, clean to a high standard, and feature large bathrooms with marble-top units and high-quality bedding. The rooms are surprisingly quiet despite the hotel's busy nature."
+        }
+      },
+      "location": {
+        "common": "The hotel is located in downtown Toronto, making it ideal for exploring the city centre.",
+        "unique": {
+          "itemA": "The Gladstone Hotel Toronto in an old building, ideally situated for socializing in Queen St West, as well as close to the theatre district and shopping areas, though it lacks convenient subway access.",
+          "itemB": "The Eaton Centre is a short walk away and the CN Tower about a 25-minute walk away, providing easy access to all major attractions and amenities."
+        }
+      },
+      "staff": {
+        "common": "Most staff were friendly, but customer service could be improved.",
+        "unique": {
+          "itemA": "Most of the staff were friendly and nice, except for the reception staff upon arrival who were described as frosty, suggesting a need for improved customer service training.",
+          "itemB": "The staff, while generally appearing uninterested, were complimented for their effective housekeeping. However, the overall guest service could benefit from more engagement."
+        }
+      },
+      "food": {
+        "common": "The hotel offers a variety of food options.",
+        "unique": {
+          "itemA": "The hotel offers a variety of great food options, with a small restaurant and a fry bar that proudly uses local and organic produce, providing an excellent culinary experience.",
+          "itemB": "The hotel offers a good variety of food, with particularly high praise for the breakfast and curry lunches, and while the restaurant can be expensive, the dining is generally affordable and of great quality."
+        }
+      },
+      "satisfaction": {
+        "common": "The hotel comes highly recommended.",
+        "unique": {
+          "itemA": "the Gladstone Hotel provides an enjoyable stay and comes highly recommended for a variety of guests, including foodies and families.",
+          "itemB": "This hotel comes highly recommended as an excellent place to stay, offering a comprehensive and satisfying experience for visitors."
+        }
+      }
+    },
+    "unique_aspects": {
+      "itemA": {
+        "venue": "This venue caters particularly to musicians and artists, providing a space for performances and gatherings, which might be seen as a positive or a negative depending on guest preferences.",
+        "facility": "The hotel has a vintage elevator dating back to the turn of the 20th century, adding to its unique charm and novelty."
+      },
+      "itemB": {
+        "amenities": "Amenities include ice machines in the corridors and a spa that offers discounts to hotel guests, enhancing the overall stay.",
+        "bar": "The hotel provides a lively atmosphere with a bar for drinking and dancing, contributing to an enjoyable overall stay."
+      }
+    }
+  } 

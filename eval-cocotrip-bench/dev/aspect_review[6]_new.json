@@ -1,0 +1,37 @@
+{
+    "common_aspects": {
+      "location": {
+        "common": "The hotel is within walking distance to Waikiki beach.",
+        "unique": {
+          "itemA": "The hotel is within walking distance to many attractions, including the International Market Place.",
+          "itemB": "The location of this hotel is perfect providing great views of the ocean and easy access to the beach."
+        }
+      },
+      "staff": {
+        "common": "The hotel staff are very professional, friendly, and incredibly thoughtful.",
+        "unique": {}
+      },
+      "room": {
+        "common": "The hotel rooms are clean.",
+        "unique": {
+          "itemA": "The hotel rooms are smaller but well-furnished with charming antiques.",
+          "itemB": "The rooms are luxurious and include stunning views from the small patio, but the walls are paper-thin, which can lead to noise issues."
+        }
+      },
+      "food": {
+        "common": "Meals are available at the hotel.",
+        "unique": {
+          "itemA": "The breakfast at the hotel is adequate, and when there is enough food for everyone, it can be superb, especially when enjoyed next to the indoor atrium.",
+          "itemB": "The hotel offers a good selection of restaurants and the service provided is exceptional both day and night."
+        }
+      }
+    },
+    "unique_aspects": {
+      "itemA": {
+        "atmosphere": "The carpeting in the hotel is worn down and in need of replacement, contributing to a slightly run-down atmosphere."
+      },
+      "itemB": {
+        "facility": "this hotel such as the super-pool, although it is recommended you head down for a lounger quite early but this isn't a big deal."
+      }
+    }
+  }

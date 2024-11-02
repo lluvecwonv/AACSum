@@ -1,0 +1,40 @@
+{
+    "common_aspects": {
+      "location": {
+        "common": "The hotel is close to a train station, making it convenient for travel.",
+        "unique": {
+          "itemA": "This hotel is not centrally located in Rome, but the area is quite safe and it is close to the main Metro train station.",
+          "itemB": "The hotel is centrally located in Rome, within a short walking distance to Termini train station and several restaurants, making it easy to explore the city on foot."
+        }
+      },
+      "staff": {
+        "common": "Some staff members were helpful while others were less attentive.",
+        "unique": {
+        }
+      },
+      "room": {
+        "common": "The rooms are mostly clean.",
+        "unique": {
+          "itemA": "The rooms are modern, well-maintained, though there is an issue with black mould around the windows, and air conditioning is not available.",
+          "itemB": "The rooms are of decent size and feature air conditioning and wired internet access, with bathrooms that are quite spacious. However, the temperature within the hotel was uncomfortable at times, which affected sleep quality."
+        }
+      },
+      "breakfast": {
+        "common": "The breakfast is good and provides a variety of options.",
+        "unique": {
+          "itemB": "The complimentary breakfast buffet was generally good and offered a fantastic variety, though the restaurant could use some improvement."
+        }
+      }
+    },
+    "unique_aspects": {
+      "itemA": {
+        "service": "The hotel offers complimentary coffee from the barista, with good options including free cappuccinos, and there is also a Nescafe coffee machine available.",
+        "parking": "Car or van rental is an option but the parking fee at the hotel costs around $12 per night, which can be considered expensive."
+      },
+      "itemB": {
+        "additional charges": "Guests reported that phone charges for brief calls were exorbitant, with costs reaching up to $40 for just two to three minutes.",
+        "security": "Guests felt secure and comfortable during their stay, as the hotel provided a safe environment."
+      }
+    }
+  }
+  

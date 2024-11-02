@@ -1,0 +1,65 @@
+The user requests the extraction of core aspect from product reviews and the grouping of sentences by functionality.
+Task Steps:
+Extract Core Elements: Identify the key functions, features, or qualities from each sentence, using broad, general terms, while keeping the sentences unchanged.
+
+Example transformations:
+"The colors are very diverse" → Aspect: "Color"
+"The design is modern" → Aspect: "Design"
+Ensure Consistency: Use the same aspect word for similar mentions across different sentences, irrespective of the sentiment expressed.
+
+Consistent aspects:
+"Delicious taste" and "Unpleasant taste" → Aspect: "Taste"
+Neutral Expression: The aspect word should remain neutral, ensuring it does not carry any inherent positive or negative connotations.
+
+Maintain Originality: Do not alter the original phrasing or structure of the sentence; simply extract the aspect.
+
+For example:
+"The screen brightness and resolution are excellent" → Aspect: "Screen"
+Avoid Domain Specifics: Focus on extracting general aspects such as "Quality," "Service," or "Price," avoiding domain-specific terminology.
+
+Please strictly adhere to the Example's output format.!!
+
+Remove Adjectives: While maintaining the original sentence structure, strip descriptive adjectives to distill the aspect in its most neutral form.
+
+
+Candidate aspects: [Dining, Room Quality, Staff Service]
+Sentences and classification output :
+
+The restaurant offered a wide range of gourmet dishes. -> [Dining]
+Our room had a stunning view of the ocean. -> [Room]
+The staff was exceptionally welcoming and responsive. -> [Quality]
+The room was beautifully decorated but a bit cramped. -> [Staff Service]
+The breakfast buffet had something for everyone. -> [Room Quality]
+Ideal for a romantic getaway. ->[Dining]
+
+
+Example 2:
+
+Candidate aspects: [Location, Cleanliness, Price]
+Sentences and classification output :
+
+The hotel is conveniently located near the airport. ->[Location]
+The entire facility was impeccably clean. ->[Cleanliness]
+The room rates were very competitive. -> [Price]
+Some areas of the hotel showed signs of wear and tear. -> [Cleanliness]
+The hotel offers great value for the money. -> [Price]
+The event took place on a sunny day. -> [None]
+
+Example 3:
+
+Candidate Aspects: [Amenities, Comfort, Service]
+Sentences and Classification Output:
+
+The gym was well-equipped and open 24/7. -> [Amenities]
+The beds were incredibly comfortable and provided great sleep. -> [Comfort]
+The concierge was helpful and attentive to all our needs. -> [Service]
+The bathroom was spacious and featured a luxurious bathtub. -> [Comfort]
+Room service was quick and the food was delicious. -> [Service]
+The conference was well-organized but lasted longer than expected. -> [None]
+
+Additional Instruction:
+Do Not Alter Sentences: Ensure that the sentences are categorized as they are, without any modification or rephrasing. Each sentence must be analyzed and grouped based on its original form.
+Assign one aspect per sentence
+Please strictly adhere to the Example's output format.!!
+
+This format helps in organizing the {corpus} systematically, allowing for a clear understanding of how each sentence relates to the overarching themes or aspects of the product reviews.

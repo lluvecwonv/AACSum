@@ -1,0 +1,41 @@
+{
+  "common_aspects": {
+    "location": {
+      "common": "The hotel is conveniently located near the beach and restaurants.",
+      "unique": {
+        "itemA": "Hotel Cielo is centrally located, just a minute's walk from the beach, with everything generally within walking distance, including local restaurants situated 100 yards from the beach.",
+        "itemB": "The hotel is conveniently located near the tram system, providing easy access to restaurants and the coast, while being a good distance away from the hustle and bustle of Cancun."
+      }
+    },
+    "staff": {
+      "common": "The staff are friendly and provide service.",
+      "unique": {
+        "itemA": "The staff are incredibly knowledgeable and friendly, providing excellent service by booking local restaurants and taxis to the airport, and offering valuable tips and advice on the best places to visit.",
+        "itemB": "The staff are generally friendly and helpful, although requests made to them and management are not always followed through efficiently."
+      }
+    },
+    "room": {
+      "common": "The rooms are clean and comfortable.",
+      "unique": {
+        "itemA": "The rooms are well-maintained and reasonably priced, with larger deluxe options offering stunning partial ocean views from balconies overlooking 5th Avenue.",
+        "itemB": "The rooms are simple yet spacious, with one suite that is particularly superb."
+      }
+    },
+    "food": {
+      "common": "The hotel offers good food.",
+      "unique": {
+        "itemA": "Guests have praised the quality of the breakfast served at the hotel, which adds to the overall positive experience.",
+        "itemB": "Though some dishes may not be authentically Mexican."
+      }
+    }
+  },
+  "unique_aspects": {
+    "itemA": {
+      "value": "this hotel is highly recommended for its beauty, comfort, cleanliness, and great value for money, making it a perfect choice for visitors."
+    },
+    "itemB": {
+      "facility": "The hotel features a kids' club, making it an ideal choice for families, and there are plenty of lounge chairs available at the many pools on the premises.",
+      "option": "guests have the option to rent a car to explore Mexico further."
+    }
+  }
+}

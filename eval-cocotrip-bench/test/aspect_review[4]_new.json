@@ -1,0 +1,38 @@
+{
+  "common_aspects": {
+    "location": {
+      "common": "The hotel is perfectly located in Chicago, making it convenient for exploring the city.",
+      "unique": {
+        "itemA": "The hotel has easy access to public transportation and many attractions within walking distance.",
+        "itemB": "The hotel offers excellent views of the Chicago River and proximity to various attractions, making it easy to walk to many places in the city."
+      }
+    },
+    "room": {
+      "common": "The rooms are clean.",
+      "unique": {
+        "itemA": "The modern rooms feature a thermostat that allows guests to control the temperature for their comfort.",
+        "itemB": "The rooms are very large and spacious, with some providing great views of the river; The hotel features a huge bathroom with separate sinks, a bathtub, and a shower."
+      }
+    },
+    "staff": {
+      "common": "The staff are friendly and very helpful.",
+      "unique": {
+      }
+    },
+    "recommendation": {
+      "common": "Many guests expressed their desire to stay here again.",
+      "unique": {
+      }
+    }
+  },
+  "unique_aspects": {
+    "itemA": {
+      "breakfast": "The complimentary breakfast was substandard, resembling a soup kitchen with long lines and insufficient seating."
+    },
+    "itemB": {
+      "amenities": "there are no mini-fridges or vending machines for snacks or drinks, and the toilet paper provided is of poor quality.",
+      "value": "While some guests felt the hotel was not worth the price paid considering the typical accommodations offered.",
+      "cleaness": "cleanliness needs to be improved as some guests have pointed out unpleasant odors and dirty bathrooms."
+    }
+  }
+}
