@@ -1,0 +1,22 @@
+model_family: t5
+model_name : google/flan-t5-xl
+checkpoint_model: /root/aspect_sum/scr/train/model/flan_t5_large_reviews2
+
+batch_size: 16
+gradient_accumulation_steps: 1
+num_epochs: 50
+lr: 1e-5
+save_dir: /root/aspect_sum/scr/train/model/flan_t5_large_reviews2
+train_data_path: /root/aspect_sum/scr/annotation/reviwes/label_train_kept.json
+val_data_path: /root/aspect_sum/scr/annotation/reviwes/label_val_kept.json
+split:
+  train: "train"
+  val: "val"
+
+save_strategy : "epoch"  # 또는 "epoch" 등 필요한 값으로 설정
+weight_decay: 0.01
+seed: 42
+warmup_ratio : 0.1
+evaluation_strategy: "epoch"  # 또는 "epoch" 등 필요한 값으로 설정
+eval_accumulation_steps: 1
+
