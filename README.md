@@ -115,7 +115,6 @@ Dataset Support: COCOTRIP and AMASUM datasets.
 
 ✅ CASPR: Assesses comparative aspect similarity and polarity recognition.
 
-Handles Multiple File Structures: Automatically detects and processes files for evaluation.
 
 ## Example Commands
 
