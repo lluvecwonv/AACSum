@@ -22,13 +22,13 @@ CUDA_VISIBLE_DEVICES=0,1 torchrun --nproc_per_node=2 --master_port=$master_port 
 This repository provides a comprehensive pipeline for performing text compression, aspect merging, and summarization using state-of-the-art language models and APIs. The system is designed to handle paired review data and generate concise summaries by compressing text, assigning aspects, merging similar aspects, and summarizing the results.
 
 ## Features
-Text Compression: Compress long texts into concise representations using fine-tuned transformer models.
+✅ Text Compression: Compress long texts into concise representations using fine-tuned transformer models.
 
-Aspect Assignment: Assign aspects to compressed texts for better organization and understanding.
+✅ Aspect Assignment: Assign aspects to compressed texts for better organization and understanding.
 
-Aspect Merging: Cluster and merge similar aspects from paired review data.
+✅ Aspect Merging: Cluster and merge similar aspects from paired review data.
 
-Summarization: Generate summaries based on merged aspects.
+✅ Summarization: Generate summaries based on merged aspects.
 
 # General Command Structure
 
@@ -47,7 +47,7 @@ python main.py \
     [--merge]
 ```
 
-Examples
+
 
 ## 1. Aspect Merging Only (--merge)
 If you only want to perform aspect merging on pre-compressed text data:
@@ -109,11 +109,11 @@ This repository contains an evaluation script designed to assess the performance
 ## Key Features 🚀
 Dataset Support: COCOTRIP and AMASUM datasets.
 # Metrics:
-Rouge: Measures overlap between generated and benchmark summaries.
+✅ Rouge: Measures overlap between generated and benchmark summaries.
 
-BERTScore: Evaluates semantic similarity.
+✅ BERTScore: Evaluates semantic similarity.
 
-CASPR: Assesses comparative aspect similarity and polarity recognition.
+✅ CASPR: Assesses comparative aspect similarity and polarity recognition.
 
 Handles Multiple File Structures: Automatically detects and processes files for evaluation.
 
