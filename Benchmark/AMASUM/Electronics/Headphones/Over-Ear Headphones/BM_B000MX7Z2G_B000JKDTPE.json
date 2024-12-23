@@ -1,0 +1,65 @@
+{
+    "Cord": {
+        "comm": "Cord is too short.",
+        "cont": {
+            "entity_a": "Only one cord retracts, which is less convenient than models with both wires retracting.",
+            "entity_b": "Cord is too short for desk movement."
+        }
+    },
+    "Comfort": {
+        "comm": "Very comfortable.",
+        "cont": {
+            "entity_a": "Clip-on attachments are secure and comfortable.",
+            "entity_b": "Small ear holes, causing discomfort. Bright sound with hard clamp causing discomfort."
+        }
+    },
+    "Sound": {
+        "comm": "Great sound quality.",
+        "cont": {
+            "entity_a": "Clearer and louder sound with prominent treble and weak bass. Occasional background white noise. Bass response is lacking. Fit around the ear is too loose, affecting sound quality.",
+            "entity_b": "Crisp and clean sound. Balanced high and mid-range with weak lows. No kick in bass and distortion at max volume. Good and clear sound with decent bass."
+        }
+    },
+    "Price": {
+        "comm": "Great value for price.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Especially on sale. Not comparable to Bose in quality but decent for price."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Thin cables may affect long-term durability. Worked well for two months before stopping unexpectedly.",
+            "entity_b": "Subpar build quality with weak plastic. Plastic broke within six months."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Actual design is white plastic, not clear as expected.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Retractable mechanism works smoothly.",
+            "entity_b": ""
+        }
+    },
+    "Fit": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Keeps ears warm during workouts. Earpieces pinch after prolonged wear.",
+            "entity_b": "Comfortable with good sound for portable use."
+        }
+    },
+    "Usage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Good for immersing in music at home or office."
+        }
+    }
+}

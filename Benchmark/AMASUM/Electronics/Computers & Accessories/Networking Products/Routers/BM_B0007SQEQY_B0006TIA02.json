@@ -1,0 +1,58 @@
+{
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Signal strength reduces with walls in between.",
+            "entity_b": "Wireless signal strength is strong and never drops."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Does not work with DSL and gets hot, so should not be covered. Not suitable for use directly on a DSL modem. Works with cable internet connections.",
+            "entity_b": "Works great with Xbox Live and Nintendo Wi-Fi after firmware upgrade."
+        }
+    },
+    "Setup": {
+        "comm": "Setup is easy.",
+        "cont": {
+            "entity_a": "There are issues with DNS passthrough in shared mode.",
+            "entity_b": "Zero downtime except when configuring settings. Requires advanced knowledge for setup of certain features."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer support is excellent.",
+            "entity_b": ""
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lightweight with a carry case, suitable for travel.",
+            "entity_b": ""
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router stopped working after the warranty expired. Requires daily reboot and has difficulty with WEP configuration.",
+            "entity_b": "Extremely stable with fantastic range. Fast and reliable with many advanced settings. Handles many connections without slowing down. Fast, reliable, and recommended for gaming and heavy usage."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Supports strong WiFi encryption for wireless access points. Performs well with multiple devices and gaming systems. Good for prioritizing packet routing and has a user-friendly interface. Lacks 802.11n specs but has MIMO system for higher speeds."
+        }
+    },
+    "Heat": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Gets hot, so should not be covered.",
+            "entity_b": "Overheats when stacked under another device."
+        }
+    }
+}

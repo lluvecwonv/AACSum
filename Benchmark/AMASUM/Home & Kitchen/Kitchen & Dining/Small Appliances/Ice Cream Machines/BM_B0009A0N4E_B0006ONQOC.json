@@ -1,0 +1,149 @@
+{
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Died within a month; replacement lasted 8 months. Durable for 3 years of use; good for large batches.",
+            "entity_b": "Machine overheats after 4 uses."
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Gears inside stripped; poor quality steel. Thin metal container can arrive bent. Metal shavings found inside the plastic cover.",
+            "entity_b": ""
+        }
+    },
+    "Ice Cream": {
+        "comm": "Ice cream was supreme.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Ice cream is incredible. Makes delicious ice cream."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lid to the container never sat completely flat and was hard to lock.",
+            "entity_b": ""
+        }
+    },
+    "Leakage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Water leakage due to a hole in the bucket.",
+            "entity_b": ""
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Manufacturer referral for replacement instead of Amazon.",
+            "entity_b": ""
+        }
+    },
+    "Vegan": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Easy to make vegan or non-dairy ice cream.",
+            "entity_b": "Good for vegan and dairy-free recipes."
+        }
+    },
+    "Blades": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Blades can get stuck; follow directions to prevent.",
+            "entity_b": ""
+        }
+    },
+    "Noise": {
+        "comm": "Noisy operation.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Very noisy during operation. Loud operation; noise level is high."
+        }
+    },
+    "Cord": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Short power cord; requires strategic placement.",
+            "entity_b": ""
+        }
+    },
+    "Ease of Use": {
+        "comm": "Easy to use.",
+        "cont": {
+            "entity_a": "Easy to use and makes delicious ice cream.",
+            "entity_b": "Easy to use and clean. Easy to clean and use."
+        }
+    },
+    "Metal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Thin metal container can arrive bent.",
+            "entity_b": ""
+        }
+    },
+    "Messiness": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Can be messy to add ice and salt. Difficult to add ice without making the metal piece float.",
+            "entity_b": ""
+        }
+    },
+    "Ice and Salt": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires a lot of ice and salt for operation.",
+            "entity_b": "Doesn't require ice cubes."
+        }
+    },
+    "Motor": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Motor struggles as ice cream hardens.",
+            "entity_b": "Motor generates too much heat."
+        }
+    },
+    "Batch Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durable for 3 years of use; good for large batches.",
+            "entity_b": "Avoid filling to full capacity for best results."
+        }
+    },
+    "Freezing": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Ice cream quality depends on chilling the ingredients and container.",
+            "entity_b": "Requires freezing the container completely before use. Must chill ingredients for best results. Must pre-freeze bowl and ingredients for optimal results."
+        }
+    },
+    "Instructions": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Instructions must be followed closely for successful results."
+        }
+    },
+    "Cleaning": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Cleaning is easy, but noise is a downside."
+        }
+    },
+    "Consistency": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Ice cream needs to be frozen after churning for desired consistency. Produces soft-serve ice cream; freeze for firmer consistency."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Worked great initially but stopped after a few months.",
+            "entity_b": "Works quickly and efficiently."
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Signal strength reduces with walls in between the laptop and router.",
+            "entity_b": "Connects well even with distance."
+        }
+    },
+    "Setup": {
+        "comm": "Setup can be challenging.",
+        "cont": {
+            "entity_a": "Setup was easy with fast downloads for existing wireless PCs. Easy setup but issues with shared mode; possible DNS passthrough problem. Customer support needed for setup unless user is IT-savvy.",
+            "entity_b": "Installation wizard on CD does not work. Requires XP compatibility mode for setup. Setup can be problematic with firewalls and antivirus. Difficult to set up without a Linksys router."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Does not work with DSL; not usable when plugged into a DSL modem. Not good as a regular DSL router.",
+            "entity_b": "Poor Vista support; requires XP compatibility mode for setup. Product is not compatible with Windows Vista. Not Vista compliant; works with Windows XP."
+        }
+    },
+    "Temperature": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Gets hot, so it should not be covered.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not cheap.",
+            "entity_b": ""
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good for traveling and hotel room use. Lightweight with its own carry case. Can secure connections during travels. Suitable for multi-user travel use.",
+            "entity_b": ""
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Excellent customer support from Netgear.",
+            "entity_b": "Lack of support from Linksys, with no firmware updates for modern operating systems. Technical support linked issues to Windows Vista."
+        }
+    },
+    "Functionality": {
+        "comm": "Works well.",
+        "cont": {
+            "entity_a": "Worked with cable internet connection before it stopped functioning.",
+            "entity_b": "Wireless security causes spotty connectivity. Works well when using an open network. Music streaming capability is effective but has sound quality issues. Good music output component but loses PC audio when activated."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Slim and nice looking.",
+            "entity_b": ""
+        }
+    },
+    "Configuration": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Difficult to configure WEP, but WPA configuration is quick.",
+            "entity_b": "Difficult to configure, with intermittent connections."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires daily reboot.",
+            "entity_b": "Outdated drivers and setup issues make it unreliable."
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Requires downloading the latest software for optimal performance. Firmware and software are outdated, with the last support for Windows XP. Wireless connection requires additional software download."
+        }
+    },
+    "Operating System": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Product is not compatible with Windows Vista. Not Vista compliant; works with Windows XP."
+        }
+    },
+    "Sound": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Sound quality is good with wired connection."
+        }
+    }
+}

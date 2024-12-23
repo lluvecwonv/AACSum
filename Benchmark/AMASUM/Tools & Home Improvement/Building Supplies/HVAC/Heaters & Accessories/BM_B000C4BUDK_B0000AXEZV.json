@@ -1,0 +1,58 @@
+{
+    "Heating": {
+        "comm": "Heats well and operates quietly.",
+        "cont": {
+            "entity_a": "Heats the room well. Heats the bedroom well and is silent. Gives off a lot of heat and does not use much electricity. Heats up quickly and quietly. Quiet and effective in heating a bathroom.",
+            "entity_b": "Heats a 1000 sq ft garage efficiently, raising temperature significantly. Each heater is rated for 500 sq ft. Effective in heating large spaces like oversized garages. Heats spaces well, but takes time to warm up from a cold state. Heats large detached garages effectively, even in cold weather. Heats a 24x16 barn effectively for winter use."
+        }
+    },
+    "Installation": {
+        "comm": "Installation is easy.",
+        "cont": {
+            "entity_a": "Installation instructions are clear and easy to read. Installation is generally easy, but pre-drilling the holes is recommended as the pre-stamped screw holes are not effective. Easy to install and well-packaged.",
+            "entity_b": "Installation is straightforward with available tutorials. Requires professional installation for optimal performance."
+        }
+    },
+    "Design": {
+        "comm": "Dimensions are exact and suitable for installation.",
+        "cont": {
+            "entity_a": "Fits perfectly as measurements are accurate. Looks great installed on the wall under windows. Product is well made, but handling and packing could be improved.",
+            "entity_b": "Flimsy mounting bar that bends and sags if not properly mounted."
+        }
+    },
+    "Durability": {
+        "comm": "Durability issues with some units failing after a short period.",
+        "cont": {
+            "entity_a": "Some units failed in under two years. Some units start making noise after 7-8 years of use. Some units are noisy, requiring earplugs for use.",
+            "entity_b": "Defective units with fan issues are common, requiring manufacturer contact. Some units failed after one year, raising concerns about quality."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not suitable as a primary heat source for areas larger than 75 sq ft.",
+            "entity_b": "Lacks a proper off switch, requiring use of the breaker to turn off."
+        }
+    },
+    "Customer Service": {
+        "comm": "Good customer service experience.",
+        "cont": {
+            "entity_a": "Efficient and polite, providing a replacement under warranty.",
+            "entity_b": ""
+        }
+    },
+    "Safety": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Instructions for a 240-volt appliance are poor with vague wiring diagrams.",
+            "entity_b": "Wiring requires caution due to potential safety issues."
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Product is not portable and must be hardwired.",
+            "entity_b": "Requires hardwiring and not a plug-in device."
+        }
+    }
+}

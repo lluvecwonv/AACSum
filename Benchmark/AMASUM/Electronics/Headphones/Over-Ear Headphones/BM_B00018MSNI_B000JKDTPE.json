@@ -1,0 +1,58 @@
+{
+    "Sound": {
+        "comm": "Sound is warm and detailed.",
+        "cont": {
+            "entity_a": "Sound is articulate and clean, with a warm and natural listening experience. Sound quality is crisp and clear, with good instrument separation. Sound is smooth, balanced, with incredible clarity and detail. Great imaging and instrument separation. Sound is real, with crisp, clean sound at all frequencies. Sound is balanced and not too bright. Sound quality is exceptional for the price.",
+            "entity_b": ""
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable for long listening sessions.",
+        "cont": {
+            "entity_a": "Comfort improves over time as clamping pressure relaxes. Very comfortable for extended use. Tight clamp force, which can be uncomfortable. Comfortable with a tight clamp force.",
+            "entity_b": ""
+        }
+    },
+    "Amplification": {
+        "comm": "Requires a headphone amp to reach full potential.",
+        "cont": {
+            "entity_a": "Requires a proper amp and good DAC for optimal performance. No amp needed for iPhone XR, but can benefit from a headphone amp for higher volumes. Requires a powerful amp for full potential due to 300-ohm impedance.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "Open-back design leads to sound leakage.",
+        "cont": {
+            "entity_a": "Open back design helps normalize hearing experience for those with tinnitus. Not suitable for noisy environments or recording vocals due to open-back design.",
+            "entity_b": ""
+        }
+    },
+    "Value": {
+        "comm": "Good for mixing due to accurate sound reproduction.",
+        "cont": {
+            "entity_a": "Considered a great value against more expensive models. Good value for the price, especially compared to higher-priced headphones.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Left side started cutting out after 6 months; replacement cable did not fix issue. Sennheiser refused replacement despite 2-year warranty due to Amazon purchase.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Pairs well with DarkVoice 336 SE tube amplifier and IFI Black Label portable DAC amp.",
+            "entity_b": ""
+        }
+    },
+    "Build": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Solid build with very good imaging for dynamic drivers. Detachable cable is a positive feature.",
+            "entity_b": ""
+        }
+    }
+}

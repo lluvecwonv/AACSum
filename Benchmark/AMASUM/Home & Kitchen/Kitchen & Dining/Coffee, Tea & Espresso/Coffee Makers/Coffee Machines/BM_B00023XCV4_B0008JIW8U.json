@@ -1,0 +1,86 @@
+{
+    "Origin": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Made in China despite being advertised as made in the USA.",
+            "entity_b": ""
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Low quality materials used in the basket and spreader. Quality issues with parts and materials. Thin metal construction and poor fitting parts.",
+            "entity_b": "Reasonable price but lacks durability."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No on-off button. No auto shut-off feature.",
+            "entity_b": "Automatic shut-off prevents burnt coffee. Programmable with auto shut-off."
+        }
+    },
+    "Brewing": {
+        "comm": "Brews quickly.",
+        "cont": {
+            "entity_a": "Brewed coffee contains many grounds. Works well with coarsely ground coffee and disc filters. Brews good coffee but requires careful cleaning of the cord area. Brews fast but lacks true percolated coffee boldness. Coffee grounds often end up in the cup. Brews hot coffee with great flavor, but grounds can slip through. Produces excellent coffee flavor.",
+            "entity_b": "Brews enough for two cups quickly and cheaply. Brews only 2.5 cups and turns off too soon. Produces an average cup of coffee. Brews a quick and easy cup of coffee. Brews hot coffee with auto shut-off."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sleek design and keeps coffee hot when plugged in.",
+            "entity_b": "Compact and easy to use. Small size convenient for single servings. Small size suitable for single person use."
+        }
+    },
+    "Durability": {
+        "comm": "Stopped working after a few months.",
+        "cont": {
+            "entity_a": "Short lifespan of 5 months. Stopped percolating after five uses. Durability issues with heating and percolating after months of use.",
+            "entity_b": "Stopped working after a little over a year. Short lifespan of 6 months."
+        }
+    },
+    "Noise": {
+        "comm": "Noisy operation.",
+        "cont": {
+            "entity_a": "Noisy operation during brewing.",
+            "entity_b": "Loud ticking noise during brewing."
+        }
+    },
+    "Temperature": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Temperature and brewing duration issues after initial use. Brews very hot coffee. Does not keep coffee hot for long.",
+            "entity_b": "Does not keep coffee hot for long. Heats quickly but lacks a stay-warm feature."
+        }
+    },
+    "Safety": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Frequent tripping of GFCI outlets. Some users experience electrical and safety issues.",
+            "entity_b": ""
+        }
+    },
+    "Convenience": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comfortable handle and short cord. No plastic parts touch the water.",
+            "entity_b": "Difficult to pour without spilling. Lid requires a snap to close properly. Decanter drips when pouring slowly."
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Small size convenient for single servings. Small size suitable for single person use. Small size limits to one large coffee cup."
+        }
+    },
+    "Cleaning": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Compact and easy to clean."
+        }
+    }
+}

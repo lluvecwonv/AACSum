@@ -1,0 +1,93 @@
+{
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Affordable compared to Microsoft models, priced under $20.",
+            "entity_b": ""
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not suitable for small hands, causing strain in the index finger. Comfortable for big hands, reducing wrist strain.",
+            "entity_b": "Small size may not be comfortable for all users."
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Installation is easy and quick, taking about 2 minutes.",
+            "entity_b": "Easy to install. Some users experience issues with driver installation."
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Produces a loud clicking sound.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Very durable and long-lasting.",
+            "entity_b": "Some users report durability issues."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Does not have an on/off button or rechargeable batteries. Accurate for tasks like Photoshop. Some users experience issues with the scroll wheel and button placement. Not ideal for gaming due to stiff middle button. Magnifier and Instant Viewer features are appreciated.",
+            "entity_b": "Buttons are easy to push, scroll wheel works well. Laser sensor works on various surfaces. Magnification feature is useful. Not suitable for gaming due to smooth middle button. Scroll wheel can become sticky over time. Magnifier button is not programmable."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Ergonomic design alleviates wrist pain. Design helps with carpal tunnel relief. Ergonomic shape encourages natural hand positioning. Thumb rest placement can be awkward. Heavy with two batteries, suggested to use one.",
+            "entity_b": "Design is ambidextrous, which may not be comfortable for prolonged use. Receiver design is convenient for storage. Precision and ergonomic design are praised."
+        }
+    },
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wireless feature works flawlessly. Short wireless range can be an issue. Some users report issues with wireless connectivity and tracking.",
+            "entity_b": "Very good quality, but limited range. Connectivity issues with some wireless models. Some users report tracking issues."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good battery life, lasting several months. Battery compartment is durable and long-lasting.",
+            "entity_b": "Battery life is long-lasting. Battery compartment can be fragile."
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Recommended for larger hands, smaller hands may find it too big. Not suitable for small hands due to size and weight. Side buttons may be difficult to reach for some users.",
+            "entity_b": "Compact and portable, good for travel. Not recommended for those with large hands."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service is responsive and helpful.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Not compatible with Windows 8, works well with Windows XP. Works well with Windows 7."
+        }
+    },
+    "Aesthetics": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Gel thumb-grip can discolor over time.",
+            "entity_b": ""
+        }
+    }
+}

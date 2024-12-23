@@ -1,0 +1,132 @@
+{
+    "Comfort": {
+        "comm": "Comfortable.",
+        "cont": {
+            "entity_a": "Comfortable grip even with a wrist-brace.",
+            "entity_b": "Heavy and large but comfortable."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not compatible with Mac.",
+            "entity_b": "Works with Mac. Not compatible with all media programs."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Consumes batteries quickly.",
+            "entity_b": "Long battery life with rechargeable batteries. Batteries last about 2 months."
+        }
+    },
+    "Construction": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cheap plastic construction. Materials have been cheapened over time. Poor construction quality in wireless version.",
+            "entity_b": "Long-lasting and durable."
+        }
+    },
+    "Buttons": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Thumb-buttons feel fragile. Awkward button placement. Tricky scroll feature. Frequent malfunctions in button functionality.",
+            "entity_b": "Ergonomic design with programmable buttons. Not all buttons are programmable."
+        }
+    },
+    "Surface Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Limited surface compatibility, only works on pants leg.",
+            "entity_b": ""
+        }
+    },
+    "Hardware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Flimsy outdated hardware.",
+            "entity_b": ""
+        }
+    },
+    "Scroll": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No scrolling feature. Scroll button does not work on text editors in Windows. Scroll button fails within months of use. No scroll wheel, limiting for gaming. No scroll wheel, affecting usability.",
+            "entity_b": ""
+        }
+    },
+    "Wireless": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cable in wired version is too stiff, wireless recommended. Wireless version lacks responsiveness. Wireless version prone to freezing.",
+            "entity_b": "Good range and battery life."
+        }
+    },
+    "Ergonomics": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Effective in reducing wrist stress and pain. Helps alleviate carpal tunnel symptoms. Joystick design helps maintain a safe hand position. Relieves wrist pain effectively. Effective in reducing repetitive strain injuries. Helps relieve tendonitis and carpal tunnel pain.",
+            "entity_b": "Ergonomic design with programmable buttons."
+        }
+    },
+    "Usability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Uncomfortable for those with arthritis. Difficult to use for those accustomed to a standard mouse. Not suitable for precise control. Requires whole arm movement, leading to shoulder strain. Difficult to control pointing accuracy. Requires entire hand movement, not joystick-like.",
+            "entity_b": "Not balanced, causing discomfort."
+        }
+    },
+    "Left-Handed": {
+        "comm": "Not suitable for left-handed users.",
+        "cont": {}
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Design requires adaptation period.",
+            "entity_b": ""
+        }
+    },
+    "Gaming": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Slow and clumsy for gaming. 60% unresponsive and slow clicker.",
+            "entity_b": ""
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No software support from 3M.",
+            "entity_b": "Cursor issues resolved with driver upgrade."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Great for media control with long range. Media controls work well with Windows Media and iTunes."
+        }
+    },
+    "Behavior": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Erratic mouse behavior reported."
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Heavy and large but comfortable."
+        }
+    },
+    "Axis": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Occasional axis movement issues."
+        }
+    }
+}

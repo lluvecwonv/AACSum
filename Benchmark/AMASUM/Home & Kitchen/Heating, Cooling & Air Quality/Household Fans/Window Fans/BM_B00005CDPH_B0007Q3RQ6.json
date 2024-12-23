@@ -1,0 +1,65 @@
+{
+    "Fit": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Fits perfectly in casement windows.",
+            "entity_b": ""
+        }
+    },
+    "Thermostat": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Unreliable and requires frequent recalibration.",
+            "entity_b": ""
+        }
+    },
+    "Output": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Low output and does not push much air.",
+            "entity_b": "Powerful and moves a lot of air."
+        }
+    },
+    "Airflow": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Reverse switch allows changing airflow direction without flipping the fan.",
+            "entity_b": "Lacks a reverse airflow feature."
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Easy but lacks a remote control.",
+            "entity_b": "Requires securing the fan to the window frame. Heavy and requires careful installation. Not well-suited for quick, temporary installations."
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Noisy and not suitable for watching TV.",
+            "entity_b": "Loud, especially on higher settings. Noise level is high but acceptable for its air-moving capability."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Concern with components failing after a short period.",
+            "entity_b": "Durable and well-built."
+        }
+    },
+    "Temperature": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Temperature system causes it to turn on and off frequently.",
+            "entity_b": ""
+        }
+    },
+    "Cooling": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Ineffective in cooling and not worth the price.",
+            "entity_b": "Effective in cooling large spaces."
+        }
+    }
+}

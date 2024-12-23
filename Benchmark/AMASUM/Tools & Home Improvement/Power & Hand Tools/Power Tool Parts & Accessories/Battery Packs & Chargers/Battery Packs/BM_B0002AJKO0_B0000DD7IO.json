@@ -1,0 +1,72 @@
+{
+    "Packaging": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Item packaging appeared old and dirty.",
+            "entity_b": "Genuine Dewalt product in factory packing."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Batteries are compatible with DeWalt DW996 power driver.",
+            "entity_b": "Third set of batteries for DeWalt 7.2 cordless screwdriver."
+        }
+    },
+    "Battery Life": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Battery life is not long-lasting under heavy use. Battery life is good but requires charger on every job. Battery gives longer run time and better torque.",
+            "entity_b": "First set lasted about 6 years, second set 4 years. Batteries last weeks before needing recharge. Battery life is very good, lasting for an hour or two of steady use."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Batteries are well made and give good service.",
+            "entity_b": "Batteries hold up well in demanding environments."
+        }
+    },
+    "Performance": {
+        "comm": "Replacement batteries perform well.",
+        "cont": {
+            "entity_a": "OEM battery performs like new and fits well. Battery pack works great and holds charge well. Battery fit perfectly and fully charges. New battery provides great power and retains charge.",
+            "entity_b": "Replacement batteries work well for heavy use. Replacement battery keeps tools going all day. Replacement battery works great in electric screwdriver."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Pricey compared to other brands but lasts longer. Great price compared to local stores. Price and performance better than local store options.",
+            "entity_b": "Genuine OEM Dewalt 7.2V batteries at a reasonable price."
+        }
+    },
+    "Build Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Better build quality than aftermarket batteries.",
+            "entity_b": ""
+        }
+    },
+    "OEM Comparison": {
+        "comm": "OEM batteries hold charge well.",
+        "cont": {
+            "entity_a": "OEM battery has longer run time than original. OEM batteries are more reliable than rebuilt or knock-offs.",
+            "entity_b": "OEM batteries last more than twice as long as Powerextra. OEM batteries hold charge better than aftermarket."
+        }
+    },
+    "Fit": {
+        "comm": "Replacement battery fits well.",
+        "cont": {
+            "entity_a": "Batteries are slightly larger but fit existing tools. Fits the equipment as designed and charges fine.",
+            "entity_b": "Battery fits snugly but works fine."
+        }
+    },
+    "Longevity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Battery charged and held charge well over six months.",
+            "entity_b": "Replacement batteries do not last long after full charge."
+        }
+    }
+}

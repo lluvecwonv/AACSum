@@ -1,0 +1,41 @@
+{
+    "Security": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lock is extremely easy to pick, making it unsuitable for security purposes. It is a deterrent for the general population but not secure against knowledgeable individuals. It is not suitable for securing valuable items. The lock has a bypass flaw that allows it to be opened without picking. It is a small lock, not suitable for high-security needs.",
+            "entity_b": "The lock is durable and secure for indoor use. The lock has a shielded shackle for added security."
+        }
+    },
+    "Ease of Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lock is easy to pick open with minimal tools. The lock operates smoothly and fits well in various lock holes.",
+            "entity_b": "The lock is easy to use and operate with the key."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Build quality is decent for a low-cost lock. The lock is lightweight and feels flimsy. It is not resistant to brute force methods like bolt cutters.",
+            "entity_b": "The lock is sturdy and fits well in storage units. The lock is heavy-duty and not easy to cut. The lock is suitable for use in storage facilities and trailers."
+        }
+    },
+    "Weather Resistance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "It is not weather-resistant and can rust or corrode over time.",
+            "entity_b": "The lock collects water and freezes in cold weather, making it hard to open. The lock rusts when exposed to the elements. The lock is not suitable for wet environments due to rust issues."
+        }
+    },
+    "Keys": {
+        "comm": "The key is flimsy and prone to breaking.",
+        "cont": {
+            "entity_a": "The lock comes with two keys, which is convenient.",
+            "entity_b": "The lock comes with a single key, which can be inconvenient."
+        }
+    },
+    "Brand": {
+        "comm": "Master Lock is a trusted brand with a reputation for quality.",
+        "cont": {}
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "Comfort": {
+        "comm": "Comfortable to use.",
+        "cont": {
+            "entity_a": "Symmetrical design is preferred.",
+            "entity_b": "Ergonomic shape fits well in hand."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The mouse offers lots of options and is comfortable to use, even with Mac. Requires software for full media function usage. Compatible with media programs like Rhapsody and iTunes. Experience issues with erratic behavior and spontaneous volume increases. Compatible with all versions of SetPoint software from Logitech's website.",
+            "entity_b": "Requires optimal distance between transmitter and mouse for smooth operation. Wireless receiver works through a wood desk. Power saving function shuts off the mouse until motion is detected. No hesitation or skipping during use. Does not work with AOL Instant Messenger for message alerts. Receiver plugs into USB port easily. Mouse works well on any surface."
+        }
+    },
+    "Performance": {
+        "comm": "Performance is fantastic.",
+        "cont": {
+            "entity_a": "Cursor jumping issues can be resolved with a driver upgrade or exchange. Long range and good looking. Transmission range decreases with unit age.",
+            "entity_b": "Very smooth performance with graphics. Mouse lags slightly during heavy system usage."
+        }
+    },
+    "Buttons": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Buttons are functional and well-placed. Media controls for volume, track skipping, and customizable buttons. Buttons are not all programmable. Volume control and internet browsing buttons are convenient.",
+            "entity_b": "Multi-function buttons are optional. Customizable buttons. Configuration utility for buttons is easy to use. Buttons are easy to program. Volume control is useful for gaming. Audio controls/mute button is handy."
+        }
+    },
+    "Battery": {
+        "comm": "Battery life is excellent, lasting months.",
+        "cont": {
+            "entity_a": "Rechargeable batteries last approximately three months with 8 hours of daily use. Batteries are user-replaceable. Battery life is long on NiMH rechargeables.",
+            "entity_b": "Power saving function shuts off the mouse until motion is detected."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Older style design with hard plastic around the lower side. Ergonomically designed but considered large and heavy. The mouse is not balanced, causing difficulty in picking it up. Not suitable for left-handed use. Considered not suitable for left-handed users due to lack of support.",
+            "entity_b": "Ergonomic shape fits well in hand. Great cordless mouse for CAD use."
+        }
+    },
+    "Installation": {
+        "comm": "Installation is easy.",
+        "cont": {
+            "entity_a": "The transmitter is small and easy to carry.",
+            "entity_b": "Mini receiver is compact without clutter."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Left-click button may fail after five years, but otherwise durable. LED burned out over time.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Does not support all media programs, specifically Dell Media Experience.",
+            "entity_b": "Email and instant message buttons may not work with all clients."
+        }
+    }
+}

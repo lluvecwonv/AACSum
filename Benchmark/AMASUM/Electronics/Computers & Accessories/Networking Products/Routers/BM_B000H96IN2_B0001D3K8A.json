@@ -1,0 +1,79 @@
+{
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Supports dd-wrt software, adding many features. Linksys does not provide firmware updates anymore. Cisco no longer provides firmware updates for discontinued models. Firmware needs updating to fix connectivity problems.",
+            "entity_b": "Performs well with third-party firmware like Tomato. Stock software lacks features of third-party firmware. Great product for adding custom firmware like DD-WRT."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router crashes occasionally and requires at least 2 reboots. Died after about 8 months of use. Runs solid with DD-WRT, staying up for weeks without rebooting. Firmware has issues with NAT settings and wireless connections dropping. Standard firmware requires frequent reboots due to performance issues. Loses connectivity randomly.",
+            "entity_b": "Requires occasional resets but generally reliable. Good performance for internet connection. Reliable and durable over years of use. Requires frequent resets due to connectivity issues. Router works as expected but requires setup tweaks. Good performance and range, easy to set up."
+        }
+    },
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No wireless N enabled devices will connect. Has less range than a Netgear Wireless-G router. Wireless storage feature does not work with NTFS formatted drives. Loses connectivity randomly. Setup procedure is straightforward but lacks internet connectivity post-setup. Price is good but product has connectivity issues.",
+            "entity_b": "Works well with various computers and VoIP service. Does not work with PS3 unless directly connected. Signal strength is adequate for a 3-bedroom house."
+        }
+    },
+    "Installation": {
+        "comm": "Installation is straightforward.",
+        "cont": {
+            "entity_a": "Setup wizard did not work with Windows XP, requiring manual configuration. Installation is simple with provided CD.",
+            "entity_b": "Installation is quick. Easy setup with installation CD. Setup is quick with Windows XP tool from Linksys website."
+        }
+    },
+    "Configuration": {
+        "comm": "Easy to configure.",
+        "cont": {
+            "entity_a": "Easy to configure and forget once set up. Easy-to-use management web interface.",
+            "entity_b": "Setup can be confusing due to inconsistent tab labeling. Easy to configure with clear instructions."
+        }
+    },
+    "Range": {
+        "comm": "Good range.",
+        "cont": {
+            "entity_a": "Has less range than a Netgear Wireless-G router.",
+            "entity_b": "Signal strength is adequate for a 3-bedroom house."
+        }
+    },
+    "Setup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Setup procedure is straightforward but lacks internet connectivity post-setup.",
+            "entity_b": "Setup can be challenging without technical knowledge."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Great tech support experience."
+        }
+    },
+    "Hardware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Hardware revision sticker was overlaid with a new sticker.",
+            "entity_b": ""
+        }
+    },
+    "Security": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Good range and security features."
+        }
+    },
+    "Storage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "USB storage features are limited and often do not work. Wireless storage feature does not work with NTFS formatted drives.",
+            "entity_b": ""
+        }
+    }
+}

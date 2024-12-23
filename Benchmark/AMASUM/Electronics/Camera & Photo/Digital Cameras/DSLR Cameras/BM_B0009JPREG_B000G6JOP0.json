@@ -1,0 +1,58 @@
+{
+    "Camera": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Has similar capabilities to today's cell phones in harsh lighting conditions. Synchronizes to 1/500 sec in flash mode with an external Nikon flash SB-600. Easy to use for beginners with a lot of options and manual settings. 6.1MP is considered decent, emphasizing the importance of the photographer's skill. A good entry-level DSLR with a lot of features.",
+            "entity_b": "D2xs camera body arrived in perfect condition. Performs very well for an older pro body. The D2x and D2xs are about 90% the same. Considered a great performer despite newer models like the D300, D700, and D3s."
+        }
+    },
+    "Build": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The body is solid, heavy, utilitarian, and highly functional without unnecessary features. The camera body and equipment arrived in excellent condition and performed as if new.",
+            "entity_b": "The camera is very tough and reliable, suitable for long-term use. The camera is a workhorse with a strong build. The autofocus is faster than manual focus, but the camera is heavy."
+        }
+    },
+    "Image Quality": {
+        "comm": "Excellent image quality.",
+        "cont": {
+            "entity_a": "Excellent image quality with crisp and clear photos. Noise is practically non-existent at ISO 200 due to larger photosensors.",
+            "entity_b": "Produces sharp 16x24 prints with a good lens. Offers excellent low ISO performance and outstanding image quality."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with old film AF lenses and manual lenses, but manual focus is required with non-AF lenses.",
+            "entity_b": ""
+        }
+    },
+    "Color": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The color capture sensor is accurate and matches well with the Fuji Frontier printer.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "There is a known issue with the CF card holder being ceramic and prone to cracking.",
+            "entity_b": ""
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great battery life, lasting for weeks even with daily use. Battery life is impressive, lasting for over 500 photos in raw format.",
+            "entity_b": ""
+        }
+    },
+    "Usability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera is dependable and well-made, suitable for beginners to intermediate users.",
+            "entity_b": "Review screen is small, and picture quality is not as good as the D300."
+        }
+    }
+}

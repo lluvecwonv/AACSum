@@ -1,0 +1,58 @@
+{
+    "Sound": {
+        "comm": "Crisp and clean sound.",
+        "cont": {
+            "entity_a": "Great sound quality with separate acoustics and crisp bass. Versatile for music, movies, and gaming with clear sound across all frequencies.",
+            "entity_b": "Decent highs and mids, but weak bass. Sound quality is good but overshadowed by poor durability. Not suitable for high bass output; distorts at max volume."
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable fit.",
+        "cont": {
+            "entity_a": "Large ear cups and soft padding.",
+            "entity_b": "Can cause discomfort after prolonged use."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durable with some plastic cracking over time, but still functional.",
+            "entity_b": "Subpar build quality with weak plastic prone to breaking. Sound quality is good but overshadowed by poor durability."
+        }
+    },
+    "Cable": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Long cable, sometimes cumbersome but allows movement.",
+            "entity_b": "Short cord limits movement."
+        }
+    },
+    "Suitability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not suitable for public use due to sound leakage.",
+            "entity_b": "Not suitable for high bass output; distorts at max volume."
+        }
+    },
+    "Price": {
+        "comm": "Good value for money.",
+        "cont": {
+            "entity_a": "Excellent value for money, especially for long-term use.",
+            "entity_b": "Affordable price."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Open design allows ambient sound to be heard, not ideal for noise isolation.",
+            "entity_b": "Portable and stylish design."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires an adapter for 3.5mm devices, which is included.",
+            "entity_b": ""
+        }
+    }
+}

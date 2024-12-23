@@ -1,0 +1,100 @@
+{
+    "Ergonomics": {
+        "comm": "Comfortable.",
+        "cont": {
+            "entity_a": "Excellent ergonomics, comfortable in hand.",
+            "entity_b": "Compact yet comfortable. Comfortable design but too large for small hands."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Ability to swap batteries on the fly is great, especially during gaming. The mouse is comfortable, but battery life is short, requiring frequent swaps. Frequent battery swaps required, but quick to change. Short battery life, needing daily changes. The battery concept is advanced, allowing quick swaps. Poor battery life, requiring frequent swaps. The spare battery concept is a plus.",
+            "entity_b": "Performs well with unbelievable battery life. Balance is slightly off when the battery is installed. Battery life is good, lasting four to six months."
+        }
+    },
+    "Accuracy": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Accuracy nearly as good as any wired mouse. Wireless range and accuracy are good. Great for gaming, with fast response time and adjustable sensitivity.",
+            "entity_b": "Not responsive or accurate, requiring a mouse pad. Poor performance and accuracy."
+        }
+    },
+    "Interference": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Suffers from WiFi interference. Stutters during gaming due to interference. Frequent disconnects and cursor locks due to interference. Interference with other wireless devices is a common issue.",
+            "entity_b": ""
+        }
+    },
+    "Sensitivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "2000dpi sensitivity is appreciated. Ergonomics are great, with dynamic DPI change improving precision.",
+            "entity_b": "The mouse is more sensitive than previous versions."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Design includes a small charger stand, which is convenient. The black version has a better surface feel.",
+            "entity_b": "Works well on any surface. Smooth feel and straightforward installation. Large receiver is almost as big as the mouse. Huge receiver makes it less portable."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Frequent issues with the left button wearing out and getting stuck. The mouse is rugged and withstands drops.",
+            "entity_b": ""
+        }
+    },
+    "Scroll": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Scroll wheel problems were fixed by disassembling and cleaning.",
+            "entity_b": "Tight middle button, hard to push."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Works well with Mac using USB Overdrive.",
+            "entity_b": "Instant connection without software installation."
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Receiver doesn't have a place to plug into the mouse for portability.",
+            "entity_b": "USB adapter stores in the mouse."
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wireless range is great, with a 10-foot control distance.",
+            "entity_b": "Signal range is weaker than expected. Signal strength issues, requiring receiver repositioning. The USB receiver is large and has a short range."
+        }
+    },
+    "Configuration": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Buttons are completely configurable.",
+            "entity_b": ""
+        }
+    },
+    "Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Logitech customer service is not impressive.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great mouse for gaming, with fast reaction time.",
+            "entity_b": "Great magnification feature for those with vision problems. Magnifier button is a useful feature."
+        }
+    }
+}

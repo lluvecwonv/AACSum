@@ -1,0 +1,86 @@
+{
+    "Sharpness": {
+        "comm": "Sharp images.",
+        "cont": {
+            "entity_a": "Tack sharp with brilliant color. Super-sharp even at F1.8. Very sharp from f1.8. Sharp and fast, surpassing Canon and Nikon lenses. Sharp autofocus.",
+            "entity_b": "Sharp as a tack with a fast f/2.8 aperture. Very sharp and true color lens. Super clear and sharp images without vignetting."
+        }
+    },
+    "Color": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Brilliant color. Colors and microcontrast are typical Zeiss. Brighter colors and crisper than other Sony lenses.",
+            "entity_b": "True color lens."
+        }
+    },
+    "Bokeh": {
+        "comm": "Outstanding bokeh.",
+        "cont": {
+            "entity_a": "Round bokeh. Creamy bokeh.",
+            "entity_b": ""
+        }
+    },
+    "Weight": {
+        "comm": "Heavy.",
+        "cont": {
+            "entity_a": "Not suitable as a 'walk around' lens. Best used with a tripod.",
+            "entity_b": "Bulky but sturdy with fantastic glass."
+        }
+    },
+    "Price": {
+        "comm": "Worth the investment.",
+        "cont": {
+            "entity_a": "High price tag.",
+            "entity_b": "Pricey."
+        }
+    },
+    "Build": {
+        "comm": "Well built.",
+        "cont": {
+            "entity_a": "Comfortable to handle. Lacks weather sealing.",
+            "entity_b": "Great build quality. Rugged build quality in the L series."
+        }
+    },
+    "Image Quality": {
+        "comm": "Excellent optical quality.",
+        "cont": {
+            "entity_a": "Provides stunning images on various Sony cameras. Top-notch image quality.",
+            "entity_b": "Magical pictures without post-processing. Superb image quality."
+        }
+    },
+    "Photography Types": {
+        "comm": "Great for low light.",
+        "cont": {
+            "entity_a": "Perfect for portrait work and astrophotography. Excellent for portraits, low-light settings, and action shots.",
+            "entity_b": "Perfect for landscapes and night photography. Excellent lens for real estate photography. Great for wide-angle shots without fisheye effect."
+        }
+    },
+    "Autofocus": {
+        "comm": "Fast autofocus.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": ""
+        }
+    },
+    "Stabilization": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Built-in camera stabilization allows handheld use in low light.",
+            "entity_b": ""
+        }
+    },
+    "Focal Length": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Flexible focal length range of 16-35mm."
+        }
+    },
+    "Packaging": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Issues with packaging and missing instructions or warranty sheet."
+        }
+    }
+}

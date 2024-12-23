@@ -1,0 +1,114 @@
+{
+    "Customer Service": {
+        "comm": "Long wait times.",
+        "cont": {
+            "entity_a": "Worst customer service.",
+            "entity_b": "Customer service is helpful."
+        }
+    },
+    "Technical Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Long technical support wait times. Tech support lacks knowledge and effectiveness.",
+            "entity_b": "Good tech support."
+        }
+    },
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router frequently reboots and drops wireless connection. Frequent disconnections and reboots, unresolved by firmware upgrades. Occasional dropped connections. Router works but with frequent disconnections.",
+            "entity_b": "Frequent disconnections and freezing issues. Problems with wireless stability and frequent resets needed. Requires firmware updates to fix connectivity issues."
+        }
+    },
+    "Configuration": {
+        "comm": "Easy to set up.",
+        "cont": {
+            "entity_a": "Can only configure wireless channel 6.",
+            "entity_b": "Easy to configure. Setup is straightforward."
+        }
+    },
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Signal strength and quality are inconsistent. Signal strength sustains up to 50 meters. Signal range is poor beyond short distances.",
+            "entity_b": "Excellent range with MIMO technology. Signal strength is strong even through multiple walls. Strong range but plagued by firmware issues. Better range than previous models but inconsistent strength. Strong signal and good coverage throughout the house. MIMO technology provides good signal quality."
+        }
+    },
+    "Documentation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Advanced features are not well documented.",
+            "entity_b": ""
+        }
+    },
+    "Product Description": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Misleading product description regarding data transfer speed.",
+            "entity_b": ""
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Reliable for years. Good for basic use but not for consistent connectivity.",
+            "entity_b": "Good range and speed but unreliable. Good for basic use but requires frequent firmware updates."
+        }
+    },
+    "Installation": {
+        "comm": "Simple setup.",
+        "cont": {
+            "entity_a": "Installation is simple if instructions are followed. Problems with setup using the CD, requiring manual setup.",
+            "entity_b": "Easy installation and setup."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Stable connection speed of 108Mbps with a compatible wireless card.",
+            "entity_b": "Good speed and connection quality."
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Firmware and OS updates are recommended for optimal performance.",
+            "entity_b": "Requires firmware updates to fix connectivity issues. Strong range but plagued by firmware issues."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Inexpensive and easy to set up. Strong signals and reasonable price.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with VPN and offers good range.",
+            "entity_b": "Incompatibility with certain devices like PlayStation 3."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Outdated for modern standards but suitable for low-cost systems.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router is sensitive to power surges."
+        }
+    },
+    "Security": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Good security features."
+        }
+    }
+}

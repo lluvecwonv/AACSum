@@ -1,0 +1,51 @@
+{
+    "HeatDistribution": {
+        "comm": "Provides a crispy crust.",
+        "cont": {
+            "entity_a": "The heavy gauge retains and distributes heat well for making crispy dosas. Not suitable for conduction or flat glass stove tops due to uneven heat distribution. Great for making Saravana Bhavan style crisp dosais.",
+            "entity_b": "Perforations make for crisper crusts and firmer doughs. Provides evenly cooked pizzas with no soggy crusts."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Warped after a few uses on medium-high heat, indicating potential defects. Lodge cast iron pans are known for their quality and durability. Heavy and durable, expected to last a lifetime.",
+            "entity_b": "The pan warps slightly after baking, suggesting thin metal. The coating remains intact after multiple dishwasher uses. The pan is sturdy."
+        }
+    },
+    "Handling": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comes with handles, making it easy to lift but they get hot.",
+            "entity_b": "Requires careful handling due to holes that can cause messes."
+        }
+    },
+    "Rust": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rusts easily and takes a long time to heat up. Cast iron pans require proper maintenance to prevent rust.",
+            "entity_b": ""
+        }
+    },
+    "Versatility": {
+        "comm": "The pan is versatile and can be used for various foods.",
+        "cont": {
+            "entity_a": "Versatile for making pizza, biscuits, and more. Can be used on the stove, in the oven, or on the grill.",
+            "entity_b": "Suitable for use in RV ovens with Airbake technology. Great for creating crispy crusts in toaster ovens."
+        }
+    },
+    "Maintenance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Pre-seasoned but requires additional seasoning for optimal use.",
+            "entity_b": "Non-stick qualities make it easy to clean. Easy to clean and maintain, but cutting pizza on it can scratch the surface. Non-stick surface prevents dough from sticking."
+        }
+    },
+    "ReturnPolicy": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Difficult to return, with returns only available through Amazon.",
+            "entity_b": ""
+        }
+    }
+}

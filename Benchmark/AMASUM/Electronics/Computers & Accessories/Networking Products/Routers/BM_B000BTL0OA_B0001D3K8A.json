@@ -1,0 +1,100 @@
+{
+    "Connectivity": {
+        "comm": "The router frequently loses connection.",
+        "cont": {
+            "entity_a": "The router stops broadcasting on 2.4 GHz and requires frequent reboots. The 5GHz band is unstable and requires a restart. The 2.4 GHz band disconnects devices frequently. The router frequently disconnects from Wi-Fi.",
+            "entity_b": "The router frequently loses settings and is affected by interference. The router's performance is inconsistent, requiring frequent resets."
+        }
+    },
+    "Performance": {
+        "comm": "The router provides good performance.",
+        "cont": {
+            "entity_a": "The router manages traffic from multiple devices efficiently. The router provides good speed and stable Wi-Fi. The router's Wi-Fi signal is strong and stable.",
+            "entity_b": "The router has good performance but the access point feature is problematic. The router has reliable performance with minimal drops. The router's wireless performance is reliable and stable."
+        }
+    },
+    "Customization": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router supports DD-WRT and OpenWRT firmware for customization. Installation of OpenWRT is easy and provides more customization options. The router has advanced customization options with open-source firmware.",
+            "entity_b": "The router supports third-party firmware like Tomato. The router's stock software lacks features compared to third-party firmware. The router is a step backward due to lack of third-party firmware support."
+        }
+    },
+    "Installation": {
+        "comm": "The setup is easy.",
+        "cont": {
+            "entity_a": "The setup wizard has issues and may brick the router. The router's setup is difficult, requiring multiple reboots. The setup is easy, but the factory box was unsealed.",
+            "entity_b": "The router is easy to install with good security encryption. The router's setup process is straightforward and quick. The router's setup can be confusing due to inconsistent terminology."
+        }
+    },
+    "Coverage": {
+        "comm": "The router has good range.",
+        "cont": {
+            "entity_a": "Wi-Fi coverage is excellent, covering a large house with an extender. The router has a limited range compared to other models.",
+            "entity_b": "The router has good range and is easy to install. The router has a short range and poor signal strength."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Tech support is poor and unhelpful. Linksys support offers no effective solutions for connectivity issues.",
+            "entity_b": "Tech support was helpful but time-consuming. Tech support was effective in assisting with setup."
+        }
+    },
+    "Security": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router's wireless security is weak, allowing unauthorized WAN traffic. The router is vulnerable to KRACK and lacks security updates.",
+            "entity_b": "The router has good security features and supports AES and TKIP encryption."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router is unstable under load, causing reboots. The router has ongoing connectivity issues with no fix from Linksys. The router has hardware issues causing frequent Wi-Fi drops.",
+            "entity_b": "The router is reliable and durable over several years of use. The router works flawlessly after setup."
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router is compatible with DD-WRT firmware for customization.",
+            "entity_b": "The router was locked with a custom firmware and could not be altered."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router runs hot, causing an unpleasant odor. The router runs hot and is prone to overheating.",
+            "entity_b": "The router arrived without a power adapter."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router is incompatible with some modems and has poor wireless configuration.",
+            "entity_b": "The router works well with Mac devices after tech support assistance. The router works well with Verizon FIOS."
+        }
+    },
+    "Web Interface": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The web interface is easy to navigate.",
+            "entity_b": ""
+        }
+    },
+    "VPN": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The VPN functionality works well, showing connections from a distant location with encryption.",
+            "entity_b": ""
+        }
+    },
+    "Replacement": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Linksys customer support replaced the faulty router.",
+            "entity_b": "The router was defective on arrival but replacement worked well."
+        }
+    }
+}

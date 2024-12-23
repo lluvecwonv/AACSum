@@ -1,0 +1,121 @@
+{
+    "Mechanism": {
+        "comm": "Stops flow after releasing the trigger.",
+        "cont": {
+            "entity_a": "Takes pressure off the cartridge when the trigger is released, preventing flow.",
+            "entity_b": "Doesn't drip after releasing the trigger, unlike older caulk guns."
+        }
+    },
+    "Dripping": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Thinner caulks still drip regardless.",
+            "entity_b": "Not truly drip-free with some products, like E6800 glue."
+        }
+    },
+    "Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The hanging hook and ease of loading are nice features.",
+            "entity_b": "Has a tip cutter and seal punch, making it versatile and user-friendly."
+        }
+    },
+    "Puncture": {
+        "comm": "Has a built-in puncture device.",
+        "cont": {
+            "entity_a": "The puncture rod is barely long enough for some caulk tubes.",
+            "entity_b": ""
+        }
+    },
+    "Pressure": {
+        "comm": "Requires little pressure to use, suitable for arthritic hands.",
+        "cont": {
+            "entity_a": "Requires little pressure to squeeze.",
+            "entity_b": "Requires less force than standard models, doesn't drip, and is easy on hands."
+        }
+    },
+    "Cutter": {
+        "comm": "Built-in slicer or tip cutter included.",
+        "cont": {
+            "entity_a": "Built-in slicer to cut the tip off the caulk tube is an added bonus.",
+            "entity_b": "Offers smooth and controlled application with a tip cutter included."
+        }
+    },
+    "Lightweight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lightweight with good leverage for squeezing out thicker caulk easily.",
+            "entity_b": "Leverage makes it easier to use than cheap guns."
+        }
+    },
+    "Ease": {
+        "comm": "Very easy to use.",
+        "cont": {
+            "entity_a": "Makes caulking faster and easier, improving the quality of beads.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Trigger assembly pivot broke on two purchased units.",
+            "entity_b": "Reliable use over years with a heavy-duty build."
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable to use.",
+        "cont": {
+            "entity_a": "Well made, comfortable feel.",
+            "entity_b": "Has a padded grip and smooth tip cutter, making it comfortable to use."
+        }
+    },
+    "Suitability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Works great for applying adhesive to Styrofoam ceiling tiles.",
+            "entity_b": ""
+        }
+    },
+    "Thrust": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Doesn't have the thrust capability for highly viscous materials.",
+            "entity_b": ""
+        }
+    },
+    "Ergonomics": {
+        "comm": "Ergonomic design.",
+        "cont": {
+            "entity_a": "Lightweight and ergonomic, but not suitable for roof tar.",
+            "entity_b": "Ergonomic handle, but difficult to reset the rod."
+        }
+    },
+    "Output": {
+        "comm": "Smooth output.",
+        "cont": {
+            "entity_a": "Smooth output, better than retail store models.",
+            "entity_b": "Provides much better control and less wasted caulk than cheaper models."
+        }
+    },
+    "Control": {
+        "comm": "Easy to stop pressure when done.",
+        "cont": {
+            "entity_a": "Easy to stop pressure when done running a line of caulk.",
+            "entity_b": "Allows for easy control of flow and stops immediately when the trigger is released."
+        }
+    },
+    "Body": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Composite body is rigid, more so than cheap sheet metal units.",
+            "entity_b": ""
+        }
+    },
+    "Grip": {
+        "comm": "Comfortable grip.",
+        "cont": {
+            "entity_a": "Very easy to use with a comfortable grip.",
+            "entity_b": ""
+        }
+    }
+}

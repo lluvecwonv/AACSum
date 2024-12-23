@@ -1,0 +1,51 @@
+{
+    "Compatibility": {
+        "comm": "Compatible with Linux and offers reliable connections. Recommended for use with older laptops lacking built-in WiFi.",
+        "cont": {
+            "entity_a": "Compatible with older laptops lacking built-in adapters. Works well on Powerbook G3 with OSX 10.4.11 using WPA Personal. Supports older operating systems and is recognized as an AirPort card. Works effectively with older laptops and provides internet access. Offers a solution for laptops without built-in WiFi. Functions well on older laptops and offers good wireless connectivity. Compatible with various operating systems and offers stable connections.",
+            "entity_b": "Works well with both Windows XP and Ubuntu. Compatible with Atheros chipset, beneficial for Linux users."
+        }
+    },
+    "Installation": {
+        "comm": "Easy installation process.",
+        "cont": {
+            "entity_a": "Just requires driver installation. Installation can be simple with proper steps, avoiding conflicts. Easy plug-and-play installation. Installation may be problematic on older OS and systems. Installation can be problematic without proper IT knowledge. Some users experience installation issues with certain systems. May require technical support for setup issues.",
+            "entity_b": "Installation instructions are clear and easy to follow. Installation may require removal of conflicting software."
+        }
+    },
+    "Speed": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Achieves speeds of 54 Mbps near the router and 48 Mbps with increased distance. Speed drops significantly over 100 feet and with obstructing walls. Offers solid connections and decent speeds for Wireless G card.",
+            "entity_b": "Offers fast connection speeds comparable to wired connections. Works well with D-Link routers, providing 108 Mbps speeds."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Price is competitive compared to local stores.",
+            "entity_b": "Good price and functionality."
+        }
+    },
+    "Functionality": {
+        "comm": "Provides good wireless range and connectivity.",
+        "cont": {
+            "entity_a": "Works well with laptops from 2005, providing local LAN and high-speed internet access. Functions well without cables. Signal strength fluctuates without any changes in setup. Offers strong signals compared to older cards. Good range and reliability, despite some installation challenges.",
+            "entity_b": "Offers extended range and reliable connections."
+        }
+    },
+    "Issues": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some issues with modem and Cisco encryption compatibility, requiring password protection to be off. Issues with certain operating systems and WPA security.",
+            "entity_b": "Not compatible with certain chipsets, requiring alternative solutions. May require firmware updates for optimal performance."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durable and reliable for continuous use over several years.",
+            "entity_b": ""
+        }
+    }
+}

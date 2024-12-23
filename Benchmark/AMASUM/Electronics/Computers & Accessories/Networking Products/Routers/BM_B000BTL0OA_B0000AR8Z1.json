@@ -1,0 +1,114 @@
+{
+    "Chipset": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Marvel chipset bug causes network crashes with Android devices.",
+            "entity_b": ""
+        }
+    },
+    "Network": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router stops broadcasting on 2.4 GHz and requires frequent reboots.",
+            "entity_b": "Wireless performance is poor in mixed environments. Mixed mode only works at 11Mbps."
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Easily modify firmware to include a VPN. Flashable with DD-WRT for secure network configuration. Firmware updates don't resolve Wi-Fi dropping issues.",
+            "entity_b": "Frequent firmware updates needed to resolve issues."
+        }
+    },
+    "Traffic": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Handles traffic from multiple computers without complaint.",
+            "entity_b": ""
+        }
+    },
+    "Interface": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Web interface is easy to navigate.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Economical alternative to expensive flash routers.",
+            "entity_b": ""
+        }
+    },
+    "Coverage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good Wi-Fi coverage in a large house.",
+            "entity_b": ""
+        }
+    },
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "5 GHz band has connectivity issues.",
+            "entity_b": ""
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service provided a replacement product.",
+            "entity_b": "Customer service is poor."
+        }
+    },
+    "Reboot": {
+        "comm": "Constant reboots required for stable operation.",
+        "cont": {
+            "entity_a": "Requires reboot every hour to maintain functionality. Frequent reboots needed for stable operation.",
+            "entity_b": ""
+        }
+    },
+    "Setup": {
+        "comm": "Difficult to set up.",
+        "cont": {
+            "entity_a": "Setup wizard has issues with static WAN links. Setup is difficult with Linksyssmartwifi.",
+            "entity_b": "Setup requires IT background."
+        }
+    },
+    "Cooling": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router overheats due to lack of cooling fan.",
+            "entity_b": ""
+        }
+    },
+    "Security": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Security issues with unauthorized WAN traffic. Router is not password protected.",
+            "entity_b": ""
+        }
+    },
+    "Internet": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router drops internet frequently, affecting smart devices.",
+            "entity_b": ""
+        }
+    },
+    "VPN": {
+        "comm": "",
+        "cont": {
+            "entity_a": "VPN feature supported but requires disabling cell phone VPN during setup.",
+            "entity_b": "VPN feature does not work well. VPN functionality is limited and poorly supported. QuickVPN feature is not intuitive."
+        }
+    },
+    "Crashing": {
+        "comm": "Router frequently crashes.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router frequently crashes even with latest firmware. Router crashes when setting time zone."
+        }
+    }
+}

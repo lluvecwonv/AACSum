@@ -1,0 +1,49 @@
+{
+    "Sound": {
+        "comm": "The sound quality is excellent, clear, and undistorted at high volumes.",
+        "cont": {
+            "entity_a": "The sound quality is comparable to more expensive systems.",
+            "entity_b": "The sound quality exceeds expectations when connected to a TV."
+        }
+    },
+    "Bass": {
+        "comm": "The bass is powerful and can be overwhelming.",
+        "cont": {
+            "entity_a": "The bass is solid and effective.",
+            "entity_b": "The bass is deep and clear with less distortion."
+        }
+    },
+    "Durability": {
+        "comm": "The system is durable and continues to perform well after many years.",
+        "cont": {}
+    },
+    "Installation": {
+        "comm": "The system is easy to install and provides excellent sound quality.",
+        "cont": {}
+    },
+    "Value": {
+        "comm": "The system is a great value for the price.",
+        "cont": {}
+    },
+    "Compatibility": {
+        "comm": "The speakers provide great sound for movies and gaming.",
+        "cont": {
+            "entity_a": "The speakers provide excellent sound quality for movies and gaming.",
+            "entity_b": "The system provides a mini-theater feeling and sound."
+        }
+    },
+    "Control": {
+        "comm": "",
+        "cont": {
+            "entity_a": "A controller knob allows for power, volume, and bass adjustment, and includes a headphone jack.",
+            "entity_b": "Limited control over sound beyond volume and superbass."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The subwoofer is large and requires adequate space.",
+            "entity_b": "The system is wired, and cords are short."
+        }
+    }
+}

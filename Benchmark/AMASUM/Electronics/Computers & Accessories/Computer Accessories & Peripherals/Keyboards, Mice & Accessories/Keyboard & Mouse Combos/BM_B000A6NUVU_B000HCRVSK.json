@@ -1,0 +1,51 @@
+{
+    "Keyboard": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Form is easy on the hands. Has a light touch with white keys easy to see in a dark room. Includes 5 configurable hot keys and dedicated keys for mail and internet. Missed every 3rd or 4th letter typed. Good build quality but lacks Mac-specific keys like EJECT. Not Apple compliant, lacking proper meta key layout. Has a good feel but wireless connection is temperamental. Design is not suitable for small hands. Does not work well with overhead lighting due to glare. Spacebar often does not register when pressed.",
+            "entity_b": "Has a nice feel with soft touch and quiet keys. Has extra programmable keys for launching applications. Has a clock/timer feature. Comfortable and stylish with programmable hotkeys. Not suitable for left-handed users due to fixed button layout."
+        }
+    },
+    "Mouse": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Has a light touch. Magnification feature is useful for enlarging fine print or pictures. Very accurate with a great zoom function. Touch is hard to control, and battery issues persist. Precise and quick, with a magnification button for easy expansion and contraction. Consumes batteries quickly.",
+            "entity_b": "Works on almost any surface but could be larger for comfort. Has extra controls for advanced users. Rubber wears off quickly with frequent use. Comfortable and easy to use. Grip is comfortable but attracts fingerprints."
+        }
+    },
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Decent range for wireless connection with great mouse response. Wireless connection is temperamental. Mouse and keyboard have connectivity issues.",
+            "entity_b": "Seamless switching between PCs using a KVM switch. Reception is perfect. Wireless connection is reliable."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No easy way to contact Microsoft technical support.",
+            "entity_b": "Customer support from Logitech is lacking."
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Software on CD is outdated but can be updated via the Microsoft site.",
+            "entity_b": "Installation was quick and easy without using the driver disk. Software installation can be complicated."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Curved design is not favored. Spacebar design is weak, often getting stuck.",
+            "entity_b": "Comfortable design. Dynamic zoom bar on the keyboard is finicky."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Battery issues persist despite changing batteries. Batteries are consumed quickly by the mouse.",
+            "entity_b": "Battery life for the mouse is short, recommend using rechargeable batteries. Solid construction with long-lasting battery life."
+        }
+    }
+}

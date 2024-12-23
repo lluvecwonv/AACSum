@@ -1,0 +1,107 @@
+{
+    "Sharpness": {
+        "comm": "Blades are not sharp enough.",
+        "cont": {
+            "entity_a": "Not sharp enough to be called a knife.",
+            "entity_b": "Requires additional force to chop effectively."
+        }
+    },
+    "Ease of Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Flat blade makes it difficult to pick things up, and the handle is too plump and hard to hold.",
+            "entity_b": "Difficult to reassemble after cleaning."
+        }
+    },
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Metal version may scratch counters, while plastic lacks flexibility.",
+            "entity_b": "Plastic tray may shear off into food."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Built to last a lifetime, sturdy, and heat resistant.",
+            "entity_b": "Not very solid."
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comfortable grip and high-quality feel.",
+            "entity_b": ""
+        }
+    },
+    "Versatility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Versatile tool for cutting dough, scraping, and transferring ingredients.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sharp edge, useful for cutting dough, but not for chopping herbs.",
+            "entity_b": "Works well for small items like garlic and chilis."
+        }
+    },
+    "Measurement": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Useful measurement markings on the blade.",
+            "entity_b": ""
+        }
+    },
+    "Cleaning": {
+        "comm": "Dishwasher safe.",
+        "cont": {
+            "entity_a": "Easy to clean.",
+            "entity_b": "Difficult to clean as food gets stuck in the blades."
+        }
+    },
+    "Handling": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great for chopping small veggies and transferring to pots.",
+            "entity_b": "Good for soft foods, not for hard vegetables."
+        }
+    },
+    "Grip": {
+        "comm": "Non-slip grip.",
+        "cont": {
+            "entity_a": "Even when hands are wet.",
+            "entity_b": ""
+        }
+    },
+    "Quality": {
+        "comm": "High quality.",
+        "cont": {
+            "entity_a": "Durable and well-made.",
+            "entity_b": ""
+        }
+    },
+    "Safety": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sharp corners can cause cuts; consider rounding them for safety.",
+            "entity_b": ""
+        }
+    },
+    "Capacity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Small capacity and struggles with hard vegetables."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Customer service and warranty service are excellent."
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "Heating": {
+        "comm": "Heats large spaces effectively.",
+        "cont": {
+            "entity_a": "Heats entire 2-bedroom home effectively. Effective as an additional heat source in a 1100 sqft house. Heats workshop effectively even below 35 degrees. Effective in heating large areas. Effective for large spaces and emergency use.",
+            "entity_b": "Small size but effective for large rooms. Effective for quick heating of small spaces. Heats large spaces efficiently. Suitable for warming specific areas quickly. Heats rooms quickly and efficiently."
+        }
+    },
+    "Ease of Use": {
+        "comm": "Easy to use and operates quietly.",
+        "cont": {
+            "entity_a": "Quiet operation and easy to use. Easy to assemble and use.",
+            "entity_b": ""
+        }
+    },
+    "Temperature Control": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires proper flame height for efficiency.",
+            "entity_b": "Maintains set temperature in insulated garage. Temperature control can be inaccurate. Thermostat control issues; swings beyond set temperature. Inconsistent temperature control and reliability. Thermostat control not precise."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Handle is loose and cage is flimsy but modifiable.",
+            "entity_b": "Compact design but stable. Sleek design and effective heating capabilities."
+        }
+    },
+    "Remote Control": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Remote control functionality limited by display placement. Remote control and display issues noted. Remote control adds convenience. Remote control functionality may require precise aiming."
+        }
+    },
+    "Smell": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Brief smell when lit and extinguished; recommended to use k-1 kerosene. Slight kerosene smell when extinguished. Burns cleanly with minimal odor when using specific kerosene.",
+            "entity_b": "Chemicals smell on some units."
+        }
+    },
+    "Safety": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Occasional fire risk when not properly extinguished. Potentially dangerous if not monitored properly.",
+            "entity_b": "Short circuits when used with other high-power devices."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Igniter often fails; manual lighting with a stick lighter recommended. Smokeless operation but unreliable self-lighter. Performs well but igniter and wick replacement issues.",
+            "entity_b": "Effective for specific heating needs but not reliable for all-day use."
+        }
+    },
+    "Energy Consumption": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Consumes kerosene quickly; kerosene is expensive. Burns fuel quickly; not economical. Operates well but consumes a lot of kerosene. Significant heat output; not economical for frequent use.",
+            "entity_b": "Energy consumption can be high."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service not helpful; wick maintenance issues. Prone to damage; customer service issues with returns.",
+            "entity_b": ""
+        }
+    },
+    "Packaging": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Packaging issues; some units arrive damaged.",
+            "entity_b": "Issues with units being sold as new but appearing used."
+        }
+    }
+}

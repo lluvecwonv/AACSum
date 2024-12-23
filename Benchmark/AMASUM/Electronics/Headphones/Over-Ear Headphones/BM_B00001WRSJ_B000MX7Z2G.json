@@ -1,0 +1,79 @@
+{
+    "Sound": {
+        "comm": "Great sound quality.",
+        "cont": {
+            "entity_a": "Very balanced, clean, and clear sound with little coloration. Upper frequencies and voices are more detailed and sweeter compared to Audio Technica ATH-M50s. Capable of very deep bass, but more than present in the recording requires EQ adjustment. Sound quality is spectacular when used with a FiiO A3 amp with bass boost. Sound is clear without sibilance and has a strong but not excessive bass. Sound is neutral with a flat response, suitable for mixing. Great sound reproduction, especially for studio use. Great for mixing and monitoring music.",
+            "entity_b": "Good sound quality but has very prominent treble compared to weak bass. Superb sound with a unique look."
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Phones fit comfortably over ears and offer a nice sound barrier to exterior noises. Very comfortable even for long periods. Sturdy build and comfortable for long hours of use.",
+            "entity_b": "Most comfortable clip-on headphones owned. Secure and comfortable clip-on attachments. Earpieces pinch after extended wear."
+        }
+    },
+    "Price": {
+        "comm": "Super value for the price.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Great sound quality at a great price."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durable build quality, withstands rough use and travel. Reliable over many years with minor repairs needed.",
+            "entity_b": "Thin cables may raise durability concerns. Durability issues with some units breaking after first use."
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Fold-up mechanism improves portability.",
+            "entity_b": "Only one cord retracts, limiting convenience. Retractable mechanism works well and prevents tangling."
+        }
+    },
+    "Cord": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cord is well made and sturdy. Coiled cord stretches out surprisingly long. Non-detachable coiled cable. Coiled cord can be a nuisance due to its length.",
+            "entity_b": "Cord is too short, requiring an extension for usefulness. Retractable cord is a nice feature."
+        }
+    },
+    "Fit": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Phones fit comfortably over ears and offer a nice sound barrier to exterior noises.",
+            "entity_b": "Fit around the ear is loose, affecting sound quality."
+        }
+    },
+    "Noise Isolation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not noise-canceling but blocks out most external noise.",
+            "entity_b": ""
+        }
+    },
+    "Accessories": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Arrived well packaged including a plug adapter and carrying bag.",
+            "entity_b": ""
+        }
+    },
+    "Build Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sturdy build and comfortable for long hours of use.",
+            "entity_b": ""
+        }
+    },
+    "Replacement Parts": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Replacement ear pads are necessary as stock ones degrade over time.",
+            "entity_b": ""
+        }
+    }
+}

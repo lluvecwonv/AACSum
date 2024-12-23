@@ -1,0 +1,72 @@
+{
+    "Surface": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The non-stick coating started to peel after less than a year of use. The non-stick surface is prone to micro scratches. The non-stick surface loses its property over time. The coating is not very scratch resistant and peels off after few uses.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Despite careful use, the pan developed cracks and scratches within 5-6 months. Thick and durable but scratches easily.",
+            "entity_b": ""
+        }
+    },
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pan is not hard anodized as marketed.",
+            "entity_b": "The lid is made of thicker metal and is sturdy. The lid is extremely thin and gets hot quickly."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Carbon-like material developed on the pan within the first 5 minutes of usage.",
+            "entity_b": ""
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pan is not 10 inches as advertised, causing a loss of surface area.",
+            "entity_b": "The lid does not fit a 14-inch wok as expected. Fits well on an 18-inch wok."
+        }
+    },
+    "Heating": {
+        "comm": "Heats evenly.",
+        "cont": {
+            "entity_a": "Even heat distribution but prone to overheating.",
+            "entity_b": "The lid heats evenly and the handle is sturdy."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pan worked well on a gas stovetop but got scratched on an electric stovetop. The pan is versatile and lightweight, suitable for various dishes.",
+            "entity_b": "The lid is dented and does not seal properly. The lid arrived with the rim folded due to inadequate packaging. The lid is lightweight and easy to store."
+        }
+    },
+    "Handle": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The double-studded handle stays cool and prevents the loose-handle problem.",
+            "entity_b": "The knob attachment is insecure and requires a larger screw. The wooden knob tends to get loose. The handle remains wobbly despite being secured."
+        }
+    },
+    "Cleaning": {
+        "comm": "Easy to clean.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Fits well on an 18-inch wok and is easy to clean."
+        }
+    },
+    "Usage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pan is great for eggs, crepes, pancakes, and grilled cheese sandwiches. Not suitable for everyday use due to surface flaking.",
+            "entity_b": ""
+        }
+    }
+}

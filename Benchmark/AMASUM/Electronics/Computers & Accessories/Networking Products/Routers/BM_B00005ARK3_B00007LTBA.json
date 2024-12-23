@@ -1,0 +1,58 @@
+{
+    "Performance": {
+        "comm": "Router reboots frequently.",
+        "cont": {
+            "entity_a": "Initially worked well, but required frequent reboots by physically disconnecting from power. Some users experienced frequent reboots and network disruptions. Router performance varied; some experienced frequent resets.",
+            "entity_b": "Even without traffic. Frequent disconnections and slow reconnections. Consistent disconnections and reboots; tech support unhelpful."
+        }
+    },
+    "Signal": {
+        "comm": "Signal range is limited.",
+        "cont": {
+            "entity_a": "Advertised range of 300ft is questionable; poor signal quality at around 80ft. Strong signal under 50ft.",
+            "entity_b": "Inconsistent signal strength and quality. Signal sustains up to 50 meters away."
+        }
+    },
+    "Setup": {
+        "comm": "Setup was easy.",
+        "cont": {
+            "entity_a": "Support was generally good. Installation was straightforward, and software facilitated setup. Router and software installation were easy, with good connection strength within the house. Easy, but had issues with wireless functionality and Mac support. Easy, but had to reset due to packet loss.",
+            "entity_b": "Reliable for basic use. Setup is simple, but advanced features lack documentation."
+        }
+    },
+    "Firmware": {
+        "comm": "Firmware updates improved performance.",
+        "cont": {
+            "entity_a": "Necessary for optimal performance. Had initial freezing issues. Necessary to resolve connectivity issues. Some had to downgrade firmware for better performance.",
+            "entity_b": "Good performance with firmware updates and proper configuration."
+        }
+    },
+    "Documentation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "User guide lacks key information and is not comprehensive for different operating systems.",
+            "entity_b": "Advanced features lack documentation."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some issues with Windows 2000 compatibility and frequent 'Network Cable Unplugged' messages. Could not support more than one Xbox on Xbox Live simultaneously.",
+            "entity_b": "Works well with various wireless cards and OS compatibility. Works well with Mac and Windows for wireless connections."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The reset button appears ineffective. The router had problems with DHCP address renewal, requiring resets. Had to frequently reset due to DHCP server issues.",
+            "entity_b": "Wireless connection drops hourly, affecting VPN links. Only configures wireless channel 6. Misleading description of 108Mbps speed; actually 54Mbps. Router reboots with ISP's PADT packet, causing disconnections."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Older D-Link models are reliable and easy to set up. D-Link routers known for good performance and reliability."
+        }
+    }
+}

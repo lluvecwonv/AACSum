@@ -1,0 +1,100 @@
+{
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Signal strength reduces with walls between devices.",
+            "entity_b": "Less range than older Netgear Wireless-G router."
+        }
+    },
+    "Setup": {
+        "comm": "Setup is easy.",
+        "cont": {
+            "entity_a": "Setup was very easy, but it does not work in shared mode. Easy to set up and use. Not suitable for users without IT knowledge for setup.",
+            "entity_b": "Setup is easy for users familiar with routers. Setup wizard on CD does not work with Windows XP. Setup is straightforward and easy to follow."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Excellent customer support from Netgear. Customer support is helpful for setup issues.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "It does not work with DSL, even as the instructions say. Cannot be used directly with a DSL modem.",
+            "entity_b": "Does not connect with wireless N devices. Storage link does not work with NTFS formatted drives."
+        }
+    },
+    "Heat": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router gets hot, so it should not be covered.",
+            "entity_b": ""
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lightweight with a carry case, suitable for travel.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "After four months, the router stopped working and could not be repaired.",
+            "entity_b": ""
+        }
+    },
+    "Configuration": {
+        "comm": "",
+        "cont": {
+            "entity_a": "WPA configuration is quick, but WEP configuration is problematic.",
+            "entity_b": ""
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires daily reboot.",
+            "entity_b": "Router crashes occasionally, requiring multiple reboots. Requires daily reboot for consistent performance. Firmware needs daily reboot due to performance issues."
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Supports DD-WRT software with additional features."
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Good range when it works. Wireless range is not better than G routers."
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Firmware issues with NAT and wireless connections. Firmware needs improvement for better reliability."
+        }
+    },
+    "USB": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "USB storage features are limited and unreliable. USB attachment for shared disk drive is unreliable."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Price is reasonable for its features. Price was great at $65 but has connectivity issues."
+        }
+    }
+}

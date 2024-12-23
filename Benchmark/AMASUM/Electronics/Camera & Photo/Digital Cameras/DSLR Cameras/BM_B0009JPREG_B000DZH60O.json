@@ -1,0 +1,58 @@
+{
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with old film AF and manual lenses, though manual focus is required for non-AF lenses.",
+            "entity_b": "Compatible with Minolta gear, including lenses and flashes. Compatible with Minolta lenses, providing cost savings."
+        }
+    },
+    "Ease of Use": {
+        "comm": "Easy to use.",
+        "cont": {
+            "entity_a": "Suitable for beginners and intermediate users.",
+            "entity_b": "Obvious controls and immediate review options. The camera is easy to operate and provides excellent results."
+        }
+    },
+    "Performance": {
+        "comm": "Reliable performance with long battery life.",
+        "cont": {
+            "entity_a": "Battery life is exceptionally long, lasting weeks. Impressive, even after taking over 500 photos in RAW format.",
+            "entity_b": ""
+        }
+    },
+    "Image Quality": {
+        "comm": "Produces remarkable pictures.",
+        "cont": {
+            "entity_a": "Excellent color capture and image quality, with a crisp and clear output. Excellent picture quality for its price range. The camera takes amazing pictures even for its age, with low noise at ISO 200.",
+            "entity_b": "With minimal editing. Great for landscape and nature photography. Takes great pictures even in low light conditions."
+        }
+    },
+    "Build Quality": {
+        "comm": "The camera is dependable and well-built.",
+        "cont": {
+            "entity_a": "The body is solid, heavy, utilitarian, and functional without extra features like video. The camera body and lens are in great condition, with no visible damage.",
+            "entity_b": "High performance in a compact, easy-to-handle body. The camera is lightweight and suitable for beginners."
+        }
+    },
+    "Value": {
+        "comm": "The camera provides great value.",
+        "cont": {
+            "entity_a": "For money compared to new models.",
+            "entity_b": "For its features and compatibility."
+        }
+    },
+    "Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The APS-C sensor provides high-quality 6MP images. The D70S synchronizes with external flash at 1/500 sec. A solid choice for beginners, offering a good balance of manual and automatic settings.",
+            "entity_b": "The anti-shake feature is effective, making lenses cheaper. Anti-shake feature compensates for lower ISO performance. The image stabilization feature is very effective. The camera has many controls and manual settings. The camera has a 10.2MP capability for sharp photos. The camera lacks a timelapse recording feature."
+        }
+    },
+    "Condition": {
+        "comm": "The camera arrived in good condition with all described contents.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Missing CF card and incompatible USB cable upon delivery. Missing sync cord and uses a proprietary hot shoe."
+        }
+    }
+}

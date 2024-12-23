@@ -1,0 +1,100 @@
+{
+    "Sound": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Legendary sound quality with booming bass and clear surround sound.",
+            "entity_b": "Loud and deep bass, suitable for large entertainment rooms. Better sound quality than older Creative and Logitech models. No distortion at high volumes, even with powerful bass."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durable, lasting over a decade with consistent performance.",
+            "entity_b": ""
+        }
+    },
+    "Versatility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Highly versatile, suitable for computers, home theater, and gaming.",
+            "entity_b": "Excellent compatibility with gaming and regular computers."
+        }
+    },
+    "Certification": {
+        "comm": "",
+        "cont": {
+            "entity_a": "THX certified, providing excellent sound for its size.",
+            "entity_b": ""
+        }
+    },
+    "Subwoofer": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Subwoofer is large and powerful, requiring ample space.",
+            "entity_b": ""
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great value for the price, though some sellers overcharge.",
+            "entity_b": "Affordable and great value for under $100."
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Installation is straightforward, but wall mounting is difficult due to design.",
+            "entity_b": ""
+        }
+    },
+    "Control": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Control panel is user-friendly, but the light dims over time.",
+            "entity_b": "Limited sound control options besides volume and bass. Convenient headphone jack on the remote control unit."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Subwoofer and amp issues have been reported but resolved by customer service.",
+            "entity_b": ""
+        }
+    },
+    "Connectivity": {
+        "comm": "Limited connectivity options.",
+        "cont": {
+            "entity_a": "Only one optical and coaxial input.",
+            "entity_b": "No optical input, limiting connectivity options."
+        }
+    },
+    "Build Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The system's build quality and sound make it a top choice for the price.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Requires a sound card for optimal performance."
+        }
+    },
+    "Wires": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Short speaker wires may require additional cables."
+        }
+    },
+    "Recommendation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Highly recommended for gaming, movies, and music."
+        }
+    }
+}

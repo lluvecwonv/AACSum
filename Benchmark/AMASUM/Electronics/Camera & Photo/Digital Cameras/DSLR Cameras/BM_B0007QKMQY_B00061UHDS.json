@@ -1,0 +1,219 @@
+{
+    "Description": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The product description did not match the actual item, missing the strap and having a different camera than pictured.",
+            "entity_b": ""
+        }
+    },
+    "Condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera was in bad condition, missing the settings indicator and side cover.",
+            "entity_b": ""
+        }
+    },
+    "Learning": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera is a good starting point for learning photography without spending much.",
+            "entity_b": ""
+        }
+    },
+    "Manual": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The manual and editing software are available online for free.",
+            "entity_b": "The camera's manual could be improved."
+        }
+    },
+    "Picture Quality": {
+        "comm": "The camera takes great pictures.",
+        "cont": {
+            "entity_a": "The camera takes nice pictures and operates as it should. The camera's picture quality is excellent. The camera produces excellent indoor family pictures. The camera's photo quality is awesome, especially for nature photography.",
+            "entity_b": "The camera has excellent picture quality. The camera doesn't always take clear, crisp photos."
+        }
+    },
+    "Ease of Use": {
+        "comm": "The camera is easy to use.",
+        "cont": {
+            "entity_a": "The camera is easy to use with a variety of settings for beginners. The camera's automatic mode is easy to use. The camera is a great entry into photography with easy-to-use menus.",
+            "entity_b": "The E-300 is intuitive and easy to use, with a better feel than the Rebel or Nikon. The menus are easy to navigate, and buttons are well-laid out."
+        }
+    },
+    "Condition at Purchase": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The product is like new and includes everything needed. The camera was described perfectly by the seller, with no noticeable wear. The camera arrived early and in good condition, with all parts included. The camera was purchased as a gift and was in great condition.",
+            "entity_b": "The camera is great but outdated, with a good price and full accessories."
+        }
+    },
+    "Accessories": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera allows for the addition of various accessories.",
+            "entity_b": ""
+        }
+    },
+    "Packaging": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera was purchased in a non-original box and was clearly used.",
+            "entity_b": ""
+        }
+    },
+    "Versatility": {
+        "comm": "The camera is versatile.",
+        "cont": {
+            "entity_a": "The camera is versatile with multiple lens options. The camera is versatile and combines digital and SLR features.",
+            "entity_b": ""
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera is lightweight compared to other digital SLR cameras. The camera is lighter than other digital SLR cameras.",
+            "entity_b": ""
+        }
+    },
+    "Usage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera works well for listing homes, with good photo quality.",
+            "entity_b": ""
+        }
+    },
+    "Focus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera had issues with focus, flash, and a constant busy signal. The camera's auto-focus struggles frequently.",
+            "entity_b": "The camera has been in for repair twice due to lens focus issues. The camera struggles to focus and results in poorly lit, blurry pictures."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera's battery holds a charge for only 2 minutes.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera takes clear pictures and is compatible with older Rebel lenses.",
+            "entity_b": ""
+        }
+    },
+    "Repair": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera requires repair due to download issues.",
+            "entity_b": ""
+        }
+    },
+    "Viewfinder": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera lacks a picture in viewfinder ability.",
+            "entity_b": "The viewfinder is dim, and focusing can be tricky."
+        }
+    },
+    "Low Light Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The Canon Rebel XT stands out for shooting in available light.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera allows capturing moments without delay. The automatic mode captures amazing photos.",
+            "entity_b": "The camera's focal plane dust removal system is unmatched. The camera's powerful flash is impressive for its size. The camera has a sound when photographing that some may find annoying."
+        }
+    },
+    "Build Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera's build quality has more plastic but is still a great machine.",
+            "entity_b": "The camera is built tough and feels great to hold. The camera has a rubber-coated aluminum chassis and smooth controls."
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The Rebel XT is a great value in the DSLR range.",
+            "entity_b": ""
+        }
+    },
+    "Display": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The display is small and of poor resolution.",
+            "entity_b": ""
+        }
+    },
+    "Manual Adjustments": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The manual adjustments are non-intuitive.",
+            "entity_b": ""
+        }
+    },
+    "Battery Life": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera is easy to use with excellent battery life.",
+            "entity_b": ""
+        }
+    },
+    "Bulky": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera is bulky but expected for its performance.",
+            "entity_b": ""
+        }
+    },
+    "Longevity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera has served well for years with excellent picture quality.",
+            "entity_b": ""
+        }
+    },
+    "Representation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera was not represented correctly, missing advertised items.",
+            "entity_b": ""
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The seller provided quick customer service to resolve missing items.",
+            "entity_b": ""
+        }
+    },
+    "Storage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The older model uses compact flash, which can be inconvenient.",
+            "entity_b": ""
+        }
+    },
+    "Cleanliness": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera was dusty but worked well overall.",
+            "entity_b": ""
+        }
+    },
+    "Experience": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The camera provides a different experience compared to other digital cameras."
+        }
+    }
+}

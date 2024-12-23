@@ -1,0 +1,44 @@
+{
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not very solid; had to use a plate to chop. Plastic bottom separates from housing, causing a mess. Plastic tray is defective and shears off bits into food.",
+            "entity_b": "Blades came out after second use, indicating poor quality. Plastic hinge-stud can break under necessary pressure. Plastic knobs on the side break easily. Plastic quality has decreased, feeling brittle. Hinge breaks easily, especially with harder foods. Does not last long, plastic parts prone to breaking."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Turns a 20-minute cutting job into a 3-minute job, but not for uniform cuts. Practically juices veggies instead of chopping. Nearly impossible to push the knob down to lock for storing. Not good for uniform cuts, takes effort for onions and nuts.",
+            "entity_b": "Requires significant downward pressure to dice vegetables. Requires a lot of force for harder foods like carrots. Provides uniform size for veggies but difficult to clean."
+        }
+    },
+    "Cleaning": {
+        "comm": "Easy to clean.",
+        "cont": {
+            "entity_a": "Cabbage shreds stuck behind the blade, difficult to clean. Pieces got stuck inside and had to be pried out. Difficult to take apart and clean, can be dangerous.",
+            "entity_b": "Easy to clean using the tool that comes with it. Lid cleaning tool wears out after a few years."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Trouble cutting green onion and green bell pepper. Chops broccoli well but struggles with other vegetables. Chops onions, green peppers, garlic, and carrots well.",
+            "entity_b": "Chops onions well with effort, using two hands. Chops onions, cucumbers, and similar foods well. Chops veggies like onions and tomatoes well. Good for chopping fruits and vegetables quickly."
+        }
+    },
+    "Ease of Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Small capacity and falls apart during use. Difficult to use due to shoulder, elbow, and wrist pain.",
+            "entity_b": "Comes with two blade sizes and a cleaning tool."
+        }
+    },
+    "Capacity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Very small capacity, needs multiple loads for larger tasks.",
+            "entity_b": ""
+        }
+    }
+}

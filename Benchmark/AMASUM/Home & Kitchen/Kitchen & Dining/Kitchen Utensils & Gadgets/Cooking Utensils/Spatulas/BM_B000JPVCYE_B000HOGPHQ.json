@@ -1,0 +1,51 @@
+{
+    "Handle": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The handle is made of plastic and melts on contact with hot surfaces. The handle will melt if left on the edge of the pan.",
+            "entity_b": "Handles can become loose after dishwashing. Handles are prone to becoming loose and wobbly. Handles are loose and not well attached."
+        }
+    },
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The silicone outer coating split, revealing the metal underneath, which can trap water and food. Silicone does not scratch non-stick pans. The metal inside can break through the silicone if used improperly.",
+            "entity_b": "Stainless steel is sturdy and can handle heavy food items. Prone to rust spots after exposure to cleaning and sanitizer. Metal is too thick and not suitable for delicate food items."
+        }
+    },
+    "Flexibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The turner is too flexible and unwieldy for everyday use. The spatula has a flexible end, making it easy to slide under food.",
+            "entity_b": "Sturdy turners with flexible metal paddles."
+        }
+    },
+    "Suitability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The large size is suitable for larger pans but tricky for medium-sized frying pans. Good for non-stick pans but not for scraping meat bits.",
+            "entity_b": "Not suitable for normal pans due to their length. Good for cast iron and stainless cookware."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not eligible for return or refund.",
+            "entity_b": "Rivets on handles were not set properly."
+        }
+    },
+    "Care": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The spatula is sturdy and easy to clean.",
+            "entity_b": "Wooden handles should be hand washed to prolong life."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Silicone is better than nylon for certain tasks like turning eggs.",
+            "entity_b": "Edges are jagged and can scrape seasoning off griddles."
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Performs well.",
+            "entity_b": "Not suitable for gaming due to lack of scroll wheel and slow response."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Excellent battery life. Batteries last almost a year with Duracell Ultra.",
+            "entity_b": "Consumes batteries quickly, not energy-efficient."
+        }
+    },
+    "Surface Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Works well on any surface.",
+            "entity_b": "Limited compatibility with surfaces, only works on specific materials."
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compact yet comfortable and easy to use. Comfortable fit with extra buttons. Design is comfortable, but the balance feels slightly off when the battery is installed.",
+            "entity_b": "Comfortable ergonomic design, suitable for wrist-brace users. Reduces wrist stress and pain, particularly beneficial for those with carpal tunnel. Ergonomic design helps with repetitive strain injuries. More comfortable than regular mice, but lacks a scroll wheel."
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Instant connection without needing software installation. Installation is straightforward and simple.",
+            "entity_b": "No software provided by 3M, impacting customization."
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "USB adapter stores in the mouse, reducing the risk of losing it. Large receiver limits portability.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Decent price at $19.99, with no additional tax or shipping. Good value for the price.",
+            "entity_b": "High price not justified by features or build quality."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with Laser 6000 keyboard, works perfectly together.",
+            "entity_b": "Not compatible with Windows 10."
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not too heavy, providing a sturdy feel without being cheap.",
+            "entity_b": ""
+        }
+    },
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Signal range is weaker than specified, reaching only about 2 feet. Signal strength issues may occur, requiring adjustments.",
+            "entity_b": "Wireless version has connectivity problems, wired version recommended."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Ambidextrous design suitable for left-handed users.",
+            "entity_b": "Joystick-like design may require full arm movement, affecting precision."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Mouse does not allow computer to sleep automatically, requires driver update. Magnification feature is useful for users with vision problems.",
+            "entity_b": "Difficult to use for users accustomed to traditional mice. Mixed reviews due to steep learning curve and reliability issues."
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Size may not be suitable for small hands.",
+            "entity_b": ""
+        }
+    },
+    "Build Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Cheap plastic construction with fragile thumb-buttons."
+        }
+    },
+    "Buttons": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Large receiver and tight middle button.",
+            "entity_b": "Scroll button and left mouse-button have reliability issues. Thumb button placement can be problematic for users with limited dexterity."
+        }
+    }
+}

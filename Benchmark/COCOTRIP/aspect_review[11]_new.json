@@ -1,0 +1,51 @@
+{
+    "location": {
+        "comm": "The hotel is conveniently located near the MRT.",
+        "cont": {
+            "entity_a": "The hotel is centrally located, making it very convenient for accessing many attractions, including Clarke Quay and the National Museum.",
+            "entity_b": "The location is convenient, with a nearby mall and close proximity to the MRT, and it is near the Gardens by the Bay, though guests should check the venue's hours during their stay."
+        }
+    },
+    "staff": {
+        "comm": "The staff were friendly.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The hotel staff provided early check-in and efficient check-out processes, although there were occasional queues for these services."
+        }
+    },
+    "room": {
+        "comm": "The rooms are spacious.",
+        "cont": {
+            "entity_a": "The room features a comfortable king-size bed, but the decor is somewhat outdated and lacks style.",
+            "entity_b": "The rooms decorated in a contemporary style, with large bathrooms that include both a bath and a separate shower."
+        }
+    },
+    "food": {
+        "comm": "The food options were generally disappointed.",
+        "cont": {
+            "entity_a": "The breakfast options were limited and disappointing, with only bananas and apples available as fresh fruit, and overall choices were sparse.",
+            "entity_b": "The food options at the hotel were somewhat overpriced, with the food hall being crowded and the quality only okay."
+        }
+    },
+    "pool": {
+        "comm": "The hotel has a pool.",
+        "cont": {
+            "entity_a": "The pool is very small, which is adequate for a quick dip but not ideal for serious swimming.",
+            "entity_b": "The pool complex features a stunning rooftop infinity pool, but it lacks privacy as visitors from surrounding areas can easily look into the pool area."
+        }
+    },
+    "internet": {
+        "comm": "",
+        "cont": {
+            "entity_a": "there is no wifi available in the room.",
+            "entity_b": ""
+        }
+    },
+    "design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The hotel is an impressive 'Las Vegas style' building featuring an attached shopping centre and convention centre."
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "Compatibility": {
+        "comm": "Easy to use with Windows XP.",
+        "cont": {
+            "entity_a": "Easy to use with no issues on Dell Inspiron 600m.",
+            "entity_b": "Fast transfer speed and compatible with Vista."
+        }
+    },
+    "Portability": {
+        "comm": "Light and easy to carry.",
+        "cont": {
+            "entity_a": "Portable, reliable, simple, and fast.",
+            "entity_b": "Light and slender for easy travel, well made."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durable despite physical damage, still works like new after three years.",
+            "entity_b": "Constructed sturdily enough for carrying in a laptop bag."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Nice looking and easily detected, but lacks a short USB cable and better indicator light.",
+            "entity_b": "Light and sleek design with a glowing orange light."
+        }
+    },
+    "Storage": {
+        "comm": "Good for file storage.",
+        "cont": {
+            "entity_a": "Storage capacity matches desktop computer, quick and efficient to use.",
+            "entity_b": "Too small for newer PC backups."
+        }
+    },
+    "Transfer Speed": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Speed is not an issue, transferring 50GB of files takes about an hour.",
+            "entity_b": "Fast transfer speed. Copied 60 GB in 1.5 hours."
+        }
+    },
+    "Power": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Does not require external power, works great with provided PS/2 cable.",
+            "entity_b": "Loose connection on the hard drive side, requiring manual holding for power."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some inexpensive drives are unreliable, especially on IBM laptops and iMac (2007).",
+            "entity_b": "Seagate FreeAgent GO 120 GB drive is unreliable, requires two USB ports."
+        }
+    },
+    "Issues": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The entire SmartDisk USB line has issues with Mac laptops.",
+            "entity_b": "Failed to detect on several devices. Failed after extended storage, resulting in data loss."
+        }
+    },
+    "Setup": {
+        "comm": "Easy to set up.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Plug and play functionality with easy setup."
+        }
+    },
+    "Warranty": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Seagate provides a 5-year warranty, and the drive works flawlessly."
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comes with free backup software.",
+            "entity_b": "Third-party backup software works perfectly after issues with bundled software."
+        }
+    },
+    "Size": {
+        "comm": "Compact size.",
+        "cont": {
+            "entity_a": "Small size and lightweight.",
+            "entity_b": "Significant storage capacity."
+        }
+    },
+    "Customer Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "SmartDisk customer support informed it doesn't work with any Powerbook G4.",
+            "entity_b": ""
+        }
+    },
+    "Return Policy": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Fast and easy return policy with online processing.",
+            "entity_b": ""
+        }
+    }
+}

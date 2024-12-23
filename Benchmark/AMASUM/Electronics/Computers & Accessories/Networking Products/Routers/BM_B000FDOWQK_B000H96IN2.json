@@ -1,0 +1,191 @@
+{
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The N connection to desktop is problematic with constant dropped signals and lockups.",
+            "entity_b": "Wireless N devices do not connect."
+        }
+    },
+    "Brand": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cisco is a known brand and the product looks well-made.",
+            "entity_b": "Linksys quality declined after Cisco acquisition."
+        }
+    },
+    "Installation": {
+        "comm": "Installation is easy.",
+        "cont": {
+            "entity_a": "The setup utility initially had trouble finding the router.",
+            "entity_b": "Setup wizard on CD didn't work with Windows XP; manual configuration required. Setup wizard with animated video simplifies installation."
+        }
+    },
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Signal quality varies from excellent to good within an apartment, never losing IP settings.",
+            "entity_b": "Router has poor wireless range compared to WRT54."
+        }
+    },
+    "Security": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Adding computers to the network requires running a Linksys program, which is good for security but annoying.",
+            "entity_b": ""
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router works well in a two-level house with range covering all rooms. The wireless range is less than expected, not covering a 2,700 sq. ft. brick house.",
+            "entity_b": "Router has less range than old Netgear Wireless-G router. Router has limited wireless range improvement over previous models."
+        }
+    },
+    "Power": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router came with a wrong power cord and had startup issues.",
+            "entity_b": ""
+        }
+    },
+    "Frequency": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Initial wireless connection drops were resolved by adjusting frequency settings.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "Router performs well with DD-WRT firmware.",
+        "cont": {
+            "entity_a": "The router performs above average after flashing with DD-WRT firmware.",
+            "entity_b": "Router functions well as designed, with solid performance under DD-WRT."
+        }
+    },
+    "CustomerService": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service was helpful and prompt in replacing a faulty unit.",
+            "entity_b": ""
+        }
+    },
+    "Speed": {
+        "comm": "Router is fast.",
+        "cont": {
+            "entity_a": "The router works great, with a significant speed increase compared to the old G router.",
+            "entity_b": "Router is faster and eliminates dead spots compared to Wireless-G router."
+        }
+    },
+    "Setup": {
+        "comm": "Router setup is easy.",
+        "cont": {
+            "entity_a": "Installation was straightforward using a wired connection and default IP address.",
+            "entity_b": "Router setup is easy with DHCP Reservation feature."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router works well with direct connections but requires periodic reboots. Router works great but was quickly outdated. Router requires frequent reboots and eventually stopped working.",
+            "entity_b": "Router crashes occasionally, requiring reboots. Router died after 8 months, leading to a switch to Netgear. Router died after one week."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The reset button is inconveniently located, causing accidental resets.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "Router works as advertised with a competitive price.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": ""
+        }
+    },
+    "RangeExtension": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router works great for a home network, but lacks range beyond 300 feet. Router provides good wireless range improvement.",
+            "entity_b": ""
+        }
+    },
+    "Firmware": {
+        "comm": "Router requires firmware updates for optimal performance.",
+        "cont": {
+            "entity_a": "Router works well out of the box with updated firmware.",
+            "entity_b": "Router needs daily reboots with standard firmware; performs well with DD-WRT."
+        }
+    },
+    "BuildQuality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router has poor build quality and frequent issues over time.",
+            "entity_b": ""
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router works well with advanced setup and support.",
+            "entity_b": ""
+        }
+    },
+    "Dependability": {
+        "comm": "Router is dependable.",
+        "cont": {
+            "entity_a": "Linksys products have a reputation for dependability.",
+            "entity_b": ""
+        }
+    },
+    "Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router has many additional features with DD-WRT software."
+        }
+    },
+    "Storage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router's wireless storage feature does not work with NTFS formatted drives."
+        }
+    },
+    "Gigabit": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router works well as a gigabit switch with DD-WRT firmware."
+        }
+    },
+    "ConnectivityIssues": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router's wireless connection often requires power cycling to function.",
+            "entity_b": "Router loses connectivity occasionally."
+        }
+    },
+    "NAT": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router's NAT function breaks, preventing internet connectivity."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router is incompatible with SlingBox equipment.",
+            "entity_b": ""
+        }
+    },
+    "Discontinuation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router is discontinued with no firmware support."
+        }
+    }
+}

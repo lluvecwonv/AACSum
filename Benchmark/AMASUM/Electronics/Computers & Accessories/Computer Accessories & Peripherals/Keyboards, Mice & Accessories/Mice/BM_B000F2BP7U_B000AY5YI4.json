@@ -1,0 +1,100 @@
+{
+    "Grip": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comfortable ergonomic grip.",
+            "entity_b": ""
+        }
+    },
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cheap plastic construction.",
+            "entity_b": "Hard plastic pads on the bottom slide well and are durable."
+        }
+    },
+    "Buttons": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Thumb-buttons feel fragile. No scrolling feature. Scroll button fails within 2 to 3 months. Unreliable thumb button on Bluetooth version.",
+            "entity_b": "Has 10 programmable buttons. Scroll wheel can be choppy."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not compatible with Mac and has issues with Windows text editors.",
+            "entity_b": "Does not work well with OS X without third-party utilities."
+        }
+    },
+    "Surface": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Only works on specific surfaces, like a pants leg.",
+            "entity_b": ""
+        }
+    },
+    "Cable": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cable is too stiff, interfering with movement.",
+            "entity_b": "Cord is nylon-wrapped to prevent twisting and breaking."
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great for preventing and reducing wrist stress. Not suitable for arthritis sufferers due to uncomfortable design. Helps with carpal tunnel and wrist pain.",
+            "entity_b": "Durable construction and comfortable design. Not suitable for small hands."
+        }
+    },
+    "Gaming": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Slow and clumsy for gaming, requiring whole unit movement. Not accurate for modern gaming. Suitable for casual use but not for gaming.",
+            "entity_b": "Wired design preferred for gaming. Good for both gaming and Photoshop use."
+        }
+    },
+    "Wireless": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wireless version has unacceptable delay. Wireless version has connection issues. Wireless version is less responsive compared to wired.",
+            "entity_b": ""
+        }
+    },
+    "Power": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Consumes alkaline batteries quickly.",
+            "entity_b": ""
+        }
+    },
+    "Control": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires entire arm movement for operation. Difficult to control pointing accuracy. Needs time to adapt to its control scheme. High speed is not adjustable, causing control issues.",
+            "entity_b": "Versatile with adjustable dpi settings. Precise laser tracking. Adjustable weight system enhances precision. Optional software for fine-tuning dpi levels. High precision, suitable for vector drawing apps."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Reliable for long-term use, even after several years."
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Heavy with weight discs, doesn't glow in the dark. Adjustable weight system enhances precision. Weight system allows customization but is often unnecessary."
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Available in different sizes for various hand sizes.",
+            "entity_b": "Not suitable for small hands."
+        }
+    }
+}

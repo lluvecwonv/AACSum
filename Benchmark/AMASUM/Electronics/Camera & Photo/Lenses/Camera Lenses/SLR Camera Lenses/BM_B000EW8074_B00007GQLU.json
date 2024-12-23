@@ -1,0 +1,79 @@
+{
+    "Performance": {
+        "comm": "Fast and sharp autofocus.",
+        "cont": {
+            "entity_a": "Auto-focus is super fast and tack sharp. Faster auto-focusing and sharper images. Fast and silent auto-focus.",
+            "entity_b": "Fast and accurate autofocus. Fast focusing and sharp images."
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Physically large and heavy, but well-built. Heavy but offers excellent image quality.",
+            "entity_b": "Heavy compared to zoom lenses. Lightweight and compact."
+        }
+    },
+    "Image Quality": {
+        "comm": "Sharp images.",
+        "cont": {
+            "entity_a": "Image quality is amazing. Great sharpness and contrast. Sharp images with good color saturation.",
+            "entity_b": "Produces beautiful sharp images. Sharp images with virtually no distortion. Sharp images with smooth bokeh. Produces sharp images with good background blur. Sharp images with beautiful color saturation."
+        }
+    },
+    "Low Light": {
+        "comm": "Great for low light.",
+        "cont": {
+            "entity_a": "Super low light performance across all focal ranges with image stabilization. Excellent photos in all lighting situations, even on a night safari drive. Image stabilization makes low-light photos easy. Indoor photos are excellent without a flash. Great for low light and fast enough for action shots.",
+            "entity_b": "Great for low light photography. Good for low light conditions."
+        }
+    },
+    "Build Quality": {
+        "comm": "Good build quality.",
+        "cont": {
+            "entity_a": "Solid build quality.",
+            "entity_b": ""
+        }
+    },
+    "Versatility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Covers wide angle to mid-range telephoto, perfect for walk-around purposes. Versatile for various photography situations. Perfect all-purpose lens.",
+            "entity_b": "Great portrait lens for the price. Excellent for portraits and close-ups. Great for sports and action shots. Great for portraits and indoor sports."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Good value for money. Affordable and provides excellent image quality."
+        }
+    },
+    "Aperture": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Constant f2.8 throughout zoom range. Wide focal length with low aperture and image stabilization.",
+            "entity_b": "No image stabilization but fast aperture compensates."
+        }
+    },
+    "Stabilization": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Image stabilization makes low-light photos easy. Image stabilizer is loud due to older system.",
+            "entity_b": "No image stabilization but fast aperture compensates."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Not weather sealed."
+        }
+    },
+    "Aberration": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Chromatic aberration is an issue."
+        }
+    }
+}

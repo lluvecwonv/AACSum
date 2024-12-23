@@ -1,0 +1,72 @@
+{
+    "Construction": {
+        "comm": "Sturdy construction.",
+        "cont": {
+            "entity_a": "Solid wood construction with no missing pieces or hardware. The cart is heavier than expected, indicating sturdy construction.",
+            "entity_b": ""
+        }
+    },
+    "Assembly": {
+        "comm": "Assembly instructions are clear.",
+        "cont": {
+            "entity_a": "Assembly is challenging due to lack of labeling on parts and some deformed screws. Assembly can be time-consuming but is straightforward with clear instructions.",
+            "entity_b": "Assembly can take 2-3 hours. Some parts may arrive damaged, affecting the assembly process."
+        }
+    },
+    "Storage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The drawer and cabinet provide adequate storage.",
+            "entity_b": "Ample storage space."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The cart is sturdy and well-designed, featuring heavy-duty wheels with brake locks. Movability and compactness make it ideal for small kitchens.",
+            "entity_b": "The cart is aesthetically pleasing and functions well as a kitchen island. The wheels do not lock effectively, causing the cart to move easily."
+        }
+    },
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Real wood except for the cabinet back and sides, which are fiberboard.",
+            "entity_b": ""
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some units arrive damaged, but customer service is responsive in replacing parts.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "Good value for the price.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Drop leaves provide additional work area and are sturdy when extended.",
+            "entity_b": "The cart is functional and well-suited for additional kitchen storage."
+        }
+    },
+    "Packaging": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Packaging is robust, minimizing potential shipping damage."
+        }
+    },
+    "Alignment": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Drawers and doors may require adjustments for proper alignment. Some users report issues with door alignment and magnet strength."
+        }
+    }
+}

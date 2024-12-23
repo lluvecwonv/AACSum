@@ -1,0 +1,72 @@
+{
+    "Installation": {
+        "comm": "Easy to install.",
+        "cont": {
+            "entity_a": "Simple installation process.",
+            "entity_b": "Requires website instructions for Windows Vista installation."
+        }
+    },
+    "Camera": {
+        "comm": "Camera follows movement.",
+        "cont": {
+            "entity_a": "Keeps user centered.",
+            "entity_b": "Face-tracking and special-effects features work as advertised. Video is blurry and doesn't track hand movements well. Face tracking software could be better."
+        }
+    },
+    "Image": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sharp image on user's screen, but pixelated on the other side. Clear image and fine frame rates during video chat. Video and still picture quality is poor. Video quality is good but tends to have a fisheye effect. Resolution is disappointing for a 7.0 megapixel claim.",
+            "entity_b": "Very good resolution for VoIP. Delivers 640x480 resolution at 30fps. High-quality video even in low light. Clear picture if there is enough light. Resolution not as sharp as built-in webcams. Picture quality is good, but clamp design is poor. Picture quality is decent for the price."
+        }
+    },
+    "Audio": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Directional live audio feature works well, only picking up the user's voice.",
+            "entity_b": "Built-in microphone and speaker are convenient. Sound issues with interruptions. Low light enhancement and sound loop cancellation work well."
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Software installation and uninstallation issues. Software bundle is better compared to other cameras.",
+            "entity_b": "Software can cause computer shutdown when using multiple webcam applications. Software slows down computer performance. Not compatible with Windows 7 64 bit."
+        }
+    },
+    "Focus": {
+        "comm": "Manual focus is required for clear images.",
+        "cont": {
+            "entity_a": "Auto focus cannot be adjusted manually.",
+            "entity_b": "Manual focus ring required adjustment. 20X magnification possible with manual focus."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Loose grip makes it hard to attach to a laptop.",
+            "entity_b": "Insufficient mounting clamp for desktop LCD monitors. Mount has insufficient spread for laptop display frames. Adjustable clip fits small notebooks. Clips securely to laptops, but the clip design is flawed."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Webcam often not detected or shows no picture, requiring a system restart.",
+            "entity_b": "Works well with Ubuntu Linux. Plug-and-play functionality."
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Compact and easy to carry with a travel case. Compact and fits in a pocket."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Cheaper than the Logitech Orbcam with equivalent performance."
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "Ergonomics": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comfortable ergonomics, though not suitable for left-handed users.",
+            "entity_b": "Compact size suitable for laptops but may be uncomfortable for extended use."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Allows battery swapping without docking, but battery life is short and frequent swaps are needed.",
+            "entity_b": "Good battery life using a single AA battery."
+        }
+    },
+    "Accuracy": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Accuracy comparable to wired mice, but can be jerky and stutter during gaming.",
+            "entity_b": "Limited range and precision issues in graphics applications."
+        }
+    },
+    "Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Features on-the-fly resolution and tracking speed adjustments.",
+            "entity_b": "Magnifier feature is difficult to disable and may not work well."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Issues with WiFi interference affecting performance.",
+            "entity_b": "Easy to install and works well on multiple surfaces."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durability issues with buttons and scroll wheel over time.",
+            "entity_b": "Poor build quality with frequent disconnections."
+        }
+    },
+    "Package": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comes with two batteries and a small charger stand.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wireless freedom with gaming-quality performance. The design is light and stylish, with configurable buttons.",
+            "entity_b": "Portable design with a convenient USB receiver storage."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Logitech's customer service is inconsistent.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Not compatible with Windows 8 and has driver issues with Windows 7."
+        }
+    },
+    "Buttons": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Buttons are stiff and difficult to press."
+        }
+    },
+    "Scroll Wheel": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Smooth scroll wheel lacks tactile feedback."
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The mouse does not integrate with Logitech cordless keyboard receivers. The mouse is not suitable for use with Macs due to lack of full functionality.",
+            "entity_b": "The mouse has many options and is comfortable, even working with Macs. Compatible with all SetPoint software versions."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Feels odd in the right hand but is ergonomically designed for left-handed users. Comfortable ergonomic design with programmable buttons for left-handed users. Logitech should offer more products for left-handed users.",
+            "entity_b": "Symmetrical design is appreciated. The mouse is not left-hand compatible."
+        }
+    },
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not Bluetooth compatible, occupying one of two USB ports. Requires USB hub on the same horizontal plane for optimal function.",
+            "entity_b": "The USB receiver is long and occupies a single port. Does not run on 2.4GHz, limiting range."
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The transmitter is weak, requiring the receiver to be within a few feet. Often skips and loses signal with the transmitter three feet away. The mouse can skip and jump if the USB adapter is far from the computer.",
+            "entity_b": "Range for media operations is about 30 feet. Excellent range and battery life."
+        }
+    },
+    "Buttons": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Back/forward buttons by the thumb are frequently used and appreciated. Volume/mute buttons are comfortable to access. Mail and IM buttons are not easily accessed but are rarely used. Fits the hand well with many programmable buttons and precise response. Software loses button configurations often. The middle button is hard to click. Scroll wheel and programmable buttons work very well. The mouse occasionally requires double clicks to respond.",
+            "entity_b": "Buttons are functional and well-placed. Volume and track controls are convenient for gaming and media. Media-specific buttons were ahead of their time. Not all buttons are programmable. The buttons require hard pressing, causing finger fatigue."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Uses standard AA batteries, but could be lighter with Li-ion batteries. Excellent battery life and auto-off feature. The mouse is slightly heavy due to two AA batteries.",
+            "entity_b": "Rechargeable batteries last around three months with daily use. Long battery life with NiMH rechargeables."
+        }
+    },
+    "Installation": {
+        "comm": "Installation is easy.",
+        "cont": {
+            "entity_a": "Instructions are available in multiple languages. Logitech hardware is reliable and easy to install.",
+            "entity_b": "Some media functions require software installation."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Reliable connection with no issues after initial setup. Not ideal for gaming due to lag and CPU usage.",
+            "entity_b": "Performance is fantastic, with a decade of use. The mouse is highly valued for its comfort and performance."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service is excellent in addressing defective products.",
+            "entity_b": "The left-click button may wear out after years of use. Some issues with cursor jumping are resolved by exchanging the mouse."
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Heavy enough to feel solid, light enough for quick use. Fits the hand well.",
+            "entity_b": "Hard plastic around the lower side is less comfortable than newer models. Fits well in hand with a reasonable weight."
+        }
+    },
+    "Media": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Media controls are functional but not fully supported by all programs."
+        }
+    },
+    "Availability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The mouse is not available in Australia.",
+            "entity_b": ""
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "Finish": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pan had a poor level of finish with scratches and a sharp rim that could trap food.",
+            "entity_b": "The copper cladding is extremely light and wears off after one use. Copper finish is not durable and tarnishes quickly. The copper exterior is only a finish and deteriorates after use."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Warping issues occurred twice with minimal use.",
+            "entity_b": ""
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The manufacturer refused to inspect the pan and required going through the dealer for replacement.",
+            "entity_b": ""
+        }
+    },
+    "Coating": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The protective beeswax coating was difficult to remove.",
+            "entity_b": ""
+        }
+    },
+    "Sticking": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Seasoning attempts did not prevent food from sticking.",
+            "entity_b": "Requires a lot of oil to prevent sticking. Difficult to clean due to food sticking easily."
+        }
+    },
+    "Warping": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Pan warped when used on an induction stove. Heats quickly and evenly, but warps when used on electric stove tops.",
+            "entity_b": ""
+        }
+    },
+    "Heating": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The bottom is not flat, causing uneven heating on a smooth glass surface.",
+            "entity_b": "The pans heat evenly and maintain temperature well."
+        }
+    },
+    "Condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pan arrived with scratches but worked well once seasoned.",
+            "entity_b": "The pots arrived with spots and marks but cleaned up with bar keepers friend."
+        }
+    },
+    "Build": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pan is well-made with a welded handle and no rivets.",
+            "entity_b": ""
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pan is heavy but offers good heat distribution. The pan is lighter than cast iron but heavier than non-stick aluminum pans.",
+            "entity_b": "The set is heavier than previous non-stick Calphalon."
+        }
+    },
+    "Seasoning": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The seasoning process was challenging but resulted in a non-stick surface.",
+            "entity_b": ""
+        }
+    },
+    "Maintenance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Pans require copper cleaner to maintain appearance. The set is attractive but requires high maintenance."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The cookware is not induction compatible despite claims."
+        }
+    },
+    "Appearance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Copper changes color with heat but can be cleaned to a shiny finish."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The design and heat distribution are top class."
+        }
+    }
+}

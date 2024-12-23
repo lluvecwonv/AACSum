@@ -1,0 +1,86 @@
+{
+    "Build": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Solid body and superior build quality.",
+            "entity_b": "Outstanding handling and service by the seller."
+        }
+    },
+    "Autofocus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Professional autofocus with 45 points.",
+            "entity_b": ""
+        }
+    },
+    "WeatherSealing": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Weather sealing and built-in hand grip.",
+            "entity_b": ""
+        }
+    },
+    "Photography": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good for general and close-up photography despite low resolution.",
+            "entity_b": "Perfect for learning about DSLRs. Entry-level DSLR with features for beginners. User-friendly for inexperienced photographers."
+        }
+    },
+    "Accessories": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Difficult to find accessories.",
+            "entity_b": ""
+        }
+    },
+    "Error": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Error 99 issue encountered.",
+            "entity_b": ""
+        }
+    },
+    "ImageQuality": {
+        "comm": "Comparable image quality to new point-and-shoot cameras.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Great picture quality but lower megapixel than new cameras. Performs flawlessly with great pictures. Great clarity, speed, ease of use, and picture quality. Takes great pictures with ease of customization. Easy to handle and takes wonderful shots."
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not worth $2000 in current market, but reasonable value under $500.",
+            "entity_b": "High quality for a budget price."
+        }
+    },
+    "BurstRate": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Fast burst rate, but surpassed by newer models in most other aspects.",
+            "entity_b": ""
+        }
+    },
+    "EaseOfUse": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Easy to use with interchangeable lenses. Easy to handle and takes wonderful shots."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Compatible with 2GB or smaller SD cards only. Camera did not work with current memory cards."
+        }
+    },
+    "Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "4 stars for slightly lacking feature set. Dedicated buttons for ISO and White Balance. No Black and White mode or illuminated display."
+        }
+    }
+}

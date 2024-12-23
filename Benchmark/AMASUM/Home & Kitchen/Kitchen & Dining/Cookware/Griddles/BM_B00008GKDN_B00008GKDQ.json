@@ -1,0 +1,65 @@
+{
+    "Material": {
+        "comm": "Heavy.",
+        "cont": {
+            "entity_a": "Cast iron is susceptible to rusting if not seasoned with oil after cleaning. Heavy and requires careful maintenance to avoid rust.",
+            "entity_b": "Not suitable for those seeking lightweight options."
+        }
+    },
+    "Cooking": {
+        "comm": "Versatile.",
+        "cont": {
+            "entity_a": "Supports a variety of cuisines. Great for cooking on induction cooktops.",
+            "entity_b": "Versatile for both grill and flat cooking needs. Good for grilling and versatile kitchen use."
+        }
+    },
+    "Seasoning": {
+        "comm": "Pre-seasoned but requires additional seasoning for non-stick use.",
+        "cont": {
+            "entity_a": "Pre-seasoned but additional seasoning is required to prevent sticking.",
+            "entity_b": "Griddle takes and holds seasoning well."
+        }
+    },
+    "Heating": {
+        "comm": "Uneven heating.",
+        "cont": {
+            "entity_a": "Uneven heating, especially with pancakes, due to a warped center. Great heat retention and distribution, but texture is rough.",
+            "entity_b": "Beautiful, even heat for pancakes on a well-seasoned griddle. Heats unevenly on some stoves."
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pan arrived rusty, indicating poor quality control. Quality is inconsistent with noticeable defects like holes and rust.",
+            "entity_b": "Cracked during first use, indicating potential quality issues. High-quality construction and craftsmanship."
+        }
+    },
+    "Surface": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Surface is rough, making it less non-stick than higher-priced alternatives. Rough texture requires smoothing for better use.",
+            "entity_b": "Handles and height of edges can cause food to fall."
+        }
+    },
+    "Maintenance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires careful maintenance to avoid rust. Effective for pancakes and grilled cheese, but requires maintenance.",
+            "entity_b": "Requires proper seasoning to prevent sticking."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Handle can become very hot during use.",
+            "entity_b": "Fits well on specific stoves but may not fit with the cover closed. Heavy and not ideal for frequent moving."
+        }
+    },
+    "Packaging": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Poor packaging during shipment led to damage of accompanying items.",
+            "entity_b": ""
+        }
+    }
+}

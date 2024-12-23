@@ -1,0 +1,72 @@
+{
+    "Performance": {
+        "comm": "Fast and sharp autofocus.",
+        "cont": {
+            "entity_a": "Quick and accurate autofocus.",
+            "entity_b": "Fast and accurate autofocus."
+        }
+    },
+    "ImageQuality": {
+        "comm": "Sharp images with good color and contrast.",
+        "cont": {
+            "entity_a": "Sharp images across all lighting conditions. Image quality comparable to L series lenses.",
+            "entity_b": "High-quality images with superb clarity. Superb contrast and color. Sharp center image quality."
+        }
+    },
+    "BuildQuality": {
+        "comm": "Solid build quality.",
+        "cont": {
+            "entity_a": "Heavy and large compared to kit lenses.",
+            "entity_b": "Heavy but sturdy build. Weather-proofed and solid construction."
+        }
+    },
+    "FocalRange": {
+        "comm": "Wide angle focal range.",
+        "cont": {
+            "entity_a": "Wide angle to mid-range telephoto focal range, ideal for walk-around use.",
+            "entity_b": "Wide angle focal length range from 16-35mm."
+        }
+    },
+    "LowLight": {
+        "comm": "Great for low light photography with f/2.8.",
+        "cont": {
+            "entity_a": "Excellent low light performance with image stabilization.",
+            "entity_b": "Sharp photos in low light with f/2.8."
+        }
+    },
+    "Versatility": {
+        "comm": "Versatile for various photography needs.",
+        "cont": {
+            "entity_a": "Great for indoor photos without flash. Great for video and photo use. Excellent for landscapes and portraits.",
+            "entity_b": "Great for landscapes and night photography. Great for interior and landscape photography. Great for travel and versatile use."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good value for the price.",
+            "entity_b": "Expensive but worth the cost."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not weather-sealed, prone to dust. Dust issue inside the lens. Loud image stabilizer system.",
+            "entity_b": "Weather-proofed and solid construction. Some edge blurring at widest angles. Wide angle without fisheye distortion."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with APS-C cameras only.",
+            "entity_b": "Compatible with full-frame cameras."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Effective image stabilization for low-light photography.",
+            "entity_b": "Allows for use of filters."
+        }
+    }
+}

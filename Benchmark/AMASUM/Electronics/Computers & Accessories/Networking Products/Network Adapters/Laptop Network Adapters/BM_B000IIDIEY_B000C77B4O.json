@@ -1,0 +1,79 @@
+{
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The card does not work on RedHat 5.5 or Xubuntu 9.04 Linux.",
+            "entity_b": "Linksys WPC54GX4 is very compatible with Linksys wireless router."
+        }
+    },
+    "Drivers": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Drivers from Trendnet and Ralink produce errors.",
+            "entity_b": ""
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Reliable network card with good range. Loses connection frequently even when close to the router. This card has stability problems and often disconnects.",
+            "entity_b": "No connection problems on any floor of the house."
+        }
+    },
+    "Security": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Supports the latest and most secure encryption methods.",
+            "entity_b": ""
+        }
+    },
+    "Installation": {
+        "comm": "Installation was quick and easy.",
+        "cont": {
+            "entity_a": "Installation was quick and easy on both Windows XP and uBuntu 9.0.4. Installation was quick with CD.",
+            "entity_b": "Lynksys was easy to install and set up. Setup and installation were seamless. Setup was easy and straightforward."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Fairly priced. Price at 'new ovum' was double compared to Amazon.",
+            "entity_b": "Price is great. Purchased for a fraction of the local price."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "TrendNet's customer service is very good.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not faster in N-mode than Cisco in G-mode. Transmission speed says 170-230mbs vs Cisco 54mbs, but actual speeds are less. Connection is superb at the max rate.",
+            "entity_b": "Works well with both work and home computers. Does a good job overall for older laptops. Worked for 1 week, then caused computer freeze issues."
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Worst range experienced compared to older cards.",
+            "entity_b": "Range is not better than other adapters. Range and coverage are excellent. Improved range compared to previous 6-year-old Linksys card. Range is good, picked up signals over a block away. Linksys card had better range and signal strength than internal wireless. Better range and signal strength than the internal wireless card."
+        }
+    },
+    "Usability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Management software did not work on XP; had to use XP to manage the card.",
+            "entity_b": "Software is fast and easy, scans for networks quickly. Bothersome dialog box appears when not attached to work computer."
+        }
+    },
+    "Construction": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Replaced a bulky USB wireless connector.",
+            "entity_b": "Construction is better than previous unit."
+        }
+    }
+}

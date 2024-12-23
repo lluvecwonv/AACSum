@@ -1,0 +1,79 @@
+{
+    "Sound": {
+        "comm": "Sound quality is good.",
+        "cont": {
+            "entity_a": "Better sound including simulated surround. Minimal sound leakage. Good sound, but stopped working after a month. Sennheiser phones provide true hifi sound. Clarity and reception better than Advent brand with occasional static.",
+            "entity_b": "Comfortable and crisp sound. Decent lows for pop/rock but lacking for hip-hop. Balanced in high and mid sections. Bright sound and hard clamp can cause discomfort. Better than laptop speakers with good clear sound."
+        }
+    },
+    "Fit": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Better fit and wireless capability. Poor fit, presses on ears. Headphones are lightweight and comfortable. Recommended for users with hearing aids due to large ear coverings.",
+            "entity_b": "Uncomfortable due to small ear holes. Bright sound and hard clamp can cause discomfort. Comfortable and good sound for portable use."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Way better battery life with an extra battery always charged. Battery lasts only four hours.",
+            "entity_b": ""
+        }
+    },
+    "Construction": {
+        "comm": "Prone to breaking.",
+        "cont": {
+            "entity_a": "Poor construction; headphones broke after a few months. Cheap material and static noise when moving head. No problems with breakage or wear after a year of use.",
+            "entity_b": "Subpar build quality; plastic pieces break easily. Plastic construction leads to easy breakage."
+        }
+    },
+    "Reception": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Reception is good but cuts out when phone rings. Reception cuts out when moving outside range. Good range inside and outside the house.",
+            "entity_b": ""
+        }
+    },
+    "Volume": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Volume control is hard to find. Not satisfied with volume despite good surround sound. Volume issues when using with certain devices.",
+            "entity_b": ""
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Comfortable and crisp sound. Uncomfortable due to small ear holes. Bright sound and hard clamp can cause discomfort. Comfortable and good sound for portable use."
+        }
+    },
+    "Bass": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Decent lows for pop/rock but lacking for hip-hop. Weak bass and plastic broke within 6 months. Bass is weak and plastic broke inside 6 months."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Not as good as Bose but a great deal for the price."
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good discriminator, keeping noise to a minimum.",
+            "entity_b": "No noticeable noise cancelling white noise."
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Short cord limits movement. Good clean quality and portable."
+        }
+    }
+}

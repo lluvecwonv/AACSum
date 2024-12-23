@@ -1,0 +1,86 @@
+{
+    "Power": {
+        "comm": "Router has plenty of power.",
+        "cont": {
+            "entity_a": "Powerful and versatile. Very good router with plenty of power.",
+            "entity_b": "Router works flawlessly after setup."
+        }
+    },
+    "Installation": {
+        "comm": "Easy to install.",
+        "cont": {
+            "entity_a": "Fits perfectly on the router table base.",
+            "entity_b": "Setup was simple and quick. Easy to configure."
+        }
+    },
+    "Adjustment": {
+        "comm": "Easy depth adjustment.",
+        "cont": {
+            "entity_a": "Rough adjustment release lock is difficult to adjust. Fine adjustment sticks. Body does not slide smoothly in the collar. Easy to depth adjust. Micro adjust from the top of the table. Adjusts with a screw dial and then locks with lever clamp. Lots of power for planing slabs and good adjustment accuracy. Adjustments are easy and precise.",
+            "entity_b": ""
+        }
+    },
+    "Soft Start": {
+        "comm": "Soft start feature.",
+        "cont": {
+            "entity_a": "Softer than older models. Soft start is nice when routing by hand. Prevents kick at startup. Soft start is A+.",
+            "entity_b": ""
+        }
+    },
+    "Speed": {
+        "comm": "Variable speed control.",
+        "cont": {
+            "entity_a": "Variable speed is great for different size bits and wood types. Powerful, variable speed a major plus.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router is well made, plenty of power, and compliments other Bosch tools.",
+            "entity_b": "New version has easy access to built-in firewalls."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router is capable of producing 2.25 HP while consuming 1.93 HP.",
+            "entity_b": "Router works with a great diversity of computers. Router supports third-party firmware."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router does not work with PS3 wirelessly. Router works great for Netflix on PS3."
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router has good range even with security on. Router has good signal range."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Power switch failed early.",
+            "entity_b": ""
+        }
+    },
+    "Noise": {
+        "comm": "Router operates quietly.",
+        "cont": {
+            "entity_a": "Router is super quiet and powerful.",
+            "entity_b": ""
+        }
+    },
+    "Ease of Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router is easy to install and maintain. Router has a simple setup process."
+        }
+    }
+}

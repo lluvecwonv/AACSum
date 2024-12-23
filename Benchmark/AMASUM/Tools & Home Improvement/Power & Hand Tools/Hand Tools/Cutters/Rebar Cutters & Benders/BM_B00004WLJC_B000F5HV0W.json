@@ -1,0 +1,51 @@
+{
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cheaper substitutes for handles are available, avoiding high costs of recommended handles. Good value and price, especially with a bubble level.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "Easy to use.",
+        "cont": {
+            "entity_a": "Built-in levels make it quick. Makes perfect 90-degree bends. Strong for big projects.",
+            "entity_b": "Recommended for fuel and brake lines. Does not kink large tubing."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Gardner Bender tools have easy-to-read arrows. Made of aluminum with a built-in level, well-made.",
+            "entity_b": "Painted bending surfaces leave smudges as they wear. Not heavy-duty, struggles with hollow steel tubes."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Broken level bubble upon arrival.",
+            "entity_b": "Delivered quickly and has a sturdy build."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Only bends 3/4 EMT and 1/2 rigid tube, contrary to product description. Not suitable for 1/2 EMT, requires a different bender.",
+            "entity_b": "Not suitable for 3/16th brake line. Better for larger tubing, not ideal for auto brake lines."
+        }
+    },
+    "Accuracy": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Does not provide length measurements for stubs.",
+            "entity_b": "Degree markings are inaccurate."
+        }
+    },
+    "Handle": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Invaluable for careful bending of heavier tubing with a strong handle. Does not include a handle or bending manual.",
+            "entity_b": "Long handles improve the bending process."
+        }
+    }
+}

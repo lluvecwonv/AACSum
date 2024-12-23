@@ -1,0 +1,100 @@
+{
+    "Surface": {
+        "comm": "Produces smooth surfaces.",
+        "cont": {
+            "entity_a": "Smooth, chip-free surfaces.",
+            "entity_b": "Smooth finish comparable to sanded wood."
+        }
+    },
+    "Construction": {
+        "comm": "Solid construction.",
+        "cont": {
+            "entity_a": "No flimsy plastic. Professional-grade quality.",
+            "entity_b": "Solid construction with metal components."
+        }
+    },
+    "Operation": {
+        "comm": "Easy to use.",
+        "cont": {
+            "entity_a": "Easy setup and operation.",
+            "entity_b": "Accurate, fast, and safe."
+        }
+    },
+    "Noise": {
+        "comm": "Quiet operation.",
+        "cont": {
+            "entity_a": "Motor was loud with a grinding sound, disappointing quality.",
+            "entity_b": "Quieter than other brands. Low noise level is acceptable. Relatively quiet."
+        }
+    },
+    "Dust Collection": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Dust collector hood is desired as a replacement. Dust collection attachment would be an improvement.",
+            "entity_b": "Dust collection hood is essential but not included. Dust collection works well."
+        }
+    },
+    "Performance": {
+        "comm": "Produces excellent results.",
+        "cont": {
+            "entity_a": "Performs well despite being inexpensive.",
+            "entity_b": "Powerful and accurate with good cutting quality."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Heavy-duty and expected to last many years.",
+            "entity_b": "Feed rollers don't last long and are expensive to replace."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service experience was poor due to malfunctions. Planer is junk with poor customer service.",
+            "entity_b": ""
+        }
+    },
+    "Motor": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Motor slows down and overheats after minimal use.",
+            "entity_b": ""
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Heavy, accurate, portable, and well-priced.",
+            "entity_b": ""
+        }
+    },
+    "Blade": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No issues with two knives instead of three.",
+            "entity_b": "Long blade life and easy to use. Blade changes are easy."
+        }
+    },
+    "Snipe": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Minimal snipe, even with wood knots. Automated head clamp minimizes snipe."
+        }
+    },
+    "Packaging": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Free delivery with purchase, but packaging was poor.",
+            "entity_b": ""
+        }
+    },
+    "Accuracy": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Accurate."
+        }
+    }
+}

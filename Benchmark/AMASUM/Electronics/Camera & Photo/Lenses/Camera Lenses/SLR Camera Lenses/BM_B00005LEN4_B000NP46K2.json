@@ -1,0 +1,114 @@
+{
+    "ImageQuality": {
+        "comm": "Produces sharp photos with high optical quality.",
+        "cont": {
+            "entity_a": "Significantly improved photo quality when transitioning from JPEG/automatic to RAW/manual.",
+            "entity_b": ""
+        }
+    },
+    "Autofocus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Autofocus is not supported on Nikon D5600; requires AF-S for autofocus. Autofocus is slower as it relies on the camera motor.",
+            "entity_b": ""
+        }
+    },
+    "BuildQuality": {
+        "comm": "The lens is lightweight and inexpensive.",
+        "cont": {
+            "entity_a": "Built like a tank but feels fragile due to mostly plastic construction.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with Nikon D750 and produces crisp images. The lens does not focus on entry-level bodies.",
+            "entity_b": ""
+        }
+    },
+    "Bokeh": {
+        "comm": "The lens is sharp with a good depth of field.",
+        "cont": {
+            "entity_a": "Great bokeh and depth, suitable for portraits and close-up work.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great value for its price, but feels cheap compared to other Nikon lenses.",
+            "entity_b": ""
+        }
+    },
+    "ManualOperation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Manual operation is required for DX cameras without a focusing motor. Manual focusing is necessary for cameras without an internal focus motor.",
+            "entity_b": ""
+        }
+    },
+    "Setup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lacks included directions, making initial setup difficult.",
+            "entity_b": ""
+        }
+    },
+    "Aperture": {
+        "comm": "Good for portraits with a large aperture.",
+        "cont": {
+            "entity_a": "Manual aperture control is available on the lens itself.",
+            "entity_b": ""
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Noisy when focusing and lacks a lens protector.",
+            "entity_b": ""
+        }
+    },
+    "Versatility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not suitable for sports or wildlife photography due to slower autofocus.",
+            "entity_b": ""
+        }
+    },
+    "FullFrameUse": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not suitable for full-frame use as it lacks clarity on low aperture settings.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lacks durability.",
+            "entity_b": ""
+        }
+    },
+    "Light": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Satisfactory performance in low light with a wide aperture.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lens fits loosely on the camera.",
+            "entity_b": ""
+        }
+    },
+    "SunFlares": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Minor sun flares occur when shooting around sunrise or sunset.",
+            "entity_b": ""
+        }
+    }
+}

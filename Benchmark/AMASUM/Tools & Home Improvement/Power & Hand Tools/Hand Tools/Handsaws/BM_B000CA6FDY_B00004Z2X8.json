@@ -1,0 +1,65 @@
+{
+    "Cutting": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cuts small trees and branches easily. Not as powerful as expected for cutting thicker branches. Vibrates significantly when cutting larger branches. Blade remains sharp after a year of use. Great for small projects and light tree trimming.",
+            "entity_b": "Produces accurate, sharp, and precise cuts with minimal effort. Cuts smoothly and is quicker than some power saws for certain tasks."
+        }
+    },
+    "Blade": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Difficult blade installation process, often requiring a screwdriver for adjustment. Blade attachment issues are common, leading to product returns and dissatisfaction.",
+            "entity_b": "Flexible blade allows for flush cuts. Blade is replaceable, enhancing longevity. Blade is prone to flexing but does not warp or bend easily."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lightweight and easy to maneuver, suitable for small to medium tasks. Has a two-button safety start feature. Comes with a convenient storage bag. Extension cord required for use due to short power cord.",
+            "entity_b": "Combines rip and cross saw functions in one design. Thin kerf design allows for precision work. Narrow kerf and pull stroke design are advantages. Made with a Japanese blade and assembled in the USA."
+        }
+    },
+    "Instructions": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Instructions are unclear and not helpful for blade installation.",
+            "entity_b": ""
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service and return process can be challenging.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Versatile tool suitable for woodworking and craft projects. Requires a learning curve for new users."
+        }
+    },
+    "Handle": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Handle is comfortable and allows for a secure grip."
+        }
+    },
+    "Safety": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Does not include a blade guard, which is a downside."
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Product was received with signs of prior use, such as dried grass and damaged packaging.",
+            "entity_b": ""
+        }
+    }
+}

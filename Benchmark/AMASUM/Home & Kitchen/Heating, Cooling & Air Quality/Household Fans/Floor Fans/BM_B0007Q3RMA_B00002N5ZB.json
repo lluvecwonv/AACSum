@@ -1,0 +1,65 @@
+{
+    "Airflow": {
+        "comm": "Moves a lot of air.",
+        "cont": {
+            "entity_a": "Even on the lowest setting.",
+            "entity_b": "Comparable to high settings on other models."
+        }
+    },
+    "Noise": {
+        "comm": "Not suitable for quiet environments.",
+        "cont": {
+            "entity_a": "Loud operation, likened to a small plane. Excessively noisy, even on the lowest setting. Too loud for domestic use, particularly in bedrooms or studies. Very noisy but effective for white noise.",
+            "entity_b": "Poor craftsmanship with loose blades and excessive noise. Powerful air circulation and white noise, but not suitable for quiet environments. Loud and made of cheap plastic."
+        }
+    },
+    "Build Quality": {
+        "comm": "Sturdy and well-built.",
+        "cont": {
+            "entity_a": "Build quality is good with a deep frame. Surviving drops and allowing for easy maintenance. Stable and moves more air than standard fans. Powerful, sturdy, and well-built.",
+            "entity_b": "Lasko Cyclone fan is of much higher quality. Durable and long-lasting, with good air flow and noise levels. Lightweight and easy to move, but has quality issues."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Specifications did not match the advertised features, including cord length and outlets. Does not include additional plug-ins as advertised. Blades are not as advertised, reducing air flow.",
+            "entity_b": "Fan arrived non-functional, but Lasko provided good customer service. Fan is powerful and adjustable but has a loose control knob. Lacks remote control."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Power cord placement under the handle is impractical and difficult to remove. Fan arrived with defects such as a misaligned cover and dented frame. Not safe for children as the protective cage broke quickly.",
+            "entity_b": "Fan arrived used and damaged, with poor quality control. Made of cheap materials."
+        }
+    },
+    "Power": {
+        "comm": "Powerful fan.",
+        "cont": {
+            "entity_a": "Stable, outperforming cheaper models.",
+            "entity_b": "Minimal noise, good for sleeping."
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Lightweight and easy to maneuver."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Lasko provided good customer service."
+        }
+    },
+    "White Noise": {
+        "comm": "Good for white noise.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Effective air circulation with strong white noise."
+        }
+    }
+}

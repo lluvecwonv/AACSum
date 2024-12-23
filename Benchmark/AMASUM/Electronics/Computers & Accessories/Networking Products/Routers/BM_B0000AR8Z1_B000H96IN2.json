@@ -1,0 +1,107 @@
+{
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Multiple replacements failed to connect to the internet. Wireless performance is poor in mixed environments. Wireless N devices do not connect.",
+            "entity_b": "Router has connectivity issues with multiple devices. Router loses connectivity randomly."
+        }
+    },
+    "Customer Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer support is unresponsive. Customer service is inadequate.",
+            "entity_b": ""
+        }
+    },
+    "Advertisement": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Product advertised for a discontinued service.",
+            "entity_b": ""
+        }
+    },
+    "Packaging": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Missing parts and damaged packaging.",
+            "entity_b": ""
+        }
+    },
+    "Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Advanced features suitable for SMB use.",
+            "entity_b": "DD-WRT software adds many features. DHCP Reservation is a valuable feature."
+        }
+    },
+    "Setup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Setup is difficult and not user-friendly. VPN setup is not intuitive and lacks documentation.",
+            "entity_b": "Setup wizard is incompatible with Windows XP. Setup is easy for experienced users."
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Firmware upgrade is simple and improves performance. Firmware updates do not resolve issues.",
+            "entity_b": "Linksys no longer provides firmware updates. Firmware updates required for optimal performance."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No dual antennas to eliminate multipath.",
+            "entity_b": "Router has good range and performance. Router functions well despite poor range. Router has poor wireless range compared to older models."
+        }
+    },
+    "Stability": {
+        "comm": "Router crashes and requires reboots.",
+        "cont": {
+            "entity_a": "Router frequently crashes even with the latest firmware. Router crashes frequently during setup. Router requires constant supervision and restarts.",
+            "entity_b": "Router crashes occasionally and requires reboots. Router requires daily reboots for USB hard drive recognition. Standard firmware requires daily reboots."
+        }
+    },
+    "Security": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wireless security mode setup problems.",
+            "entity_b": ""
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "QuickVPN software needs better support. SSH Sentinel VPN Client software is not supported.",
+            "entity_b": ""
+        }
+    },
+    "Usability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router is not suitable for beginners.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router is fast and eliminates dead spots."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router died after 8 months."
+        }
+    },
+    "Storage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "USB storage feature is unreliable."
+        }
+    }
+}

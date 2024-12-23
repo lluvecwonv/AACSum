@@ -1,0 +1,65 @@
+{
+    "Weight": {
+        "comm": "Heavy.",
+        "cont": {
+            "entity_a": "Thick without being too heavy.",
+            "entity_b": "Very heavy, making it impractical for frequent movement."
+        }
+    },
+    "Design": {
+        "comm": "Beautiful.",
+        "cont": {
+            "entity_a": "Ergonomically designed to alleviate strain, especially for people with back problems. Sturdy, and remains in good condition after a year of daily use. Aesthetically pleasing and functional.",
+            "entity_b": "Good quality and visually appealing. Well-crafted."
+        }
+    },
+    "Quality": {
+        "comm": "Excellent quality.",
+        "cont": {
+            "entity_a": "Heavy-duty and well-constructed.",
+            "entity_b": "High quality and worth the price."
+        }
+    },
+    "Maintenance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires a lot of oil to prevent wobbling. Easy to clean with non-skid pads to prevent slipping. Easy to maintain and clean. Bamboo construction requires regular oiling.",
+            "entity_b": "Requires frequent oiling to maintain condition. Difficult to clean due to weight. Prone to cracking if not properly maintained."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Holds up well over time.",
+            "entity_b": "Cracks appeared despite meticulous care. Durable and expected to last a lifetime with proper care."
+        }
+    },
+    "Size": {
+        "comm": "Large size and weight.",
+        "cont": {
+            "entity_a": "Requires ample space.",
+            "entity_b": "May not be suitable for all users."
+        }
+    },
+    "Stability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Very stable due to its weight and skid-proof feet.",
+            "entity_b": "Solid and does not move during use."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Raises the chopping surface for a comfortable prep area. Includes three bowls for added convenience.",
+            "entity_b": "Provides a solid, flat cutting surface. End grain construction is beneficial for cutting."
+        }
+    },
+    "Packaging": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Packaging may not protect the product adequately during shipping."
+        }
+    }
+}

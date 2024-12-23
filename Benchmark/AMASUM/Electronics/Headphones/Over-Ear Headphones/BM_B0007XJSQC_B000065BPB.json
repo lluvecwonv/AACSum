@@ -1,0 +1,37 @@
+{
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Three out of four headphones broke, with the covering flaking off. Older version was sturdier; new version feels delicate. Wires appear fragile and suspect for durability. Padding on headphones starts to fall apart over time. The left headphone did not work out of the box; a recurring issue.",
+            "entity_b": "Right side speaker failed after five months. Headphones are lightweight but sturdy. Pads deteriorate over time."
+        }
+    },
+    "Sound": {
+        "comm": "Bass and treble are balanced.",
+        "cont": {
+            "entity_a": "Sound quality is fading in older models, but new ones are inconsistent. Some users find the headphones better than Beats for clarity in high and mid-range. Sound quality is unexpectedly good for the price, with balanced bass and treble. Sound quality is good, with clarity and balanced audio. Sound quality is better than expected for the price. The headphones are not very loud when connected to phones. Sound isolation is decent, but doesn't block out all background noise.",
+            "entity_b": "Sound quality is not special. Audio performance is outstanding with effective noise isolation. High notes are muted, affecting sound quality. Sound isolation is not as effective as expected. Sound quality is crisp with excellent bass. Sound is neutral and accurate. Noise isolation is effective, but headphones are heavy. Sound is detailed with decent bass. Sound quality is high, with good noise isolation."
+        }
+    },
+    "Comfort": {
+        "comm": "Headphones are lightweight.",
+        "cont": {
+            "entity_a": "The band is smaller and the plastic is borderline delicate. Comfortable for long use, with a super long wire. Headphones are lightweight and comfortable for extended use. Comfortable for long periods but may not last years of heavy use.",
+            "entity_b": "Ear cups become uncomfortable and sweaty after long use. Clamping force is strong, causing discomfort. Comfortable and durable with good sound quality."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Headphones do not fold, which can lead to breakage during transport.",
+            "entity_b": ""
+        }
+    },
+    "Wire": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The long cable is inconvenient for gym use. The cord is long, which can be both useful and cumbersome.",
+            "entity_b": "Wire is heavy and uncomfortable. Cord is heavy and coiled, causing discomfort. Cord is coiled and heavy, causing issues during use."
+        }
+    }
+}

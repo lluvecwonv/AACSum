@@ -1,0 +1,30 @@
+{
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Right side speaker stopped working after five months, indicating poor durability. Headphones do not last long; wire is heavy and cumbersome. Right headphone stopped working after eight months; headband lining cracked.",
+            "entity_b": "Thin cables may affect long-term durability. Headphones worked well for two months before failing."
+        }
+    },
+    "Sound": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sound quality is average and not impressive. Audio performance is outstanding; effective noise-cancellation without a high price. High notes are too muted; left side stopped working after three months. Good low end and dynamic range; short cord stretches far. Sound isolation quality is disappointing compared to expectations. Comfortable and durable with excellent sound and noise cancellation. Sound spectrum capabilities enhanced with an audio amplifier. Connecting to a USB external soundcard improves sound quality. Good bass and treble balance; outperforms Sony studio headphones. Good noise isolation and sound quality, but coiled cord is problematic. Lightweight and well-fitted with low ear fatigue. Excellent sound reproduction and noise isolation. Comfortable but tight fit; sound quality is good. Sound quality is impressive with clear highs and tight bass. Durable with excellent noise-canceling over ear cups. Sound quality is good for price; not suitable for audiophile bass experience. Sound is crisp with excellent bass; headphones are heavy and stiff. Sound is accurate with good frequency response. Sound quality is remarkable; independent sound layers. Sound is great with good noise cancellation. Durability issues with speakers; sound quality is good. Sound is good with accurate sound profile. New model has improved sound staging quality. Sound is great; ear padding material deteriorates over time. Sound quality is excellent; headphones are fragile. Sound isolation is good; headphones are snug. Sound quality is great; noise isolation is impressive. Sound is natural with good noise isolation. Sound is good for monitoring purposes. Sound is excellent with good noise attenuation. Sound is clear with good noise isolation.",
+            "entity_b": "Sound is clear with prominent treble and weak bass. Sound quality is good but earpieces pinch over time. Fit is loose, affecting sound quality. Sound is superb; retractable cords prevent tangling."
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comfortable and durable with excellent sound and noise cancellation. Lightweight and well-fitted with low ear fatigue. Comfortable but tight fit; sound quality is good.",
+            "entity_b": "Most comfortable clip-on headphones owned. Clip-on attachments are secure and comfortable. Comfortable fit with decent sound quality."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Coiled cord is heavy and awkward, limiting usability. Cord is heavy and coiled, causing discomfort.",
+            "entity_b": "Only one wire retracts, limiting convenience. Retractable mechanism works well. Clip-ons are wired together, limiting individual adjustment."
+        }
+    }
+}

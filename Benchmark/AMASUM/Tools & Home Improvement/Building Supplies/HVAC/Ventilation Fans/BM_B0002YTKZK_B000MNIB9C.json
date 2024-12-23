@@ -1,0 +1,79 @@
+{
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The unit is neat, sleek, and compact, fitting well in the bathroom.",
+            "entity_b": "The fan is very quiet and well-constructed with a metal exterior register."
+        }
+    },
+    "Heat": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The heater provides plenty of heat for a 12x7 bathroom.",
+            "entity_b": ""
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The unit is loud, with both the fan and heater being unusually noisy.",
+            "entity_b": "The fan is almost silent and moves air well."
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Installation is extremely difficult and may require an electrician.",
+            "entity_b": "Installation was very easy with included adaptors for various wall thicknesses."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good performance for the cost. Significant price savings when purchased from Amazon compared to local stores.",
+            "entity_b": ""
+        }
+    },
+    "Instructions": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Instructions are not well written for average DIYers.",
+            "entity_b": "Instructions are okay, but key pieces are missing for finished wall installation."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The heat function burned out after a few months of minimal use. The heater burned out after minimal use in two separate units. The heater stopped working within a few months.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The unit works well, but the noise level is high.",
+            "entity_b": "The fan is very quiet and effective at clearing steam from the bathroom."
+        }
+    },
+    "Affordability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The unit is very affordable.",
+            "entity_b": ""
+        }
+    },
+    "Replacement": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The design allows for easy replacement of components without attic access. The unit is identical to older models, allowing for easy part swapping.",
+            "entity_b": ""
+        }
+    },
+    "Fan": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The fan is louder than expected.",
+            "entity_b": "The fan is quieter than others and has decent power."
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "Image Quality": {
+        "comm": "Very sharp.",
+        "cont": {
+            "entity_a": "Sharper in image quality compared to the 28mm lens. Images are true to life with no distortion and sharp at all apertures. Provides beautiful bokeh.",
+            "entity_b": "Tack-sharp images and adds depth to photos. Amazing photo quality."
+        }
+    },
+    "Build Quality": {
+        "comm": "Solidly built.",
+        "cont": {
+            "entity_a": "Superior build quality with a silent and smooth focus ring. Solidly built, similar to Canon's L series lenses.",
+            "entity_b": "Extremely heavy and challenging for handheld use due to no image stabilization."
+        }
+    },
+    "Autofocus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Nearly silent, fast, and accurate.",
+            "entity_b": "Can hunt at close range, requiring manual focus for accuracy. Slow focusing."
+        }
+    },
+    "Low Light Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good in low light, often eliminating the need for a flash. Performs great in low light and offers good image quality for the price.",
+            "entity_b": "Requires a macro flash or full sunlight due to limited light at f32."
+        }
+    },
+    "Versatility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Performs well on both crop and full frame cameras. Suitable for wide shots in small spaces. Ideal for indoor shots and produces clear images without flash.",
+            "entity_b": "Versatile for both macro and outdoor portrait photography. Excellent for keeping distance from subjects without shadowing."
+        }
+    },
+    "Value": {
+        "comm": "Offers excellent value.",
+        "cont": {
+            "entity_a": "Well worth the price. Great value for those seeking a wide-angle prime lens.",
+            "entity_b": "A bargain for the quality it offers."
+        }
+    },
+    "Bokeh": {
+        "comm": "Great bokeh.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Superb for close-up portraits."
+        }
+    },
+    "Usage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Excellent for candid photography and close-ups. Provides a close-to-normal perspective on APS-C cameras.",
+            "entity_b": "Highly recommended for macro photography."
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lightweight.",
+            "entity_b": "Extremely heavy."
+        }
+    },
+    "Distortion": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Minimal distortion at the fringe.",
+            "entity_b": ""
+        }
+    }
+}

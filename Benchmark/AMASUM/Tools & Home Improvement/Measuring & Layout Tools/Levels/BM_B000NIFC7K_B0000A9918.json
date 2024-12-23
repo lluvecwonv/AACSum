@@ -1,0 +1,86 @@
+{
+    "Construction": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Feels cheap and sometimes requires tapping to get the bubble to react.",
+            "entity_b": "Solid construction and does not flex. Handles drops well."
+        }
+    },
+    "Markings": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Hash marks aren't crisply painted. The scale on the side is deceptive; the zero point is not at the edge of the black bumper. The measurement markings are easy to see. Ruler markings are not edge to edge.",
+            "entity_b": ""
+        }
+    },
+    "Weight": {
+        "comm": "Lightweight.",
+        "cont": {
+            "entity_a": "Extremely light and well-balanced. Lightweight but not very sturdy.",
+            "entity_b": "Lightweight with cushioned grips. Lightweight but durable."
+        }
+    },
+    "Measurement": {
+        "comm": "Accurate.",
+        "cont": {
+            "entity_a": "Includes a measurement scale in inches and centimeters. Three different water levels: 90°, 180°, and 45°. Adjustable angle measurement feature. Level inside can rotate to measure angles. Adjustable level feature is useful for non-traditional angles. The level is accurate.",
+            "entity_b": "Easy to read and accurate. Vials are clear and easy to read. Great precision level. Excellent quality and accuracy."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not as durable as other 24-inch levels.",
+            "entity_b": "Well-built and serves for years. Tough and reliable."
+        }
+    },
+    "Bubble": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Bubble in the fixed horizontal level and adjustable level did not match. The center bubble is too large, making it defective and unusable. Bubbles are easy to read.",
+            "entity_b": ""
+        }
+    },
+    "Grip": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Rubber grips and caps for safe handling. Lightweight with cushioned grips. Removable rubber ends."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Includes a window to view the level from the top.",
+            "entity_b": "High gloss durable enamel paint finish. High-quality craftsmanship."
+        }
+    },
+    "Value": {
+        "comm": "Worth the money.",
+        "cont": {
+            "entity_a": "Well-made and worth the money. Good for routine household use.",
+            "entity_b": "Expensive but worth the quality. Great value for price paid."
+        }
+    },
+    "Warranty": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Great warranty. Lifetime replacement warranty if they fail to stay true."
+        }
+    },
+    "Origin": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Made in Germany."
+        }
+    },
+    "Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good for routine household use.",
+            "entity_b": "Perfect for professional use."
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "Sound": {
+        "comm": "Sound quality is clear.",
+        "cont": {
+            "entity_a": "No background noise. Bright and clear even at low volumes, but lacks strong bass.",
+            "entity_b": "Amazing with clear highs, mids, and bass. Excellent for mixing and mastering with accurate sound reproduction. Bass is clear and natural, though some may find it lacking in sub-bass. Warm and natural sound, suitable for various music genres. Great for recreational listening with a wide and detailed soundstage."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Design allows connection to multiple devices via various inputs. Comfortable fit, though prolonged use may cause ear soreness due to cushion design. Lightweight and comfortable for shorter periods. Not suitable for use around corners due to line-of-sight requirement.",
+            "entity_b": "Open-back design does not provide noise cancellation but offers a spacious soundstage. Allows ambient sound, making them unsuitable for noise isolation. Comfortable to wear for extended periods after initial tightness wears off."
+        }
+    },
+    "Build": {
+        "comm": "Build quality is good.",
+        "cont": {
+            "entity_a": "Joints on the headpiece are prone to snapping.",
+            "entity_b": "Solid, though the cable connection is prone to issues. Packaging could be improved."
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable.",
+        "cont": {
+            "entity_a": "Prolonged use may cause ear soreness due to cushion design.",
+            "entity_b": "Comfortable to wear for extended periods after initial tightness wears off."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rechargeable batteries are included, but replacements are expensive and hard to find. Battery life is excellent, though lithium batteries last longer than included rechargeables.",
+            "entity_b": ""
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Installation is a bit cumbersome, but Pioneer offers helpful customer service.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "A bit pricey, but worth it if purchased below $150.",
+            "entity_b": "These headphones are a good investment for audiophiles seeking high-quality sound."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "They work via infrared, requiring line of sight to the transmitter. Good for short-range use, but movement can block the IR signal. Volume is strong and adjustable, with no static. Ideal for watching TV or movies without disturbing others.",
+            "entity_b": "Requires a good amplifier to drive properly due to high impedance. Not ideal for use with portable devices without a dedicated amplifier. Not suitable for noisy environments due to sound leakage."
+        }
+    }
+}

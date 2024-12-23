@@ -1,0 +1,121 @@
+{
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The Lodge cast iron wok is heavy.",
+            "entity_b": "The wok lid is sturdy and made of thicker metal than previous lids."
+        }
+    },
+    "Heat": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Holds heat well and heats evenly, with the center being hotter and cooler on the sides.",
+            "entity_b": ""
+        }
+    },
+    "Versatility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "It is versatile for cooking on gas, electric, or open fire.",
+            "entity_b": ""
+        }
+    },
+    "Seasoning": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The wok arrived well-seasoned and requires regular seasoning to prevent rust. The wok is not pre-seasoned as advertised and arrived with rust spots.",
+            "entity_b": ""
+        }
+    },
+    "Cleaning": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The wok is difficult to clean due to its weight and requires muscle strength.",
+            "entity_b": "The lid is easy to clean and maintain."
+        }
+    },
+    "Stability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The wok does not sit flat on a cooktop and wobbles when heated.",
+            "entity_b": ""
+        }
+    },
+    "Returns": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Returns are not permitted, which is not clearly stated on the purchase page.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The bottom has ridges incompatible with glass top ranges.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The wok is durable and expected to last for many years.",
+            "entity_b": ""
+        }
+    },
+    "Storage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The size and weight make it challenging to store in small kitchens.",
+            "entity_b": "The lid is lightweight and easy to store, fitting inside a 14-inch wok."
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Quality is good, but a small crack was found near one handle.",
+            "entity_b": ""
+        }
+    },
+    "Space": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The wok is spacious, allowing ample room for stir-frying.",
+            "entity_b": ""
+        }
+    },
+    "Handles": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Handles get hot, and silicone grips are recommended for safety.",
+            "entity_b": "The handle can become loose but can be fixed with a different screw. The handle design could be improved for better grip."
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The wok is a good value for its size and quality.",
+            "entity_b": ""
+        }
+    },
+    "Packaging": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The lid arrived with a bent rim due to inadequate packaging."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The lid is thin and can be easily dented."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The lid fits well for steaming and keeping food warm."
+        }
+    }
+}

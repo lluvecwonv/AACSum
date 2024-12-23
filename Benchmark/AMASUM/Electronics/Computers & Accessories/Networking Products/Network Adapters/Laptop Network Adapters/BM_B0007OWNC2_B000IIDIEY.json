@@ -1,0 +1,72 @@
+{
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The card did not work with Windows Vista Ultimate, despite the description.",
+            "entity_b": "The card did not work with RedHat 5.5 or Xubuntu 9.04 Linux due to driver errors."
+        }
+    },
+    "Installation": {
+        "comm": "The card is easy to install.",
+        "cont": {
+            "entity_a": "Installation was smooth and took less than 10 minutes.",
+            "entity_b": "Installation was quick, and connection is superb at max rate."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Technical support was unhelpful, focusing on collecting personal information.",
+            "entity_b": "Trendnet's customer service is very good."
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The range and speed are inadequate.",
+            "entity_b": "The card has poor range compared to older wifi cards."
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Netgear's software has connectivity issues; it's better to use Windows control.",
+            "entity_b": "Software management was ineffective, requiring reliance on XP for management."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The card offers faster speed and broader coverage as advertised.",
+            "entity_b": "Not faster in N-mode compared to Cisco in G-mode, despite higher transmission speed claims."
+        }
+    },
+    "Stability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The card is easy to install and improves wireless connection stability.",
+            "entity_b": "Stability issues with the card, requiring manual reconnects."
+        }
+    },
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The N card works well with the Netgear dual band router, enabling internet connectivity in the garage.",
+            "entity_b": "Frequent connection loss even when close to the router."
+        }
+    },
+    "Speed": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The CPU usage goes to 80% when the card is plugged in, with no known fix.",
+            "entity_b": ""
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good product with fantastic price and fast shipping.",
+            "entity_b": ""
+        }
+    }
+}

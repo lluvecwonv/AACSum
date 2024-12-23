@@ -1,0 +1,100 @@
+{
+    "Focal Length": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Versatile focal length functioning like a 32mm, suitable for both photo and video.",
+            "entity_b": "Nice focal range for general use, including portraits and landscapes."
+        }
+    },
+    "Low Light": {
+        "comm": "Great in low light.",
+        "cont": {
+            "entity_a": "Vivid color and sharpness at f/2.8. Sharp images in low light, even when fully opened.",
+            "entity_b": ""
+        }
+    },
+    "Distortion": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Barely perceptible barrel distortion on crop sensor, easily corrected in post.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "Great value for the price.",
+        "cont": {
+            "entity_a": "Affordable with good image quality for the price and weight.",
+            "entity_b": "Not professional grade but suitable for everyday amateur use."
+        }
+    },
+    "Build": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Solid build with metal and glass, not lightweight but preferred over cheaper lenses.",
+            "entity_b": "Plastic build with a girthy appearance. Well-built."
+        }
+    },
+    "Resolution": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sufficient resolution for video work.",
+            "entity_b": ""
+        }
+    },
+    "Vignetting": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No noticeable vignetting; good for wide-angle shots. Heavy vignetting and soft corners, but manageable with knowledge of the curved focal plane.",
+            "entity_b": ""
+        }
+    },
+    "Sharpness": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some images soft at edges, sharpness improves from f/4.0. Sharp images in low light, even when fully opened.",
+            "entity_b": "Soft at 28mm, sharpens at lower f-stops. Sharp shots from 50mm-80mm across most f-stops. Best used around f/11 for sharpness."
+        }
+    },
+    "Photography": {
+        "comm": "Good for landscapes.",
+        "cont": {
+            "entity_a": "Works well for landscapes and architecture photography with fast and accurate focus. Good for landscapes, night scenes, and indoor family gatherings. Useful for tight spaces, landscapes, and low light.",
+            "entity_b": "Good for portraits, landscapes, and close-ups."
+        }
+    },
+    "Flaring": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Prone to flaring, recommend using a lens hood.",
+            "entity_b": ""
+        }
+    },
+    "Autofocus": {
+        "comm": "Fast autofocus.",
+        "cont": {
+            "entity_a": "Solid and fast lens, outperforming some zoom lenses.",
+            "entity_b": "Autofocus is a bit slow."
+        }
+    },
+    "Color": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Colors can appear lifeless and burnt-out, lacking detail.",
+            "entity_b": "Colors and sharpness are acceptable."
+        }
+    },
+    "Quality": {
+        "comm": "Unbeatable price for the quality offered.",
+        "cont": {
+            "entity_a": "Not as good as higher-end lenses but offers excellent value for the price.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Works well with both digital and film cameras."
+        }
+    }
+}

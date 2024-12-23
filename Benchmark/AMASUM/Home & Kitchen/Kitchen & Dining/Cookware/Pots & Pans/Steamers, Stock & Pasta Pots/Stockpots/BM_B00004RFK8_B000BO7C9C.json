@@ -1,0 +1,58 @@
+{
+    "Size": {
+        "comm": "The pot is large.",
+        "cont": {
+            "entity_a": "Accommodating up to three gallons of stock.",
+            "entity_b": "Suitable for cooking large quantities such as a clambake for 125 people. The large size makes it difficult to wash in a standard sink."
+        }
+    },
+    "Construction": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The bottom is thick enough to evenly spread heat with no hot spots or scorching. The handles are welded, not riveted, so food will not get stuck in the hardware.",
+            "entity_b": "The pot's thin construction heats quickly but may lead to scorching if not monitored."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pot is sturdy and well-built, but handles can get hot during use. The pot is heavy-duty and durable, with a fully clad bottom.",
+            "entity_b": "The pot holds up well under intense heat. The pot is lightweight, making it easy to handle."
+        }
+    },
+    "Cleaning": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pot is easy to clean and maintains its appearance.",
+            "entity_b": "The large size makes it difficult to wash in a standard sink."
+        }
+    },
+    "Health": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some users experienced pitting at the bottom, potentially exposing aluminum, raising health concerns.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pot is reasonably priced and considered a good value.",
+            "entity_b": ""
+        }
+    },
+    "Quality Control": {
+        "comm": "Some pots arrived with issues, indicating potential quality problems.",
+        "cont": {
+            "entity_a": "Some pots arrived with dents.",
+            "entity_b": "Some pots arrived with enamel chipping. Some pots arrived damaged, requiring returns or replacements."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The pot is suitable for home brewing and boiling large quantities. The pot is functional for various cooking needs, such as boiling lobsters or making soups."
+        }
+    }
+}

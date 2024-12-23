@@ -1,0 +1,79 @@
+{
+    "Lens": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lens has internal spots affecting picture quality. Image quality highly depends on the lens used. Compatible with a wide array of Canon lenses. Compatible with older Canon lenses.",
+            "entity_b": "Compatible with older Pentax lenses. Lenses affect usability; manual lenses can be hard to use."
+        }
+    },
+    "Flash": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Flash mechanism needed cleaning to function properly. Some issues with battery and flash exposure in auto mode.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "Durable.",
+        "cont": {
+            "entity_a": "Camera body has a good feel. Suitable for long-term use. Solid build and great grip. Good build quality.",
+            "entity_b": "Sturdy, lasting many years. Construction is high quality."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Battery life is long, but one battery has poor performance. Battery compartment door catch is fragile.",
+            "entity_b": "AA batteries provide convenience but require high mAh for effective use. Battery life can be an issue."
+        }
+    },
+    "Picture Quality": {
+        "comm": "Produces great pictures.",
+        "cont": {
+            "entity_a": "Even after 10 years. Good for action shots and low light conditions.",
+            "entity_b": "Provides higher quality results than the Kodak P850. Produces excellent outdoor and good indoor results. Image quality is good with accurate colors."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Latency is subsecond, capturing action shots effectively. Low noise performance is above average at ISO1600. Camera's rapid shooting feature is effective for action photography. Autofocus is fast and accurate. Autofocus is fast and accurate.",
+            "entity_b": "Shutter speed is fast with good picture quality."
+        }
+    },
+    "Video": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Does not support video recording.",
+            "entity_b": ""
+        }
+    },
+    "Ease of Use": {
+        "comm": "Camera is easy to use.",
+        "cont": {
+            "entity_a": "Allows more focus on photography than settings. Generally easy to use in automatic mode. Camera has extremely good quality and is easy to use.",
+            "entity_b": "User-friendly with sufficient auto features for beginners. Provides great value."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "On/off switch is awkwardly placed. Lacks true spot metering and has a loud mirror slap. Impressive feature list with affordable price. Does not support 64-bit operating systems. Excellent camera but lacks support for newer operating systems.",
+            "entity_b": "Camera is small and portable. Built-in anti-shake feature is effective. Shake reduction feature is beneficial. Shake reduction feature is effective. Price is attractive."
+        }
+    },
+    "Resolution": {
+        "comm": "",
+        "cont": {
+            "entity_a": "8 megapixel resolution supports large prints.",
+            "entity_b": "6 megapixel resolution is small by today's standards but still useful."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with a wide array of Canon lenses. Compatible with older Canon lenses.",
+            "entity_b": "Compatible with a wide range of lenses."
+        }
+    }
+}

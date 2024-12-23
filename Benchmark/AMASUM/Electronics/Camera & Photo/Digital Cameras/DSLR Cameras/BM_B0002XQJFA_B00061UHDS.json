@@ -1,0 +1,205 @@
+{
+    "Lens": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lens has spots that appear in pictures, possibly inside the lens.",
+            "entity_b": ""
+        }
+    },
+    "Flash": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Flash had issues but was fixed after cleaning.",
+            "entity_b": "Powerful flash for its size."
+        }
+    },
+    "Body": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Camera body has a good feel.",
+            "entity_b": "Rubber-coated aluminum chassis feels better than competitors."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Battery lasts long, but a second battery was purchased. Battery life is excellent.",
+            "entity_b": ""
+        }
+    },
+    "Picture Quality": {
+        "comm": "Produces great pictures.",
+        "cont": {
+            "entity_a": "Produces great pictures even after almost 10 years. Low noise performance is above average at ISO1600.",
+            "entity_b": "Excellent picture quality. Minor complaints about color accuracy."
+        }
+    },
+    "Latency": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Latency is subsecond, suitable for capturing action shots.",
+            "entity_b": ""
+        }
+    },
+    "Video": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Does not take video.",
+            "entity_b": ""
+        }
+    },
+    "Algorithms": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Algorithms in controls are advanced.",
+            "entity_b": ""
+        }
+    },
+    "Ease of Use": {
+        "comm": "Easy to use.",
+        "cont": {
+            "entity_a": "Ease of use allows more focus on creating photos. Easy to use with intuitive system controls.",
+            "entity_b": "E-300 is intuitive and easy to use. Easy to learn and operate. Menus are easy to navigate."
+        }
+    },
+    "Durability": {
+        "comm": "Dependable and durable.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Built tough and feels great to hold."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with older Canon lenses.",
+            "entity_b": ""
+        }
+    },
+    "Shutter Speed": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Shutter speed is impressive.",
+            "entity_b": ""
+        }
+    },
+    "Port": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cord port for laptop connection is broken.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Switch to turn on the camera is awkwardly placed.",
+            "entity_b": "Film card door was fixed with velcro and superglue."
+        }
+    },
+    "Metering": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lacks true spot metering and has a loud mirror slap.",
+            "entity_b": ""
+        }
+    },
+    "Resolution": {
+        "comm": "8 megapixel resolution.",
+        "cont": {
+            "entity_a": "8 megapixel resolution allows for large prints.",
+            "entity_b": "Good price for an 8mp digital SLR."
+        }
+    },
+    "Build": {
+        "comm": "Solid build with a good grip.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Great weight and balance."
+        }
+    },
+    "Autofocus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Autofocus is fast and accurate.",
+            "entity_b": ""
+        }
+    },
+    "Photography": {
+        "comm": "Great for action photography.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Recommended for novices and pros alike."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No support for 64-bit operating systems.",
+            "entity_b": ""
+        }
+    },
+    "File Naming": {
+        "comm": "",
+        "cont": {
+            "entity_a": "File naming system does not prevent overwriting.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "Price is reasonable.",
+        "cont": {
+            "entity_a": "Price is reasonable for its capabilities.",
+            "entity_b": "Good price for an 8mp digital SLR."
+        }
+    },
+    "Lens Bundle": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lens bundled is adequate but upgrading is recommended.",
+            "entity_b": ""
+        }
+    },
+    "Accessories": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Came with a full array of accessories."
+        }
+    },
+    "Focal Plane": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Focal plane dust removal system is unmatched by competitors."
+        }
+    },
+    "CCD": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Kodak KAF8300CE CCD is used for high performance."
+        }
+    },
+    "Viewfinder": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Viewfinder is dim, focusing can be tricky."
+        }
+    },
+    "Manual": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Manual could use improvement."
+        }
+    },
+    "Settings": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Automatic settings result in poorly lit and blurry pictures."
+        }
+    }
+}

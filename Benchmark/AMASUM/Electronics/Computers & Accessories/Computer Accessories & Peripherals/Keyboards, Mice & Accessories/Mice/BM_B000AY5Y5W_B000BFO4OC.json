@@ -1,0 +1,72 @@
+{
+    "Accuracy": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Offers nearly wired-level accuracy, enhancing gaming experiences.",
+            "entity_b": "Laser sensor provides precise tracking."
+        }
+    },
+    "Ergonomics": {
+        "comm": "Comfortable to use with good ergonomics.",
+        "cont": {
+            "entity_a": "Providing comfort during use.",
+            "entity_b": "Some users find the mouse heavy and uncomfortable for long periods."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Includes two batteries, allowing for seamless swapping without docking. Rapid battery depletion during gaming. Battery life is short, requiring frequent swaps. Frequent battery swaps can be annoying, despite the quick-change feature.",
+            "entity_b": "Battery life is excellent, lasting months with auto-shutoff feature. Good battery management with long life and easy swaps."
+        }
+    },
+    "Tracking": {
+        "comm": "Works well on various surfaces.",
+        "cont": {
+            "entity_a": "Ability to change tracking speed on the fly is appreciated.",
+            "entity_b": "Including glass."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Issues with WiFi interference affect performance.",
+            "entity_b": "Receiver placement affects performance; must be close for optimal function. Occasional stutter issues resolved by moving the receiver closer."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durability concerns with left button wear and scroll wheel issues.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "Responsive and suitable for gaming.",
+        "cont": {
+            "entity_a": "Comfortable design with configurable buttons.",
+            "entity_b": "Suitable for general and graphic design use. The mouse provides additional controls like speaker volume, useful for gaming. Good value for the price with a modern look."
+        }
+    },
+    "Battery System": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The battery system allows continuous use without downtime. Some find the battery charging setup inconvenient.",
+            "entity_b": ""
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service from Logitech is noted as lacking by some users.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Some features, like email and IM buttons, may not work with all applications. Compatible with various operating systems without extensive setup."
+        }
+    }
+}

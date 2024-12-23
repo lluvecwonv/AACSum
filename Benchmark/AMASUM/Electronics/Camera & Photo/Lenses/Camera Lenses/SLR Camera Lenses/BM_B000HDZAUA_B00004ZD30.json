@@ -1,0 +1,79 @@
+{
+    "Autofocus": {
+        "comm": "Autofocus is slow.",
+        "cont": {
+            "entity_a": "Stopped working in less than a year. Problematic in less than bright light. Noisy but not bothersome for photos. Works well but not as fast as other lenses. Slow, especially for sports photography.",
+            "entity_b": "Fast and well-built. AF is a little slow."
+        }
+    },
+    "Warranty": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No warranty support from Amazon. Warranty repair service was efficient, but shipping was at the user's expense. Great lens for the price with a 6-year warranty.",
+            "entity_b": ""
+        }
+    },
+    "Macro": {
+        "comm": "Great macro function.",
+        "cont": {
+            "entity_a": "Workhorse, especially with the telephoto macro function. Softness at 300mm. Requires good lighting to avoid softness.",
+            "entity_b": ""
+        }
+    },
+    "Error": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Started getting an error saying the contacts were dirty, but other lenses worked fine.",
+            "entity_b": ""
+        }
+    },
+    "Build": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Solidly built. Lightweight and less expensive compared to Canon lenses.",
+            "entity_b": "Plastic build with a 1/2'' hood. Compact and versatile for general usage."
+        }
+    },
+    "Image Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Amazing picture quality. No image stabilization, tripod recommended for low light conditions. Blue/purple fringe at 100%.",
+            "entity_b": "At 28mm, the lens is a bit soft but improves with lower f-stops. Sharp shots at 50mm-80mm at almost all f-stops. Mediocre performance, best at f/11."
+        }
+    },
+    "Price": {
+        "comm": "Great value for the price.",
+        "cont": {
+            "entity_a": "Less expensive compared to Canon lenses. Good value for the price, especially for beginners.",
+            "entity_b": ""
+        }
+    },
+    "Professional Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good for beginners and casual use, not for professional quality.",
+            "entity_b": "Not a professional lens, but suitable for amateur use."
+        }
+    },
+    "Versatility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good for outdoor photography under good lighting.",
+            "entity_b": "Suitable for portraits and landscape photography. Good all-purpose lens for general use."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Noisy and slow, not suitable for astrophotography due to lens creep. Macro/normal button froze, leading to broken zoom.",
+            "entity_b": ""
+        }
+    },
+    "Color": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Color reproduction is good without tint."
+        }
+    }
+}

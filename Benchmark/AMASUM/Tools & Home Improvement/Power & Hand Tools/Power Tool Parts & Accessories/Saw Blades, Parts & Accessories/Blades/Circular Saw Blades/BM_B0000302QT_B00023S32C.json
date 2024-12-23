@@ -1,0 +1,44 @@
+{
+    "Price": {
+        "comm": "Costs almost twice as much.",
+        "cont": {
+            "entity_a": "Almost twice that of the Evolution equivalent.",
+            "entity_b": "Twice as much as a cheap China blade but lasts longer."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Dewalt blades are no longer made in the USA, affecting their durability and quality. The blade only lasted for about 100 cuts before jamming and bending. Teeth may break off after a short period of use. The blade does not last much longer than an abrasive blade.",
+            "entity_b": "Outlasts most others except Diablo, despite broken teeth. Lasted 2 hours when cutting metal studs, sparking and smoking."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The blade performs well on flat cuts despite two missing teeth. Cuts cleanly and quickly, leaving a nice clean edge. Best aluminum cutting blade, also effective for steel. The blade works well in a Rage2 dry cut saw but may wander at very slow feeds. The blade cuts smoothly and precisely, reducing the need for post-cut grinding. The blade is effective for cutting heavier gauge mild steel.",
+            "entity_b": "Cuts 3/8 inch steel sheet better than a plasma cutter. The blade is effective for daily use in a small welding shop. Designed for metal cutting at least 1/8 inch thick. The blade is not effective on thinner materials. Great for low rpm circular or chop saws. Cuts steel like butter, suitable for building a tool locker. Recommended for use with the Milwaukee saw made for cutting steel. Performs well on thin stock and quarter inch material."
+        }
+    },
+    "Value": {
+        "comm": "Good value.",
+        "cont": {
+            "entity_a": "Providing 750-900 cuts.",
+            "entity_b": "Blades hold up well."
+        }
+    },
+    "Longevity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Resharpening extends the life of the blade.",
+            "entity_b": ""
+        }
+    },
+    "Usability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Avoid binding the blade to prevent chipping or tooth loss."
+        }
+    }
+}

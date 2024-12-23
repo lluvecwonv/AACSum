@@ -1,0 +1,58 @@
+{
+    "Sound": {
+        "comm": "Good sound quality for the price.",
+        "cont": {
+            "entity_a": "Clear highs, mids, and lows. Well-balanced sound. Decent bass but not overly powerful.",
+            "entity_b": "Sound clarity is good but lacks strong bass. Not suitable for high-end audio needs."
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable for long-term use.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Ear cups can be uncomfortable for glasses wearers."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durable with minor plastic cracks after years of use.",
+            "entity_b": "Not very durable, prone to breaking."
+        }
+    },
+    "Cable": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Long cable can be cumbersome but offers flexibility.",
+            "entity_b": "Long cord is convenient for stationary use."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Open-ear design leaks sound, not ideal for public spaces.",
+            "entity_b": "Lightweight and blocks some external noise."
+        }
+    },
+    "Price": {
+        "comm": "Good value for the price.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Affordable and good value for casual listening."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sufficient for music, gaming, and movies. Requires an adapter for some devices.",
+            "entity_b": "Suitable for general use but not heavy-duty."
+        }
+    },
+    "Adaptability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Adaptable with modifications for improved bass.",
+            "entity_b": ""
+        }
+    }
+}

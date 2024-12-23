@@ -1,0 +1,149 @@
+{
+    "Setup": {
+        "comm": "Easy to set up.",
+        "cont": {
+            "entity_a": "Easy to use with the quick start guide.",
+            "entity_b": ""
+        }
+    },
+    "Tripod": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Tripod is larger than expected.",
+            "entity_b": "Tripod is considered cheap."
+        }
+    },
+    "Optics": {
+        "comm": "Optics are good for the price.",
+        "cont": {
+            "entity_a": "Optics are crystal clear and easy to focus. Amazing for the price.",
+            "entity_b": "Satisfying but require patience."
+        }
+    },
+    "Mount": {
+        "comm": "Mount is not stable.",
+        "cont": {
+            "entity_a": "The mount could be more stable.",
+            "entity_b": ""
+        }
+    },
+    "Lens": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Barlow lens does not work well.",
+            "entity_b": "Objective lens was shattered upon arrival."
+        }
+    },
+    "Magnification": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Picks up Saturn's rings and the four Galilean moons of Jupiter with the lowest magnification. 60x magnification lacks focus.",
+            "entity_b": "Magnification is not impressive."
+        }
+    },
+    "Finderscope": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Finderscope is poor.",
+            "entity_b": ""
+        }
+    },
+    "Assembly": {
+        "comm": "Easy to assemble.",
+        "cont": {
+            "entity_a": "Easy to assemble with good quality pieces.",
+            "entity_b": ""
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good quality accessories for the price.",
+            "entity_b": "Plastic pieces are cheaply made."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durable and easy to use.",
+            "entity_b": ""
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lightweight and mobile, but can be easily knocked over.",
+            "entity_b": ""
+        }
+    },
+    "Instructions": {
+        "comm": "",
+        "cont": {
+            "entity_a": "CD guide is more helpful than paper instructions.",
+            "entity_b": ""
+        }
+    },
+    "Suitability": {
+        "comm": "Good for beginners.",
+        "cont": {
+            "entity_a": "Great for viewing the moon but not planets. Not suitable for viewing deep space objects.",
+            "entity_b": "Optics are very good for beginners."
+        }
+    },
+    "Stability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Stable but shaky stand.",
+            "entity_b": ""
+        }
+    },
+    "Focus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Difficult to focus correctly. Inner cylinder misalignment affects focus."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Customer service is poor. Customer service from Amazon is excellent."
+        }
+    },
+    "Accessories": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comes with a tripod and eye attachment.",
+            "entity_b": ""
+        }
+    },
+    "View": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Clear views of the moon with visible crater lines.",
+            "entity_b": "Views of the moon, Jupiter, and Saturn are good. Images are clear and up close."
+        }
+    },
+    "Misalignment": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Inner cylinder misalignment affects focus."
+        }
+    },
+    "Adjustment": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Slow motion altitude adjustment is a useful feature.",
+            "entity_b": "The mount needs slow motion controls."
+        }
+    },
+    "Pieces": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some parts may be missing.",
+            "entity_b": "Missing telescope lenses and a screw."
+        }
+    }
+}

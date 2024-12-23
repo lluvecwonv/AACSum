@@ -1,0 +1,79 @@
+{
+    "Portability": {
+        "comm": "Portable.",
+        "cont": {
+            "entity_a": "Lightweight, suitable for minor tasks like inflating tires.",
+            "entity_b": "Heavy; a cart is recommended for movement."
+        }
+    },
+    "Noise": {
+        "comm": "Quiet operation.",
+        "cont": {
+            "entity_a": "Louder than expected and outputs lower than specified.",
+            "entity_b": "Oil-lubricated for better longevity and noise control."
+        }
+    },
+    "Durability": {
+        "comm": "High quality.",
+        "cont": {
+            "entity_a": "Durable for a DIYer's small tool compressor but not for heavy-duty use.",
+            "entity_b": "Well-made and durable, but some units arrive with damage."
+        }
+    },
+    "Suitability": {
+        "comm": "Not suitable for heavy-duty use.",
+        "cont": {
+            "entity_a": "Sufficient for using a nail gun and blowing dust.",
+            "entity_b": "Handles up to three nail guns without issues."
+        }
+    },
+    "Pressure": {
+        "comm": "Maintains good air pressure.",
+        "cont": {
+            "entity_a": "Builds up pressure quickly and maintains constant pressure.",
+            "entity_b": "Struggles to fill high-pressure tires quickly."
+        }
+    },
+    "Condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Arrived in excellent condition and on time.",
+            "entity_b": "Delivered in good condition, with minor packaging issues."
+        }
+    },
+    "Manual": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The manual is almost useless; break-in period is not clearly mentioned.",
+            "entity_b": ""
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "One unit had a bad pressure switch; only one out of three compressors is still working.",
+            "entity_b": ""
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "A good value for money, suitable for home garage tasks.",
+            "entity_b": ""
+        }
+    },
+    "Accessories": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Includes a long hose and tire pressure gauge. Accessory kit not included as advertised.",
+            "entity_b": "Includes two air line connections for convenience."
+        }
+    },
+    "Design": {
+        "comm": "Solid engineering design.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The compressor's paint may flake over time."
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "Durability": {
+        "comm": "Durable.",
+        "cont": {
+            "entity_a": "Still functional after three years despite frequent drops.",
+            "entity_b": "Mouse has a nice heft and appears durable."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Mouse battery life is about two weeks, while keyboard battery life is typically six months.",
+            "entity_b": "Battery reminder pops up when low. Mouse battery holds charge well."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with Android 4 tablets and Windows 7 64-bit.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "Includes a charging solution for the mouse.",
+        "cont": {
+            "entity_a": "Compact design fits small desks, but lacks a number pad.",
+            "entity_b": "Mouse is big and clumpy with poor movement."
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Not as comfortable as other Logitech products, feels cheaper and clunky."
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Bluetooth adapter supports only keyboard and mouse, lacking audio device support.",
+            "entity_b": "Software bundled is clunky and not required for all computers."
+        }
+    },
+    "Installation": {
+        "comm": "Easy setup.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Installation is easy, almost plug and play."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Significant lag from first keypress or mouse movement after waking from sleep.",
+            "entity_b": "Occasional lag or interference if mouse base is too close to computer and speakers."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not suitable for production use due to minimal key travel and lack of a numerical keypad.",
+            "entity_b": "Keyboard multimedia buttons aren't fully customizable. Some keyboard keys are unresponsive at times."
+        }
+    },
+    "Range": {
+        "comm": "Excellent range.",
+        "cont": {
+            "entity_a": "Over 30 feet.",
+            "entity_b": "Smooth operation."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Great price with rebate."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No longer supported by Microsoft.",
+            "entity_b": ""
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lightweight and responsive, suitable for use with a PC connected to a TV.",
+            "entity_b": "Mouse is heavy due to batteries but ergonomic."
+        }
+    }
+}

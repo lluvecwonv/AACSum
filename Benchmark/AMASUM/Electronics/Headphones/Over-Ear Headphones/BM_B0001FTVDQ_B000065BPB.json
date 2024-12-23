@@ -1,0 +1,79 @@
+{
+    "Sound": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great sound quality with clear highs, mids, and lows. Sound quality reveals more details in music compared to cheaper headphones.",
+            "entity_b": "Sound quality is good with a balanced audio profile, suitable for various music genres."
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comfortable fit, even for long periods, and suitable for users with glasses.",
+            "entity_b": "Comfortable with soft cushions, but tight fit may cause discomfort over long periods."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not the most expensive on the market, but well-balanced for the price.",
+            "entity_b": "Good value for price with reasonable sound quality for non-audiophiles."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Open design leaks sound, not ideal for use in quiet environments like offices or public transport. Not suitable for noise isolation due to open design.",
+            "entity_b": "Not ideal for portable use due to cord and weight."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durable with minor plastic cracking issues, but longevity over several years.",
+            "entity_b": "Durability issues with components like ear pads and headband material deteriorating quickly. Build quality is high, but some units have issues with sound cutting out in one ear."
+        }
+    },
+    "Cable": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Long cable can be cumbersome, but adaptable for different setups.",
+            "entity_b": "Heavy and cumbersome coiled cord that can be awkward in certain settings."
+        }
+    },
+    "Bass": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Bass is clean but not overly powerful; modification can enhance bass response.",
+            "entity_b": "Bass is decent but not overpowering, suitable for neutral listening."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires an adapter for certain devices, but it is included.",
+            "entity_b": "Frequent issues with one side of headphones losing sound."
+        }
+    },
+    "Use": {
+        "comm": "Good for a variety of uses.",
+        "cont": {
+            "entity_a": "Including gaming, music, and movies.",
+            "entity_b": "Great for studio use with accurate sound reproduction."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service is responsive to durability issues.",
+            "entity_b": "Warranty covers some issues, but customer service can be inconsistent."
+        }
+    },
+    "Noise Isolation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Effective noise isolation but not active noise cancellation."
+        }
+    }
+}

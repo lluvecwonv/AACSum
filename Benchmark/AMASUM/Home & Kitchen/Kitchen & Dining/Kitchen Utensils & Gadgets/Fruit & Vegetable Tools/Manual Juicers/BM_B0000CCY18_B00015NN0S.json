@@ -1,0 +1,58 @@
+{
+    "Cleaning": {
+        "comm": "Easy to clean.",
+        "cont": {
+            "entity_a": "Cleans easily. Dishwasher safe. Easily disassembles for cleaning.",
+            "entity_b": "Easy to use and clean. Easy to disassemble and clean."
+        }
+    },
+    "Efficiency": {
+        "comm": "Juices with minimal effort.",
+        "cont": {
+            "entity_a": "Extracts a lot of juice. Juices both small and large fruits.",
+            "entity_b": "Juices thoroughly. Ideal for frequent use and can handle large quantities of citrus."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Design allows juice to go directly into an attached measuring cup. Volume markings on the cup are difficult to read. Stable on the counter due to rubberized bottom.",
+            "entity_b": "Tall design may be challenging to store."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Parts are durable and last for years with proper care. Plastic top may warp in the dishwasher.",
+            "entity_b": "Sturdy construction but some metal parts are not rust-proof. Solid construction, but plastic parts may break over time. Durable and recommended for both home and commercial use."
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good for small juicing tasks but not ideal for large grapefruits.",
+            "entity_b": "Not suitable for large grapefruits and pomegranates. Effective for medium to small fruits."
+        }
+    },
+    "Maintenance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Requires regular maintenance to prevent rust."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Reversible reamer with two sizes for different fruits. Some seeds and pulp may fall into the cup, requiring additional straining.",
+            "entity_b": "Short handle provides good torque. High leverage makes juicing easy. Handles a wide range of citrus fruits efficiently."
+        }
+    },
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Metal cone may corrode with acidic juices."
+        }
+    }
+}

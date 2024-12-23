@@ -1,0 +1,114 @@
+{
+    "Camera": {
+        "comm": "Great camera for beginners.",
+        "cont": {
+            "entity_a": "Perfect starter DSLR with more features than expected. Great camera for the money. Great camera for the hobbyist and semi-pro. Great SLR camera. Great camera for entry-level and budding professionals. Great for taking photos of children and family events. Recommended for anyone transitioning from 35mm SLR to digital.",
+            "entity_b": "Great camera for learning about DSLR. Great camera for beginners with room to grow. Perfect for small prints and learning photography. Great camera for taking professional-like pictures. Great camera for entry-level DSLR users. Great camera for astrophotography. Great camera for photography enthusiasts."
+        }
+    },
+    "Lens": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lens that came with it is very nice. Came with a 15-58 mm lens, two battery packs, and a charger. Canon has a great range of lenses and accessories.",
+            "entity_b": "Compatible with most F-mount Nikon lenses. Camera body and lens in perfect condition. Comes with interchangeable lenses and great picture style settings."
+        }
+    },
+    "Build": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Metal pins for the Cfast memory card were slightly bent and hard to align. Smaller and lighter than the original EOS 300D Digital Rebel body, but well-constructed. Fits great in the hands and is not too heavy. Compact and fits great for small hands. Sturdy and easy to use, has held up well over years. Lightweight camera that takes outstanding photographs.",
+            "entity_b": "Only compatible with 2GB or smaller SD cards."
+        }
+    },
+    "Image Quality": {
+        "comm": "High-quality camera.",
+        "cont": {
+            "entity_a": "Takes excellent high-res digital photos. Comparable picture quality to Nikon D3000. Excellent quality photos with manual adjustability. Compact camera with excellent megapixel numbers. High-quality photographs and easy to use. Takes great pictures and has great picture quality.",
+            "entity_b": "Great picture quality with lower megapixels. Performs flawlessly with great pictures. 6MP is sufficient for high-quality images. Very high-quality camera with great clarity and speed. Good for capturing fast-moving subjects."
+        }
+    },
+    "Delivery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Delivered sooner than estimated.",
+            "entity_b": ""
+        }
+    },
+    "Display": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Upgraded CMOS sensor and added features with a larger LCD display. Quick change on point of focus and a larger LCD viewer.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Solid Canon quality at a reasonable price. Good balance between price and quality of output.",
+            "entity_b": "High-quality camera with great value for the price."
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Least digital noise in higher ISO settings, durable body, very user-friendly settings.",
+            "entity_b": ""
+        }
+    },
+    "Usability": {
+        "comm": "Easy to use.",
+        "cont": {
+            "entity_a": "Easy to understand the manual and basic functions. Easy to use with many manual settings. Easy to use with intuitive controls. Easy to handle and takes wonderful shots. Very user-friendly with interchangeable lenses. Easy to use and fun to learn all the features.",
+            "entity_b": "Easy to use but full-featured. Easy to handle with wonderful shots. Very simple to use with easy adjustments. User-friendly with easy menu navigation. Easy to use with great results."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lens compatibility is outstanding compared to other big name SLRs.",
+            "entity_b": ""
+        }
+    },
+    "Flexibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great flexibility with shooting modes.",
+            "entity_b": ""
+        }
+    },
+    "Focus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Quick focus helps catch action shots.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comes with almost every imaginable feature. Easy to use with good artistic control.",
+            "entity_b": "Dedicated buttons for ISO and White Balance. Autofocus, aperture setting, and shutter speed are beginner-friendly."
+        }
+    },
+    "Startup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Fast startup time and small shutter lag.",
+            "entity_b": "Fast and responsive with good handling."
+        }
+    },
+    "Comparison": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The D50 offers more than the D40 for beginners."
+        }
+    },
+    "Condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Great condition and works like new."
+        }
+    }
+}

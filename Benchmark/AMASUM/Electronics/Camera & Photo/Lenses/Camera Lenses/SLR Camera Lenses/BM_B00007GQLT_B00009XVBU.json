@@ -1,0 +1,184 @@
+{
+    "Focal Length": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Versatile focal length equivalent to 32mm on crop sensor.",
+            "entity_b": ""
+        }
+    },
+    "Low Light": {
+        "comm": "Great in low light.",
+        "cont": {
+            "entity_a": "Vivid color and sharp at f/2.8.",
+            "entity_b": ""
+        }
+    },
+    "Distortion": {
+        "comm": "Some distortion present but correctable in post.",
+        "cont": {
+            "entity_a": "Barely perceptible barrel distortion on crop sensor.",
+            "entity_b": ""
+        }
+    },
+    "Image Quality": {
+        "comm": "Great image quality.",
+        "cont": {
+            "entity_a": "For video and photo on a crop sensor camera.",
+            "entity_b": "Extreme sharpness and quality photos."
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lightweight and affordable.",
+            "entity_b": "Heavy and difficult for handheld use without IS."
+        }
+    },
+    "Sharpness": {
+        "comm": "Sharp images.",
+        "cont": {
+            "entity_a": "With slight distortion corrected in post.",
+            "entity_b": "With excellent bokeh on a tripod."
+        }
+    },
+    "Build Quality": {
+        "comm": "Solidly built.",
+        "cont": {
+            "entity_a": "Well-built with metal and glass, preferred over cheaper lenses.",
+            "entity_b": "Heavy with slow focusing, better for headshots."
+        }
+    },
+    "Photography": {
+        "comm": "Great for landscapes.",
+        "cont": {
+            "entity_a": "And architecture photography.",
+            "entity_b": "And close-up portraits with excellent background blur."
+        }
+    },
+    "Focus": {
+        "comm": "Slow focus.",
+        "cont": {
+            "entity_a": "Especially in low light.",
+            "entity_b": "Manual focus recommended for macro."
+        }
+    },
+    "Value": {
+        "comm": "Worth considering.",
+        "cont": {
+            "entity_a": "For those seeking a wide-angle zoom.",
+            "entity_b": "For macro photography."
+        }
+    },
+    "Field of View": {
+        "comm": "Wide angle suitable.",
+        "cont": {
+            "entity_a": "For full-frame cameras.",
+            "entity_b": ""
+        }
+    },
+    "Vignetting": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Heavy vignetting and soft corners but still good for wide shots.",
+            "entity_b": ""
+        }
+    },
+    "Color": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Colors are lifeless and images lack detail at elevated angles.",
+            "entity_b": ""
+        }
+    },
+    "Flaring": {
+        "comm": "Prone to flaring; a lens hood is recommended.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": ""
+        }
+    },
+    "Macro": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Fantastic macro lens for Canon shooters."
+        }
+    },
+    "Bokeh": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Excellent bokeh on a tripod."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Solidly built with excellent performance."
+        }
+    },
+    "Shadowing": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Allows for distance from subject without shadowing."
+        }
+    },
+    "Handheld Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Heavy and difficult for handheld use without IS."
+        }
+    },
+    "Manual Focus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Manual focus recommended for macro."
+        }
+    },
+    "Cost": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Worth the cost for macro photography."
+        }
+    },
+    "Camera Pairing": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Needs a good camera for pairing."
+        }
+    },
+    "Condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Arrived on time and in excellent condition."
+        }
+    },
+    "Dental Photography": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Great for dental photography, sharp and clear images."
+        }
+    },
+    "Extension Tubes": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Heavy lens but unmatched by extension tubes and other lenses."
+        }
+    },
+    "Travel": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Pleased with performance on recent trip."
+        }
+    }
+}

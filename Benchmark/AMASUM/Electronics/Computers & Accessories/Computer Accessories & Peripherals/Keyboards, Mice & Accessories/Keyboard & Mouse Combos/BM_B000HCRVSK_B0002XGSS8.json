@@ -1,0 +1,93 @@
+{
+    "Keyboard": {
+        "comm": "Keys are quiet.",
+        "cont": {
+            "entity_a": "Keyboard keys are soft.",
+            "entity_b": "Keys have a nice feel."
+        }
+    },
+    "Mouse": {
+        "comm": "Mouse works on various surfaces.",
+        "cont": {
+            "entity_a": "Mouse is comfortable to use. Battery life for the mouse is short; rechargeable batteries are advised. Mouse design is not suitable for left-handed use.",
+            "entity_b": "Mouse feels small and uncomfortable for some users. Battery life is good with power switches on mouse."
+        }
+    },
+    "Reception": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Reception is perfect.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Keyboard and mouse design is appreciated. Delete/home/end/page up/down keys design is non-standard and takes getting used to. Keyboard resembles a laptop keyboard in size and feel. Mouse design is not suitable for left-handed use.",
+            "entity_b": "Detachable keypad is a great feature for limited desk space. Spacebar has a tendency to stick, affecting usability."
+        }
+    },
+    "Feature": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Clock/timer is built into the keyboard. Zoom feature on the side is useful for presentations. Dynamic zoom bar on the keyboard can be finicky and activate unintentionally.",
+            "entity_b": "Separate calculator feature is convenient. Num pad doubles as a calculator with clock and temperature read-out."
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Software allows mapping keyboard keys and mouse buttons to different functions.",
+            "entity_b": ""
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Battery life for the mouse is short; rechargeable batteries are advised.",
+            "entity_b": "Battery life is good with power switches on mouse and number pad. MediaPad consumes batteries quickly with no off switch."
+        }
+    },
+    "Installation": {
+        "comm": "Installation is easy and quick.",
+        "cont": {
+            "entity_a": "Installation can be problematic, requiring multiple attempts and can result in startup errors.",
+            "entity_b": "Setup and installation are quick and easy."
+        }
+    },
+    "Comfort": {
+        "comm": "Keyboard and mouse are comfortable.",
+        "cont": {
+            "entity_a": "Keyboard and mouse are comfortable for extended use.",
+            "entity_b": ""
+        }
+    },
+    "Wireless": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wireless connection is reliable.",
+            "entity_b": "Wireless connection issues with Bluetooth dongle. Wireless device may not work well with certain KVM switches."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Keyboard and mouse are durable over time.",
+            "entity_b": ""
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service is responsive and helpful.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Function keys work in most software without additional programming.",
+            "entity_b": "Some keys may not register or repeat, requiring multiple attempts to type."
+        }
+    }
+}

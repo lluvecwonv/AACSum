@@ -1,0 +1,72 @@
+{
+    "Sound": {
+        "comm": "Good sound quality.",
+        "cont": {
+            "entity_a": "Excellent with clear audio and no background noise. Good bass and surround sound effects. Volume is adjustable and strong, with no static.",
+            "entity_b": "Lacks bass. Some white noise issues occur occasionally. Fit around the ear is loose, affecting sound quality."
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable fit.",
+        "cont": {
+            "entity_a": "Can cause ear soreness after prolonged use. The design is not the most comfortable, but better than some alternatives.",
+            "entity_b": "Secure clip-on attachments. Fit around the ear is loose, affecting sound quality."
+        }
+    },
+    "Durability": {
+        "comm": "Durable.",
+        "cont": {
+            "entity_a": "Prone to joint snapping at the headpiece.",
+            "entity_b": "Thin cables raise long-term durability concerns."
+        }
+    },
+    "Transmission": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Line-of-sight required for uninterrupted sound transmission. No radio interference due to infrared technology.",
+            "entity_b": ""
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rechargeable batteries included, but replacements are expensive and hard to find. Issues with battery removal for charging and occasional signal interruption.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Headphones are a bit expensive but worth it for the sound quality.",
+            "entity_b": ""
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good range, ideal for short-range use.",
+            "entity_b": ""
+        }
+    },
+    "Ease of Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some setup complexity but generally easy to use once configured.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Attractive design."
+        }
+    },
+    "Cable": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "One retractable cord, which can be inconvenient. Cord length may require an extension for practical use. Retractable mechanism works well and reduces tangling. Not fully retractable as expected, only one wire retracts."
+        }
+    }
+}

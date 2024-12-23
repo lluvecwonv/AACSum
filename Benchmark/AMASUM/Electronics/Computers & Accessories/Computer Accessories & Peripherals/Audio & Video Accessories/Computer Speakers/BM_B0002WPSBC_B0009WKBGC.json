@@ -1,0 +1,72 @@
+{
+    "Sound": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Legendary sound quality with booming bass and great surround sound. Powerful and clear sound for computer speakers, suitable for gaming and movies. THX certified, providing excellent sound for its size. Sound quality is comparable to high-end brands like Bose at a lower price. Some minor issues with bass being too strong for certain music preferences.",
+            "entity_b": "Good sound quality for the size, suitable for small to medium-sized rooms. Lacks deep bass and may distort at high volumes."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durable and long-lasting, with users reporting over a decade of use without issues.",
+            "entity_b": "Durable build, lasting up to 10 years for some users."
+        }
+    },
+    "Price": {
+        "comm": "Affordable.",
+        "cont": {
+            "entity_a": "Beware of price markups by some sellers.",
+            "entity_b": "Offers good value for the price."
+        }
+    },
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Versatile connectivity options including optical, coaxial, and direct inputs.",
+            "entity_b": "Limited connectivity with no AUX input."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some users experience issues with wall mounts and control panel light dimming. Large subwoofer size may require ample space. Speakers are difficult to wall mount due to design limitations.",
+            "entity_b": "Portable and compact, with a protective carrying case included. Buttons and controls are small and may be difficult to use."
+        }
+    },
+    "Control": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Control unit offers various sound options and is easy to use.",
+            "entity_b": ""
+        }
+    },
+    "Power": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Convenient USB power eliminates the need for a separate power supply."
+        }
+    },
+    "Setup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Easy setup with plug-and-play functionality, though some users report issues with Vista compatibility."
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Ideal for travel and presentations, offering sufficient volume and clarity."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Some users experience issues with the speakers 'walking' due to vibrations."
+        }
+    }
+}

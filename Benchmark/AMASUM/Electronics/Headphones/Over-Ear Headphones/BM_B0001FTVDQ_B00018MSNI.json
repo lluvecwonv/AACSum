@@ -1,0 +1,58 @@
+{
+    "Sound": {
+        "comm": "Great sound quality for highs, mids, and lows.",
+        "cont": {
+            "entity_a": "Sound is crisp and clear, enhancing music detail. Sound quality reveals the difference between compressed and uncompressed audio.",
+            "entity_b": "Detailed bass. Warm, natural sound profile with a wide soundstage."
+        }
+    },
+    "Comfort": {
+        "comm": "Very comfortable fit, even for extended use.",
+        "cont": {
+            "entity_a": "Comfortable for wearing with glasses.",
+            "entity_b": "Comfortable for extended listening sessions."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Open ear design leaks sound, not ideal for public or noisy environments.",
+            "entity_b": "Open back design allows ambient sound in, not suitable for noise isolation."
+        }
+    },
+    "Durability": {
+        "comm": "Durable",
+        "cont": {
+            "entity_a": "with minor cosmetic cracks after long-term use.",
+            "entity_b": "with replaceable cables."
+        }
+    },
+    "Cable": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The long cable is sometimes cumbersome.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires an adapter plug for certain devices.",
+            "entity_b": "Requires a proper amp for optimal performance."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good value for price, especially when found on sale.",
+            "entity_b": ""
+        }
+    },
+    "Build": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "High-quality build and design."
+        }
+    }
+}

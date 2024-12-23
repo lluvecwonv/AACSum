@@ -1,0 +1,100 @@
+{
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Difficult to connect to the internet, with poor customer support.",
+            "entity_b": ""
+        }
+    },
+    "Features": {
+        "comm": "VPN connections are unreliable.",
+        "cont": {
+            "entity_a": "Advanced features like VPN and remote access, suitable for professional environments.",
+            "entity_b": "VPN setup is easy, but load balancing doesn't work with secure connections."
+        }
+    },
+    "Setup": {
+        "comm": "Setup is easy.",
+        "cont": {
+            "entity_a": "Setup is difficult, especially for novices.",
+            "entity_b": "Setup is intuitive and easy, with a nice web interface."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Frequent crashes and unreliable performance, even with the latest firmware.",
+            "entity_b": "Reliable for smaller installations, but issues arise with inexperienced users."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Does not have dual antennas, affecting multipath elimination.",
+            "entity_b": "Gets hot and needs proper ventilation."
+        }
+    },
+    "Wireless": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wireless performance is poor in mixed environments. G-Only mode does not work; mixed mode only works at 11MBps unless forced to G mode.",
+            "entity_b": ""
+        }
+    },
+    "Support": {
+        "comm": "Firmware support is available.",
+        "cont": {
+            "entity_a": "Firmware updates frequently needed to resolve issues.",
+            "entity_b": "VPN software is outdated."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Consistently requires rebooting and supervision.",
+            "entity_b": "Router is outdated and has power issues."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Routing functionality is average, with misleading advertisements.",
+            "entity_b": "Bandwidth management feature can overburden the router."
+        }
+    },
+    "Usability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Setup is easy for those with network familiarity.",
+            "entity_b": "Forums provide helpful support."
+        }
+    },
+    "Suitability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The product is not suitable for small businesses that rely on it heavily.",
+            "entity_b": "Great for small businesses and supports up to 50 VPN tunnels."
+        }
+    },
+    "Issues": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Known issues with VOIP systems due to random port closures."
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Hardware is flawless, but setup requires IT knowledge.",
+            "entity_b": "High quality with robust VPN capability."
+        }
+    },
+    "Power": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Incorrect power supply can cause operational issues."
+        }
+    }
+}

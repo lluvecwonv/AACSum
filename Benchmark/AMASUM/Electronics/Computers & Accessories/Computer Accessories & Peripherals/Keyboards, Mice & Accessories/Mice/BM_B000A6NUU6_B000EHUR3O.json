@@ -1,0 +1,191 @@
+{
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good value for the price.",
+            "entity_b": "Decent mouse for the price."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Well-built, well-designed product.",
+            "entity_b": "Comfortable design but large USB receiver."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Works flawlessly.",
+            "entity_b": "Performs well with unbelievable battery life."
+        }
+    },
+    "Browsing": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Browsing on the internet with this mouse is a joy due to customizable button commands.",
+            "entity_b": ""
+        }
+    },
+    "Responsiveness": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Responsive and suitable for Photoshopping.",
+            "entity_b": "Mouse is more sensitive than previous versions."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "After 14 months, the wheel stopped working.",
+            "entity_b": "Stopped working after less than 2 months."
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Small size fits perfectly for those with small hands.",
+            "entity_b": "Very large mouse, not suitable for small hands."
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Installation is easy.",
+            "entity_b": "Connects instantly with no software installation needed."
+        }
+    },
+    "Ergonomics": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The mouse is not ergonomic and requires cramping the hand to press buttons.",
+            "entity_b": "Comfortable to use and very reliable."
+        }
+    },
+    "Wheel": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The wheel is too smooth and feels almost loose.",
+            "entity_b": ""
+        }
+    },
+    "Buttons": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Buttons feel flimsy and springs pop when released.",
+            "entity_b": "Magnifier button is a useful feature."
+        }
+    },
+    "Power": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Corded mouse eliminates battery issues.",
+            "entity_b": "Battery life is longer compared to other models."
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compact size is good for traveling and fits well in hand.",
+            "entity_b": "Huge USB receiver makes it less portable."
+        }
+    },
+    "Scroll": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Scroll wheel has no 'rolling notches' and moves freely.",
+            "entity_b": ""
+        }
+    },
+    "Coating": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rubberized coating on sides picks up grime and eventually sheds.",
+            "entity_b": ""
+        }
+    },
+    "Fit": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The mouse is small and not suitable for those with regular-sized hands.",
+            "entity_b": ""
+        }
+    },
+    "Click": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Inconsistent and hesitant click function of the scroll wheel makes it difficult for panning applications.",
+            "entity_b": ""
+        }
+    },
+    "Sensitivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good reaction sensitivity.",
+            "entity_b": "Mouse is not responsive and accurate compared to previous models."
+        }
+    },
+    "LED": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Blue LED is very bright and always on.",
+            "entity_b": ""
+        }
+    },
+    "Scrolling": {
+        "comm": "Smooth scrolling.",
+        "cont": {
+            "entity_a": "Without clicks.",
+            "entity_b": "Easy installation."
+        }
+    },
+    "Cord": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cord frayed at USB connector after several months.",
+            "entity_b": ""
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable for small hands.",
+        "cont": {
+            "entity_a": "Compact, precise, and comfortable for smaller hands.",
+            "entity_b": "Comfortable to hold."
+        }
+    },
+    "Precision": {
+        "comm": "Precise.",
+        "cont": {
+            "entity_a": "Compact, precise, and comfortable for smaller hands.",
+            "entity_b": "Precision is very good, making navigation easy."
+        }
+    },
+    "Middle Scroll": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The middle scroll function locks up and is hard to use.",
+            "entity_b": ""
+        }
+    },
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Good signal strength and reliable performance."
+        }
+    },
+    "Sensor": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The sensor is jumpy and not accurate."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Received DOA, didn't light up, returned."
+        }
+    }
+}

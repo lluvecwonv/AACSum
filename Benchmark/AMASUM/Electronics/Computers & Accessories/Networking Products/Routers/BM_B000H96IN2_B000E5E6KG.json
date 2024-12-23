@@ -1,0 +1,114 @@
+{
+    "Software": {
+        "comm": "No longer supported by Linksys.",
+        "cont": {
+            "entity_a": "No firmware updates available.",
+            "entity_b": "Lacks firmware updates for modern OS compatibility."
+        }
+    },
+    "Installation": {
+        "comm": "Installation wizard on CD does not work.",
+        "cont": {
+            "entity_a": "Setup wizard on the supplied CD didn't work with Windows XP; manual configuration was needed.",
+            "entity_b": "Technical support blamed Windows Vista for installation issues. Installation is difficult without a Linksys router."
+        }
+    },
+    "Connectivity": {
+        "comm": "Intermittent connection issues.",
+        "cont": {
+            "entity_a": "Router crashes occasionally, requiring at least 2 reboots. Loses connectivity randomly.",
+            "entity_b": "Wireless security causes spotty connectivity. Works well with wired connection but loses PC audio."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No wireless N enabled devices will connect.",
+            "entity_b": "Not compatible with Windows Vista. Product works with Windows XP only."
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good range and works well when operational. Less range than an old Netgear Wireless-G router. Wireless range is limited. Increased wireless range with DD-WRT firmware.",
+            "entity_b": ""
+        }
+    },
+    "Firmware": {
+        "comm": "Outdated firmware.",
+        "cont": {
+            "entity_a": "Somewhat buggy firmware; requires rebooting to restore wireless. Firmware issues with NAT and wireless connections. Standard firmware is unreliable, needs daily reboot. Firmware upgrade necessary for certain features.",
+            "entity_b": "Software gives an annoying dialog when switching audio output. Music Bridge functionality is poor with Vista."
+        }
+    },
+    "Setup": {
+        "comm": "Setup is simple.",
+        "cont": {
+            "entity_a": "Easy setup and fast on host computer.",
+            "entity_b": "Setup is simple with a wired connection."
+        }
+    },
+    "Management": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Easy to use management web interface.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Died after 8 months of use. Used for 5 years before dying.",
+            "entity_b": ""
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Linksys tech support provides inadequate solutions."
+        }
+    },
+    "Sound": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Excellent sound quality when operational. Sound is choppy in wireless mode."
+        }
+    },
+    "Storage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Limited USB storage features. Disappointing wireless storage feature.",
+            "entity_b": ""
+        }
+    },
+    "Administration": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Administration is similar to older Linksys G routers.",
+            "entity_b": ""
+        }
+    },
+    "Speed": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Gigabit speed available.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Supports dd-wrt software, adding many great additional features. Functions well with DD-WRT firmware.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Price was $65, but product has connectivity issues.",
+            "entity_b": ""
+        }
+    }
+}

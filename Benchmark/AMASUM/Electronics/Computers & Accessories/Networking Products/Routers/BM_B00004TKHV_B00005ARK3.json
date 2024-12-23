@@ -1,0 +1,107 @@
+{
+    "Adjustment": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rough adjustment release lock is difficult to access and adjust. Fine adjustment sticks, and the body does not slide smoothly in the collar. Prone to vertical adjustment difficulties due to wood dust accumulation. Retainer snap ring on the vertical adjustment shaft has broken twice. The depth locks in channels, requiring slight changes with the side dial. Base is very hard to adjust. Adjustments are easy and precise. Great router for smaller jobs with easy and precise adjustments. Router is powerful and well balanced, with easy adjustments and precise control.",
+            "entity_b": ""
+        }
+    },
+    "Power": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Powerful, quiet, and versatile with a soft start feature. Capable of producing 2.25 HP of mechanical energy while consuming 1.93 HP of electrical energy. Router has plenty of power and does not kick at startup. Router is powerful and well balanced. Router is durable and performs consistently under heavy use.",
+            "entity_b": ""
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Easy to install and fits well on the router table base.",
+            "entity_b": "Setup was easy, but the documentation is incomplete and not user-friendly. Router installation was straightforward and connection strength is generally good. Router installation is simple, but firmware is buggy and may need tech support. Router installation is quick and easy, providing stable connectivity."
+        }
+    },
+    "Speed": {
+        "comm": "Soft start and variable speed features are appreciated.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": ""
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router is of higher quality than other brands like DeWalt and Makita. Router has a good quality build and grips bits well.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router is durable and comes with both 1/4\" and 1/2\" chucks. Router is durable and performs consistently under heavy use.",
+            "entity_b": ""
+        }
+    },
+    "Control": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Powerful, easy to control with wood handles, and accepts 1/4 and 1/2 inch shanks. Router is powerful and well balanced, with easy adjustments and precise control. Router provides a smooth operation with less vibration than other brands.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router works well in a table setup and free hand, with reliable performance.",
+            "entity_b": "Firmware updates are necessary for optimal performance. The router works well initially but frequently requires rebooting. Firmware updates improve TCP connection stability. Router works well but occasionally requires a reset for continued operation. Router is easy to set up and provides good performance for basic needs."
+        }
+    },
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The router has a poor range, far less than the advertised 300 feet. Router can only support one wireless connection at a time. Router has a good wireless signal and works well with Macs and PCs. The router provides good signal strength within a limited range. Router has good reception but requires firmware downgrades for best performance."
+        }
+    },
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router struggles with multiple Xbox connections to Xbox Live. Router has good firewall protection and is easy to configure."
+        }
+    },
+    "Obsolescence": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router is obsolete and may not support newer technologies effectively."
+        }
+    },
+    "Documentation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Setup was easy, but the documentation is incomplete and not user-friendly."
+        }
+    },
+    "Failure": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The speed controller is failing after little use.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Front spindle bearing is retained with two Phillips head screws, no bearing clamp.",
+            "entity_b": ""
+        }
+    },
+    "Packaging": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Box was previously opened, and some parts were missing.",
+            "entity_b": ""
+        }
+    }
+}

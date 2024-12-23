@@ -1,0 +1,107 @@
+{
+    "Performance": {
+        "comm": "Produces ice cream.",
+        "cont": {
+            "entity_a": "Freezes ice cream faster than older models. Produces ice cream with a soft consistency.",
+            "entity_b": "Produces incredible ice cream, though it is noisy. Takes about 30 minutes to make ice cream."
+        }
+    },
+    "Ease of Use": {
+        "comm": "Easy to clean and use.",
+        "cont": {
+            "entity_a": "Handle on the bucket makes it easier to remove from the freezer.",
+            "entity_b": ""
+        }
+    },
+    "Planning": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires pre-planning to ensure the canister is frozen and mixture is chilled.",
+            "entity_b": "Requires freezing the bowl for 24 hours and chilling the custard overnight."
+        }
+    },
+    "Capacity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Does not make a large quantity, suitable for about four people.",
+            "entity_b": ""
+        }
+    },
+    "Texture": {
+        "comm": "Ice cream texture is smooth and creamy when directions are followed.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Ice cream consistency improves with proper freezing and chilling of ingredients. Ice cream needs to be frozen after churning for firmer consistency."
+        }
+    },
+    "Packaging": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Arrived well-packaged and functioned as expected.",
+            "entity_b": ""
+        }
+    },
+    "Instructions": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Instructions recommend chilling custard to 40 F and the freezer part to 0 F for best results.",
+            "entity_b": "Offers a good variety of recipes for different ice cream types."
+        }
+    },
+    "Cleanup": {
+        "comm": "No need for ice or salt.",
+        "cont": {
+            "entity_a": "Minimal cleanup required.",
+            "entity_b": "Making it less messy."
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Operates quietly and is cost-effective.",
+            "entity_b": "Some users reported noise issues during operation."
+        }
+    },
+    "Storage": {
+        "comm": "Compact and easy to store.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": ""
+        }
+    },
+    "Security": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The top locks securely.",
+            "entity_b": ""
+        }
+    },
+    "Batch Making": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Can make a second batch without refreezing the bowl if the ice cream is consumed quickly.",
+            "entity_b": "The bowl needs to be frozen for at least 48 hours for optimal results."
+        }
+    },
+    "Climate Suitability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Can be challenging to use in warm climates without AC.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "Some users experienced issues with the motor and cylinder quality.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Some users experienced issues with the machine's durability and performance."
+        }
+    },
+    "Versatility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Can make a variety of desserts including sorbets and gelatos."
+        }
+    }
+}

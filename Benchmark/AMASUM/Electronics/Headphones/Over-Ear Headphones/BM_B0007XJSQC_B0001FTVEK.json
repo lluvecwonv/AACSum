@@ -1,0 +1,51 @@
+{
+    "Sound": {
+        "comm": "Sound quality is good.",
+        "cont": {
+            "entity_a": "Sound quality is fading compared to older models, indicating possible quality decline. Sound shorts in and out when plugged into a PC. The bass is not as deep or full, but the high and mid-range are clearer and crisper. Sound clarity is notable. Sound quality is good, but the volume is low. Sound quality is clear, but bass could be better.",
+            "entity_b": "Sound quality is poor with loud static when audio stops. Sound quality is like a theater experience. Sound quality is good for TV but not recommended for music. Sound quality is better when close to the receiver. Sound quality is poor with volume shifts and disturbance. Sound quality is crisp and clear."
+        }
+    },
+    "Comfort": {
+        "comm": "Headphones are comfortable.",
+        "cont": {
+            "entity_a": "Comfortable over-the-ear configuration. The ear cups are uncomfortable with glasses. The left ear cup is uncomfortable.",
+            "entity_b": "Headphones are loose and can fall off easily. Ear pads are thin and uncomfortable."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Three out of four headphones broke apart, and the covering flaked off. Older models are sturdier than recent purchases. The plug broke within a few days. The headphone plug broke after a year.",
+            "entity_b": "Stopped working after 2.5 years, only static remains. Batteries corroded quickly."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The band is smaller, and the plastic is borderline delicate. The cable is excessively long at six feet, causing inconvenience. Lightweight and comfortable with a long cord. The cord is long, which can be inconvenient.",
+            "entity_b": "Wireless technology is not suitable for an office environment. Difficult to set up on a TV with additional equipment needed. Wireless technology is outdated with frequency drift."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not noise-canceling but effectively drown out surrounding noise.",
+            "entity_b": "Headphones work well for hearing issues. Sound function is inconsistent with static. Headphones are not compatible with modern Samsung TVs."
+        }
+    },
+    "Bass": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The bass is not as deep or full. Bass is not as strong as expected.",
+            "entity_b": "Sound quality is good but lacks bass."
+        }
+    },
+    "Fit": {
+        "comm": "Headphones are lightweight and comfortable.",
+        "cont": {
+            "entity_a": "The left headphone did not work out of the box. The headphones are comfortable with good sound.",
+            "entity_b": "Loose-fitting headphones that fall off easily."
+        }
+    }
+}

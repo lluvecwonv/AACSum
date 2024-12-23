@@ -1,0 +1,62 @@
+{
+    "Nonstick": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The nonstick surface is generally good but not as durable as expected, with issues like peeling and warping. The nonstick surface can wear out quickly with frequent use and be less effective after a few months.",
+            "entity_b": "The pans require a lot of oil to prevent sticking and are not non-stick."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pan is not entirely flat, has a convex shape, and lacks a metal handle, making it unsuitable for oven use. The handle is comfortable, and the pan is lightweight.",
+            "entity_b": "The copper cladding is extremely light, shows stainless steel underneath after minimal use, and the copper finish tarnishes and rubs off quickly. The pans are beautiful but require careful cleaning to maintain appearance."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pan's nonstick coating is not as durable as expected, with issues like peeling and warping. The nonstick coating can degrade over time.",
+            "entity_b": "The copper finish tarnishes and rubs off quickly. The copper coating is not durable."
+        }
+    },
+    "Heat Distribution": {
+        "comm": "The pan distributes heat well and cooks evenly.",
+        "cont": {}
+    },
+    "Ease of Cleaning": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pan is easy to clean.",
+            "entity_b": "The pans are difficult to clean and require careful cleaning to maintain appearance."
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pan is lighter than previous versions.",
+            "entity_b": "The pans are heavier than nonstick alternatives."
+        }
+    },
+    "Appearance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The pans are attractive and have a beautiful copper color that fades quickly."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The pans are not induction compatible despite claims to the contrary."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pan performs well for its price.",
+            "entity_b": ""
+        }
+    }
+}

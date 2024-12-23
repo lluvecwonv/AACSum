@@ -1,0 +1,100 @@
+{
+    "Adjustment": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The rough adjustment release lock is under the collar lock and difficult to adjust. Fine adjustment sticks, and the body does not slide smoothly in the collar. The router's base is hard to adjust and the switch is unreliable. The router is difficult to adjust vertically due to dust buildup. The retainer snap ring on the vertical adjustment shaft breaks under pressure. The router has a precise depth adjustment feature.",
+            "entity_b": ""
+        }
+    },
+    "Power": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router is powerful, quiet, and versatile. Plenty of power and good quality. The router is capable of producing 2.25 HP of mechanical energy. The router is powerful and easy to control. The router is powerful and reliable.",
+            "entity_b": "The router is not as powerful as expected and does not cover the whole house. The router performs worse on coverage and velocity compared to older models. The router is powerful but occasionally loses wireless connectivity."
+        }
+    },
+    "Soft Start": {
+        "comm": "Soft start feature is appreciated.",
+        "cont": {
+            "entity_a": "Soft start is softer than older models. The soft start feature prevents kick at startup. The router has a slow start and adjustable speed.",
+            "entity_b": ""
+        }
+    },
+    "Installation": {
+        "comm": "Installation is easy.",
+        "cont": {
+            "entity_a": "Fits perfectly on the router table base.",
+            "entity_b": "Adding computers requires running a Linksys program. Setup utility initially failed to find the router."
+        }
+    },
+    "Speed": {
+        "comm": "The router has a good speed.",
+        "cont": {
+            "entity_a": "Variable speed is great for different size bits and types of wood. The router performs well under load with consistent speed.",
+            "entity_b": "The router lacks Gigabit connectivity. The router is fast and dependable with good security options. The router is fast and performs well with the right configuration."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router is durable and well-built. The speed controller failed after minimal use but is inexpensive to replace.",
+            "entity_b": "The router's build quality is poor, and performance declines over time. The router had good initial performance but failed over time."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router works well with various router tables and setups. The router works well with CNC router platforms.",
+            "entity_b": "The router works well with various wireless devices. The router performs well but has compatibility issues with certain devices."
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The router works well in a two-level house with good range. The router has a limited range and requires periodic power cycling. The router was advertised as having a longer range than it delivered. The router's range did not increase compared to the previous model. The router's range is limited compared to expectations. The router has a good range but requires careful setup."
+        }
+    },
+    "Control": {
+        "comm": "The router is easy to control.",
+        "cont": {
+            "entity_a": "The router is smooth and does not overheat. The router is easy to set up and adjust. The router is easy to adjust and precise. The router is easy to control and well-balanced.",
+            "entity_b": ""
+        }
+    },
+    "Build Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router is well-constructed and functional.",
+            "entity_b": "The router's build quality is poor."
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Firmware flashing improved performance significantly. The router's software supports the product well. The router has a good user-friendly software interface."
+        }
+    },
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The router has a constant dropped signal and repeated resets. The router required frequent reboots and had poor signal strength. The router had a weaker signal than expected for its advertised range."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The wood grips are well-sized and comfortable. The router has a long cord for standalone use.",
+            "entity_b": "The router's reset button is inconveniently located."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Micro-adjustment from the top of the table is possible. The router has both 1/4 and 1/2 inch collets. The router has a good power-to-size ratio. The router has interchangeable parts for convenience. The router has a good locking mechanism for bit changes.",
+            "entity_b": "The router works well for wired connections but has wireless issues. The router's setup was straightforward, but it lacked advanced features."
+        }
+    }
+}

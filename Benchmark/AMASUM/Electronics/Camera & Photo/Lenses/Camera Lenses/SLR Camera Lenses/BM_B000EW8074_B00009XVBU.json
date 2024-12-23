@@ -1,0 +1,72 @@
+{
+    "Performance": {
+        "comm": "Solid build quality.",
+        "cont": {
+            "entity_a": "Super low light performance across all focal ranges with image stabilization. Image stabilization is effective but loud. Great depth of field with f/2.8. Excellent image quality with sharpness and color. Sharp images with good contrast. Fast enough for low light conditions.",
+            "entity_b": "Fantastic macro lens for Canon shooters. Sharp and fun for macro photography. No image stabilization makes handheld difficult for macro. Manual focus recommended for macro due to autofocus hunting. Allows distance from subject to avoid shadows. Excellent quality and sharp photos. Great bokeh and depth in photos. High image quality with sharpness and color accuracy. Great for bug photography due to distance."
+        }
+    },
+    "Focal Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Covers wide angle to mid-range telephoto, ideal for walk-around purposes. Focal length is 24-70 range on crop sensor. Versatile zoom range.",
+            "entity_b": "Not versatile as 70-200 with extension tubes."
+        }
+    },
+    "Autofocus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "AF is super fast and tack sharp. Fast and silent autofocus. Auto focus is quick and accurate.",
+            "entity_b": "Focus is slow, best used with manual focus. Auto-focus is slow but can be assisted manually."
+        }
+    },
+    "Weight": {
+        "comm": "Heavy.",
+        "cont": {
+            "entity_a": "Lens is heavy. Heavy and large compared to kit lens. Lens is bulky but manageable.",
+            "entity_b": "Not ideal for handheld use. Heavy lens but offers excellent quality."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cost is high. Affordable compared to similar lenses. Good value for price.",
+            "entity_b": ""
+        }
+    },
+    "Versatility": {
+        "comm": "Good for portraits.",
+        "cont": {
+            "entity_a": "Versatile for various types of photography. Good for travel and general use. Great for landscapes. Good for low-light indoor photography without flash. Good for video with silent operation.",
+            "entity_b": "Good for close-up portraits. Better than Canon 100mm macro lens for close-ups. Good for macro and outdoor portraits."
+        }
+    },
+    "Weather Sealing": {
+        "comm": "Lens is not weather-sealed.",
+        "cont": {
+            "entity_a": "Not weather sealed.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not suitable for full-frame cameras.",
+            "entity_b": ""
+        }
+    },
+    "Manual Focus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires manual focus for best results.",
+            "entity_b": "Manual focus recommended for macro due to autofocus hunting. Focus is slow, best used with manual focus."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Dust issue with lens.",
+            "entity_b": ""
+        }
+    }
+}

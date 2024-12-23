@@ -1,0 +1,44 @@
+{
+    "Connection": {
+        "comm": "",
+        "cont": {
+            "entity_a": "SSID cannot be turned off without connectivity issues. Requires daily reboot to reset the wireless connection. The promised 22mbps speed was not achieved. Wireless signal is affected by wireless phones, microwaves, and home alarm systems. Router often reboots or drops the connection. Data transfer speeds are inconsistent with wireless. The router frequently freezes and needs power cycling.",
+            "entity_b": "Drops wireless connection about once per hour. Limited to wireless channel 6. Inconsistent signal strength and quality. Misleading product description regarding 108Mbps speed. Frequent disconnections and reboots with DI-624 router. Reboot issues when handling PADT packets. Router needs frequent reboots, disconnects often. Failed to connect to the internet despite proper settings. Poor wireless range and frequent disconnections."
+        }
+    },
+    "Customer Service": {
+        "comm": "Poor customer service with long wait times.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Worst customer service with long wait times. Poor technical support with scripted responses. Stopped working after a few weeks with poor tech support."
+        }
+    },
+    "Setup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Setup was initially problematic, particularly for networked computers. Setup pages are cryptic. Easy to install and configure with straightforward settings.",
+            "entity_b": "Easy to set up and reliable for years, but outdated for modern standards. Inexpensive and easy to set up. Difficult setup for novice users due to lack of SSID broadcast disabling. Easy to set up with strong WPA security."
+        }
+    },
+    "Security": {
+        "comm": "",
+        "cont": {
+            "entity_a": "256-bit WEP is a feature. Advanced firewall configuration with time-based port opening. VPN works well with the router.",
+            "entity_b": "DI-624 is reliable with WEP and WPA encryption. Good speed and security but poor wireless range."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The wireless connection speed is faster compared to Linksys. Full signal strength throughout the house. Wireless range is inadequate. Firmware upgrades do not resolve connection issues.",
+            "entity_b": "Strong signals throughout the house with good speed. Router works well with both 11b and 11g devices."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The DHCP server failed after five months. The antenna was disconnected or broken, affecting performance. Firmware upgrade issues persist. The router drops VPN connections.",
+            "entity_b": "Router reboots frequently even without traffic. Excellent tech support experience."
+        }
+    }
+}

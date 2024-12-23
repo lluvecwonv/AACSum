@@ -1,0 +1,100 @@
+{
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The knife is lightweight, feels good in the hand, and the grip material is durable.",
+            "entity_b": "Sleek design, very slim width, good grip."
+        }
+    },
+    "Grip": {
+        "comm": "Good grip.",
+        "cont": {
+            "entity_a": "The textured grip is marvelous. The handle texture is abrasive but provides a solid grip. The grip is comfortable and non-slip.",
+            "entity_b": ""
+        }
+    },
+    "Blade": {
+        "comm": "Very sharp blade.",
+        "cont": {
+            "entity_a": "Extremely sharp blade. The blade deploys quickly using the thumb stud. The blade is very sharp and holds an edge well.",
+            "entity_b": "Blade dulls more than expected but is compact and feels good in the hand. Very sharp blade but the finish wears off easily."
+        }
+    },
+    "Build": {
+        "comm": "Knife is sturdy.",
+        "cont": {
+            "entity_a": "Sturdy, well-constructed, and holds a sharp edge over two years of varied tasks. The knife is sturdy and well-made, suitable for everyday carry. The knife is very durable, having been used extensively without significant wear.",
+            "entity_b": "Knife is sturdy and easy to open and close."
+        }
+    },
+    "Lock": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The locking liner only partially engages, presenting a safety concern. The lock mechanism is stiff.",
+            "entity_b": "Frame-lock is awkward to disengage. Frame lock is poorly placed and difficult to use. Frame lock doesn't engage properly, causing safety issues. Lock release is hard to use."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The knife is very durable, having been used extensively without significant wear.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "Good value for money.",
+        "cont": {
+            "entity_a": "The knife's price is good for its quality and features. The knife is made in the USA and has a good balance of price, edge retention, and toughness.",
+            "entity_b": ""
+        }
+    },
+    "Opening": {
+        "comm": "Easy to open and close.",
+        "cont": {
+            "entity_a": "The assisted opening is spot on and the fit is very good, preventing any wiggle. Spring assist works great, quick deploy, and a nice solid feel. The spring assist works smoothly and quickly. The knife is easy to open and close one-handed.",
+            "entity_b": "Difficult to open and close due to stiff action."
+        }
+    },
+    "Weight": {
+        "comm": "Lightweight.",
+        "cont": {
+            "entity_a": "The knife is lightweight and fits well in the hand.",
+            "entity_b": "Very light and thin, handles urban tasks without being intimidating. Lightweight and easy to carry in dress slacks."
+        }
+    },
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some markings expected on the blade are missing, raising concerns about authenticity. The knife is fine for the money but there are concerns about getting the right steel.",
+            "entity_b": "Low-quality steel, not suitable for heavy duty."
+        }
+    },
+    "Country of Origin": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Built in the USA with lifetime resharpening service. Kershaw offers free sharpening and a limited lifetime warranty. The knife is made in the USA.",
+            "entity_b": ""
+        }
+    },
+    "Portability": {
+        "comm": "Easy to carry.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Gerber STL 2.0 is utilitarian and not noticeable in the pocket. Very thin and hardly noticeable in the pocket. Small size makes it easy to carry and use."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The STL 2.0 is a better slicer than the Buck MiniBuck."
+        }
+    },
+    "Suitability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The knife is suitable for heavy work and everyday carry.",
+            "entity_b": "Not suitable for heavy-duty tasks. Sharp enough for everyday tasks like cutting boxes."
+        }
+    }
+}

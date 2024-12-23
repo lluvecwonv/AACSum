@@ -1,0 +1,58 @@
+{
+    "Sound Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sound quality is just okay compared to more expensive Polk speakers. Sound quality is great with proper equipment, like an equalizer and subwoofer. Good sound quality for the price. Sound quality is decent but lacks bass. Sound quality is clear and loud, but lacks thundering bass. Sound quality is good for the price, especially for background music. Sound quality is acceptable for the price. Sound quality is fine for general use, but lacks bass. Sound quality is good, but lacks bass. Sound quality is good for the price, but lacks bass. Sound quality is decent, but grill installation is difficult. Sound quality is good, but lacks bass.",
+            "entity_b": "Sound quality is impressive with equalizer adjustments. Sound quality is excellent when paired with a Yamaha receiver. Sound quality is good for the price. Sound quality is comparable to more expensive products."
+        }
+    },
+    "Installation": {
+        "comm": "Installation is easy.",
+        "cont": {
+            "entity_a": "Easy to install with built-in clamping devices, but grill installation is difficult. Installation is easy with the provided template. Very easy to install with a good template. Installation is easy, but grill installation is challenging. Installation is easy, but be careful with grill installation. Installation is easy, but grill installation is challenging.",
+            "entity_b": "Installation is easy, but requires cutting studs for horizontal placement. Installation is easy with good design and adjustable tweeters. Installation is easy, but requires construction experience for fitting."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "One speaker died 6 months after installation, increasing costs. Plastic housing turns brittle within a year, leading to breakage. Plastic casing becomes brittle and crumbles over time. Plastic housing is prone to cracking and falling apart.",
+            "entity_b": ""
+        }
+    },
+    "Bass": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Do not handle bass sounds well. Excellent mid and high range sound, but lacks bass. Sound quality is clear and loud, but lacks thundering bass. Sound is crisp and clear, but lacks bass. Sound quality is fine for general use, but lacks bass. Sound is clear and loud, but lacks bass.",
+            "entity_b": "Requires a subwoofer for low frequencies."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Adjustable tweeters are a useful feature. Directional tweeter is a nice feature. Tweeters can be angled for directional treble.",
+            "entity_b": "Solid speaker chassis prevents vibrations."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Speakers are good for ambient sound, not suitable for home theater. Good for ambient sound in various settings.",
+            "entity_b": "Sound is clear and works well for a home entertainment setup."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Price is reasonable for the sound quality provided.",
+            "entity_b": ""
+        }
+    },
+    "Manufacturing Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Issues with manufacturing quality, such as broken tweeters.",
+            "entity_b": ""
+        }
+    }
+}

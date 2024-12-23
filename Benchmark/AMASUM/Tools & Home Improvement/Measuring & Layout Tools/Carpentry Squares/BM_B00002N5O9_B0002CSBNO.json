@@ -1,0 +1,86 @@
+{
+    "Material": {
+        "comm": "Stainless steel.",
+        "cont": {
+            "entity_a": "Zinc square with a hardened scribe.",
+            "entity_b": ""
+        }
+    },
+    "Origin": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Made in the USA.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "Sturdy and well-built.",
+        "cont": {
+            "entity_a": "Well constructed and durable.",
+            "entity_b": "Etched ruler markings are durable. Heavy and prone to rust."
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Value for the price is excellent. Great value for money.",
+            "entity_b": "Expensive compared to other squares. Expensive but worth the investment for precision."
+        }
+    },
+    "Level": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Bubble level is useless due to short reference edge.",
+            "entity_b": "Level lost liquid after two years."
+        }
+    },
+    "Fit and Finish": {
+        "comm": "Accurate and well-built.",
+        "cont": {
+            "entity_a": "Fit and finish are good and tight.",
+            "entity_b": "Satin finish reduces glare for easier reading. Clear and easy-to-read markings."
+        }
+    },
+    "Locking Mechanism": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Locking mechanism does not lock properly. Machining on the locking mechanism is not perfect.",
+            "entity_b": "Smooth ruler movement and locks well. Lock works well and stays tight. No wiggle or play when set screw is tightened."
+        }
+    },
+    "Accuracy": {
+        "comm": "Accurate and sturdy.",
+        "cont": {
+            "entity_a": "Square is accurate when checked with Japanese Mitutoyo. Accurate for imprecise work. Accurate 90 degrees angle confirmed against a square. Accurate compared to calibrated tools.",
+            "entity_b": "Precision is high, suitable for woodworking. Easy to read and precise numbers."
+        }
+    },
+    "Ease of Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Easy to mark lines with the embedded scribe.",
+            "entity_b": "Slides smoothly and feels high-quality."
+        }
+    },
+    "Construction": {
+        "comm": "Heavy and well-built.",
+        "cont": {
+            "entity_a": "Well made and performs well. Stainless steel construction prevents rusting.",
+            "entity_b": "Sturdy construction and smooth action. Rust accumulates easily in humid environments."
+        }
+    },
+    "Edges": {
+        "comm": "Sharp edges on the ruler.",
+        "cont": {
+            "entity_a": "Sharp edges and manufacturing burrs present. Edges of the scale are sharp and uncomfortable. Sharp edges and heavy for its size.",
+            "entity_b": ""
+        }
+    },
+    "Condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Scriber arrived broken. Ruler was bent and unusable.",
+            "entity_b": ""
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "Image Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The Canon 50mm f/1.4 is sharper in terms of image quality compared to the 28mm lens. Images are true to life with no distortion and tack sharp at all apertures. The 28mm lens is sharp with beautiful bokeh. The 28mm lens provides great image quality for the price.",
+            "entity_b": "The Tamron lens provides good color reproduction without tint."
+        }
+    },
+    "Build Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The 28mm lens has incredible build quality with a silent and smooth focus ring. The 28mm lens is compact but not very light. The 28mm lens is solidly built. The 28mm lens has a very good build quality.",
+            "entity_b": "The Tamron lens has a plastic build but looks good on the camera. The Tamron lens feels well-built."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The 28mm lens is versatile for both crop and full-frame cameras and performs well in low light. The 28mm lens is effective for wide shots and works well in small spaces. The 28mm lens is fast and performs well in low light. The 28mm lens is excellent for candid and indoor photography. The 28mm lens works well for handheld videos. The 28mm lens is excellent for group shots and wide-angle photography. The 28mm lens is great for general-purpose photography and videography.",
+            "entity_b": "The Tamron lens is soft at 28mm and best used around f/11. The Tamron lens is not a professional lens but works well for everyday amateur use. The Tamron lens is suitable for portraits, landscapes, and architecture. The Tamron lens is good for general use. The Tamron lens is a good walk-around lens for outdoor shoots."
+        }
+    },
+    "Autofocus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The autofocus is nearly silent, fast, and accurate.",
+            "entity_b": "The Tamron lens has fast autofocus. The Tamron lens has slow autofocus."
+        }
+    },
+    "Price": {
+        "comm": "Offers great value for the price.",
+        "cont": {
+            "entity_a": "The 28mm lens offers excellent performance for its price, especially in low light conditions. The 28mm lens is a great value for its price.",
+            "entity_b": "The Tamron lens is suitable for someone needing a basic lens on a budget. The Tamron lens is mediocre overall but acceptable for a cheap lens."
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The Tamron lens is compact with a nice focal range of 28-80mm."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The 28mm lens provides a great focal length for crop bodies.",
+            "entity_b": "The Tamron lens works great with Pentax cameras."
+        }
+    },
+    "Focus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The 28mm lens is hard to focus when wide open on a full frame, but better on a crop sensor.",
+            "entity_b": ""
+        }
+    },
+    "Usage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The Tamron lens is suitable for someone needing a basic lens on a budget."
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Canon 5D original stands out in personality and presentation.",
+            "entity_b": "Olympus E-300 has rubber-coated aluminum chassis and smooth controls."
+        }
+    },
+    "Image Quality": {
+        "comm": "The camera has excellent image quality.",
+        "cont": {
+            "entity_a": "The image quality, dynamic range, and color are better than any previously owned cameras.",
+            "entity_b": "The camera's performance is excellent with great image quality."
+        }
+    },
+    "Condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera came beat up but was expected for a used item. The camera body was in decent condition, but the third-party charger and strap were missing. The camera body is in exceptional condition with functional dials and viewfinder. The camera's condition exceeded expectations, with no signs of wear. The camera body shows no wear and tear.",
+            "entity_b": "The camera came with a full array of accessories."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "For $300, it's suggested for anyone starting out or wanting to go full-frame.",
+            "entity_b": "The camera is the best in its price range under $1000."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service was responsive.",
+            "entity_b": ""
+        }
+    },
+    "Recommendation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The Canon 5D is recommended over a Rebel for its full-frame capabilities. The camera is recommended for intermediate photographers looking to upgrade on a budget. The Canon 5D is recommended for serious amateurs or professional photographers. The Canon 5D is great for weddings, regular sessions, and landscapes. The Canon 5D is recommended for its image quality, despite lacking modern features.",
+            "entity_b": "The camera is recommended for its price and picture quality. The camera is good for novices and professionals alike."
+        }
+    },
+    "Durability": {
+        "comm": "The camera works well, despite being an older model.",
+        "cont": {
+            "entity_a": "The camera is a great backup and has held up well over time.",
+            "entity_b": "The camera is tough and feels good to hold."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera lacks a more flexible bracketing system.",
+            "entity_b": "The camera offers customizable photographic scenes. The camera can be finicky and difficult to focus in imperfect lighting."
+        }
+    },
+    "Low-Light Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The low-light performance is excellent.",
+            "entity_b": "The camera can be finicky and difficult to focus in imperfect lighting."
+        }
+    },
+    "Speed": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The speed is great.",
+            "entity_b": ""
+        }
+    },
+    "Versatility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The 5D is flexible and suitable for landscapes and portraits.",
+            "entity_b": "The camera is suitable for astrophotography."
+        }
+    },
+    "Learning Curve": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The Canon 5D is a terrific digital SLR with many features and easy to learn.",
+            "entity_b": "The camera has excellent picture quality and is easy to learn."
+        }
+    },
+    "Build Quality": {
+        "comm": "The camera has a solid build.",
+        "cont": {
+            "entity_a": "The Canon 5D has consistent, sturdy build quality.",
+            "entity_b": "The camera is tough and feels good to hold."
+        }
+    },
+    "Ease of Use": {
+        "comm": "The camera is intuitive.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The E-300 is intuitive and easy to use. The camera is easy to use and produces impressive pictures."
+        }
+    },
+    "Sensor": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The Canon 5D is a great workhorse camera with a fantastic full-frame sensor.",
+            "entity_b": "The focal plane dust removal system is unmatched by Canon and Nikon. The Kodak KAF8300CE CCD chip offers high performance."
+        }
+    },
+    "Viewfinder": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The viewfinder and body condition are excellent, with no missing parts.",
+            "entity_b": "The viewfinder is dim, and focusing can be tricky with included lenses."
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera is functional but heavy for an amateur photographer.",
+            "entity_b": ""
+        }
+    },
+    "Flash": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The camera is powerful with a strong flash."
+        }
+    }
+}

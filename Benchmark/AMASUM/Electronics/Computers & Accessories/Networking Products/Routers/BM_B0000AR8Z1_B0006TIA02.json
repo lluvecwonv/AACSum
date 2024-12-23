@@ -1,0 +1,65 @@
+{
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router has persistent connectivity issues and requires constant supervision to restart.",
+            "entity_b": "The router is extremely stable with fantastic range."
+        }
+    },
+    "Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Advanced features for VPN and remote access can be used in professional environments, but setup is difficult.",
+            "entity_b": "Works well with X-Box Live and Nintendo Wi-Fi with no additional setup after firmware upgrade. Game Fuel feature supports VOIP well. Gigabit switch and easy-to-use interface are advantageous."
+        }
+    },
+    "VPN": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The product often crashes and fails to deliver on its advertised VPN capabilities.",
+            "entity_b": ""
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Firmware updates have been problematic, with version 2.10 being particularly disastrous.",
+            "entity_b": "Works well with X-Box Live and Nintendo Wi-Fi with no additional setup after firmware upgrade."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router lacks dual antennas, impacting multipath elimination.",
+            "entity_b": "Overheating issues when stacked under another device."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wireless performance is poor in mixed environments (11/54Mbps). The router crashes frequently and requires daily reboots.",
+            "entity_b": "Reliable with fast download and upload speeds. Signal strength is strong and consistent. Handles multiple devices without slowing down."
+        }
+    },
+    "Setup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Setup requires IT knowledge; beginners might struggle.",
+            "entity_b": "Setup is easy and straightforward."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service is lacking, with prolonged communication issues.",
+            "entity_b": "Technical support may require contacting overseas representatives."
+        }
+    },
+    "Security": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Supports strong WiFi encryption for wireless access points."
+        }
+    }
+}

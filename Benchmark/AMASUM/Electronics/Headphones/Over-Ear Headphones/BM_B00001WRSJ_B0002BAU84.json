@@ -1,0 +1,86 @@
+{
+    "Sound": {
+        "comm": "Sound quality is clear.",
+        "cont": {
+            "entity_a": "Balanced, clean, and clear sound with little coloration. Upper frequencies and voices are more detailed and sweeter compared to Audio Technica ATH-M50s. Capable of very deep bass, but more bass requires EQ adjustment. Sound quality is excellent for the price. High frequency response with no distortion at high volumes. Sound quality remains consistent over decades of use. Great soundstage and detail, suitable for various music genres.",
+            "entity_b": "Sound quality is clear but not hi-fidelity. Heavy and bulky design with slightly muffled sound quality. Sound quality is decent, but not suitable for music enthusiasts."
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable fit.",
+        "cont": {
+            "entity_a": "Comfortable fit with a great adjustment system. Not true over-ear headphones; can cause discomfort over time.",
+            "entity_b": "Very comfortable, even over hearing aids. Comfortable fit with large earcups."
+        }
+    },
+    "Bass": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Capable of very deep bass, but more bass requires EQ adjustment.",
+            "entity_b": ""
+        }
+    },
+    "Packaging": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Arrived well packaged with a plug adapter and carrying bag. Potential issues with packaging and authenticity.",
+            "entity_b": ""
+        }
+    },
+    "Cord": {
+        "comm": "Long cord is convenient but can be cumbersome.",
+        "cont": {
+            "entity_a": "Cord is well made and sturdy, but not detachable. Long coiled cord provides flexibility but can be cumbersome. Cord and earpads may require replacement after extended use.",
+            "entity_b": "Long cord is convenient but can be cumbersome. Cord is long and durable, but jack may not fit tightly."
+        }
+    },
+    "Durability": {
+        "comm": "Sturdy build.",
+        "cont": {
+            "entity_a": "Very durable with a long-lasting build. Sturdy and reliable with parts available for repair.",
+            "entity_b": "Sturdy build but prone to flaking over time."
+        }
+    },
+    "Earcups": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Earcups are fragile and may require replacement.",
+            "entity_b": ""
+        }
+    },
+    "Portability": {
+        "comm": "Folding mechanism enhances portability.",
+        "cont": {
+            "entity_a": "Folding mechanism enhances portability. Slightly heavy with a long cord; not ideal for portability.",
+            "entity_b": "Collapsible design for easy transport."
+        }
+    },
+    "Noise": {
+        "comm": "Not noise-cancelling, but reduces ambient noise.",
+        "cont": {
+            "entity_a": "No active noise cancelling, but provides a good sound barrier.",
+            "entity_b": "Not noise-cancelling, but reduces ambient noise."
+        }
+    },
+    "Use": {
+        "comm": "Great for casual listening.",
+        "cont": {
+            "entity_a": "Great for mixing and casual listening due to flat response. Excellent for studio and entertainment use.",
+            "entity_b": "Great for casual listening and watching TV."
+        }
+    },
+    "Value": {
+        "comm": "Good sound quality for the price.",
+        "cont": {
+            "entity_a": "Sound quality is excellent for the price.",
+            "entity_b": "Good value for a low price."
+        }
+    },
+    "Volume": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Highly sensitive, works well without additional amplification.",
+            "entity_b": "Volume control on headphones is a useful feature."
+        }
+    }
+}

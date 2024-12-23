@@ -1,0 +1,72 @@
+{
+    "Image Quality": {
+        "comm": "Images are sharp.",
+        "cont": {
+            "entity_a": "Significantly improved the quality of my photos. Pictures are very sharp and it performs well in low light. Produces excellent images with a great depth of field.",
+            "entity_b": "Images are sharp with vivid colors. Great image quality and well-built. Takes sharp pictures even in low light."
+        }
+    },
+    "Autofocus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Autofocus is not supported on the Nikon D5600; requires manual focus. The autofocus is slow and noisy as it relies on the camera's motor. Manual focus is necessary on cameras without an autofocus motor.",
+            "entity_b": "Focus is fast and accurate. Does not focus automatically for close-up shots."
+        }
+    },
+    "Build": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Build quality feels cheap and it is lightweight. The lens is well-built but feels cheaply made with loose tolerances.",
+            "entity_b": "Heavy with all-metal and glass construction. Fast and solid lens."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lens is not compatible with entry-level Nikon cameras without a focus motor.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "It has a good price value and is a great addition to a camera bag.",
+            "entity_b": ""
+        }
+    },
+    "Distortion": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Slight barrel distortion on crop sensor cameras, easily corrected in post. Some distortion, but easily corrected with photo software."
+        }
+    },
+    "Versatility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great for portraits on DX cameras, but not suitable for full-frame cameras. The lens performs better on crop sensor cameras than on full frame.",
+            "entity_b": "Versatile focal length and great in low light for video and photography. Good for landscapes and architecture photography. Fixed focal length but versatile for wide-angle shots."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lens does not come with instructions, making initial setup challenging.",
+            "entity_b": ""
+        }
+    },
+    "Flare": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some minor sun flares occur when shooting around sunrise or sunset.",
+            "entity_b": "Lens prone to flaring; a lens hood is recommended."
+        }
+    },
+    "Low Light Performance": {
+        "comm": "Works well in low light.",
+        "cont": {
+            "entity_a": "Performs well in low light.",
+            "entity_b": "Great in low light for video and photography. Works well in low light and tight spaces."
+        }
+    }
+}

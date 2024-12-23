@@ -1,0 +1,93 @@
+{
+    "Formats": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Plays multiple formats including DVD, MPEG4, and DivX. Flexible player with disc formats and region hacks. Easily programmed to play all region DVDs.",
+            "entity_b": "Holds up to 400 DVDs, offering convenience over quality."
+        }
+    },
+    "Picture Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Nice picture quality with progressive scan.",
+            "entity_b": "Picture quality is fuzzy and not up to current standards."
+        }
+    },
+    "Remote": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Remote is cheap and badly designed, lacking an 'open' button.",
+            "entity_b": "Remote and AV cables often missing from packaging. Remote sometimes doesn't match unit or fails to perform all functions."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Slim and compact design with easy setup.",
+            "entity_b": "Unit door can stick but is fixable with silicon spray."
+        }
+    },
+    "Setup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Setup requires manual input of DVD information."
+        }
+    },
+    "Menu": {
+        "comm": "",
+        "cont": {
+            "entity_a": "On-screen menus require multiple clicks for simple tasks.",
+            "entity_b": "Slow menu navigation and disc selection."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durability issues with frequent freezing and mechanical problems.",
+            "entity_b": "Mechanically reliable over several years and multiple moves."
+        }
+    },
+    "Warranty": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Short 90-day warranty and poor customer support from Philips.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Affordable price and value for playing various formats.",
+            "entity_b": ""
+        }
+    },
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No HDMI connection, relies on component and composite connections.",
+            "entity_b": "Optical digital output enhances sound quality."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lacks fast forward beyond 8x.",
+            "entity_b": ""
+        }
+    },
+    "Mechanical Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Disk changer is finicky and can damage discs. Some units cause deep scratches on discs."
+        }
+    },
+    "Power": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Requires a UPS to avoid losing manually entered DVD titles during power outages."
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Three out of four headphones broke apart and the covering on the last one flaked off.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The band is smaller, plastic is delicate.",
+            "entity_b": "Difficult to place headphones on the base for charging."
+        }
+    },
+    "Sound": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sound quality is excellent for the price. Sound quality is good but not loud enough on some devices. Excellent sound quality, especially for music and movies.",
+            "entity_b": "Sound quality is not the greatest but works well with no obstructions. Sound quality is better than TV speakers. Optical input provides clean sound."
+        }
+    },
+    "Bass": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The bass is not as deep, but high and mid-range are clearer than Beats.",
+            "entity_b": ""
+        }
+    },
+    "Cable": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The cable is excessively long, making it inconvenient for gym use. Cord is very long, which can be inconvenient.",
+            "entity_b": ""
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comfortable for long-term use. Uncomfortable fit for users with glasses. Fit is snug and comfortable, but not suitable for larger heads.",
+            "entity_b": "Comfortable fit that makes them easy to forget while wearing."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not suitable for audio editing, but good for general use. Great for blocking out background noise.",
+            "entity_b": "Good for watching TV without disturbing others. Surround effect works for movies."
+        }
+    },
+    "Issues": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some units have issues with the left headphone not working.",
+            "entity_b": "Background hiss present due to interference. Some interference with plasma TVs. No interference when positioned correctly."
+        }
+    },
+    "Wires": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wires are suspect and look prone to damage under normal conditions.",
+            "entity_b": ""
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Battery life is excellent. Long battery life but less than expected."
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Short range from the base. Not suitable for moving around due to signal loss."
+        }
+    },
+    "Volume": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Volume control is difficult to use."
+        }
+    }
+}

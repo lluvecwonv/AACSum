@@ -1,0 +1,121 @@
+{
+    "Sound": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Better sound including simulated surround. Sound quality is fine with decent range. Superior to cheaper models with a very good discriminator minimizing noise. Excellent sound quality and performance. True hifi sound with good performance through an equalizer. Sound clarity and reception better than Advent brand.",
+            "entity_b": "Sound quality is not the greatest but acceptable. Sound quality is better than TV speakers. Sound quality surpasses built-in surround sound systems."
+        }
+    },
+    "Fit": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Better fit, wireless, and battery life with an extra battery always charged. Lightweight and comfortable. Fit may be uncomfortable for users with big ears.",
+            "entity_b": "Comfortable to the point of forgetting they're on. Snug fit could be improved. Loose fit on the head."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Proprietary battery not available at common stores. Battery life is less than four hours.",
+            "entity_b": "Excellent battery life. Battery life is shorter than expected but manageable with overnight charging. Battery life below advertised expectations with static build-up over time. Ni-MH batteries have short lifespan."
+        }
+    },
+    "Construction": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Poor construction with weak plastic joints.",
+            "entity_b": "Shorting out issues on one side after some time."
+        }
+    },
+    "Reception": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good reception within a limited range. Reception cuts out when the phone rings.",
+            "entity_b": "Limited range from the base. Range is limited and signal drops even near the receiver."
+        }
+    },
+    "Volume": {
+        "comm": "Volume control is difficult to find.",
+        "cont": {
+            "entity_a": "Volume is lower than expected for the price.",
+            "entity_b": "Volume control is difficult to find and use."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Stopped working after a short period, requiring repair or return. No problems with breakage or wear after one year of use.",
+            "entity_b": ""
+        }
+    },
+    "Static": {
+        "comm": "Occasional static.",
+        "cont": {
+            "entity_a": "Static occurs quickly when moving the head. Occasional static noise when moving the head.",
+            "entity_b": "Requires no obstructions between the headphones and base to avoid static. Background hiss and occasional out-of-phase issues. Background hiss can be significant and distracting."
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Range is limited to about 1/3 acre.",
+            "entity_b": ""
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable.",
+        "cont": {
+            "entity_a": "Lightweight and comfortable.",
+            "entity_b": "Comfortable with good digital sound."
+        }
+    },
+    "Setup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Simple setup with fiber optic cable."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Good price for wireless headphones."
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Occasional static and noise trade-off for wireless convenience.",
+            "entity_b": "Filters road noise effectively."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Minimal sound leakage.",
+            "entity_b": "Cannot use one headset while the other is charging."
+        }
+    },
+    "Warranty": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Difficulties with warranty service due to manufacturer location.",
+            "entity_b": ""
+        }
+    },
+    "Charging": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Charging the headphones on the base is tricky and requires precision."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Dolby functions implementation is poor."
+        }
+    }
+}

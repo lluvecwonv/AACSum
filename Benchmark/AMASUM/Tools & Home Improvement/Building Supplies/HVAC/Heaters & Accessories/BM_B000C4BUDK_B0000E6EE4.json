@@ -1,0 +1,65 @@
+{
+    "Heating": {
+        "comm": "Heats quickly and is quiet.",
+        "cont": {
+            "entity_a": "Heats the room well. Provides a lot of heat without using too much electricity. Units heat up quickly and quietly. Not suitable for heating a 100 sq ft area as primary heat.",
+            "entity_b": "Heats the bathroom quickly. Throws out a lot of heat quickly. Not strong enough for larger spaces, suitable for small rooms."
+        }
+    },
+    "Installation": {
+        "comm": "Easy to install.",
+        "cont": {
+            "entity_a": "Installation instructions are clear and easy to read. Pre-drilling holes is recommended for easier installation.",
+            "entity_b": "Lacks a knockout clamp for wiring. Works great but requires an electrician for installation."
+        }
+    },
+    "Thermostat": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Works well with Sinope web programmable thermostats. Connected to a Honeywell line voltage thermostat and works great.",
+            "entity_b": "Thermostat activates even when off if temperature drops to mid-forties. Thermostat was not included despite being advertised. Thermostat wore out after 10 months, causing continuous operation."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Failed after just over 4 years, which is considered short. Some units fail in under two years. Quality is not consistent; some units last only a few years.",
+            "entity_b": ""
+        }
+    },
+    "Safety": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Safe around young children and pets.",
+            "entity_b": "Electrical parts are not protected, risking clogging in dirty environments."
+        }
+    },
+    "Noise": {
+        "comm": "Quiet operation.",
+        "cont": {
+            "entity_a": "Some units produce noise after several years of use. No noise or popping during operation. Some units are noisy, requiring ear plugs.",
+            "entity_b": "Not very noisy."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Fits perfectly with exact measurements as stated. Hard wired to a 240V line and performs well. Misleading information about voltage; not portable as it requires hard wiring.",
+            "entity_b": "No temperature control; heat rises rather than directed downward. Same footprint as older Cadet heaters."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service was efficient in replacing a unit under warranty.",
+            "entity_b": ""
+        }
+    },
+    "Handling": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Handling and packing could be improved to prevent minor damages.",
+            "entity_b": ""
+        }
+    }
+}

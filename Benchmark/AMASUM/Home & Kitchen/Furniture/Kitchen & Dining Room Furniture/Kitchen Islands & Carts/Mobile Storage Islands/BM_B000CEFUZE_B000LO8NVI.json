@@ -1,0 +1,121 @@
+{
+    "Packaging": {
+        "comm": "Packaging provided excellent protection.",
+        "cont": {
+            "entity_a": "Packaged extremely well with no broken parts.",
+            "entity_b": ""
+        }
+    },
+    "Assembly": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Easy to assemble but time-consuming, taking about 2 hours. Assembly instructions are easy to follow. Assembly took about 1.5 hours with two people. Assembly instructions were incorrect for one piece.",
+            "entity_b": "Assembly took about 2 hours with clearly labeled pieces. Assembly instructions were difficult to understand. Assembly took 1.5 hours with labeled hardware. Assembly was straightforward with clear instructions. Assembly required patience and was not difficult. Assembly was tedious but manageable. Assembly took about 3 hours with assistance. Assembly was challenging but rewarding."
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Solid piece of furniture, better quality than IKEA. Heavy and sturdy with hardwood sides, back, and front. Cart is very heavy and durable.",
+            "entity_b": "Sturdy and well-made. Product quality is less than expected."
+        }
+    },
+    "Color": {
+        "comm": "",
+        "cont": {
+            "entity_a": "White color is slightly ivory.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "Good value for the price.",
+        "cont": {
+            "entity_a": "Priced at $450, considered good value. Price fluctuates, with a noted $35 drop after purchase.",
+            "entity_b": ""
+        }
+    },
+    "Shipping": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Shipping was faster than stated.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "Provides extra storage and is functional.",
+        "cont": {
+            "entity_a": "Fits well in the kitchen and is very functional. Provides extra storage and worktop space. Fits well in small kitchens due to its narrow design.",
+            "entity_b": "Provides ample storage and looks good in the kitchen. Fits well in small spaces and provides extra counter space. Cart is aesthetically pleasing and functional. Cart provides good storage and is sturdy."
+        }
+    },
+    "Durability": {
+        "comm": "Heavy and requires assistance for assembly.",
+        "cont": {
+            "entity_a": "Very heavy, requiring assistance for assembly.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Drawers slide easily. Granite countertop is attractive. Granite top enhances the cart's elegance. Cart is slightly front-heavy and may need stabilization. Granite top adds to the cart's quality.",
+            "entity_b": "Casters allow for easy movement. Side handles are not designed for moving the unit. Wheels do not lock well, affecting stability."
+        }
+    },
+    "Instructions": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Assembly instructions are easy to follow. Assembly instructions were incorrect for one piece.",
+            "entity_b": "Assembly instructions were difficult to understand. Instructions were straightforward and easy to follow. Instructions were missing for some steps."
+        }
+    },
+    "Drawers": {
+        "comm": "Drawers and doors operate smoothly.",
+        "cont": {
+            "entity_a": "Drawers slide easily. Drawers and doors have a strong smell initially.",
+            "entity_b": "Drawers and doors have minor operational issues. Drawers do not extend fully."
+        }
+    },
+    "Countertop": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Granite countertop is attractive. Granite top was chipped upon arrival. Granite top was not included as described. Granite top enhances the cart's elegance. Granite top adds to the cart's quality. Granite top was well protected during shipping.",
+            "entity_b": ""
+        }
+    },
+    "CustomerService": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service promptly replaced a broken granite top. Missing minor parts were quickly replaced by the company.",
+            "entity_b": ""
+        }
+    },
+    "Depth": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cabinet depth is limited.",
+            "entity_b": ""
+        }
+    },
+    "Stability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cart is slightly front-heavy and may need stabilization.",
+            "entity_b": "Wheels do not lock well, affecting stability."
+        }
+    },
+    "Smell": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Strong chemical smell from the drawers. Received with a smoke smell that was hard to eliminate. Drawers and doors have a strong smell initially.",
+            "entity_b": ""
+        }
+    },
+    "Parts": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some wood pieces were cracked, requiring repair. Pre-drilled holes for drawers were uneven. Assembly instructions were incorrect for one piece.",
+            "entity_b": "Some doors have alignment issues. Some parts were defective or missing. Some parts had minor dents and scratches. Doors required hinge adjustments for alignment."
+        }
+    }
+}

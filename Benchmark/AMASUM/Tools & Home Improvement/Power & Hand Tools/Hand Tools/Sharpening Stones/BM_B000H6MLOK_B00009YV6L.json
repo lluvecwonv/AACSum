@@ -1,0 +1,58 @@
+{
+    "Sharpness": {
+        "comm": "Sharpens quickly.",
+        "cont": {
+            "entity_a": "Sharpens knives and cleavers effectively. Sharpens knives quickly and well.",
+            "entity_b": "Not ideal for major blade rework. Doesn't get blades razor sharp but keeps them functional."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Base is well-designed and stable. Plastic base holds the bench stone well. Sturdy base, doesn't wiggle on a flat surface.",
+            "entity_b": "Interlocking handle has lateral play, affecting edge quality. Secure sheath handle protects hand during use. Compact and has a protective case. Handle doubles as a cover for portability."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Diamond dust wore off both sides after 1.5 months. Peeling occurred slightly from one of the holes.",
+            "entity_b": "Diamond chips wore down quickly. After four months, it developed chinks and lost bite."
+        }
+    },
+    "Usability": {
+        "comm": "Convenient and useful.",
+        "cont": {
+            "entity_a": "Useful for maintaining kitchen knives once in shape. Can be easily rinsed with water after use.",
+            "entity_b": "Easy and intuitive to use, delivers a fine edge. Compact, lightweight, and fits in a backpack."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Coarse side is not as coarse as expected, better for pre-finishing. Blue side cuts well, red side hones and sharpens effectively. Red side sharpens blades enough to cut hair. Coarse side similar to a medium India stone, fine side more abrasive than a washita stone. Fine/super fine stones are excellent for edge maintenance. Coarse side is effective for establishing a bevel. Two-sided fine/coarse for basic sharpening. Fine/coarse is more like fine/medium, but cuts fast. The coarse side removes nicks, fine side finishes. Provides a razor-sharp edge quickly.",
+            "entity_b": "Good for light touch-up in the field. Best suited for thin Japanese and hunting knives. Takes material off ceramic knife blades. Great for sharpening pocket and kitchen knives. Works well for quickly sharpening skinning knives. Good for maintaining edge on various blades."
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Compact, lightweight, and fits in a backpack. Compact and stores in its own handle. Affordable and compact for field use."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service quickly replaced the product.",
+            "entity_b": ""
+        }
+    },
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Partially rubberized cover for comfortable grip. Diamond surface provides good control. Diamond surface holds up well with proper use."
+        }
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Worst customer service and long technical support wait times. Technical support lacks knowledge and efficiency.",
+            "entity_b": "Tech support in India took 80 minutes to resolve a simple issue. Great tech support experience despite initial setup issues."
+        }
+    },
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router reboots every few hours and drops wireless connection about once per hour. Router frequently disconnects and reboots, unresolved by firmware upgrades or network card replacement. Not suitable for consistent connectivity.",
+            "entity_b": "Requires resetting occasionally, but generally reliable. Router frequently forgets network settings and requires reconfiguration. Router requires occasional resets but provides good speed and range."
+        }
+    },
+    "Configuration": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router can only configure wireless channel 6 and LEDs do not behave as manuals describe. Advanced features are poorly described in the documentation. Installation is straightforward, but setup utility can be difficult to navigate.",
+            "entity_b": "Easy to install and setup, working well with diverse devices. Does not support third-party firmware, limiting functionality. Product lacks clear instructions and requires tech support for setup."
+        }
+    },
+    "Signal": {
+        "comm": "Strong signal.",
+        "cont": {
+            "entity_a": "Signal strength and quality are very inconsistent. Strong signal throughout a two-story house.",
+            "entity_b": "Strong signal throughout a 2004 square foot house. Router's signal range is short and prone to interference."
+        }
+    },
+    "Speed": {
+        "comm": "Good performance.",
+        "cont": {
+            "entity_a": "Misleading product description regarding data transfer speeds; actual speed is 54Mbps unless paired with specific D-Link products. Stable connection speed of 108Mbps with a compatible Atheros super-G wireless card. Good performance and strong signal, but not suitable for long distances.",
+            "entity_b": "Good range and speed, but setup process is frustrating. Reliable and durable with consistent performance over several years."
+        }
+    },
+    "Installation": {
+        "comm": "Easy to install.",
+        "cont": {
+            "entity_a": "Easy to set up and reliable, but outdated for modern standards. Inexpensive and easy to set up, but not suitable for consistent connectivity. Router is compact and easy to install, but has dead spots.",
+            "entity_b": "Easy setup with minor issues resolved by tech support. Easy to install with good range and speed, but setup can be difficult."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with VPN and offers WEP and WPA encryption.",
+            "entity_b": "Works with Wii and PC but not with PS3 unless directly connected. Not Mac-friendly and lacks software support for Mac installations."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router is compact and easy to install, but has dead spots.",
+            "entity_b": "Router has a loud and annoying power adapter. Great router for adding custom firmware with excellent signal range."
+        }
+    },
+    "Power": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router works well, but lacks power adapter.",
+            "entity_b": "Linksys product arrived without a power adapter and had a custom firmware installation. Router has a loud and annoying power adapter."
+        }
+    },
+    "Amazon Service": {
+        "comm": "Amazon provides good service.",
+        "cont": {
+            "entity_a": "Amazon provides good return and refund process.",
+            "entity_b": "Amazon provides excellent replacement service for defective products."
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Firmware upgrades require shutting down the router.",
+            "entity_b": "Great router for adding custom firmware with excellent signal range."
+        }
+    }
+}

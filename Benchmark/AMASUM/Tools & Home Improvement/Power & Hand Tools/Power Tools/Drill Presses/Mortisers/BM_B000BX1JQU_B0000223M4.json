@@ -1,0 +1,135 @@
+{
+    "Power": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Plenty of power for mortising even in odd-shaped wood.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Premium Powermatic bits do not fit the included tool holder.",
+            "entity_b": "Comes with chisels, but chuck only accepts up to 1/4-inch bits."
+        }
+    },
+    "Setup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Setup is fussy initially but smooth operation once mortise is defined.",
+            "entity_b": "Tedious to adjust but works well once set."
+        }
+    },
+    "Operation": {
+        "comm": "Smooth operation.",
+        "cont": {
+            "entity_a": "Aligned out of the box.",
+            "entity_b": ""
+        }
+    },
+    "Hold-down System": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The hold-down feature could be improved.",
+            "entity_b": "The hold-down system is not entirely reliable."
+        }
+    },
+    "Durability": {
+        "comm": "Durable and well-crafted design.",
+        "cont": {
+            "entity_a": "Heavy, requiring a dedicated area or moveable cart.",
+            "entity_b": "Well built for heavy use."
+        }
+    },
+    "Quality": {
+        "comm": "Quality and ease of use are top-notch.",
+        "cont": {
+            "entity_a": "Sturdy build and quality construction.",
+            "entity_b": "Well made, accurate, and easy to use."
+        }
+    },
+    "Weight": {
+        "comm": "Heavy.",
+        "cont": {
+            "entity_a": "Worth the investment.",
+            "entity_b": "Heavier unit with longer handle would be helpful."
+        }
+    },
+    "Comparison": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Quality comparable to reviews and superior to Delta.",
+            "entity_b": ""
+        }
+    },
+    "Fence": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Fence and hold-down system are unmatched.",
+            "entity_b": "Fence does not track parallel, causing off-set mortises."
+        }
+    },
+    "Chisel": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires additional quality mortising bits.",
+            "entity_b": "Includes excellent chisels as a bonus."
+        }
+    },
+    "Accuracy": {
+        "comm": "Clean and accurate mortises.",
+        "cont": {
+            "entity_a": "Fence and chisel mechanism are aligned for square mortises.",
+            "entity_b": "Mortising is easy and accurate."
+        }
+    },
+    "Limitations": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cannot drill square holes in dense hardwood.",
+            "entity_b": "Utility is limited to 90-degree mortises. Cannot make mortises at the end grain of long boards."
+        }
+    },
+    "Adjustments": {
+        "comm": "Easy adjustments once accustomed.",
+        "cont": {
+            "entity_a": "Slight setup adjustment needed for work table alignment.",
+            "entity_b": "Tension adjustments needed on the column."
+        }
+    },
+    "Handle": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The hub holding the operating handle can crack. Handle attachment piece is prone to breaking.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Spins freely too long after power off.",
+            "entity_b": "Motor may jam in hard wood due to wood chips."
+        }
+    },
+    "Customer Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Customer support can be lacking in technical knowledge."
+        }
+    },
+    "Condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Arrived in good condition and works well."
+        }
+    },
+    "Usability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Faster than using a router and chisel setup.",
+            "entity_b": "Great for occasional users and small to medium furniture repairs."
+        }
+    }
+}

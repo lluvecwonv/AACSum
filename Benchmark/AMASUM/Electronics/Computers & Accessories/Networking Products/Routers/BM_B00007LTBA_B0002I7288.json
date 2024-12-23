@@ -1,0 +1,86 @@
+{
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router reboots every few hours, even without traffic. Wireless connection drops about once per hour, requiring VPN reconnections. Frequent disconnections from all computers. Router frequently drops wireless connection and reboots.",
+            "entity_b": "VPN connections drop regularly. Disconnection issues after initial use."
+        }
+    },
+    "Configuration": {
+        "comm": "Easy to set up.",
+        "cont": {
+            "entity_a": "Easy to set up with provided instructions. Problems with setup CD, but manual setup works. Easy setup and configuration for broadband use.",
+            "entity_b": "Easy to configure with a web interface. Secure VPN setup is easy. Easy to set up remote access with VPN."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Stable connection speed of 108Mbps with compatible hardware. Strong signal throughout a two-story house. Good range and performance through obstacles. Strong signals and great speed at a reasonable price. Signal range is poor beyond 30-50 feet.",
+            "entity_b": "Good for small installations (<250 users). Solid router with robust VPN capability. Reliable with long-term use across various locations."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router failed after a short period of use. Router stopped working after three years.",
+            "entity_b": "Router is sturdy with full VPN features. Reliable with long-term use across various locations."
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Reboots during downloads, with no resolution from firmware updates.",
+            "entity_b": "Firmware updates are still supported. Firmware and programming issues cause random failures."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Inexpensive and easy to set up, but not suitable for consistent connectivity needs.",
+            "entity_b": ""
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Technical support is unhelpful and outsourced.",
+            "entity_b": ""
+        }
+    },
+    "Description": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Product description is misleading regarding data transfer speed.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with various wireless standards (11b, 11g).",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Older model with slow wireless speed. Router has dead spots in certain areas.",
+            "entity_b": "Router gets hot and needs proper ventilation. Dual WAN option works sometimes but not reliably."
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Missing power adapter required additional purchase.",
+            "entity_b": "Easy install but not user-friendly for beginners."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Limited port forwarding capabilities. Load balancing not effective with secure connections. Dual WAN function is helpful for redundant ISP connections. Router fails with VOIP systems due to port issues."
+        }
+    }
+}

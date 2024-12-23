@@ -1,0 +1,72 @@
+{
+    "Straining": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Efficiently extracts more stock without increasing cloudiness compared to cheesecloth. Strains chicken stock beautifully to produce crystal clear results. Fine mesh strainer useful for stocks, sauces, and home brewing. Catches cloudy material from soup stocks effectively.",
+            "entity_b": "Requires cheesecloth to function as an ultra-fine chinois. Not a true chinois due to larger holes. Solid construction but lacks fine mesh straining capability."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Balances well on the side of the stock storage container. Two rest hooks on the frame prevent it from falling off during use. Very large size could be an issue for storage. Too large to rest on smaller stock pots. Unwieldy and can cause arm strain during extensive use. Requires a large bucket for use due to its size.",
+            "entity_b": "The pestle's angular cone is too narrow, making it difficult to use effectively. Stainless steel band design hinders the pestle from pushing food through effectively. Not stable enough and difficult to store. Handle design makes it difficult to hold comfortably. The fit of the chinois into the stand is challenging."
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "High-quality professional equipment. Heavy-duty and versatile, suitable for hot and cold applications. Stainless steel mesh strainer and composite handle and frame are well made. Durable with wire bumpers protecting the mesh. Does not rust and is dishwasher safe.",
+            "entity_b": "Materials are of great quality. Stainless steel won't rust and is durable."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Worked well initially for yogurt but subsequent batches had curd go through the mesh. Works well for sauces and custards. Effective for making smooth nut milks and ice cream. Expensive but makes sauces and custards well.",
+            "entity_b": "Works better than hand mills for getting seeds out of berries. Works well for separating seeds from fruit pulp. Effective for making apple butter. Does not work well for removing seeds to make jam."
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Very large size makes it cumbersome to store.",
+            "entity_b": ""
+        }
+    },
+    "Storage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Not stable enough and difficult to store."
+        }
+    },
+    "Usability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lightweight and easy to use with a stable handle. Easy to clean if done immediately after use.",
+            "entity_b": "Older models are easier to clean due to lack of ridges. Great for canning needs but difficult to clean."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some units have stretched holes at seams affecting performance. Mesh has larger holes than expected in some units.",
+            "entity_b": "Handle broke off during first use. Some units are not as sturdy as older models. Some units have issues with the wooden pestle fitting properly."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Expensive but worth it for frequent use.",
+            "entity_b": "Affordable alternative to a crank-style fruit press."
+        }
+    },
+    "Condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Packaging condition is concerning. The pestle appears used and is not well-suited for the unit."
+        }
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "Interference": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The system causes interference with other 2.4 GHz devices, rendering them unusable.",
+            "entity_b": ""
+        }
+    },
+    "Bass": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The subwoofer provides sufficient bass for any room.",
+            "entity_b": "The subwoofer is powerful, providing deep bass."
+        }
+    },
+    "Wireless": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wireless rear speakers work well but require a power outlet.",
+            "entity_b": ""
+        }
+    },
+    "Settings": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The system does not save settings if power is cut.",
+            "entity_b": ""
+        }
+    },
+    "Sound": {
+        "comm": "Great sound quality for games and movies.",
+        "cont": {
+            "entity_a": "Especially in small spaces.",
+            "entity_b": "Ideal for gaming and movies, offering clear and powerful sound."
+        }
+    },
+    "Wiring": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wireless rear speakers help reduce wiring clutter but need a power outlet.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires adapters for use with non-computer devices.",
+            "entity_b": "The system is versatile, with multiple input options including optical and coaxial."
+        }
+    },
+    "Heat": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The control unit heats up slightly but functions well.",
+            "entity_b": ""
+        }
+    },
+    "Volume": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sound quality is good, but rear speakers need higher volume for better surround sound.",
+            "entity_b": ""
+        }
+    },
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Issues with the unit shutting off unexpectedly due to signal handling.",
+            "entity_b": "Remote control has limited range and requires direct line of sight."
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rear speakers can be problematic with range and signal reception.",
+            "entity_b": ""
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some users experience a hiss from rear speakers.",
+            "entity_b": ""
+        }
+    },
+    "Setup": {
+        "comm": "The speakers are easy to set up and use, with a user-friendly interface.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "The speakers are durable.",
+        "cont": {
+            "entity_a": "Maintain sound quality over time.",
+            "entity_b": "Lasting over a decade."
+        }
+    },
+    "Certification": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "THX certification ensures high-quality sound."
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The subwoofer is large, requiring ample space."
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The speakers offer great value for their price, outperforming more expensive systems."
+        }
+    },
+    "Mounting": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Some users find the wall mounts and optical input problematic."
+        }
+    },
+    "Versatility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The speakers are suitable for a variety of devices, including computers and gaming consoles."
+        }
+    }
+}

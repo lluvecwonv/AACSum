@@ -1,0 +1,170 @@
+{
+    "Lens": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lens has spots that appear in pictures, suggesting an internal issue.",
+            "entity_b": ""
+        }
+    },
+    "Flash": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Flash initially had issues but was resolved with cleaning.",
+            "entity_b": ""
+        }
+    },
+    "Body": {
+        "comm": "Solid build.",
+        "cont": {
+            "entity_a": "Camera body has a good feel and is durable. Solid and sturdy design with a balanced feel. Solid build and great grip.",
+            "entity_b": "Older model but sturdy and consistent. Solid build, though heavy for some users."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Battery life is long, but additional batteries may be needed. Battery life is impressive but battery compartment door is flimsy.",
+            "entity_b": ""
+        }
+    },
+    "Image Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Produces great pictures even after 10 years.",
+            "entity_b": "12.8 MP original 5D offers genuine image quality and personality. Excellent image quality, dynamic range, and color. Great image quality with rich colors. Takes beautiful photos with excellent textures and colors."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Latency is subsecond, suitable for capturing action shots.",
+            "entity_b": "Full-frame sensor provides better performance than crop sensors."
+        }
+    },
+    "Video": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Does not take video, unlike newer digital cameras.",
+            "entity_b": ""
+        }
+    },
+    "Technology": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Advanced control algorithms and technology.",
+            "entity_b": ""
+        }
+    },
+    "Ease of Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Easy to use, allowing more focus on photography than settings. Great quality camera, easy to use, fun to use.",
+            "entity_b": "Not the most beginner-friendly, better for those familiar with Canon systems."
+        }
+    },
+    "Noise": {
+        "comm": "Low noise performance.",
+        "cont": {
+            "entity_a": "Low noise performance is above average, ISO1600 is usable.",
+            "entity_b": "Great for low-light shots with minimal noise."
+        }
+    },
+    "Compatibility": {
+        "comm": "Compatible with older Canon lenses.",
+        "cont": {
+            "entity_a": "Compatible with a wide range of lenses. No support for 64-bit operating systems.",
+            "entity_b": ""
+        }
+    },
+    "Lens Kit": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Kit lens is adequate for general purposes but may need upgrading for specific needs.",
+            "entity_b": ""
+        }
+    },
+    "Shooting": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rapid shooting feature is effective for action shots.",
+            "entity_b": ""
+        }
+    },
+    "Controls": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Switch placement is awkward but other controls are well-placed.",
+            "entity_b": "Big viewfinder and consistent output control."
+        }
+    },
+    "Autofocus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Autofocus is fast and accurate.",
+            "entity_b": ""
+        }
+    },
+    "Resolution": {
+        "comm": "",
+        "cont": {
+            "entity_a": "8 megapixel resolution allows for large prints.",
+            "entity_b": ""
+        }
+    },
+    "Startup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Boot up time is almost instantaneous.",
+            "entity_b": ""
+        }
+    },
+    "Metering": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lacks true spot metering and has a loud mirror slap.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "First unit had flash exposure issues, resolved with replacement.",
+            "entity_b": ""
+        }
+    },
+    "Feature Set": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Older model but still highly functional. Impressive feature list at an affordable price.",
+            "entity_b": "Lacks modern features like Live View and auto ISO."
+        }
+    },
+    "Price": {
+        "comm": "Affordable price.",
+        "cont": {
+            "entity_a": "Impressive feature list at an affordable price.",
+            "entity_b": "Affordable price for a full-frame camera."
+        }
+    },
+    "Photography": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Suitable for street photography and studio portraits. Great for landscapes and portraits with flexible bracketing. Good for amateur and professional photographers."
+        }
+    },
+    "Upgrade": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Great addition for photographers wanting to upgrade from crop sensors."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Good functionality with a professional feel. Some users experienced faulty equipment but found solutions."
+        }
+    }
+}

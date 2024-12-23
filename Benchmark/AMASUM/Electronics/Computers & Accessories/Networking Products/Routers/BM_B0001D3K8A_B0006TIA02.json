@@ -1,0 +1,93 @@
+{
+    "Support": {
+        "comm": "Customer service was helpful in resolving issues.",
+        "cont": {
+            "entity_a": "Linksys product support was unresponsive and unhelpful.",
+            "entity_b": ""
+        }
+    },
+    "Accessories": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router did not come with a power adapter, but included antennas.",
+            "entity_b": ""
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router was locked with custom firmware for a VPN firewall speed booster, making it unusable for other purposes.",
+            "entity_b": "The router's interface allows prioritization of packet routing."
+        }
+    },
+    "Setup": {
+        "comm": "Setup was straightforward and quick.",
+        "cont": {
+            "entity_a": "The installation process can be confusing due to inconsistent setup instructions.",
+            "entity_b": "The router's setup interface is user-friendly and understandable."
+        }
+    },
+    "Performance": {
+        "comm": "The router performs well with online gaming.",
+        "cont": {
+            "entity_a": "The router works well with multiple devices, including Apple and Dell computers. The product works well with Wii and PC but not with PS3 unless directly connected.",
+            "entity_b": "The router works well with Xbox Live and Nintendo Wi-Fi without additional setup. It handles a large number of connections without slowing down."
+        }
+    },
+    "Signal": {
+        "comm": "The router's signal is strong.",
+        "cont": {
+            "entity_a": "Covers a large area.",
+            "entity_b": "The wireless signal strength is consistent."
+        }
+    },
+    "Encryption": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router's encryption is compatible with Apple devices, offering options for AES and TKIP.",
+            "entity_b": "It supports stronger WiFi encryption for secure wireless access."
+        }
+    },
+    "Stability": {
+        "comm": "The router provides a stable connection.",
+        "cont": {
+            "entity_a": "The router requires occasional resets.",
+            "entity_b": "The router is extremely stable with fantastic range."
+        }
+    },
+    "Installation": {
+        "comm": "The router is easy to install.",
+        "cont": {
+            "entity_a": "Configured with the included software.",
+            "entity_b": "Setup was super easy, with fast performance exceeding expectations."
+        }
+    },
+    "Ports": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router has four wired ports in addition to wireless capabilities. The router's ports are fully stealthed, enhancing security.",
+            "entity_b": "The product has a gigabit switch and offers excellent security features."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router is not compatible with certain third-party firmware.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "The product's durability and performance are satisfactory over long-term use.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The device is reliable and has many advanced features."
+        }
+    },
+    "Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The GameFuel feature supports VoIP nicely."
+        }
+    }
+}

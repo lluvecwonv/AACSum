@@ -1,0 +1,86 @@
+{
+    "Material": {
+        "comm": "Soft metal or low-grade aluminum.",
+        "cont": {
+            "entity_a": "Soft aluminum material wears out quickly with repeated use. Threaded collars can strip easily, indicating soft metal.",
+            "entity_b": "The kit includes mostly plastic or low-grade aluminum parts."
+        }
+    },
+    "Operation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires low air pressure for operation; adjust regulator accordingly. Needs adjustment for pressure depending on material viscosity.",
+            "entity_b": "The inflator struggles with standard Schrader valves."
+        }
+    },
+    "Air Leaks": {
+        "comm": "Requires Teflon tape to prevent air leaks.",
+        "cont": {
+            "entity_a": "Difficult to get a good seal, resulting in air leaks.",
+            "entity_b": "Air leakage issues with many parts, even with Teflon tape."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Limited durability and quality, suitable only for light-duty use."
+        }
+    },
+    "Construction": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Solid metal construction dispenses caulk evenly and predictably.",
+            "entity_b": "Cheap construction, with some parts feeling flimsy."
+        }
+    },
+    "Trigger": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Trigger design is uncomfortable and poorly positioned.",
+            "entity_b": "The tire inflator and gauge feel light and unreliable."
+        }
+    },
+    "Usage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Effective for dispensing extremely viscous caulking. Effective for large caulking jobs.",
+            "entity_b": "Good starter set for occasional use but not for heavy-duty tasks."
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Heavyweight may cause arm fatigue during prolonged use.",
+            "entity_b": ""
+        }
+    },
+    "Pneumatic Operation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Pneumatic operation saves muscle strain compared to manual guns.",
+            "entity_b": ""
+        }
+    },
+    "Components": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Includes necessary connectors for basic compressor use. Some components work well with added thread sealant."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Inexpensive and provides a variety of fittings."
+        }
+    },
+    "Misleading Advertisement": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "No brass pieces included despite being advertised as such."
+        }
+    }
+}

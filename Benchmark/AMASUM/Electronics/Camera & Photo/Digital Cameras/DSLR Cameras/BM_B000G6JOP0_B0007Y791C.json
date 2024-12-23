@@ -1,0 +1,79 @@
+{
+    "Condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Nikon D2xs is like new.",
+            "entity_b": "Delivered in beat-up condition but functional for its age. Camera body is in exceptional condition with functional dials and viewfinder."
+        }
+    },
+    "Performance": {
+        "comm": "Great performer.",
+        "cont": {
+            "entity_a": "Performs very well for an older pro body. Excellent low ISO performance. D2x is still a great performer despite newer models.",
+            "entity_b": "The 5D is a reliable and trusty camera despite being older."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The D2Xs is strong and durable, lasting without issues.",
+            "entity_b": "Canon 5D is a full-frame camera with consistent and sturdy build."
+        }
+    },
+    "Image Quality": {
+        "comm": "Excellent image quality.",
+        "cont": {
+            "entity_a": "Produces sharp 16x24 prints and can go bigger with a good lens. Outstanding image quality. Picture quality is not as good as D300.",
+            "entity_b": "Image quality, dynamic range, and color are better than anything previously owned. Has excellent image quality from 100 - 800 ISO. Picture quality is great and colors are rich. Image quality is consistent and excellent, even compared to newer models."
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Camera is heavy.",
+            "entity_b": ""
+        }
+    },
+    "Focus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Focuses faster than manual focus.",
+            "entity_b": ""
+        }
+    },
+    "Comparison": {
+        "comm": "",
+        "cont": {
+            "entity_a": "D2x and D2xs are about 90% the same.",
+            "entity_b": "Noticeable sharpness difference compared to crop sensors."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Considered a top-of-the-line camera and last of the professional DX cameras.",
+            "entity_b": "The original 5D stands out in personality and presentation."
+        }
+    },
+    "Screen": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Review screen is small.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Affordable price for a full-frame camera."
+        }
+    },
+    "Versatility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Great for shooting landscapes and portraits. Works great with all lenses."
+        }
+    }
+}

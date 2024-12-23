@@ -1,0 +1,86 @@
+{
+    "Sound": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great sound quality for highs, mids, and lows. Bass is clean but not boomy, suitable for various music genres. Excellent for music, movies, and gaming with a balanced sound field.",
+            "entity_b": "Sound quality is not the greatest but better than TV speakers. Optical input provides clean sound."
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable fit.",
+        "cont": {
+            "entity_a": "Very comfortable fit, even for extended use.",
+            "entity_b": "Tricky to place on the charging base."
+        }
+    },
+    "Construction": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good construction but prone to developing small cracks over time.",
+            "entity_b": "Design is good but has a background hiss."
+        }
+    },
+    "Cable": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Long cable can be cumbersome but is useful for distant connections.",
+            "entity_b": ""
+        }
+    },
+    "Sound Leakage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sound leakage due to open-ear design, not ideal for quiet environments.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durability is high with minor cosmetic issues over years of use.",
+            "entity_b": ""
+        }
+    },
+    "Adapter": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires an adapter for 3.5 mm use, included in the package.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "Affordable.",
+        "cont": {
+            "entity_a": "Affordable for the quality offered, especially during deals.",
+            "entity_b": "Affordable price with good listening experience."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Excellent battery life."
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Limited range; requires no obstructions between headphones and base. Wireless range is short and can cause signal drop."
+        }
+    },
+    "Volume Control": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Volume control is difficult to use."
+        }
+    },
+    "Charging": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Issues with charging dock alignment."
+        }
+    }
+}

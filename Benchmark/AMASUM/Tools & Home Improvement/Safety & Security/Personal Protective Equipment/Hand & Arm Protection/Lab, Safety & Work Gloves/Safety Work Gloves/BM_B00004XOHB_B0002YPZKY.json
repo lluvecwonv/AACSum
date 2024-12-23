@@ -1,0 +1,58 @@
+{
+    "Durability": {
+        "comm": "The gloves do not last long.",
+        "cont": {
+            "entity_a": "Showing wear and tear within a few months. Seams and stitching come apart quickly with use. Durability varies significantly with some users experiencing quick wear and others finding them long-lasting.",
+            "entity_b": "The gloves ripped after minimal use, particularly at the seams and fingertips. They are not suitable for heavy-duty work, lasting only a short period."
+        }
+    },
+    "Fit": {
+        "comm": "Sizing up is recommended for comfort.",
+        "cont": {
+            "entity_a": "The fit is tight. The gloves provide a snug fit, which is beneficial for grip.",
+            "entity_b": "Sizing may run small. Fit well but lack durability."
+        }
+    },
+    "Grip": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The leather on the fingers is not ideal for holding tools as it causes slippage. The gloves are comfortable for workout use, offering good protection and grip.",
+            "entity_b": "Grip on fingertips wearing out quickly."
+        }
+    },
+    "Protection": {
+        "comm": "The gloves offer good protection.",
+        "cont": {
+            "entity_a": "Comfortable for workout use, offering good protection and grip.",
+            "entity_b": "From cuts and fit well."
+        }
+    },
+    "Touchscreen": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Touchscreen compatibility is not tested.",
+            "entity_b": "Touchscreen functionality is limited and wears out quickly."
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The gloves are comfortable for workout use.",
+            "entity_b": "The gloves are breathable and comfortable for light work."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The padding on palms and knuckles reduces calluses but requires frequent replacement."
+        }
+    },
+    "Insulation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "They are not suitable for cold weather as they lack insulation."
+        }
+    }
+}

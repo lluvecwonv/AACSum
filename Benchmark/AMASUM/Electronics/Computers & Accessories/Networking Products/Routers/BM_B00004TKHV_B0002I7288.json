@@ -1,0 +1,86 @@
+{
+    "Adjustment": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rough adjustment release lock is under the collar lock and a pain to adjust. Fine adjustment sticks and the body does not slide smoothly in the collar. Very prone to becoming hard to adjust vertically due to wood dust.",
+            "entity_b": ""
+        }
+    },
+    "Power": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Powerful, quiet, and versatile with a soft start feature. Router is very powerful and runs well without overheating.",
+            "entity_b": ""
+        }
+    },
+    "Speed": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Variable speed is great for different size bits and wood types. Good value for money despite some issues with the speed controller.",
+            "entity_b": ""
+        }
+    },
+    "Installation": {
+        "comm": "Easy to install.",
+        "cont": {
+            "entity_a": "Fits perfectly on the router table base.",
+            "entity_b": ""
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good value for money despite some issues with the speed controller.",
+            "entity_b": "Reasonably priced solution for off-site communication."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Front spindle bearing retained with screws without a bearing clamp. The router is durable and well-made, with a nice soft start and variable speed. Plastic piece does not fit tightly and could be improved. The Bosch 1617EVS router is reliable and well-designed.",
+            "entity_b": "Solid small business class router with good features. Sturdy full-featured VPN router with a keep-alive feature."
+        }
+    },
+    "Feature": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Micro adjustments can be made from the top of the table. Comes with both 1/4\" and 1/2\" collets. Collet changing is simple, but the dual wrench feature is hard to get used to. The router works well for making tongue and groove joints.",
+            "entity_b": "Easy VPN setup, but Cisco's support is inadequate. Dual WAN function is helpful for redundant ISPs."
+        }
+    },
+    "Temperature": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Gets hot and requires plenty of air movement."
+        }
+    },
+    "Configuration": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Easy to configure with a nice web interface. Setup is intuitive and easy."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Firmware update support is available."
+        }
+    },
+    "Connection": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Gateway to gateway VPNs drop regularly. VPN tunnels in the router are a great idea but have limitations. Load balancing doesn't work well with secure connections. Does not support XAUTH user credentials. Widely reported issues with VOIP systems."
+        }
+    },
+    "Packaging": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Box was previously opened, and some parts were missing.",
+            "entity_b": ""
+        }
+    }
+}

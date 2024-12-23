@@ -1,0 +1,65 @@
+{
+    "Lens": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Becoming a 'standard' lens for the user.",
+            "entity_b": "Heavy compared to standard zoom lenses."
+        }
+    },
+    "Autofocus": {
+        "comm": "Fast and accurate autofocus.",
+        "cont": {
+            "entity_a": "Not supported on the Nikon d5600, requiring manual focus. Does not autofocus on entry-level bodies, requiring manual focus. The lens is noisy when focusing.",
+            "entity_b": ""
+        }
+    },
+    "Image Quality": {
+        "comm": "Sharp images.",
+        "cont": {
+            "entity_a": "Performs better on crop sensor cameras, offering better quality and clarity.",
+            "entity_b": "Good value for money with excellent image quality."
+        }
+    },
+    "Bokeh": {
+        "comm": "Great bokeh.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Beautiful bokeh and is excellent for portraits."
+        }
+    },
+    "Build": {
+        "comm": "Solid build quality.",
+        "cont": {
+            "entity_a": "Built like a tank. Lightweight due to plastic construction but feels fragile if dropped.",
+            "entity_b": "Heavy compared to standard zoom lenses."
+        }
+    },
+    "Light Performance": {
+        "comm": "Excellent for low light photography with the f/1.8 aperture.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Fast autofocus and works well in low light conditions. No image stabilization, but the f/1.8 aperture compensates."
+        }
+    },
+    "Photography": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Excellent for low light photography.",
+            "entity_b": "Highly recommended for portrait photography due to sharpness and bokeh. Great for portraits and sports photography with fast-moving subjects."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with Nikon D750.",
+            "entity_b": ""
+        }
+    },
+    "Aberration": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Minor sun flares occur when shooting around sunrise or sunset.",
+            "entity_b": "Some chromatic aberration or color fringing present."
+        }
+    }
+}

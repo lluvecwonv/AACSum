@@ -1,0 +1,76 @@
+{
+    "Operation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Very slow operation, but effective for making finely shaved ice.",
+            "entity_b": "Produces fluffy ice quickly and easily."
+        }
+    },
+    "Capacity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not suitable for large groups; better for making 1 or 2 servings.",
+            "entity_b": "Not suitable for large parties; better for small family use."
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Ice shaver is loud, similar to a blender. Operates quietly compared to other models."
+        }
+    },
+    "Ease of Use": {
+        "comm": "Easy to clean.",
+        "cont": {
+            "entity_a": "Easy to use.",
+            "entity_b": "Easy to set up."
+        }
+    },
+    "Ice Quality": {
+        "comm": "Produces fluffy ice.",
+        "cont": {
+            "entity_a": "Produces fluffy, snow-like ice with great texture.",
+            "entity_b": "Ice tends to melt quickly after shaving."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durable and reliable for frequent use over years. Plastic parts may rust or wear over time.",
+            "entity_b": "Some units have durability issues over time. Machine may overheat if used for extended periods."
+        }
+    },
+    "Packaging": {
+        "comm": "Some units may arrive with missing parts.",
+        "cont": {
+            "entity_a": "Some packages may arrive used.",
+            "entity_b": "Some units may arrive damaged."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Limited clearance underneath; avoid using tall cones.",
+            "entity_b": "Design is aesthetically pleasing and compact."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Using regular ice cubes results in chunky ice and frequent jams. The machine may shave plastic into the ice.",
+            "entity_b": "Can use regular ice cubes; no need for special molds. May require frequent maintenance to prevent jams."
+        }
+    },
+    "Price": {
+        "comm": "Affordable and offers good value for the price.",
+        "cont": {}
+    },
+    "Versatility": {
+        "comm": "Can be used for making snow cones.",
+        "cont": {
+            "entity_a": "Works best with ice blocks made in provided containers. Can be used with molds or ice cubes for snow cones.",
+            "entity_b": "Great for making snow cones and slushies."
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "PizzaType": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Perfect for both thick and thin pizza.",
+            "entity_b": "Cutting wheel diameter too small for thick crust pizzas."
+        }
+    },
+    "BuildQuality": {
+        "comm": "Well made and easy to clean.",
+        "cont": {
+            "entity_a": "Comparable to free grocery store pizza cutter. Stainless steel blade attached to a non-stainless neck. Heavy duty and well made. Made to last with high-quality construction.",
+            "entity_b": "Heavy and robust design. Removable wheel for sharpening or replacement. Professional-grade design."
+        }
+    },
+    "Handle": {
+        "comm": "Comfortable grip.",
+        "cont": {
+            "entity_a": "Thick handle makes it comfortable to use. Comfortable but not ergonomic handle. Ergonomic and comfortable to use. Comfortable handle and well balanced.",
+            "entity_b": "Large and comfortable grip. Ergonomic handle. Suitable for large hands. Comfortable and easy to grip."
+        }
+    },
+    "Rust": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rust develops around the center after dishwasher use. Rust observed on the pin after some time.",
+            "entity_b": "Center bolt and nut may rust. Blade may rust over time."
+        }
+    },
+    "Cutting": {
+        "comm": "Sharp and easy to use.",
+        "cont": {
+            "entity_a": "Requires 'sawing' action to cut through pizza completely. Not sharp enough to cut through pizza crust. Cuts through pizza crust well. Cuts pizza with ease and is easy to clean. Sharp blade. Large cutting radius. Easy to clean and cuts well. Heavy duty and cuts easily through pizza.",
+            "entity_b": "Smooth and clean cutting. Requires more pressure to cut compared to others. Sharp blade cuts with ease. Cuts through thick pizza with ease. Very sharp and easy to use. Heavy and cuts through pizza easily."
+        }
+    },
+    "Size": {
+        "comm": "Large and sturdy design.",
+        "cont": {
+            "entity_a": "Large size compared to other cutters. Too large for some users. Heavy and not suitable for smaller hands.",
+            "entity_b": "Substantial feel in hand."
+        }
+    },
+    "Weight": {
+        "comm": "Heavy.",
+        "cont": {
+            "entity_a": "Heavy with no wobble in the disc. Heavy, requiring effort to use. Heavy and well balanced.",
+            "entity_b": "Heavy weight aids in cutting. Heavy and balanced for effective cutting."
+        }
+    },
+    "BladeGuard": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Blade guard would be a useful addition. No cover to protect the blade; plastic cover is difficult to use.",
+            "entity_b": "Snap-on blade guard included. Comes with a blade guard. Sharp with a protective cover."
+        }
+    },
+    "Durability": {
+        "comm": "Durable and made from high-quality materials.",
+        "cont": {
+            "entity_a": "Fastener attaching the wheel to the handle can come apart.",
+            "entity_b": "Durable and long-lasting. Durable and built to last."
+        }
+    },
+    "Design": {
+        "comm": "Sturdy and does not wobble.",
+        "cont": {
+            "entity_a": "Comfortable grip and rolls smoothly. Solid and well-designed product.",
+            "entity_b": "Sturdy with a great design."
+        }
+    },
+    "EaseOfCleaning": {
+        "comm": "Easy to clean.",
+        "cont": {
+            "entity_a": "Smooth cutting and easy to clean. Easy to clean and store.",
+            "entity_b": "Easy to clean when washed immediately."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Reasonably priced.",
+            "entity_b": ""
+        }
+    }
+}

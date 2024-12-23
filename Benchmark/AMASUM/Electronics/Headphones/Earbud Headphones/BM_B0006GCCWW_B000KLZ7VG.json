@@ -1,0 +1,65 @@
+{
+    "Sound": {
+        "comm": "Great sound quality.",
+        "cont": {
+            "entity_a": "Incredible sound quality with a slightly warmer tone than SR80i's. Excellent sound clarity and accuracy. Sound quality is superb with a smooth, detailed sound. Clarity and extended frequency response are hard to beat.",
+            "entity_b": "Sound is amazing with great bass and treble balance. High sound quality with clear acoustics and deep bass."
+        }
+    },
+    "Durability": {
+        "comm": "Durability issues.",
+        "cont": {
+            "entity_a": "Durability issues with the earpiece falling off the mounting stalk.",
+            "entity_b": "Durability issues with rubber pieces falling off easily. Durability issues with wires breaking and earphones becoming non-functional. Durability issues with wire splitting after extensive use. Durability issues with silicone ear pieces coming off."
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comfort issues for some users, especially those wearing glasses. Ear pads are not the most comfortable, causing discomfort after 30 minutes. Comfort is tolerable for up to 2 hours of non-stop listening. Bowl-shaped pads hurt ears after 30 minutes unless put on backwards.",
+            "entity_b": "Comfortable for long periods of use. Comfortable fit with super-soft gel tips. Comfortable and snug fit with adjustable ear pieces."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Distinct retro style. Semi-open design is not ideal for noisy environments.",
+            "entity_b": ""
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Noise isolation is non-existent, making them unsuitable for noisy environments.",
+            "entity_b": "Good noise cancellation quality. Good sound but permits too much outside noise."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "1/4\" plug requires an adapter for 1/8\" connections. Not suitable for laptop or computer use without an adapter.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Best headphones for the price range, outperforming more expensive models.",
+            "entity_b": "High-quality sound and comfort for the price."
+        }
+    },
+    "Music": {
+        "comm": "",
+        "cont": {
+            "entity_a": "High-quality audio product, especially for rock or folk music. Good for mixing, mastering, and production of audio.",
+            "entity_b": "Music and games sound phenomenal. Great for running, as they don't fall out."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not monitoring headphones due to slight bass bias.",
+            "entity_b": "Good customer service with unexpected product upgrades."
+        }
+    }
+}

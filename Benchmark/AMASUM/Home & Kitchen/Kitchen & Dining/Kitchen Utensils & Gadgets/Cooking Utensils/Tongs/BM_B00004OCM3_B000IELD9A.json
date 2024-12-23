@@ -1,0 +1,58 @@
+{
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The first pair had a rubber pull-out lock, but the new pair has a cheap metal pull-out that rusted after the first wash. The metal is thicker in the new generation, improving the tongs. The tongs are dishwasher safe and do not rust.",
+            "entity_b": "The spatula edge started shredding on first use, indicating poor quality. The spatula is super thin and bends easily. The pizza cutter is thin metal. The spatulas are cheap and ended up in the trash. The plastic spatula material is too thin and bends under low heat. The square turner melts when used for cooking eggs."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The tongs do not grip well, designed to pinch by the tips rather than grip. The design is limiting, with tips touching and leaving a gap, making them suitable only for large items.",
+            "entity_b": "The set's picture is misleading as it is difficult to fit all items in the container. The container is cramped and not ideal for storing all utensils."
+        }
+    },
+    "Locking": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The locking feature does not work, and the tongs were returned and replaced with the same defective item. The tongs are too long to not have the option to lock them, making storage difficult. The locking feature wears out over time, increasing the spread of the tongs. The lock sticks when opening and closing. The locking feature is easy to operate with one hand. The locking mechanism is awkward compared to other systems.",
+            "entity_b": ""
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The fit, finish, and material are top-notch.",
+            "entity_b": "The utensils are good quality, but the holder is cramped. The utensils are of good quality, but the holder does not fit all items well."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The tongs grip food securely and are long enough to keep hands away from heat. The tongs are lightweight, maneuverable, and grip food firmly without slipping. The tongs are sturdy, with a comfortable grip and suitable for grilling.",
+            "entity_b": "The tongs, ice cream scoop, and shredder are decent items. The meat tenderizer develops a film when washed in the dishwasher."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The tongs have not developed any side-to-side slop, and the tips align well.",
+            "entity_b": "The utensils are dishwasher safe and durable."
+        }
+    },
+    "Storage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "These tongs cannot be returned.",
+            "entity_b": "The set includes almost every utensil needed for a new kitchen."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The set is a good value compared to purchasing items individually."
+        }
+    }
+}

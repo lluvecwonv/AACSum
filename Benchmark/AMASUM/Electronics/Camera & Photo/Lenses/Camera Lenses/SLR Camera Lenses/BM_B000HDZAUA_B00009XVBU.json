@@ -1,0 +1,86 @@
+{
+    "Autofocus": {
+        "comm": "Autofocus is slow.",
+        "cont": {
+            "entity_a": "Stopped working in less than a year. Problematic in low light. Not suitable for fast-moving sports. Noisy but not bothersome. Has slight lag.",
+            "entity_b": "Focus can hunt at close range on non-contrasty subjects. Auto-focus is slow but manageable."
+        }
+    },
+    "Warranty": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No way to contact seller for warranty information; lens not eligible for warranty repairs. Warranty repair service was efficient but shipping was at user's expense. Comes with a lens hood and has a 6-year warranty.",
+            "entity_b": ""
+        }
+    },
+    "Macro": {
+        "comm": "Great for macro photography.",
+        "cont": {
+            "entity_a": "Telephoto macro function is appreciated. Macro setting is effective for close-up shots. Macro function is impressive. Macro switch can be tricky to use.",
+            "entity_b": "Fantastic macro lens for Canon shooters. Manual focus is recommended for macro."
+        }
+    },
+    "Build": {
+        "comm": "Solidly built.",
+        "cont": {
+            "entity_a": "Lens is solid and well-built. Lens body is lightweight but solidly built.",
+            "entity_b": "Extremely heavy, almost unusable handheld. Heavy and slow focusing."
+        }
+    },
+    "Image Quality": {
+        "comm": "Sharpness is good.",
+        "cont": {
+            "entity_a": "Picture quality is good. Sharpness decreases at extreme zoom. Some chromatic aberration present. Pictures are generally soft with chromatic aberration.",
+            "entity_b": "Extremely sharp and fun to use. High-quality and super sharp photos. Great depth and clarity in photos. Sharpness, saturation, and color accuracy are excellent."
+        }
+    },
+    "Stabilization": {
+        "comm": "No image stabilization.",
+        "cont": {
+            "entity_a": "Photos can be shaky without a tripod. Not a low-light lens without image stabilization. No vibration reduction as advertised.",
+            "entity_b": "Handheld macro is difficult. Tripod recommended."
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lens is lightweight and inexpensive. Lens is slightly heavy compared to kit lenses.",
+            "entity_b": "Extremely heavy, almost unusable handheld. Heavy and slow focusing."
+        }
+    },
+    "Price": {
+        "comm": "Good value for the price.",
+        "cont": {
+            "entity_a": "Lens provides good value for a 70-300mm zoom. Excellent lens for the price. Great bargain for beginners.",
+            "entity_b": "Worth every penny, especially at Amazon's price. Bargain for the money compared to other top lenses."
+        }
+    },
+    "Versatility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great for non-star related photography. Great for macro and distance photography.",
+            "entity_b": "Good for portraits and macro photography."
+        }
+    },
+    "Focus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Focus hunts and can be problematic.",
+            "entity_b": "Focus can hunt at close range on non-contrasty subjects. Focuses slowly but sharp for close-up portraits."
+        }
+    },
+    "Performance": {
+        "comm": "Great performance.",
+        "cont": {
+            "entity_a": "Lens takes excellent pictures even at full telephoto.",
+            "entity_b": "Extremely pleased with lens performance."
+        }
+    },
+    "Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good for beginners due to price and features.",
+            "entity_b": "Great performance expected from Canon L series."
+        }
+    }
+}

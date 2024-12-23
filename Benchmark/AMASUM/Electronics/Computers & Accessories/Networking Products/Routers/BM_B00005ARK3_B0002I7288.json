@@ -1,0 +1,86 @@
+{
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Linksys system worked well initially but required frequent reboots by disconnecting from the power source. Frequent resets needed due to router shutdowns. Router works well with Comcast internet connection after firmware upgrade. Router works well but requires firmware downgrade for stability. Router is outdated and lacks modern features.",
+            "entity_b": "Router experiences frequent VPN disconnections. Router is stable and reliable for small businesses. Router is considered outdated but reliable for basic functions."
+        }
+    },
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The advertised range of 300ft is questionable; signal quality is poor at about 80 feet. Signal strength decreases significantly beyond 50 feet. Signal reception is good within 40 feet. Poor wireless reception unless within 15-20 feet of the router. Router provides good wireless signal within a 1000 sq ft area. Signal strength is inconsistent beyond 30 feet. Signal strength is excellent within the house.",
+            "entity_b": ""
+        }
+    },
+    "Setup": {
+        "comm": "Setup is easy.",
+        "cont": {
+            "entity_a": "Setup was easy, and support was good. Installation was quick and straightforward with the provided software. Easy installation, but documentation lacks clarity.",
+            "entity_b": "Easy to configure and suitable for smaller installations (<250 users). Router is easy to install and configure. Router is easy to set up and configure for VPN and networking."
+        }
+    },
+    "Documentation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The user guide is incomplete and only covers Win 98 & ME, with no instructions for NT or 2000. Documentation lacks clarity.",
+            "entity_b": "VPN setup documentation is lacking."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatibility issues with Windows 2000, resulting in 'Network Cable Unplugged' messages. Limited support for Mac users.",
+            "entity_b": "Router is not compatible with outdated VPN software."
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Firmware update is necessary for optimal performance. Firmware upgrades are Windows executables only. Issues with sustaining TCP connections without firmware upgrade.",
+            "entity_b": "Firmware update released in June 2013."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Support was good.",
+            "entity_b": "Ciscos' support is criticized as ineffective."
+        }
+    },
+    "Firewall": {
+        "comm": "Good firewall protection.",
+        "cont": {
+            "entity_a": "Router provides basic firewall protection.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router provides excellent signal within a small area.",
+            "entity_b": "Router is not wireless and requires an additional device for WiFi."
+        }
+    },
+    "VPN": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router is not compatible with outdated VPN software. VPN feature is robust, but setup can be challenging. Router supports site-to-site VPN and is reasonably priced."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Device does not support more than one IPSec pass-through session. Router does not support static DHCP.",
+            "entity_b": "Router cannot redirect an incoming connection on port 'X' to port 'Y'. Load balancing does not work with secure connections. Router has dual WAN capability but struggles with smooth failover. Router has issues with VOIP systems, randomly closing ports."
+        }
+    },
+    "Temperature": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router gets hot and requires proper ventilation."
+        }
+    }
+}

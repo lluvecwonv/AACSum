@@ -1,0 +1,100 @@
+{
+    "Packaging": {
+        "comm": "",
+        "cont": {
+            "entity_a": "All items were safely secured and packed.",
+            "entity_b": ""
+        }
+    },
+    "Setup": {
+        "comm": "Setup is easy.",
+        "cont": {
+            "entity_a": "Setup is very easy, but the system would be better if it included a Blu-ray player.",
+            "entity_b": "Setup is easy with color-coded wires."
+        }
+    },
+    "Customer Service": {
+        "comm": "Bose customer service is helpful.",
+        "cont": {
+            "entity_a": "Friendly and helpful, quickly resolving issues with the CD/DVD player and remote.",
+            "entity_b": "Supportive."
+        }
+    },
+    "Components": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some parts were missing upon arrival, but they were replaced promptly.",
+            "entity_b": "The system requires a receiver to connect to the television. The system requires a receiver and does not include wireless speakers."
+        }
+    },
+    "Remote": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The remote and media center had issues, which were not resolved even after replacements.",
+            "entity_b": ""
+        }
+    },
+    "Sound": {
+        "comm": "The sound system is great for a medium-sized room.",
+        "cont": {
+            "entity_a": "Delivers strong sound.",
+            "entity_b": "The sound system is considered a good bargain for its quality. The front left speaker had issues, but the overall sound is great. The system is suitable for average-sized rooms, providing great sound."
+        }
+    },
+    "Disc Reading": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The system has frequent issues with reading discs, often displaying 'Format Unsupported' errors.",
+            "entity_b": ""
+        }
+    },
+    "Audio Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The audio quality is disappointing, and the system is overpriced compared to other options.",
+            "entity_b": "Sound quality is good but not significantly better than the TV's original sound. The sound quality is crisp and clear, with long cables provided for installation. Sound quality is very good, offering a theater-like experience."
+        }
+    },
+    "Playback": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The system frequently locks up during DVD playback, making it unreliable.",
+            "entity_b": ""
+        }
+    },
+    "Bass": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The bass quality is poor, and the system is not recommended for music.",
+            "entity_b": "The subwoofer is barely audible despite its large size. The subwoofer provides impressive bass, and the system offers surround sound flexibility. The subwoofer is large, which may be an issue for some users. Subwoofer was defective, and satellite speakers lacked quality."
+        }
+    },
+    "Display": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The display on the unit is faulty, showing random pixels and failing to turn off properly.",
+            "entity_b": ""
+        }
+    },
+    "Brand": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The Bose name suggests quality, but the system's performance is lacking.",
+            "entity_b": ""
+        }
+    },
+    "Room Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The sound system is great for a medium-sized room.",
+            "entity_b": "The system is not designed for large rooms but works well in smaller spaces."
+        }
+    },
+    "Video Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The system is not capable of playing HD or Blu-ray DVDs and only supports 480p/480i.",
+            "entity_b": ""
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Performs well with unbelievable battery life. Good precision and easy navigation. The mouse is more sensitive than previous versions, requiring adjustment.",
+            "entity_b": "Fast tracking with adjustable sensitivity. Extremely responsive with a 2000dpi engine. High precision suitable for vector drawing apps."
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comfortable and easy to use. Comfortable design and fits well in hand. Comfortable for ambidextrous use. Comfortable design, but may be too large for small hands.",
+            "entity_b": "Perfect ergonomics and high-quality build. The mouse is accurate and comfortable for work. Large size may not be suitable for small hands."
+        }
+    },
+    "Installation": {
+        "comm": "Installation is straightforward and simple.",
+        "cont": {
+            "entity_a": "Instant connection with no software installation required.",
+            "entity_b": "Software installation is optional for customization."
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "USB adapter stores in the mouse to prevent loss. Receiver is large, affecting portability. Large receiver is impractical for portability.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Decent price at $19.99.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Syncs with the Laser 6000 base.",
+            "entity_b": ""
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not too heavy, providing a quality feel. When the battery is installed, it feels slightly unbalanced.",
+            "entity_b": "Nice weight with discs in and does not glow in the dark. Weight customization aids precision. Adjustable weights help in controlling the mouse. Interchangeable weights for customization."
+        }
+    },
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Signal range is limited, stated up to 6 feet but effective up to 2 feet. Signal strength issues and low battery warnings despite proximity to the receiver. Signal strength issues and battery life concerns.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comfortable design and fits well in hand. The receiver is almost as large as the mouse.",
+            "entity_b": "Good design with durable materials. The weight cartridge is not very secure."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Button functionality may not match user expectations. The computer could not automatically sleep as set up. Scroll wheel issues affecting functionality. Stopped working after less than 2 months. Sensor accuracy issues.",
+            "entity_b": "Has 10 button equivalents, useful for gaming. Tracks well with good speed and programmable buttons. Switchable dpi settings for quick or slow use. Works well for gaming and everyday computing. Scroll wheel is choppy. Lack of buttons for gaming use. Erratic behavior and freezing issues after a few months. Jerky movements make precise navigation difficult."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The mouse is durable and reliable.",
+            "entity_b": "Reliable for gaming with a quality build. Consistent performance over many years. Solid build and works on any surface."
+        }
+    },
+    "Usability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Works well on any surface, compact yet comfortable. Laser feature requires a mouse pad for optimal use.",
+            "entity_b": "Pads on the bottom are hard plastic and slide well."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Performs well with unbelievable battery life. Signal strength issues and low battery warnings despite proximity to the receiver. Signal strength issues and battery life concerns.",
+            "entity_b": ""
+        }
+    },
+    "Magnification": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Has a magnification feature that is useful for those with vision problems. Magnifier button is appreciated.",
+            "entity_b": ""
+        }
+    },
+    "Cord": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The device requires a large transceiver with a wire.",
+            "entity_b": "Nylon-wrapped cord prevents twisting and breaking. Cord is long and durable."
+        }
+    }
+}

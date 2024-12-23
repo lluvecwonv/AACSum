@@ -1,0 +1,114 @@
+{
+    "Airflow": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires a big compressor with a high continuous airflow to run.",
+            "entity_b": "Efficient on air consumption when pressure is dialed back."
+        }
+    },
+    "Build": {
+        "comm": "Well built.",
+        "cont": {
+            "entity_a": "Issues with condensation build-up causing the sander to cease up.",
+            "entity_b": "Of excellent quality for the money."
+        }
+    },
+    "Cutting": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cuts through wood filler with no issues and leaves professional-like results.",
+            "entity_b": "Cuts and strips bumpers and hoods quickly."
+        }
+    },
+    "Suitability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not suitable for a body shop.",
+            "entity_b": ""
+        }
+    },
+    "Comparison": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Works much quicker than a Festool random orbit sander.",
+            "entity_b": ""
+        }
+    },
+    "Dust Management": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No way to attach a vacuum, so a fan is used to blow dust away.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "Smooth and powerful.",
+        "cont": {
+            "entity_a": "A joy to use on large areas.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "Excellent price for this type of tool.",
+        "cont": {
+            "entity_a": "Great value and works better than expected.",
+            "entity_b": ""
+        }
+    },
+    "Compressor Requirement": {
+        "comm": "Requires a large compressor.",
+        "cont": {
+            "entity_a": "Needs an 80 gallon or larger compressor to run for long periods.",
+            "entity_b": "For big jobs."
+        }
+    },
+    "Tool Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not as good quality as 15 years ago, but still very good for the price.",
+            "entity_b": "Good quality DA sander but slows down with pressure."
+        }
+    },
+    "Power": {
+        "comm": "Plenty of power.",
+        "cont": {
+            "entity_a": "Very satisfying to use.",
+            "entity_b": "Saves time."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Gear drive has some power and lasts long if taken care of.",
+            "entity_b": "Failed after 20 hours of use, but worked well while operational."
+        }
+    },
+    "Ease of Use": {
+        "comm": "Easy to use.",
+        "cont": {
+            "entity_a": "Works excellently for fiberglass refinishing projects.",
+            "entity_b": "Great ergonomic handle, easy to hold, and versatile."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Older design but works flawlessly."
+        }
+    },
+    "Handle": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Heavy and somewhat difficult to operate handle."
+        }
+    },
+    "Appearance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Appearance is generic and lacks rubber on the lever."
+        }
+    }
+}

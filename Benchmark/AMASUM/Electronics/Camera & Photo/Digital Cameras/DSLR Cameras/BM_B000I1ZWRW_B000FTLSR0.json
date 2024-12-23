@@ -1,0 +1,86 @@
+{
+    "Suitability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Perfect starter choice for beginners.",
+            "entity_b": "Great value for an entry-level DSLR."
+        }
+    },
+    "Lens": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lens that came with it is very nice. Needed an image-stabilization lens for low-light shots. Came with a 15-58 mm lens, two battery packs, and a charger. Replaced lens with a better quality 18-55mm IS lens. Compatible with existing Canon lenses. Compatible with Tamron, Sigma, and Konica lenses. Compatible with a range of Canon lenses and accessories.",
+            "entity_b": "Built-in anti-shake feature is superior to expensive anti-shake lenses. Compatible with older K lenses. Backwards compatibility with all Pentax lenses. Shake reduction built-in works with all K-mount lenses. Compatible with a wide range of Pentax lenses. Optical quality of Pentax lenses is legendary. Compatible with old Pentax lenses and filters."
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Quality is quite good for an old model DSLR. Takes excellent high-res digital photos. Great quality for hobbyists and semi-pros. Takes truly outstanding photographs with good quality lenses. High-quality photographs and easy to use. Solid Canon quality at a reasonable price.",
+            "entity_b": "Durable and takes beautiful pictures. High-quality construction. Great image quality and fast shutter speed. Good color fidelity and low light performance. Easy to use with good construction quality."
+        }
+    },
+    "Construction": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Metal pins for the Cfast memory card were slightly bent and hard to align. Well constructed and survived minor drops. Durable body and user-friendly settings.",
+            "entity_b": "High-quality construction. Durable and takes beautiful pictures."
+        }
+    },
+    "Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Upgraded CMOS sensor and added features. Larger LCD display is beneficial for users with reduced near vision. Quick change on point of focus and larger LCD viewer. Can only view through the eyepiece before photographing. Large LCD displays all settings before exposure. Easy to change between auto and manual focus. Great SLR camera with intuitive interface and controls.",
+            "entity_b": "Small enough to travel with and offers more control than digital devices. Built-in anti-shake feature is superior to expensive anti-shake lenses. Shake reduction feature is very helpful. Shake reduction built-in works with all K-mount lenses. Image stabilization feature is impressive."
+        }
+    },
+    "Ease of Use": {
+        "comm": "Easy to use.",
+        "cont": {
+            "entity_a": "Reliable and easy to figure out with plenty of functions. Controls are easy to access and understand. Easy to understand manual and basic functions.",
+            "entity_b": "Easy transition from point-and-shoot cameras. User-friendly with a variety of shooting modes."
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Smaller and lighter than previous EOS 300D Digital Rebel body. Lightweight and compact compared to larger models.",
+            "entity_b": "Small enough to travel with and offers more control than digital devices."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rechargeable battery included.",
+            "entity_b": "AA battery solution works well with Sanyo eneloop rechargeables. Battery life issues with some NiMH batteries."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great camera for the money. Good balance between price and quality of output. Solid Canon quality at a reasonable price.",
+            "entity_b": "Comparable features to Nikon and Canon at a fraction of the cost. Affordable and offers good picture quality."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with existing Canon lenses. Compatible with Tamron, Sigma, and Konica lenses. Compatible with a range of Canon lenses and accessories.",
+            "entity_b": "Compatible with older K lenses. Backwards compatibility with all Pentax lenses. Compatible with a wide range of Pentax lenses. Compatible with old Pentax lenses and filters."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Least digital noise in higher ISO settings. Great flexibility and fast focus. Quick startup time and small shutter lag.",
+            "entity_b": "Great image quality and fast shutter speed. Good color fidelity and low light performance."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Camera almost never takes pictures; displays 'busy' or flash malfunctions.",
+            "entity_b": "Shutter is loud and LCD screen display can go dark prematurely. Auto-focus is generally reliable."
+        }
+    }
+}

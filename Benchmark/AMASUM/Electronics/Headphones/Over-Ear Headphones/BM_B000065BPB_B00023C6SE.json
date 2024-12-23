@@ -1,0 +1,65 @@
+{
+    "Sound": {
+        "comm": "Sound quality is not exceptional.",
+        "cont": {
+            "entity_a": "Sound reproduction is excellent for the price. The sound is good, with a flat EQ response. Sound quality is great.",
+            "entity_b": "Sound quality is better than TV speakers. Setup is easy with good sound quality."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Right side speaker stopped working after five months of use. The headphones are not durable, with multiple reports of one side failing. Pads are prone to deteriorating quickly. The headphones are not suitable for studio use due to poor construction.",
+            "entity_b": "The Ni-MH batteries cannot be recharged after a short time."
+        }
+    },
+    "Comfort": {
+        "comm": "The headphones are comfortable.",
+        "cont": {
+            "entity_a": "Headphones are uncomfortable due to clamping force and weight. Headphones have a strong clamping force, which can be uncomfortable. Headphones are lightweight and fit well.",
+            "entity_b": "The headphones are loose on the head."
+        }
+    },
+    "Cord": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cord is heavy and awkward to manage. The cord is heavy and coiled, which can be cumbersome.",
+            "entity_b": ""
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The headphones provide excellent noise isolation. The headphones block external noise effectively. The headphones have a good noise attenuation. The headphones are sturdy with excellent noise canceling.",
+            "entity_b": "The headphones are good for apartments due to low noise leakage. Background hiss and static are present. Background hiss is significant due to a cheap amp."
+        }
+    },
+    "Bass": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Bass and treble are well-balanced. Bass response is good but not overwhelming.",
+            "entity_b": ""
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Battery life is excellent. The charging process is tricky and frustrating."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Volume control is difficult to use. Short range from the base causes signal drop. The headphones are not easy to use, with limited range."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The surround experience is good with Dolby 5.1. The headphones are ideal for use with a PS3 using optical output."
+        }
+    }
+}

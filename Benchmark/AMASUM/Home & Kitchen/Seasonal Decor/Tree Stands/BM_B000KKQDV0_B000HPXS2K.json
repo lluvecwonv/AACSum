@@ -1,0 +1,100 @@
+{
+    "Durability": {
+        "comm": "The stand is durable and expected to last for years.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The stand is built to last and has a limited lifetime warranty. The stand is well constructed and should last for years. The stand is heavy-duty and expected to last a lifetime."
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The stand is very heavy and requires assistance to move.",
+            "entity_b": "The stand is substantial and sturdy."
+        }
+    },
+    "WaterCapacity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The stand holds a lot of water.",
+            "entity_b": "It has a large water reservoir. The water basin is large, reducing the need for frequent watering."
+        }
+    },
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "It is made of metal, with no plastic parts."
+        }
+    },
+    "Base": {
+        "comm": "",
+        "cont": {
+            "entity_a": "It is difficult to remove sand from the base.",
+            "entity_b": "The base is wide and the feet are covered to prevent floor scratches."
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The size description may be misleading; a larger size is recommended for trees over 7 feet.",
+            "entity_b": "The large size is recommended for trees over 7 feet."
+        }
+    },
+    "EaseOfUse": {
+        "comm": "The stand is easy to use.",
+        "cont": {
+            "entity_a": "The foot locking mechanism is easy to use.",
+            "entity_b": "The stand is easy to water. It is easy to set up and requires minimal adjustments. The stand is easy to use and requires no extra securing."
+        }
+    },
+    "Stability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The tree was easy to set up but fell over after the pump flipped.",
+            "entity_b": "The stand holds trees up to 10 feet with ease. The stand is durable and stable, even with large trees."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The stand incorporates a simple design with a foot pedal for easy use.",
+            "entity_b": ""
+        }
+    },
+    "Instructions": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Instructions are illustrations only, lacking text.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The stand is expensive but considered worth the investment.",
+            "entity_b": ""
+        }
+    },
+    "Cleaning": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The stand is difficult to clean and empty water from.",
+            "entity_b": ""
+        }
+    },
+    "WaterLevelIndicator": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The water level indicator is useful. The water level float does not work well.",
+            "entity_b": ""
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The gear on the stand sounds damaged.",
+            "entity_b": ""
+        }
+    }
+}

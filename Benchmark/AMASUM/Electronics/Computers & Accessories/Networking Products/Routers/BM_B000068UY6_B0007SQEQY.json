@@ -1,0 +1,121 @@
+{
+    "Speed": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Dramatic increase in wireless speed compared to Linksys. 22 Mbps mode performs similarly to 11 Mbps. Failed to achieve promised 22 Mbps speed.",
+            "entity_b": ""
+        }
+    },
+    "Encryption": {
+        "comm": "",
+        "cont": {
+            "entity_a": "256-bit WEP encryption is appreciated.",
+            "entity_b": "WPA configuration took a minute."
+        }
+    },
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "SSID cannot be turned off without connectivity issues. Requires daily reboot to reset wireless connection. PPPOE logon issues with Earthlink. Failed to connect to DSL with dynamic PPPOE. Wireless portion does not pass AppleTalk packets. Inconsistent performance with VPN connections.",
+            "entity_b": "Issues with DNS passthrough. Requires daily reboot. Did not work in shared mode."
+        }
+    },
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Full signal strength throughout the house. Range concerns unfounded; works well in the house. Good range, but signals weaken through walls. Good range and signal strength. Good range and signal strength with Orinoco Gold card.",
+            "entity_b": "Signal strength reduces with walls in between."
+        }
+    },
+    "Firewall": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Advanced firewall configuration, including time-based port opening.",
+            "entity_b": ""
+        }
+    },
+    "Setup": {
+        "comm": "Easy to set up.",
+        "cont": {
+            "entity_a": "Initial setup was challenging; couldn't view networked computers. Setup pages are cryptic but usable. Easy to install and configure. Easy installation and configuration. Setup is easy and reliable with firmware upgrades. Setup easy; good wireless coverage in a small apartment. Setup straightforward; wireless speeds are satisfactory.",
+            "entity_b": "Setup easy but did not work in shared mode. Easy to set up and use for creating a hot spot. Setup can be difficult without IT knowledge."
+        }
+    },
+    "DHCP": {
+        "comm": "",
+        "cont": {
+            "entity_a": "DHCP server failed after five months.",
+            "entity_b": ""
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Firmware and drivers not well optimized. Firmware upgrade recommended before connecting to the modem. Firmware updates can erase configuration settings. Performance issues resolved with firmware upgrade. Firmware updates improve performance. Firmware updates improve range and performance. Issues with wireless performance after firmware upgrade.",
+            "entity_b": ""
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Tech support lacks Mac knowledge. Customer service has long wait times and poor solutions.",
+            "entity_b": ""
+        }
+    },
+    "Temperature": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router gets hot; ensure good airflow.",
+            "entity_b": ""
+        }
+    },
+    "Stability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wireless portion freezes frequently. Router's wireless portion has been stable for two weeks.",
+            "entity_b": "Stopped working after four months; warranty expired."
+        }
+    },
+    "Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Feature-rich for a low price. Router is inexpensive with robust features. Security features include 256-bit WEP and MAC filtering. Security features robust for home use.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some compatibility issues with certain wireless cards.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good web-based interface and quality. Router works fine for sharing internet connection. Wireless portion performs poorly with data transfer.",
+            "entity_b": "Good performance but setup can be difficult without IT knowledge."
+        }
+    },
+    "Connection": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Only needed to reboot a couple of times in four months.",
+            "entity_b": "Works well with cable internet connection."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router easy to configure and reliable. Easy setup and reliable performance.",
+            "entity_b": ""
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Received a broken piece."
+        }
+    }
+}

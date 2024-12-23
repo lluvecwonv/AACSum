@@ -1,0 +1,79 @@
+{
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Unable to connect to the internet despite multiple replacements.",
+            "entity_b": "Wireless security causes connectivity issues; open network works better. Connectivity is unreliable."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service is unresponsive.",
+            "entity_b": "Technical support is unhelpful and does not provide solutions."
+        }
+    },
+    "Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Advanced features like VPN and remote access are available but difficult to set up. Frequent crashes and unreliable VPN feature.",
+            "entity_b": ""
+        }
+    },
+    "Maintenance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires constant supervision to restart.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Routing functionality is average.",
+            "entity_b": "Sound quality is good when working."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "G-Only mode does not work; mixed mode works only at 11Mbps unless forced to G mode.",
+            "entity_b": "Not compatible with Windows Vista or newer operating systems. Device works well with XP but not with newer systems. Product has compatibility issues with certain routers and systems."
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Firmware updates have been problematic, particularly affecting wireless functionality.",
+            "entity_b": ""
+        }
+    },
+    "Setup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Setup requires IT knowledge; not suitable for beginners.",
+            "entity_b": "Setup is difficult, especially with Vista, requiring technical support."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Support is poor and troubleshooting is time-consuming.",
+            "entity_b": ""
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Hardware is generally reliable, but software and support issues persist.",
+            "entity_b": "Software is outdated and poorly designed, causing operational issues."
+        }
+    },
+    "Instructions": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Installation instructions are inadequate, causing frustration."
+        }
+    }
+}

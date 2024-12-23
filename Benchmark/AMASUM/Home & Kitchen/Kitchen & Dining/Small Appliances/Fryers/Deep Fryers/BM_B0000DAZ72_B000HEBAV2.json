@@ -1,0 +1,65 @@
+{
+    "Safety": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The divider melted during use, causing concerns about safety and quality.",
+            "entity_b": "Safe to use without grease splatter. Inner grease pan has sharp edges, posing a safety risk. Oil basket has dangerous sharp edges."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Presto required multiple communications and photos before offering to replace the melted part.",
+            "entity_b": ""
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The fryer is a nice size for a family, capable of cooking side items or large items. Larger capacity than the standard Fry Daddy, can fry a complete chicken in two sessions. Larger size is great for trying larger pieces of food. Large size fits a lot of food, but the small heating element struggles with large capacities. Good for cooking large portions.",
+            "entity_b": "Requires a lot of oil due to large size. Requires over a gallon of oil."
+        }
+    },
+    "Cooking": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Frying egg rolls, okra, and other vegetables has worked well. The Dual Daddy model allows frying of different foods simultaneously. Heats up in 15-20 minutes, reaching the desired temperature for cooking. Crisp and well-cooked crinkle-cut fries and chicken tenders. Can cook two different items simultaneously using the divider.",
+            "entity_b": "Works well for frying chicken and fries, providing a good crisp without smoke or smell. Heats to 375 degrees in 14 minutes, but lacks an audible alarm for temperature readiness. Dual baskets allow cooking different items simultaneously."
+        }
+    },
+    "Temperature": {
+        "comm": "Heats quickly and maintains temperature well.",
+        "cont": {
+            "entity_a": "No need to adjust temperature, just plug in and wait. Lacks temperature control, which can lead to overheating.",
+            "entity_b": "Temperature accuracy issues after the first use. Temperature control knob is not very accurate. Temperature drops quickly when frying multiple items."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The electrical plug connection is not impressive and may require adjustments. The inside finish is better than older models. Notable design flaw with the lid melting if left on during use. The lid does not stay on securely. Lacks a basket, making it difficult to scoop out food or clean. The magnetic power cord can be inconvenient.",
+            "entity_b": "Handles on baskets detach easily, causing inconvenience. Convenient and easy to use but outer shell is flimsy and can get hot. Handles are thin and may not be durable. Basket handles could be sturdier. Magnetic power cord can detach easily."
+        }
+    },
+    "Ease of Use": {
+        "comm": "Easy to clean.",
+        "cont": {
+            "entity_a": "Cleaning is cumbersome and requires hand washing. Good quality and easy to use. The fryer is simple, just fill with oil and plug in.",
+            "entity_b": "Keeps up well for small parties and easy to clean. Easy to clean and store."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Sturdy construction and maintains temperature well."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Lacks a timer feature."
+        }
+    }
+}

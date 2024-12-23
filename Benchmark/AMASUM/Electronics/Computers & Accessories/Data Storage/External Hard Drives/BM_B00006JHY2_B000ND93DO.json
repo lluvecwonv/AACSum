@@ -1,0 +1,100 @@
+{
+    "Data Transfer": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Efficient in transferring data from old drives to current storage technology.",
+            "entity_b": "Effective for retrieving data from old disks."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Affordable compared to external zip disk drives priced between $80-$200.",
+            "entity_b": ""
+        }
+    },
+    "Condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Arrived in excellent condition.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Records files quickly. Fast and dependable with no disc failures.",
+            "entity_b": "eSATA connection is extremely fast. Easy to install with a small footprint and excellent performance. Quiet and efficient. Boosts DirecTV's HR20-700 DVR capacity significantly. Triples original recording capacity on DirecTV DVR."
+        }
+    },
+    "Documentation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Documentation is inadequate.",
+            "entity_b": ""
+        }
+    },
+    "Backup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Provides automatic backup of key files.",
+            "entity_b": ""
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No special software required for use.",
+            "entity_b": "Firmware updates available to address some issues."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with Windows 7.",
+            "entity_b": ""
+        }
+    },
+    "USB": {
+        "comm": "",
+        "cont": {
+            "entity_a": "USB cord is preferred for quick data retrieval.",
+            "entity_b": "USB interface works well, but eSATA interface causes system lockups."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No longer has web support from Iomega.",
+            "entity_b": "Seagate support offers replacements but with refurbished units."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Looks great and is reliable. Interchangeable design for spare parts. Orange glow is noticeable."
+        }
+    },
+    "Temperature": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Runs very hot and can cause system issues."
+        }
+    },
+    "Issues": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Received a used product instead of a new one, leading to dissatisfaction.",
+            "entity_b": "Temperamental and prone to freezing. Insufficient power supply leads to failures. Issues with stock availability from Amazon."
+        }
+    },
+    "Cable": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "eSATA cable not included."
+        }
+    }
+}

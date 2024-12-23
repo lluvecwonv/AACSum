@@ -1,0 +1,65 @@
+{
+    "Durability": {
+        "comm": "Durable.",
+        "cont": {
+            "entity_a": "Despite frequent drops and cosmetic damage.",
+            "entity_b": ""
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Mouse battery life is approximately two weeks. Keyboard still functions well with a battery life of about six months. Batteries deplete faster if devices are not switched off. Good battery life.",
+            "entity_b": "Battery life for mouse is short; rechargeable batteries recommended. Wireless setup offers good range and battery life."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with Android 4 tablet and Windows 7 64-bit. Compatible with Windows MediaCenter 2005.",
+            "entity_b": "Works well with Vista without downloading drivers from the disk. Installation was quick and simple, compatible at BIOS level."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Bluetooth adapter lacks support for audio devices, limited to keyboard and mouse use. Works well for operating a PC connected to a TV, with excellent range and ease of use. Range exceeds 30 feet, easy setup, includes a mouse recharging cradle. Lag occurs from first keypress or mouse movement after power-on. Bluetooth keyboard with touchpad is suitable for lap use.",
+            "entity_b": "Seamless switching between multiple PCs with KVM. Software allows extensive customization of keys. Keyboard features extra programmable keys and a clock/timer. Keyboard has a dynamic zoom bar that is finicky."
+        }
+    },
+    "Design": {
+        "comm": "Stylish design.",
+        "cont": {
+            "entity_a": "Lacks a number pad, touch-sensitive function keys are overly sensitive. Design lacks ergonomic features, not ideal for extended typing sessions.",
+            "entity_b": "Comfortable design. Mouse is not ideal for left-hand use due to design."
+        }
+    },
+    "Keyboard": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Low profile and not suitable for heavy typing due to minimal key travel and touch-sensitive keys.",
+            "entity_b": "Keyboards have a soft touch and quiet keys."
+        }
+    },
+    "Mouse": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Stopped working after three years, potentially due to being dropped. Lightweight and responsive.",
+            "entity_b": "Works on most surfaces but could be larger for comfort. Mouse rubber wears off with use."
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Installation may require multiple attempts due to software issues."
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Overall, comfortable and stylish with more features than needed."
+        }
+    }
+}

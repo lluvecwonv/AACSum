@@ -1,0 +1,72 @@
+{
+    "location": {
+        "comm": "The hotel is located in the city center, making it convenient for trips into the city.",
+        "cont": {
+            "entity_a": "The hotel is located right next to a canal, making it ideal for those wanting to explore the area, with many main attractions within walking distance.",
+            "entity_b": "The hotel is perfectly situated for easy access to the main city, with the tram line and train station nearby."
+        }
+    },
+    "staff": {
+        "comm": "The staff are helpful and friendly.",
+        "cont": {
+            "entity_a": "Many guests describe them as compassionate and amiable.",
+            "entity_b": "While some staff members were helpful and amiable, there were instances of unfriendly service, with tasks being left unfinished."
+        }
+    },
+    "room": {
+        "comm": "The rooms are clean and well-furnished.",
+        "cont": {
+            "entity_a": "The rooms can be small with limited bed sizes; it is advisable to book a larger room to avoid this issue.",
+            "entity_b": "The rooms are large and comfortable, offering complimentary Wi-Fi; however, some rooms feature an open toilet design that may be an issue for guests sharing the space."
+        }
+    },
+    "food": {
+        "comm": "The hotel provides a breakfast.",
+        "cont": {
+            "entity_a": "It is a complimentary continental breakfast with a varied selection of foods, including hot drinks available at all times, although it is not a buffet style.",
+            "entity_b": "The restaurant at the hotel serves reasonable food, though it can be quite expensive, particularly the wines by the glass."
+        }
+    },
+    "value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The price of staying at this hotel is reasonable, especially considering its great style and central location.",
+            "entity_b": ""
+        }
+    },
+    "facility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "guests should be aware of the steep stairs, which can make navigating with heavy luggage challenging.",
+            "entity_b": ""
+        }
+    },
+    "policy": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The hotel is gay-friendly, but some guests noted the presence of homosexual pornographic materials left out in public areas.",
+            "entity_b": ""
+        }
+    },
+    "cleanliness": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "the rooms were not very clean, with reports of dirtiness being a significant concern."
+        }
+    },
+    "building condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The hotel is located in a historical building, which gives it character, but it also means that the walls and floors are damaged, detracting from the overall experience."
+        }
+    },
+    "security": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "there were reports of thievery from locked luggage."
+        }
+    }
+}

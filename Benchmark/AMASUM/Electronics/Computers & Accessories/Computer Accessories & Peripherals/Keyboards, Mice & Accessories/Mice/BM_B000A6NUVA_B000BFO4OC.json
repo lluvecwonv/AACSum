@@ -1,0 +1,121 @@
+{
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not compatible with Windows 7 or 8.",
+            "entity_b": ""
+        }
+    },
+    "Feature": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The magnifier feature does not work.",
+            "entity_b": ""
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Very good quality, with a nice size fitting in the palm of the hand.",
+            "entity_b": "The mouse is top-notch with programmable choices."
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Range is limited, but not a problem for laptop use.",
+            "entity_b": "Cursor reacts slowly if the transmitter is too far from the mouse."
+        }
+    },
+    "Buttons": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Buttons are easy to push and the scroll wheel is very nice. The buttons are too hard to click.",
+            "entity_b": "Buttons are responsive and well-positioned. Multi-function buttons are nice but not necessary for basic use."
+        }
+    },
+    "Sensor": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Laser sensor works on a number of surfaces with no problem.",
+            "entity_b": "Laser reads movement accurately."
+        }
+    },
+    "Connection": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The mouse connects quickly once the USB adapter is plugged in.",
+            "entity_b": "Wireless receiver works through obstacles like wood desks."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Very good price.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The ambidextrous design is not comfortable for long stretches of time. The mouse is not ergonomic.",
+            "entity_b": "Mouse fits nicely in hand and tracks smoothly and accurately."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Batteries last a long time, using only one AA battery.",
+            "entity_b": "The battery life is long, with easy battery replacement. Shuts off when not in use, extending battery life."
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Installation is easy. Installation requires IntellPoint software for full features.",
+            "entity_b": ""
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compact and convenient for travel. Very portable and can be turned off and on. Receiver design is excellent, allowing for easy portability.",
+            "entity_b": "Mini receiver is compact and clutter-free."
+        }
+    },
+    "Scroll": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Scroll wheel is sticky and clicks are unresponsive after a few months. Smooth middle button rolling.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Precise and works under most surfaces. The wireless feature is great, but it has a short range. Mouse is very functional and precise.",
+            "entity_b": "The mouse is precise, especially for gaming. Customizable buttons for different applications. Great for CAD and other design applications."
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The mouse feels comfortable but is small for large hands.",
+            "entity_b": "Comfortable to use."
+        }
+    },
+    "Surface": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The mouse works well without a special pad.",
+            "entity_b": "The mouse works well on any surface."
+        }
+    },
+    "Volume": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Volume button is awkward to use frequently."
+        }
+    }
+}

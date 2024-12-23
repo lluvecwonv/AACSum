@@ -1,0 +1,128 @@
+{
+    "Lens": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Fantastic macro lens for Canon shooters.",
+            "entity_b": "Not a professional lens but suitable for amateur use."
+        }
+    },
+    "Sharpness": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Very sharp lens with excellent performance.",
+            "entity_b": "Slightly soft at 28mm, sharper from 50mm-80mm."
+        }
+    },
+    "Stabilization": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lacks image stabilization, making handheld macro shots challenging.",
+            "entity_b": ""
+        }
+    },
+    "Focus": {
+        "comm": "Autofocus is a bit slow.",
+        "cont": {
+            "entity_a": "Manual focus recommended for macro due to autofocus hunting.",
+            "entity_b": "Fast autofocus."
+        }
+    },
+    "Bokeh": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Bokeh is excellent when using a tripod.",
+            "entity_b": ""
+        }
+    },
+    "Distance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Allows shooting from half a meter away to avoid frightening subjects.",
+            "entity_b": ""
+        }
+    },
+    "Build": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Solid build quality and delivers amazing results.",
+            "entity_b": "Plastic build but looks good on camera."
+        }
+    },
+    "Lighting": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires a macro flash or full sunlight due to F32 aperture limitations.",
+            "entity_b": ""
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Extremely heavy, making handheld use difficult.",
+            "entity_b": ""
+        }
+    },
+    "Comparison": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Outperforms the Canon 100mm macro lens in close-ups.",
+            "entity_b": ""
+        }
+    },
+    "Versatility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great for both macro and outdoor portraits.",
+            "entity_b": "Good for portraits, landscapes, and general use."
+        }
+    },
+    "Color": {
+        "comm": "Excellent color reproduction.",
+        "cont": {
+            "entity_a": "Sharpness, saturation, color accuracy, and contrast are excellent.",
+            "entity_b": "Without tint."
+        }
+    },
+    "Clarity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Provides great clarity and background blur.",
+            "entity_b": ""
+        }
+    },
+    "Drawbacks": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Heavy and slow focusing are drawbacks.",
+            "entity_b": "Not suitable for professional-quality photos."
+        }
+    },
+    "Value": {
+        "comm": "Great value for the price.",
+        "cont": {
+            "entity_a": "Offers excellent value for the price.",
+            "entity_b": "Remarkable price for an all-around lens."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Nice focal range and compact design."
+        }
+    },
+    "Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "A good walk-around lens for outdoor shoots."
+        }
+    },
+    "Aperture": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Best used around f/11 for optimal sharpness."
+        }
+    }
+}

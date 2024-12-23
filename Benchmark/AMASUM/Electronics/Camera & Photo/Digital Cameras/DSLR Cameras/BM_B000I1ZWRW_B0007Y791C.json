@@ -1,0 +1,149 @@
+{
+    "Starter": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Perfect starter choice for beginners.",
+            "entity_b": ""
+        }
+    },
+    "Lens": {
+        "comm": "Works well with a variety of lenses.",
+        "cont": {
+            "entity_a": "The lens that came with it is very nice. Lens compatibility is outstanding. The lens in the kit is okay, but better lenses are recommended.",
+            "entity_b": "Amazing picture quality with the right lenses."
+        }
+    },
+    "Build": {
+        "comm": "Lightweight and durable build.",
+        "cont": {
+            "entity_a": "Smaller and lighter than previous EOS 300D Digital Rebel body, but still well constructed. Sturdy and easy to use, even in extreme weather conditions.",
+            "entity_b": "A little on the heavy side."
+        }
+    },
+    "Condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera and extras were in excellent condition. Preowned but appeared in very good condition.",
+            "entity_b": ""
+        }
+    },
+    "Delivery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Delivered sooner than estimated.",
+            "entity_b": ""
+        }
+    },
+    "Sensor": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Upgraded CMOS sensor and larger LCD display are significant improvements. The sensor failed and it is too expensive to repair.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Solid Canon quality at a reasonable price. Great camera for the money.",
+            "entity_b": "640 dollars for a full frame camera. Price drop made it possible to invest in a second body."
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Least digital noise in higher ISO settings.",
+            "entity_b": ""
+        }
+    },
+    "Focus": {
+        "comm": "Fast focus.",
+        "cont": {
+            "entity_a": "Quick change on point of focus.",
+            "entity_b": ""
+        }
+    },
+    "Ease_of_Use": {
+        "comm": "Very easy to use.",
+        "cont": {
+            "entity_a": "Easy to use and fun to learn all the features. The camera is easy to understand and manual functions are well laid out. Easy menu to follow. Very user-friendly settings.",
+            "entity_b": "Easy to use if familiar with the Canon system."
+        }
+    },
+    "Quality": {
+        "comm": "Great image quality.",
+        "cont": {
+            "entity_a": "Camera is very high quality and takes excellent high-res digital photos. Quality of photos is far superior to previous point-and-shoot camera. Great quality photos.",
+            "entity_b": "Image quality, dynamic range, and color are exceptional. Image quality is excellent. Great image quality and feels professional. Fantastic full frame camera with great picture quality. Great functionality and image quality. Great image quality, especially in low light."
+        }
+    },
+    "Photography_Types": {
+        "comm": "Great for a variety of photography needs.",
+        "cont": {
+            "entity_a": "Great for a variety of photography needs, including low-light conditions. Great for travel due to its lightweight design. Great camera for the hobbyist and semi-pro. Great camera for photography class and personal use.",
+            "entity_b": "Great for street photography and studio portraits. Great for landscapes and portraits. Great all-rounder, shines in landscape photography. Great for shooting weddings and events. Great for shooting a wide variety of subjects. Great for those wanting to explore creative photography."
+        }
+    },
+    "Reliability": {
+        "comm": "Reliable.",
+        "cont": {
+            "entity_a": "Reliable and durable over several years of use.",
+            "entity_b": "Reliable for web content and print advertising."
+        }
+    },
+    "Manual_Controls": {
+        "comm": "Manual controls are easy to access and understand.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": ""
+        }
+    },
+    "Viewfinder": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lacks a preview of shots in a tip-out LCD viewer. Missing a live preview on the screen.",
+            "entity_b": ""
+        }
+    },
+    "Flexibility": {
+        "comm": "Great flexibility.",
+        "cont": {
+            "entity_a": "Excellent camera with great flexibility.",
+            "entity_b": "Very flexible camera for landscapes and portraits."
+        }
+    },
+    "Upgrade": {
+        "comm": "Great for those looking to upgrade.",
+        "cont": {
+            "entity_a": "Great camera for beginners with manual control options.",
+            "entity_b": "Great for someone looking to move up to full frame. Great for those upgrading from a crop sensor. Great camera for those wanting to explore full frame photography."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Camera has a great 'electronic brain' and is easy to use.",
+            "entity_b": "Terrific digital SLR with many features."
+        }
+    },
+    "Compactness": {
+        "comm": "Compact.",
+        "cont": {
+            "entity_a": "Lightweight and compact. Compact size may be challenging for users with large hands.",
+            "entity_b": ""
+        }
+    },
+    "Professional_Use": {
+        "comm": "Great for both amateur and professional photographers.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Great camera for professional use. A great investment for those wanting a professional camera."
+        }
+    },
+    "Failure": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Camera doesn't turn on anymore.",
+            "entity_b": ""
+        }
+    }
+}

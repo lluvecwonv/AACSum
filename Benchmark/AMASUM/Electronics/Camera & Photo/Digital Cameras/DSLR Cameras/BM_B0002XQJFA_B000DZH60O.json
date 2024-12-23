@@ -1,0 +1,121 @@
+{
+    "Lens": {
+        "comm": "Compatible with older lenses.",
+        "cont": {
+            "entity_a": "The lens has spots that appear on pictures over time. Image quality depends highly on the lenses used. Bundled lens is adequate, but the 17-85mm EFS IS lens is recommended for flexibility.",
+            "entity_b": "Compatible with Minolta lenses and flashes. Missing CF card and incompatible USB cable."
+        }
+    },
+    "Usability": {
+        "comm": "Easy to use.",
+        "cont": {
+            "entity_a": "Allows more focus on photography than menus. Easy to use in fully automatic mode. Easy to use and intuitive system controls.",
+            "entity_b": "Relatively easy to use with obvious controls. Easy to operate with excellent results."
+        }
+    },
+    "Battery": {
+        "comm": "Battery life is long.",
+        "cont": {
+            "entity_a": "Battery lasts long, but a second battery is recommended. Battery compartment door catch is flimsy. Battery life is excellent.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "Great for action photos.",
+        "cont": {
+            "entity_a": "Latency is subsecond, allowing for capturing action shots. Rapid shooting feature is effective for action shots. Fast shutter speed and great for action photos. Fast, clear, and accurate in taking photos. Shutter speed is impressive.",
+            "entity_b": "Instantaneous response time. Anti-shake feature is effective. Anti-shake compensates for less effective ISO handling. Anti-shake makes handheld shots sharp."
+        }
+    },
+    "Durability": {
+        "comm": "Durable and reliable.",
+        "cont": {
+            "entity_a": "Dependable and durable, lasting for many years. Durable and reliable over several years of use.",
+            "entity_b": "Discontinued model but still a solid entry-level camera."
+        }
+    },
+    "Image Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Produces great pictures even after almost 10 years. Low noise performance is above average at ISO1600.",
+            "entity_b": "Photos are remarkable with little editing needed. Picture quality not the best, but great for close-ups. Great photos even in low light without flash. Good for beginners, with manual controls and great picture quality."
+        }
+    },
+    "Video": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Does not take video.",
+            "entity_b": ""
+        }
+    },
+    "Controls": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Algorithms in controls are advanced. Switch for turning the camera on is awkwardly placed.",
+            "entity_b": "Lacks a standard sync cord and uses a proprietary hot shoe. Sony-specific flash and remote trigger required."
+        }
+    },
+    "Build": {
+        "comm": "Solid build.",
+        "cont": {
+            "entity_a": "Camera has many features and a solid build. Solid build and great grip.",
+            "entity_b": "High performance in a compact body. Body is light and suitable for beginners."
+        }
+    },
+    "Autofocus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Autofocus is fast and accurate.",
+            "entity_b": ""
+        }
+    },
+    "Resolution": {
+        "comm": "",
+        "cont": {
+            "entity_a": "8 megapixel resolution allows for large prints.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lacks true spot metering and has a loud mirror slap.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Affordable with many second-hand lenses available."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with older Canon lenses.",
+            "entity_b": ""
+        }
+    },
+    "Flash": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Issues with the flash not popping up were resolved after cleaning.",
+            "entity_b": "The shutter speed is slow and the flash range is limited."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Does not support 64-bit operating systems.",
+            "entity_b": ""
+        }
+    },
+    "Use Case": {
+        "comm": "",
+        "cont": {
+            "entity_a": "High-quality and fun to use.",
+            "entity_b": "Great for landscape/nature photography."
+        }
+    }
+}

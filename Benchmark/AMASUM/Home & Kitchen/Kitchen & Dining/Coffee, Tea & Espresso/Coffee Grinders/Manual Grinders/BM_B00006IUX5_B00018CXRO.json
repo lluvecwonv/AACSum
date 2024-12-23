@@ -1,0 +1,149 @@
+{
+    "Motor": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The grinder motors tend to malfunction, resulting in uneven grinds and a whining noise.",
+            "entity_b": ""
+        }
+    },
+    "Switch": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The switch becomes unreliable over time, requiring multiple attempts to activate.",
+            "entity_b": ""
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The unit is quieter than older models.",
+            "entity_b": ""
+        }
+    },
+    "Cord": {
+        "comm": "The cord retracts for easy storage.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": ""
+        }
+    },
+    "Capacity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Holds enough beans for about 32 oz of coffee, suitable for 2-3 people.",
+            "entity_b": "Sufficient capacity for 2-4 people."
+        }
+    },
+    "Grinding": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Effective for grinding flaxseed and oats into powder quickly.",
+            "entity_b": "Produces an even grind suitable for moka pots."
+        }
+    },
+    "Cleaning": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Difficult to clean, but using a bread piece helps remove residues. The stainless steel bowl is easy to wipe clean, and the cap is dishwasher safe.",
+            "entity_b": "The grinder is compact and easy to clean."
+        }
+    },
+    "Button": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The button on the side is easier to use than top-mounted buttons, reducing breakage risk. The plastic button detaches easily but can be reattached without affecting functionality.",
+            "entity_b": ""
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The grinder stopped working after a few uses, but customer service facilitated an easy return.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "The grinder is compact.",
+        "cont": {
+            "entity_a": "Equipped with stainless steel blades.",
+            "entity_b": "Easy to clean."
+        }
+    },
+    "Operation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The grinder is messy to operate, with grinds often spilling out.",
+            "entity_b": "Requires significant manual effort, typical for hand grinders. Manual operation is labor-intensive and time-consuming."
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The grinder has a small capacity, requiring multiple rounds for larger batches.",
+            "entity_b": ""
+        }
+    },
+    "Cord Length": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The electric cord is very short, limiting outlet accessibility.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The small plastic pin for the motor switch is fragile and requires careful handling.",
+            "entity_b": "Plastic threading is weak and prone to cracking. Plastic connection between top and bottom chambers is weak. Plastic connection cracks easily, leading to breakage."
+        }
+    },
+    "Blades": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The grinder's blades become dull over time, leading to inconsistent grinds.",
+            "entity_b": ""
+        }
+    },
+    "Storage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The retractable cord feature is appreciated for its practicality.",
+            "entity_b": ""
+        }
+    },
+    "Plastic": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The plastic grooves holding the base are prone to cracking. Rubber grip slides during use, complicating operation. Plastic connection between top and bottom chambers is weak. Plastic connection cracks easily, leading to breakage."
+        }
+    },
+    "Manual Effort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Requires manual effort, typical of manual grinders. Long handle and large knob facilitate smooth operation. Requires significant manual effort, typical for hand grinders. Manual operation is labor-intensive and time-consuming."
+        }
+    },
+    "Adjustments": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Grind settings require adjustment for desired coarseness. Offers great adjustments for coarse to fine grind. Adjustments for grind type are straightforward."
+        }
+    },
+    "Consistency": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The transparent top allows for easy monitoring of grind consistency.",
+            "entity_b": "Produces consistent grind size. Offers consistent grinds for French press and moka pots."
+        }
+    },
+    "Locking Mechanism": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Locking tabs for the bottom container are prone to breaking."
+        }
+    }
+}

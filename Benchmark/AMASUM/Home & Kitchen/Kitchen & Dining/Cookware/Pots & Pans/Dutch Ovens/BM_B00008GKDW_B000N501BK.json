@@ -1,0 +1,86 @@
+{
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good quality cast iron.",
+            "entity_b": "Issues with quality control and enamel chipping upon arrival."
+        }
+    },
+    "Origin": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The Dutch oven is made in the USA.",
+            "entity_b": "Some products are misrepresented as being made in the USA but are actually made in China."
+        }
+    },
+    "Coating": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The enamel coating can chip and is prone to damage. The enamel non-stick surface is easy to clean. The enamel coating may not withstand high heat, leading to damage. The enamel may stain or chip over time."
+        }
+    },
+    "Cooking": {
+        "comm": "The product is versatile and suitable for a range of cooking methods.",
+        "cont": {
+            "entity_a": "It cooks evenly and is suitable for various dishes like pizza, stew, and breakfast bakes. Ideal for camping and cooking over a campfire. Versatile for various cooking methods, including charcoal and propane burners.",
+            "entity_b": "The product works well on various cooking surfaces. The product is good for baking bread and other dishes."
+        }
+    },
+    "Lid": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lid can be used as a griddle, though it's not flat inside.",
+            "entity_b": "The lid may not fit tightly, causing moisture loss during cooking."
+        }
+    },
+    "Durability": {
+        "comm": "Heavy and durable construction.",
+        "cont": {
+            "entity_a": "Durable and can last generations with proper care.",
+            "entity_b": ""
+        }
+    },
+    "Maintenance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires seasoning and proper maintenance to prevent food from sticking.",
+            "entity_b": ""
+        }
+    },
+    "Pre-seasoning": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Pre-seasoned, which saves time.",
+            "entity_b": ""
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service is responsive and helpful.",
+            "entity_b": "Customer service issues reported with returns and exchanges."
+        }
+    },
+    "Weight": {
+        "comm": "The product is heavy.",
+        "cont": {
+            "entity_a": "The product is heavy, especially when filled with food.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The handle design may need adjustment for ease of use.",
+            "entity_b": ""
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The size is perfect for smaller meals and works well for a family of four.",
+            "entity_b": ""
+        }
+    }
+}

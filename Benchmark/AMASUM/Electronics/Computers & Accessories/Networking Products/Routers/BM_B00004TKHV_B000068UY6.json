@@ -1,0 +1,114 @@
+{
+    "Adjustment": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rough adjustment release lock is under the collar lock and difficult to adjust. Fine adjustment sticks and body does not slide smoothly in the collar. Prone to becoming hard to adjust vertically due to wood dust accumulation. Retainer snap ring on the vertical adjustment shaft has broken twice due to pressure during adjustments.",
+            "entity_b": ""
+        }
+    },
+    "Bearings": {
+        "comm": "Bearings need replacement occasionally.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": ""
+        }
+    },
+    "Power": {
+        "comm": "Powerful and reliable.",
+        "cont": {
+            "entity_a": "Router is capable of producing 2.25 HP of mechanical energy. Router has plenty of power and soft start feature.",
+            "entity_b": ""
+        }
+    },
+    "Start": {
+        "comm": "Soft start feature.",
+        "cont": {
+            "entity_a": "Softer than older models.",
+            "entity_b": ""
+        }
+    },
+    "Installation": {
+        "comm": "Easy to install.",
+        "cont": {
+            "entity_a": "Perfect fit on the router table base.",
+            "entity_b": ""
+        }
+    },
+    "Speed": {
+        "comm": "Variable speed control.",
+        "cont": {
+            "entity_a": "Failed after little use, but it's an inexpensive part to replace. Variable speed (8,000-25,000 RPMs) and a 1/2\" and 1/4\" chuck included.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "Durable.",
+        "cont": {
+            "entity_a": "Well constructed and functional.",
+            "entity_b": ""
+        }
+    },
+    "Fit": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Plastic piece does not fit as tightly as needed.",
+            "entity_b": ""
+        }
+    },
+    "Cord": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cord is long and wood grips are the perfect size.",
+            "entity_b": ""
+        }
+    },
+    "Mechanism": {
+        "comm": "Good locking mechanism for changing bits.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": ""
+        }
+    },
+    "Operation": {
+        "comm": "Smooth, quiet operation.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Front spindle bearing is retained with screws without a bearing clamp. Depth locks in channels, allowing slight changes with a side dial. Router is heavy but stable.",
+            "entity_b": ""
+        }
+    },
+    "Parts": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Issues with missing parts upon delivery. Router box was not sealed properly. Some issues with parts not fitting properly.",
+            "entity_b": ""
+        }
+    },
+    "Control": {
+        "comm": "Easy to control.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": ""
+        }
+    },
+    "Adjustment_Ease": {
+        "comm": "Easy to adjust.",
+        "cont": {
+            "entity_a": "Easy to adjust and maintain speed under load. Easy height adjustment from the top of the table. Easy depth adjustment with a solid wrench.",
+            "entity_b": ""
+        }
+    },
+    "Usage": {
+        "comm": "Great for free hand and table use.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": ""
+        }
+    }
+}

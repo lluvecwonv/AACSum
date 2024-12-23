@@ -1,0 +1,44 @@
+{
+    "Performance": {
+        "comm": "Works well for aluminum.",
+        "cont": {
+            "entity_a": "Worked well repairing a bad bore on an old cast steel rototiller head. Some chatter at first with .020 cuts, but resolved with shadow passes. Huge amount of backlash in adjustment screw, requiring small increments. Works well for small holes. R8 pin channel is narrow and won't fit in the mill. Adjustment screw has 20 thousandths play.",
+            "entity_b": "Single largest boring bar worked reasonably well for aluminum. Shafts are rigid with no chatter on steel."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Carbide tool shows little wear.",
+            "entity_b": "Carbide is good quality with no chipping. Carbide brazed cleanly for long life."
+        }
+    },
+    "Packaging": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comes with case and wrenches. Quality and finish are good, arrived in nice packaging.",
+            "entity_b": "Tools arrived with chipped cutting edges due to poor packaging."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No flats on boring bars is annoying but fixable. Boring bars have no flats, causing marring when set screws are tightened.",
+            "entity_b": "Cheap entry-level bore bars suitable for hobby use. Boring bars are sharp enough to use out of the box. Some bars have a bad grind on the carbide, requiring regrinding."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Set screws are soft, requiring replacement for proper function. Screws to tighten boring bars did not work well.",
+            "entity_b": "Tools are sturdy and usable after sharpening and grinding proper angles."
+        }
+    },
+    "Price": {
+        "comm": "Good for hobbyist use.",
+        "cont": {
+            "entity_a": "Good boring head for the price, but not suitable for production use. Nice unit for home shop, but needs more fit and finish.",
+            "entity_b": "Good value for hobby machinists working with softer metals. Decent product for the price, but don't force them or they may bend."
+        }
+    }
+}

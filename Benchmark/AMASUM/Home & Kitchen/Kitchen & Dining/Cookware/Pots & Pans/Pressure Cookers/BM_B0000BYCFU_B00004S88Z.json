@@ -1,0 +1,107 @@
+{
+    "Ease of Use": {
+        "comm": "Beginner-friendly.",
+        "cont": {
+            "entity_a": "Easy to use with clear instructions.",
+            "entity_b": "Recommended for both beginners and experienced canners."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Can be used on glass top ranges.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durability issues: gauge stopped working after 3 months, bottom corroded quickly, and pot warped.",
+            "entity_b": "Durable and reliable, with no rubber gaskets to replace."
+        }
+    },
+    "Capacity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Large capacity, holding up to 23 jars with room to spare.",
+            "entity_b": "Can double stack pints and hold up to 19 quarts."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Fluctuating price makes it worth watching for sales.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Problems with lid fitting properly and sealing.",
+            "entity_b": "Requires precise alignment of lid for sealing."
+        }
+    },
+    "Safety": {
+        "comm": "Safety features.",
+        "cont": {
+            "entity_a": "Includes a locking mechanism to prevent opening under pressure.",
+            "entity_b": "Excellent safety features and reliable pressure regulation."
+        }
+    },
+    "Pressure": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Pressure gauge and seal issues, including melted gauge cover and defective gauge.",
+            "entity_b": "Consistent performance with high-pressure cooking."
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lightweight and easy to handle.",
+            "entity_b": "Requires careful handling due to weight."
+        }
+    },
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Made of aluminum, which discolors but is lightweight.",
+            "entity_b": "Heavy-duty construction, built to last a lifetime."
+        }
+    },
+    "Customer Service": {
+        "comm": "Customer service issues.",
+        "cont": {
+            "entity_a": "Issues with replacement parts and refunds.",
+            "entity_b": "Reported with missing parts and unhelpful responses."
+        }
+    },
+    "Maintenance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Easy to clean and maintain.",
+            "entity_b": "Metal-to-metal seal requires lubrication for proper sealing."
+        }
+    },
+    "Monitoring": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires careful monitoring of pressure levels.",
+            "entity_b": ""
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "High quality, made in the USA."
+        }
+    },
+    "Efficiency": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Ideal for bulk canning, reducing canning time significantly."
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "Security": {
+        "comm": "Very easy to pick, even for beginners.",
+        "cont": {
+            "entity_a": "Making it insecure. Not suitable for learning lock-picking due to its simplicity. Can be bypassed easily with minimal tools. Not secure enough for high-value items.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Build quality is decent for a very inexpensive lock. Lightweight and feels flimsy. Not recommended for outdoor use due to susceptibility to rust.",
+            "entity_b": "Not durable; broke after minimal use. Affordable price but lacks durability. Not suitable for outdoor use due to weather sensitivity."
+        }
+    },
+    "Functionality": {
+        "comm": "Comes with two keys.",
+        "cont": {}
+    },
+    "Use": {
+        "comm": "Suitable for keeping honest people honest.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Good for low-security applications like gym lockers. Suitable for minor tasks."
+        }
+    },
+    "Weight": {
+        "comm": "Lightweight.",
+        "cont": {
+            "entity_a": "Feels flimsy.",
+            "entity_b": "Easy to use."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Available in various colors for easy identification."
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "Keyboard": {
+        "comm": "The keyboard has a nice typing feel.",
+        "cont": {
+            "entity_a": "Easy on hands with white keys that are easy to see in the dark. Includes 5 configurable hotkeys and dedicated keys for mail and internet. Build quality is good, but lacks Mac-specific keys like EJECT. Sometimes misses keystrokes, which is frustrating. Space bar is prone to breaking quickly. Keys are transparent and hard to read under direct light. Feels great, but the RF receiver for the mouse is problematic. Spacebar design is flawed, causing it to lock up. Layout causes discomfort with the placement of certain keys.",
+            "entity_b": "Standard layout."
+        }
+    },
+    "Mouse": {
+        "comm": "Fits well in the hand.",
+        "cont": {
+            "entity_a": "Has a light touch and includes a magnification feature. Accurate with a useful zoom function. Touch is hard to control, even after adjustments. Has serious syncing issues with the RF receiver. Batteries are consumed quickly.",
+            "entity_b": "Design is uncomfortable due to its shape. Has limited range and lacks additional buttons. Sometimes locks up, requiring replugging."
+        }
+    },
+    "Wireless": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wireless connection has decent range and good response. The mouse and keyboard are wireless, eliminating the need for wires.",
+            "entity_b": "The product is not fully wireless; the keyboard has a USB cable. The mouse is not wireless."
+        }
+    },
+    "Compatibility": {
+        "comm": "The keyboard and mouse work well.",
+        "cont": {
+            "entity_a": "Works well with an iMac and an iogear KVM switch.",
+            "entity_b": "The fingerprint reader is not Vista compatible out of the box."
+        }
+    },
+    "Installation": {
+        "comm": "Installation is simple.",
+        "cont": {
+            "entity_a": "The software on CD is outdated.",
+            "entity_b": "Installation and configuration of the fingerprint scanner is easy."
+        }
+    },
+    "Fingerprint": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The fingerprint reader is reliable and convenient for logging into websites. Requires regular cleaning to function properly. Software is not compatible with 64-bit systems. Works well under Internet Explorer but not with other browsers. Does not support logging into domains. Increases security by accommodating complex passwords. Is a standout feature."
+        }
+    },
+    "Ports": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The keyboard and mouse require two USB ports, which is inefficient."
+        }
+    }
+}

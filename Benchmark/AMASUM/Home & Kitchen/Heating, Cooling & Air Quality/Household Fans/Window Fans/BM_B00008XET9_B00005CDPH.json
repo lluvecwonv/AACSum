@@ -1,0 +1,93 @@
+{
+    "Reversibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The fan is advertised as reversible, but it requires manual flipping, which is misleading. Reversible airflow requires manual flipping of the fan. Manual reverse is inconvenient for frequent use.",
+            "entity_b": "Reverse switch eliminates the need to manually flip the fan. Reversible airflow switch is convenient."
+        }
+    },
+    "Control": {
+        "comm": "",
+        "cont": {
+            "entity_a": "It has dual control, but each control is on a different face of the fan.",
+            "entity_b": "Thermostat lacks an 'always on' feature and shuts off at low temperatures. Thermostat is unreliable and requires frequent recalibration. Thermostat control is difficult to override."
+        }
+    },
+    "Build": {
+        "comm": "Fits well in windows.",
+        "cont": {
+            "entity_a": "Feels well made and should last a while. Plastic casing is durable and fits well into windows.",
+            "entity_b": "Fits perfectly in casement windows and offers intake/exhaust options. Fits securely in windows and expands well."
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "On high, it is noisy enough to interfere with hearing in a small room. Noise level is high even on low settings. Generally quiet but can be noisy on high settings.",
+            "entity_b": "Fairly quiet and works well initially. Somewhat noisy. Quieter than previous models."
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Easy to install, fits standard 28” windows. The unit is easy to set up, but adjustments for window fit could be better.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durability issues: one fan stopped working, another had one side fail, and a third became very loud initially. Some units stopped working shortly after purchase, indicating inconsistent quality. Some fans stopped working after limited use, indicating poor durability.",
+            "entity_b": "Experienced an electrical burning smell and stopped working after 1.5 months. First model failed in 5 weeks; replacement also stopped working. Durability issues with one fan blade breaking after short use."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The fan was a cost-effective purchase at $12.99, but requires reevaluation for future purchases.",
+            "entity_b": ""
+        }
+    },
+    "Cooling": {
+        "comm": "Cools the room effectively.",
+        "cont": {
+            "entity_a": "Powerful and reliable with significant cooling effect. Airflow is insufficient for cooling effectively.",
+            "entity_b": "Good cooling effect."
+        }
+    },
+    "Fit": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The fan does not fit every window and requires extra panels for complete sealing.",
+            "entity_b": "The fan requires additional extender panels for full window sealing. Extender screen is too small for full window sealing. Not suitable for all window types due to size and fit issues."
+        }
+    },
+    "Airflow": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The airflow is not impressive.",
+            "entity_b": "Low air output even on high setting."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires an electric outlet nearby, possibly needing an extension cord.",
+            "entity_b": "Temperature system causes the fan to cycle on and off frequently."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service is unhelpful with replacing parts like fuses.",
+            "entity_b": ""
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The fan is inexpensive and does an OK job with basic functionality.",
+            "entity_b": "Received with issues, including rattling noise and defective parts."
+        }
+    }
+}

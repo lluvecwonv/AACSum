@@ -1,0 +1,86 @@
+{
+    "Information": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Insufficient product information for lay users on Amazon description.",
+            "entity_b": ""
+        }
+    },
+    "Storage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Windows 10 updates filled the storage memory, causing usability issues.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good performance for Linux-based laptops, with WPA & WEP fully supported. Better performance than a more expensive USB N adapter. Good performance with a Linksys router with SpeedBooster. Good performance but better speed expected.",
+            "entity_b": "Reliable network card with good range and supports latest encryption methods. Not faster in N-mode than Cisco in G-mode, possibly due to outdated drivers."
+        }
+    },
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Effective for providing wireless b/g connectivity for Linux-based notebooks. Signal drops drastically beyond 30-40 feet, affecting download/upload times. Troubleshooting suggests an address conflict causing connectivity issues. Effective tool for connecting older model computers to the Internet. Provides wireless internet access for laptops with a PCMCIA slot. Maintains connection in Speedbooster mode with varying signal strength. Enables connection to multiple wireless networks. Connectivity issues with 802.11b compatibility.",
+            "entity_b": "Frequent connection loss even when close to the router. Trendnet wireless N card has stability problems and disconnects often."
+        }
+    },
+    "Delivery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Prompt delivery from Worldwide in California to Vermont.",
+            "entity_b": ""
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Installation instructions are available online, requiring navigation through extensive information. Easy setup and reliable performance for older laptops. Easy setup with clear directions. Easy installation with good signal reception in all rooms.",
+            "entity_b": "Quick and easy installation on both Windows XP and Ubuntu 9.0.4."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some installation issues with new routers, possibly due to outdated compatibility. Not compatible with recent secure routers, sold by Worldcom. No drivers available for WPC54GS and Texas Instruments CardBus Controllers. Some cards require reinstallation of drivers for functionality.",
+            "entity_b": "Card does not work on RedHat 5.5 or Xubuntu 9.04 Linux due to driver issues. Management software did not work; XP managed the card well."
+        }
+    },
+    "Reception": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good reception throughout a two-story house. Good wireless reception in all house areas with a Linksys router.",
+            "entity_b": ""
+        }
+    },
+    "Warranty": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Void warranty and no technical support for the oldest version of the adapter.",
+            "entity_b": ""
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Linksys support site provides necessary drivers for all card versions. Prompt and helpful seller with a quick refund for faulty products.",
+            "entity_b": ""
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Worst range experienced when used with matching Trendnet Router."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good for older laptops with older USB ports, as it leaves USB ports available.",
+            "entity_b": "Express slot size is small but card is strong and reliable. Replaced bulky USB wireless connector, superb connection at max rate."
+        }
+    }
+}

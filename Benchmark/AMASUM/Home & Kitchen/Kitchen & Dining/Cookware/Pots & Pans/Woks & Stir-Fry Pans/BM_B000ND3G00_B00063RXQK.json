@@ -1,0 +1,79 @@
+{
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pan works great on a gas stovetop but gets scratched on an electric stovetop.",
+            "entity_b": "The wok is compatible with gas stoves and provides even heating. The wok is not suitable for use on induction cooktops."
+        }
+    },
+    "Non-stick": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Non-stick coating started to peel within a year of use, affecting food quality. The non-stick surface is okay but not as tough as All Clad pans. The non-stick coating is not very scratch-resistant. The pan loses its non-stick property over time. The non-stick coating wears off after a few months. The non-stick coating came off after a month of use.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Despite careful use, the pan developed cracks and scratches within 5-6 months. The pan is not hard anodized as marketed. The pan is durable and has lasted for years. The pan is sturdy and has a good non-stick finish. The pan is not suitable for everyday use as it began flaking after 4 months. The pan is thick and durable, providing good heat conduction.",
+            "entity_b": "The wok is durable and provides good heat retention. The wok is made of cast iron, providing durability and long-lasting use."
+        }
+    },
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Carbon-like material develops on the pan within the first 5 minutes of usage.",
+            "entity_b": "The wok is made of cast iron, providing durability and long-lasting use."
+        }
+    },
+    "Cooking": {
+        "comm": "The pan is versatile and can be used for various dishes.",
+        "cont": {
+            "entity_a": "Great for making eggs, crepes, pancakes, and grilled cheese sandwiches. The pan is good for making crepes, omelets, and pancakes.",
+            "entity_b": "The wok is versatile and can be used on various heat sources, including open fires. The wok is suitable for large quantities of food, providing good heat distribution."
+        }
+    },
+    "Handle": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The double-studded handle stays cool and prevents loose-handle problems. The handle is comfortable and stays cool.",
+            "entity_b": ""
+        }
+    },
+    "Heating": {
+        "comm": "Heats evenly.",
+        "cont": {
+            "entity_a": "The pan heats up quickly but also cools down fast. The pan heats evenly and provides good heat distribution. The pan heats evenly and provides excellent cooking results.",
+            "entity_b": "The wok is heavy and retains heat well, suitable for stir-frying and deep-frying. The wok has a flat bottom and heats evenly, with the hottest point at the center."
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The size is perfect for making crepes, but it is smaller than expected. The pan's size and weight are good for cooking crepes and other items.",
+            "entity_b": "The wok is large and spacious, allowing for cooking large meals. The wok is large and suitable for cooking for families."
+        }
+    },
+    "Cleaning": {
+        "comm": "The pan is easy to clean and maintain.",
+        "cont": {
+            "entity_a": "The pan is easy to clean and doesn't require scrubbing. The pan is dishwasher safe but should be hand-washed to prevent damage.",
+            "entity_b": "It is recommended to use a chain-mail cast iron cleaning cloth for maintenance. Requires oiling after washing to prevent rust. The wok is difficult to clean and maintain, especially for beginners."
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pan is lightweight and well-balanced. The pan is heavy and provides good heat transfer.",
+            "entity_b": "The wok is heavy and requires upper body strength for cleaning. The wok is heavy and challenging to store in small kitchens. The wok is heavy and requires careful handling to prevent damage."
+        }
+    },
+    "Manufacturing": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The wok is made in the USA and provides excellent quality."
+        }
+    }
+}

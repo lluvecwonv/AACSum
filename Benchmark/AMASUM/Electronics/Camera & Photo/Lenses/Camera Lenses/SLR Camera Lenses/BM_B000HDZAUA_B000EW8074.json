@@ -1,0 +1,65 @@
+{
+    "Autofocus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Stopped working in less than a year. Problematic at 200mm and above; manual focus recommended. Struggles in low light, but manual focus practice can mitigate this. Slow and the lens lacks stabilization. Inconsistent and slow, especially beyond 100mm. Noisy and hunts. Consistently slow, with noticeable lens distortion.",
+            "entity_b": "Fast and sharp autofocus. Quick focus for video and photos. Fast focus offering sharp images."
+        }
+    },
+    "Warranty": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No warranty support due to gray market status. Tamron warranty repair service is efficient, though shipping is at the user's expense. Lens contacts error occurred despite being clean, leading to warranty repairs.",
+            "entity_b": ""
+        }
+    },
+    "Macro": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lens is a workhorse with a useful telephoto macro function. Macro function is great; lens is lightweight and solidly built. Lens is a good introduction to photography with macro capabilities. Lens is a good entry-level option with macro capabilities.",
+            "entity_b": ""
+        }
+    },
+    "Build": {
+        "comm": "Lens is well-built.",
+        "cont": {
+            "entity_a": "Solid and built well, providing good picture quality. Prone to internal plastic breakage. Lens is lightweight and less expensive. Lens is lightweight for its size.",
+            "entity_b": "Lens is large and heavy. Lens is heavy but offers great versatility and sharpness. Lens is a bit bulky. Excellent build quality and performance for the price. Lens is a bit heavy."
+        }
+    },
+    "Image Quality": {
+        "comm": "Image quality is sharp.",
+        "cont": {
+            "entity_a": "Photos are generally very soft with substantial chromatic aberration. Great clarity and image quality for a low price. For the price, this lens takes excellent pictures even at full telephoto. Image quality is sharp and lens performs well in low light.",
+            "entity_b": "Image quality is comparable to L series lenses. Excellent image quality for the price. Great for general use with sharp, clear images. Excellent sharpness and image quality for the price."
+        }
+    },
+    "Price": {
+        "comm": "Good value for the price.",
+        "cont": {
+            "entity_a": "Value for 70-300mm lens is notable compared to more expensive Sony lenses. Lens is a good introduction to photography with macro capabilities.",
+            "entity_b": "Lens is a significant upgrade from kit lenses, offering better sharpness and quality. Great value for the money, offering sharp images and fast focus."
+        }
+    },
+    "Stabilization": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lens lacks stabilization. Lens requires a tripod for stability due to lack of image stabilization.",
+            "entity_b": "Great low light performance with image stabilization. Image stabilization is effective, enhancing low-light performance. Image quality is sharp, with effective stabilization."
+        }
+    },
+    "Weather Sealing": {
+        "comm": "Lens is not weather-sealed and prone to dust issues.",
+        "cont": {
+            "entity_a": "Lens is not weather-sealed and has a dust issue.",
+            "entity_b": "Lacks weather sealing, but image quality is not affected by dust."
+        }
+    },
+    "Usability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not suitable for fast-moving sports. Slightly slow to focus, affecting usability for sports photography.",
+            "entity_b": "Focal range covers wide angle to mid-range telephoto, ideal for walk-around use. Excellent for travel and general photography, with a wide zoom range. Lens offers a wide focal range, suitable for various photography situations."
+        }
+    }
+}

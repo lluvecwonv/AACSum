@@ -1,0 +1,121 @@
+{
+    "Value": {
+        "comm": "Good value for the price.",
+        "cont": {
+            "entity_a": "Well-built and well-designed features.",
+            "entity_b": "Responsive buttons."
+        }
+    },
+    "Customization": {
+        "comm": "Customizable buttons enhance usability.",
+        "cont": {
+            "entity_a": "Enhance browsing experience.",
+            "entity_b": ""
+        }
+    },
+    "Tracking": {
+        "comm": "Precise tracking.",
+        "cont": {
+            "entity_a": "Responsive and suitable for photo editing.",
+            "entity_b": "Precise laser tracking."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The wheel stopped working after 14 months, indicating a potential durability issue.",
+            "entity_b": ""
+        }
+    },
+    "Ergonomics": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Small size is suitable for small hands but not ergonomic for larger hands.",
+            "entity_b": "Ergonomic design fits well in hand."
+        }
+    },
+    "Cord": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cord length is sufficient for laptop use.",
+            "entity_b": ""
+        }
+    },
+    "Portability": {
+        "comm": "The mouse is compact.",
+        "cont": {
+            "entity_a": "Convenient for travel.",
+            "entity_b": "Compact receiver minimizes clutter."
+        }
+    },
+    "Scroll": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Smooth scroll wheel lacks feedback, making it less ideal for precise tasks.",
+            "entity_b": ""
+        }
+    },
+    "Coating": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rubberized coating on sides may degrade over time with heavy use.",
+            "entity_b": ""
+        }
+    },
+    "Installation": {
+        "comm": "Easy setup.",
+        "cont": {
+            "entity_a": "Software allows for customization of button functions.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Blue LED light adds a stylish touch.",
+            "entity_b": ""
+        }
+    },
+    "Power": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Corded design eliminates battery replacement issues.",
+            "entity_b": "Excellent battery life with automatic shut-off feature."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Side button and tilt scroll wheel offer additional functionality.",
+            "entity_b": "Onboard volume controls are useful for gaming."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Not compatible with some instant messaging notifications."
+        }
+    },
+    "Gaming": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The mouse is not ideal for gaming due to power-saving features."
+        }
+    },
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Wireless receiver requires optimal positioning to avoid connectivity issues."
+        }
+    },
+    "Surface": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The mouse is suitable for various surfaces."
+        }
+    }
+}

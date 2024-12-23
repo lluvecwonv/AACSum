@@ -1,0 +1,107 @@
+{
+    "Wireless": {
+        "comm": "Wireless functionality is appreciated.",
+        "cont": {
+            "entity_a": "The wireless base acts as a charger for the mouse. The wireless connection works flawlessly with advanced mouse functions.",
+            "entity_b": "Mouse is wireless but keyboard is not, contrary to product description."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The mouse has a nice heft and appears durable. The keyboard design is sleek with a black case and charcoal metallic insert.",
+            "entity_b": "Mouse has poor ergonomic design pushing the pinky outwards. Keyboard top bends slightly."
+        }
+    },
+    "Installation": {
+        "comm": "Installation is easy.",
+        "cont": {
+            "entity_a": "Almost plug and play. Installation was quick and easy, following the quick directions. Installation requires downloading an update for correct functionality.",
+            "entity_b": "Product is easy to set up and has many options."
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Shortcut keys and features require installation of bundled software. Keyboard keys can be assigned new functions using provided software.",
+            "entity_b": "Software for fingerprint reader is robust but needs regular cleaning. Software supports 32-bit systems but not 64-bit."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The battery low message is a helpful feature. Rechargeable mouse batteries with a handy recharger. Mouse holds charge well.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not compatible with older Logitech cordless mouse versions.",
+            "entity_b": "Fingerprint reader not compatible with Windows 7, 8, and 8.1. Product is not compatible with Mozilla browser for fingerprint logins."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The scroll wheel issue was resolved by updating the driver, though occasional problems persist. Occasional lag or interference can occur, resolved by repositioning the mouse base.",
+            "entity_b": "Mouse locks up requiring unplugging and replugging. Product works well but requires adjustments for better performance."
+        }
+    },
+    "Keyboard": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The keyboard is well-designed, durable, and has a tight action. The keyboard is smooth operating and highly positionable. Keyboard keys sometimes need to be struck hard. The keyboard has a nice tactile feel with multimedia controls. The keyboard is aesthetically appealing and ergonomically efficient.",
+            "entity_b": "Standard layout keyboard with a nice typing feel. Special intellikeys require hard pressing."
+        }
+    },
+    "Mouse": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The mouse is big, clumpy, and has poor movement. The optical mouse has an updated design and is enjoyable to use. The mouse is ergonomic but slightly heavy due to batteries. The mouse is comfortable, with useful shortcut buttons. Mouse is heavy, and the keyboard distance is limited to about 8 feet.",
+            "entity_b": "Wireless mouse fits well and is simple without side buttons. Mouse has limited range and standard two-button design."
+        }
+    },
+    "Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Multimedia buttons are not highly customizable. The keyboard has useful special function keys like one-button access to E-Mail and Media Player. Quick connect buttons on the keyboard. The mouse and keyboard look great, with useful extra buttons. The keyboard and mouse offer many configuration options. Keyboard multimedia controls are particularly useful.",
+            "entity_b": "Fingerprint reader is slow with a 20-second response time. Fingerprint reader saves time logging into websites. Fingerprint reader allows for secure logins without others seeing passwords. Biometrics enhance security with complex password management. Fingerprint reader is a valuable feature. Fingerprint reader is useful but not for domain logins."
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Has good range and has been durable over long-term use. The product has a great range and comfort.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The product is reliable with no delays or connection problems.",
+            "entity_b": ""
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The mouse's battery pack was defective, but customer service was responsive.",
+            "entity_b": "Seller refunded cost but not S&H for misleading product description."
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Mouse and keyboard are comfortable and well designed."
+        }
+    },
+    "Ports": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Product requires two USB ports instead of one."
+        }
+    }
+}

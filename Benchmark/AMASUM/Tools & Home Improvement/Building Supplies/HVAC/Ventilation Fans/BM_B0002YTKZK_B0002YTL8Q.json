@@ -1,0 +1,86 @@
+{
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Neat, sleek, and compact design.",
+            "entity_b": "Functional but unattractive design."
+        }
+    },
+    "Heater": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Heater function burned out quickly. Heater burned out after minimal use. Heater unit melted the grill after a few years. Heater stopped working shortly after installation.",
+            "entity_b": ""
+        }
+    },
+    "Features": {
+        "comm": "Includes a heater, fan, and light in one unit.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": ""
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Very loud fan and heater. Excessive noise level prevents conversation. Loud exhaust fan and heater. Noisy fan, but the unit heats well. Loud fan and heater, but good value for money. Suction fan is powerful but very loud. Fan motor issues caused excessive noise. Heater fan is very loud.",
+            "entity_b": "Moderately quiet fan. Quiet operation compared to old toilet. Quiet operation caused confusion about replacement. Moderate noise level. Simple install with average noise level."
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Difficult installation, not suitable for DIYers. Wiring diagram issues caused installation problems. Instructions are not clear for inexperienced users. Easy installation for replacing components in older models. Installation can be challenging without access to the ceiling. Difficult to install for novices.",
+            "entity_b": "Replacement required entire reinstallation despite same model. Easy motor and light assembly replacement. Easy motor and fan unit swap. Installation required attic access. Slightly smaller unit required adjustment for installation. Easy installation with clear instructions. Installation required additional bracing."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good performance for the cost. Satisfactory performance with easy component replacement.",
+            "entity_b": "Mixed performance across two units."
+        }
+    },
+    "Price": {
+        "comm": "Good value for the price.",
+        "cont": {
+            "entity_a": "Significant price savings when purchased from Amazon.",
+            "entity_b": "Good value with decent build quality."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Internal fuse issues with multiple units. Heater motor defect required replacement.",
+            "entity_b": ""
+        }
+    },
+    "Heating": {
+        "comm": "Provides adequate heat.",
+        "cont": {
+            "entity_a": "Provides adequate heat for a 12x7 bathroom. Economical with mild heat output. Compact unit with adequate heat output.",
+            "entity_b": "Fan not strong enough for very small bathrooms. Fan not strong enough for larger bathrooms."
+        }
+    },
+    "Replacement": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Exact replacement parts fit perfectly. Modular components make replacement easy. Heater and fan components are easy to replace. Replacement parts fit perfectly in older models.",
+            "entity_b": "Replacement for 20-year-old model. Replacement for identical Broan fan. Replacement parts used to update older fan."
+        }
+    },
+    "Fan": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Vent fan has almost zero flow.",
+            "entity_b": "Flimsy exhaust duct connector and grill mount. Fan not strong enough to vent small bathroom effectively. Fan unable to prevent smoke alarms from triggering. Fan and light work well but damper doesn't close properly."
+        }
+    },
+    "Light": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Attached light provides warm white light. Light fixture part missing from package. Fan and light combo provides adequate light."
+        }
+    }
+}

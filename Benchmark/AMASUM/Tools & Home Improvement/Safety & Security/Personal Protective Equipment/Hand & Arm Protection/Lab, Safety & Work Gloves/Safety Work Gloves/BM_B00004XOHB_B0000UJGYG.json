@@ -1,0 +1,69 @@
+{
+    "Durability": {
+        "comm": "Durable for regular use.",
+        "cont": {
+            "entity_a": "Do not last long under light use, with fingers developing holes and seams coming loose. Inconsistent, with some pairs lasting longer than others. Fall apart quickly, not suitable for heavy duty work. Stitching quality varies, leading to some gloves falling apart quickly.",
+            "entity_b": "Hold up well under regular use. Inconsistent quality control with mismatched components."
+        }
+    },
+    "Sizing": {
+        "comm": "Sizing is inconsistent.",
+        "cont": {
+            "entity_a": "Extra large size fits tightly, suggesting a sizing issue.",
+            "entity_b": "Gloves fitting smaller than standard sizes. Newer pairs are smaller."
+        }
+    },
+    "Grip": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Leather on the fingers is not ideal for holding tools as it causes things to slip. The gloves fit well and have a good grip, comfortable for extended wear. Fit is generally snug, which helps with grip.",
+            "entity_b": "Gloves have poor grip on wet surfaces, making them unsuitable for wet work."
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Seams on the middle finger tip are poorly located, causing discomfort. Material causes hands to sweat, making them uncomfortable over time.",
+            "entity_b": "They are comfortable and warm but lose waterproofing over time. The lining can cause discomfort when wet."
+        }
+    },
+    "Waterproofing": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "They are not fully waterproof, absorbing water quickly. Not waterproof as claimed, with water seeping through easily."
+        }
+    },
+    "Touchscreen Compatibility": {
+        "comm": "Gloves are not touch screen compatible.",
+        "cont": {}
+    },
+    "Fit": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Gloves are generally comfortable and fit well, but some have sizing issues.",
+            "entity_b": "Fit is generally tight, with some finding them too small for their hands."
+        }
+    },
+    "Warmth": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Gloves are warm and durable, suitable for cold weather work. Provide warmth but are not windproof, making them less effective in windy conditions. Effective for keeping hands dry and warm in snowy conditions."
+        }
+    },
+    "Protection": {
+        "comm": "",
+        "cont": {
+            "entity_a": "They offer good protection and comfort for general outdoor and yard work.",
+            "entity_b": ""
+        }
+    },
+    "Lining": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Internal liner pulls out when removing gloves, making them difficult to use."
+        }
+    }
+}

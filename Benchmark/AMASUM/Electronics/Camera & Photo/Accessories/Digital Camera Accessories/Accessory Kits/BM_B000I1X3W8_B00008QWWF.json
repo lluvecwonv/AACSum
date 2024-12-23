@@ -1,0 +1,107 @@
+{
+    "Focus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lens has a rapid focusing system. Pictures have amazing quality with great focus. The lens is very sharp and produces excellent color and contrast. The lens provides excellent image quality with a sharp focus. The lens has a fast autofocus and is very sharp.",
+            "entity_b": ""
+        }
+    },
+    "Image Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Pictures have amazing quality with great focus. The lens is very sharp and produces excellent color and contrast. The lens produces sharp images even when cropped. Image quality is comparable to the f/2.8 lens without the weight. The lens performs well for both photos and videos. The lens provides sharp images with great color and contrast. The lens produces great quality images with good contrast. The lens provides excellent image quality with a sharp focus.",
+            "entity_b": "Prints are high quality and long-lasting. Produces borderless 4x6 photos comparable to a photo lab. The printer provides photo-lab quality prints."
+        }
+    },
+    "Color": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lens is very sharp and produces excellent color and contrast. The lens provides sharp images with great color and contrast. The lens provides excellent sharpness and color rendition.",
+            "entity_b": ""
+        }
+    },
+    "Contrast": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lens is very sharp and produces excellent color and contrast. The lens produces great quality images with good contrast.",
+            "entity_b": ""
+        }
+    },
+    "Sharpness": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lens is very sharp and produces excellent color and contrast. The lens has excellent sharpness and bokeh. The lens provides sharp images with great color and contrast. The lens is very sharp and produces excellent image quality. The lens provides excellent image quality with a sharp focus.",
+            "entity_b": ""
+        }
+    },
+    "IS": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The IS allows for handheld shooting at low shutter speeds. The IS mechanism makes some noise but works effectively. The IS is a valuable feature for handheld shooting. IS allows for shooting at slower shutter speeds without blur. The IS is effective and adds to the lens's value. The lens provides excellent image stabilization. The IS is beneficial for handheld shooting.",
+            "entity_b": ""
+        }
+    },
+    "Build Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lens is built like a tank but is still manageable in weight. The lens has a high build quality and is weather and dust sealed. The lens is sturdy and well-constructed.",
+            "entity_b": ""
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lens is built like a tank but is still manageable in weight. The lens is lightweight compared to the f/2.8 version. Image quality is comparable to the f/2.8 lens without the weight. The lens is ideal for travel and outdoor activities due to its weight. The lens is lightweight and easy to carry.",
+            "entity_b": ""
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lens is compact in size with internal zooming.",
+            "entity_b": "Setup is easy and does not take up much space. The printer is compact and fits in a backpack."
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The USM is very quiet. The IS mechanism makes some noise but works effectively.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lens does not work with 2x extenders.",
+            "entity_b": ""
+        }
+    },
+    "Versatility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lens is versatile, light, and offers excellent image quality.",
+            "entity_b": ""
+        }
+    },
+    "Mobility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lens offers good mobility without a tripod.",
+            "entity_b": "The printer is portable and suitable for on-the-go use."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Paper is somewhat expensive but available. Each print costs over 62 cents for consumables."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The printer functions perfectly for 4x6 prints. The printer can be temperamental and may not always recognize paper."
+        }
+    }
+}

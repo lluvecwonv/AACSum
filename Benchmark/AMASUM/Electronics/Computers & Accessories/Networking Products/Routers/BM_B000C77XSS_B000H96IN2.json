@@ -1,0 +1,72 @@
+{
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router had good range. Offers a strong signal and fast speed across a large area.",
+            "entity_b": "Router's range is less than expected. Router resolves dead spots better than previous models."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Serious incompatibility problems with certain devices.",
+            "entity_b": "Setup wizard is incompatible with Windows XP."
+        }
+    },
+    "Connection": {
+        "comm": "Router loses connectivity frequently and requires resetting.",
+        "cont": {
+            "entity_a": "Experienced intermittent connection issues with various devices. Router drops connections frequently, requiring power cycling to resolve. Frequent connection drops despite firmware updates.",
+            "entity_b": "Router occasionally crashes and requires multiple reboots. Wireless N devices fail to connect. Router requires frequent reboots to maintain wireless connectivity."
+        }
+    },
+    "Setup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Initial setup was difficult but resolved with Linksys tech support and a firmware update.",
+            "entity_b": "Router is easy to set up but has a poor wireless range."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Linksys tech support was helpful for setup and troubleshooting.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Performance was initially satisfactory but degraded after a year.",
+            "entity_b": ""
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Firmware updates are necessary to address connection drops. Router's firmware is buggy and lacks third-party firmware support.",
+            "entity_b": "Router supports DD-WRT software, offering additional features. Router functions well with DD-WRT firmware but still has limitations. Router's firmware has serious issues with NAT and wireless connection stability."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router is sensitive to power surges.",
+            "entity_b": ""
+        }
+    },
+    "Storage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router's USB storage feature is limited and unreliable. Router lacks support for NTFS formatted drives. Router's documentation for storage link feature is inadequate."
+        }
+    },
+    "Usability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router is a good option for tech-savvy users with DD-WRT firmware."
+        }
+    }
+}

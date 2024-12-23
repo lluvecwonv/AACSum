@@ -1,0 +1,142 @@
+{
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Affordable price compared to Microsoft products.",
+            "entity_b": ""
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable.",
+        "cont": {
+            "entity_a": "Great hand positioning for wrist pain relief.",
+            "entity_b": "Lots of options, works with Mac."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Compatible with Logitech SetPoint software. Not fully compatible with all media programs."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Heavy and large, not ideal for small hands. Ergonomic design helps reduce wrist pain.",
+            "entity_b": "Symmetrical design preferred over funky shapes. Large and slightly heavy, but still portable."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durable and solid build.",
+            "entity_b": ""
+        }
+    },
+    "Receiver": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Receiver is large and not portable.",
+            "entity_b": "USB receiver is long, inconvenient for laptops."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Short wireless range and quick battery drainage. No on/off switch or rechargeable batteries.",
+            "entity_b": "Rechargeable batteries last about 3 months with daily use. Long battery life on NiMH rechargeables."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Trackball has great sensitivity.",
+            "entity_b": "Excellent performance and button functionality. Sometimes gets confused on wooden patterned surfaces."
+        }
+    },
+    "Functionality": {
+        "comm": "Customizable buttons.",
+        "cont": {
+            "entity_a": "Top center buttons are for magnification and page back.",
+            "entity_b": "For media and gaming."
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Short wireless range.",
+            "entity_b": "Old style with limited range. Range decreases with unit age."
+        }
+    },
+    "Wrist Support": {
+        "comm": "Helps alleviate wrist pain.",
+        "cont": {
+            "entity_a": "Especially for medium-large hands. Fits hand perfectly, alleviating carpal tunnel symptoms.",
+            "entity_b": ""
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Loud clicking sound when pressing buttons.",
+            "entity_b": ""
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Excellent customer service from Microsoft.",
+            "entity_b": ""
+        }
+    },
+    "Scroll Wheel": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The scroll wheel is difficult to click down.",
+            "entity_b": "Scroll wheel is accurate on most surfaces."
+        }
+    },
+    "Ergonomics": {
+        "comm": "Comfortable and suitable for long hours of use.",
+        "cont": {
+            "entity_a": "Requires some adjustment time due to ergonomic design.",
+            "entity_b": ""
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Receiver is large and not portable.",
+            "entity_b": ""
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Heavy and large, not ideal for small hands.",
+            "entity_b": "Large and slightly heavy, but still portable."
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Software installation is quick and easy.",
+            "entity_b": ""
+        }
+    },
+    "Usability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Not suitable for left-handed users."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Issues with erratic behavior and volume control. Occasionally stops moving on an axis."
+        }
+    }
+}

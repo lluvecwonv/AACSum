@@ -1,0 +1,114 @@
+{
+    "Setup": {
+        "comm": "Easy to set up.",
+        "cont": {
+            "entity_a": "Setup was simple, and file transfer was adequate.",
+            "entity_b": "Portable, reliable, and simple to use."
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Device had a noise that suggested inadequate QA process.",
+            "entity_b": ""
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Backup software included is awkward to use and not very configurable.",
+            "entity_b": "Comes with free backup software that is frequently used."
+        }
+    },
+    "Design": {
+        "comm": "Good-looking.",
+        "cont": {
+            "entity_a": "Fairly small and very quiet. Has a sleek design and one-touch backup feature.",
+            "entity_b": "Small, light, and requires no external power. Nice looking and fast."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Fairly inexpensive with fast response time and reliable performance.",
+            "entity_b": ""
+        }
+    },
+    "Power": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires a separate power supply, which some find inconvenient. The product is economical but requires an external power source.",
+            "entity_b": "The USB model doesn't work well with some Mac laptops due to insufficient power. Small, light, and requires no external power."
+        }
+    },
+    "Performance": {
+        "comm": "Reliable.",
+        "cont": {
+            "entity_a": "Fast response time.",
+            "entity_b": "Portable, reliable, and simple to use."
+        }
+    },
+    "Temperature": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The drive works quietly and doesn't get very warm.",
+            "entity_b": ""
+        }
+    },
+    "Backup": {
+        "comm": "Great for backing up.",
+        "cont": {
+            "entity_a": "The drive can be used for data backup and is generally stable.",
+            "entity_b": "Great for backing up pictures and music files on Windows XP."
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The drive's size is larger than expected, making it less portable.",
+            "entity_b": "Small, light, and requires no external power."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some units have issues with reliability and durability.",
+            "entity_b": "Some units are unreliable and do not work with iMac. Died shortly after use, but full refund was provided by Amazon."
+        }
+    },
+    "CustomerService": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some users reported difficulty with customer service and technical support.",
+            "entity_b": "Return policy is fast and easy, with UPS pickup."
+        }
+    },
+    "Storage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Offers good storage space for the price, but lacks a Kensington lock slot.",
+            "entity_b": "Storage capacity is suitable for backup of music and personal records."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The USB model doesn't work well with some Mac laptops due to insufficient power. SmartDisk USB line doesn't work properly with Mac laptops."
+        }
+    },
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Does not have a Firewire port as expected."
+        }
+    },
+    "Accessories": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Does not come with a cover. Lacks short USB cable and better indicator light."
+        }
+    }
+}

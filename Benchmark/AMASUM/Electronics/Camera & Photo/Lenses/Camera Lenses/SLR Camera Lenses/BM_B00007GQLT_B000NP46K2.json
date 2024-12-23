@@ -1,0 +1,128 @@
+{
+    "Functionality": {
+        "comm": "Versatile for landscapes and low light.",
+        "cont": {
+            "entity_a": "Functions like a 32mm lens, making it versatile for photo and video.",
+            "entity_b": "Flexible focal length range of 16-35mm."
+        }
+    },
+    "Performance": {
+        "comm": "Sharp in low light due to f/2.8 aperture.",
+        "cont": {
+            "entity_a": "Great in low light with vivid color and sharpness at f/2.8.",
+            "entity_b": ""
+        }
+    },
+    "Distortion": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Barely perceptible barrel distortion on a crop sensor camera, easily corrected in post.",
+            "entity_b": "No visible vignetting or distortion."
+        }
+    },
+    "Image Quality": {
+        "comm": "Great image quality.",
+        "cont": {
+            "entity_a": "Great image quality for video work.",
+            "entity_b": "Amazing image quality with fast autofocus."
+        }
+    },
+    "Build Quality": {
+        "comm": "Fast focus and great build quality.",
+        "cont": {
+            "entity_a": "Solid build with metal and glass, not lightweight but preferable to cheaper lenses.",
+            "entity_b": "Build quality typical of Canon 'L' series."
+        }
+    },
+    "Focus": {
+        "comm": "Fast focus.",
+        "cont": {
+            "entity_a": "Fast and accurate focus compared to other lenses.",
+            "entity_b": "Unclear focus compared to other Canon lenses."
+        }
+    },
+    "Photography": {
+        "comm": "Useful for landscapes.",
+        "cont": {
+            "entity_a": "Works well for landscapes and architecture photography.",
+            "entity_b": "Perfect for travel and landscapes."
+        }
+    },
+    "Sharpness": {
+        "comm": "Sharp photos.",
+        "cont": {
+            "entity_a": "Sharp photos with good field of view.",
+            "entity_b": "Some softness in corners but sharp in the center."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Affordable with good performance, though heavy vignetting and softness at corners noted.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Does not zoom, only focuses at one distance.",
+            "entity_b": "Bulky but produces magical pictures with minimal post-processing."
+        }
+    },
+    "Light Performance": {
+        "comm": "Sharp in low light.",
+        "cont": {
+            "entity_a": "Super sharp and fast in low light.",
+            "entity_b": "Sharp, clear, colorful wide angle shots."
+        }
+    },
+    "Contrast": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Colors can appear lifeless with burnt-out details.",
+            "entity_b": "Superb contrast and sharpness."
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not worth more than $299, according to user.",
+            "entity_b": ""
+        }
+    },
+    "Versatility": {
+        "comm": "Versatile despite fixed focal length.",
+        "cont": {
+            "entity_a": "Versatile despite fixed focal length, sharp in low light.",
+            "entity_b": ""
+        }
+    },
+    "Weight": {
+        "comm": "Heavy.",
+        "cont": {
+            "entity_a": "Solid build with metal and glass, not lightweight but preferable to cheaper lenses.",
+            "entity_b": "Heavy but provides excellent image quality."
+        }
+    },
+    "Packaging": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Concerns about packaging and missing warranty information."
+        }
+    },
+    "Vignetting": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Heavy vignetting and softness at corners noted.",
+            "entity_b": "Less vignetting compared to 17-40mm lens."
+        }
+    },
+    "Accessories": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Prone to flaring, recommended to use a lens hood.",
+            "entity_b": "Requires ultrathin filters, which may not allow use of lens cap."
+        }
+    }
+}

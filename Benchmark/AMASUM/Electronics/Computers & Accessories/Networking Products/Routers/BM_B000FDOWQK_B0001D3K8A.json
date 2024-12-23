@@ -1,0 +1,114 @@
+{
+    "Connectivity": {
+        "comm": "The router provides good connectivity and works well.",
+        "cont": {
+            "entity_a": "Works well with all wireless devices. Not compatible with certain wireless devices.",
+            "entity_b": "Works well with Packet8 VoIP service. Does not work with PS3 unless plugged directly in."
+        }
+    },
+    "Installation": {
+        "comm": "The router setup was straightforward and easy.",
+        "cont": {
+            "entity_a": "Installation was easy, but the setup utility initially failed to find the router. Simple to install and worked well for a home network.",
+            "entity_b": "Setup was straightforward and completed in under 30 minutes. Lacked clear instructions."
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router lacks range, not covering a 2,700 sq. ft. brick house.",
+            "entity_b": "The router provides good range and security with encryption."
+        }
+    },
+    "Speed": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router is fast and offers a speed gain over older models.",
+            "entity_b": "The router's wireless speed and range are good."
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Firmware updates improved the router's performance and functionality.",
+            "entity_b": "The router is flexible for 3rd Party firmware, such as Tomato."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Linksys would not answer the phone for support. Tech support resolved the issue quickly after a lengthy call."
+        }
+    },
+    "Power": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router requires periodic power recycling and eventually stopped working.",
+            "entity_b": "The unit did not come with a power adapter."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router's reset button is inconveniently located. The router has a juvenile user interface and disconnects frequently.",
+            "entity_b": "The router was locked with a custom firmware installation."
+        }
+    },
+    "Software": {
+        "comm": "The setup software is poor.",
+        "cont": {
+            "entity_a": "Requires the use of Linksys software for setup.",
+            "entity_b": "Can be bypassed with online tools."
+        }
+    },
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Signal quality varies from excellent to good inside an apartment.",
+            "entity_b": "Provides good signal range and speed."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not compatible with the WRE54G range extender. Limited compatibility with SlingBox equipment.",
+            "entity_b": "The router is not Mac-friendly and requires tech support for setup."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router worked well for a few months but eventually failed.",
+            "entity_b": "The router provides reliable connectivity and is easy to maintain."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router's performance is improved with DD-WRT firmware.",
+            "entity_b": "The router works well after setup, providing good access throughout a house."
+        }
+    },
+    "Reset": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires periodic resets due to connection issues.",
+            "entity_b": "The router has good range but requires frequent resets."
+        }
+    },
+    "Build": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The product looks well-made.",
+            "entity_b": ""
+        }
+    },
+    "Reception": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The product was received promptly and works as advertised.",
+            "entity_b": ""
+        }
+    }
+}

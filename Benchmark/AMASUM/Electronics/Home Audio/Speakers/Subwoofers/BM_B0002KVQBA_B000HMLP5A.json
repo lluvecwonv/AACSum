@@ -1,0 +1,79 @@
+{
+    "Sound": {
+        "comm": "Produces great sound quality.",
+        "cont": {
+            "entity_a": "Sounds great for blues and classical music. Produces room-filling sound with deep lows. Sound is deeper and fuller, enhancing the listening experience.",
+            "entity_b": "Improved audio quality significantly. Provides natural sound for music and movies. Excellent bass and sound quality."
+        }
+    },
+    "Bass": {
+        "comm": "Provides strong bass.",
+        "cont": {
+            "entity_a": "Produces great lows, filling a large media room effectively. Bass can be adjusted well, providing clean, deep sound without distortion. Offers strong, punchy bass for under $150. Sufficient bass for a 15x20 open room with 12-foot ceilings.",
+            "entity_b": "Powerful bass that can rattle walls. Tighter bass compared to older Onkyo models. Fills large rooms with bass."
+        }
+    },
+    "Installation": {
+        "comm": "Installation is straightforward.",
+        "cont": {
+            "entity_a": "Installation is straightforward with RCA-to-RCA connection. Installation is easy with understandable documentation.",
+            "entity_b": ""
+        }
+    },
+    "Build": {
+        "comm": "Compact with solid build quality.",
+        "cont": {
+            "entity_a": "The box is large and somewhat heavy, but well built with a gorgeous finish.",
+            "entity_b": "Too big with non-removable grill and fuse issues. Rubberized feet are better than cheap plastic."
+        }
+    },
+    "Auto On/Off": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The auto on/off feature is unreliable.",
+            "entity_b": "Automatic shutoff works well. Auto-shutoff happens too quickly, causing cracking sounds. Automatically turns on with signal and off after inactivity."
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Unbeatable value at the $100 price point.",
+            "entity_b": "Phenomenal LFE for the price."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not ideal for large rooms as it doesn't rattle walls or handle ultra-low frequencies. Compact with solid build quality and clean look.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Crossover and volume controls are useful.",
+            "entity_b": "Adjustable frequency, volume control, and phase switch."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "First subwoofer had a hum and didn't auto-off; the second distorts at low frequencies due to port design. Quality control issues, possibly not designed for lower-end frequencies. Has a load hum and blows fuses after seven months of use.",
+            "entity_b": "Replaced Polk PSW10 due to speaker cone damage. Pops when turning on and requires loud volume to activate."
+        }
+    },
+    "Application": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great for a living room application. Great addition to a home theater system with rich lows and tight punch.",
+            "entity_b": "Adds depth to music and movies."
+        }
+    },
+    "Room Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rattles the room, even in a small room. Fills rooms effectively on a low budget.",
+            "entity_b": "Fills large rooms with bass."
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "Torque": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The actual torque is way over what is dialed in. Within 5% of all torque values checked with a measuring device.",
+            "entity_b": "Bi-directional and accurate within +- 0.005%."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Used as a breaker bar in an emergency without losing accuracy. Performed well for three uses, but lock nut fell out and it started to skip teeth.",
+            "entity_b": "Durable and lasted 5 years of daily use."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Very bulky and hard to read. Long length makes it easy to use on bigger bolts and nuts. Heavy and provides lots of leverage.",
+            "entity_b": "Too long to fit in the case at its lowest setting. Long handle provides good leverage."
+        }
+    },
+    "Readability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The gauge is difficult to read due to small numbers and chrome finish. Difficult to read scale, especially in shade. Numbers are hard to read. Difficult to read the dial when setting the wrench.",
+            "entity_b": "Numbers could be easier to read."
+        }
+    },
+    "Adjustment": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Easy adjustments with a 25\" long handle, great for torquing wheels. Locking dial sometimes doesn't lock the measurement completely. Locking mechanism for torque setting sometimes comes loose.",
+            "entity_b": "Smooth and quiet adjustment tang. Easy to set and clicks cleanly. Locking mechanism is well built."
+        }
+    },
+    "Functionality": {
+        "comm": "Works both clockwise and counter-clockwise.",
+        "cont": {
+            "entity_a": "Comes with a handwritten calibration sheet showing close values.",
+            "entity_b": "Reversing switch is easy to move accidentally. Ratchet direction toggle is loose."
+        }
+    },
+    "Calibration": {
+        "comm": "Comes with a calibration certificate.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Comes with a calibration card."
+        }
+    },
+    "Usability": {
+        "comm": "Easy to use.",
+        "cont": {
+            "entity_a": "Not intended for everyday use; better for occasional home use. Easy to use, comes in a nice case. A low-cost torque wrench, great value for occasional use.",
+            "entity_b": "Solid feel and easy to use. Made in USA, high quality. Very high quality and easy to set."
+        }
+    },
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Extremely heavy-duty, comes with a great case.",
+            "entity_b": "Made with a lot of plastic. Metal locking collar instead of plastic. Nice plastic case with a calibration certification."
+        }
+    }
+}

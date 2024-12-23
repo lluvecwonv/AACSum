@@ -1,0 +1,65 @@
+{
+    "Stovetop Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Worked great on a gas stovetop but scratched on an electric stovetop.",
+            "entity_b": ""
+        }
+    },
+    "Non-stick": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Non-stick coating started to peel after less than a year of use. Non-stick surface scratches easily. Non-stick property diminishes over time. Non-stick coating lasts for a long time with hand washing.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Developed cracks and scratches within 5-6 months despite careful use. Not as tough as All Clad pans; gets micro scratches from salt grains.",
+            "entity_b": "Dented despite careful handling."
+        }
+    },
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Carbon-like material developed on the pan within the first 5 minutes of usage. Not hard anodized as marketed.",
+            "entity_b": "Sturdy metal and high quality. Thin material heats up quickly."
+        }
+    },
+    "Cooking Performance": {
+        "comm": "Heats evenly.",
+        "cont": {
+            "entity_a": "Does not burn food. Great for eggs, crepes, pancakes, and grilled cheese sandwiches. The pan is perfect for crepes. Versatile for various dishes like pancakes, hamburgers, and eggs. Crepes have never been this good. Perfect size for crepes. Good heat distribution.",
+            "entity_b": "Suitable for steaming and keeping food warm."
+        }
+    },
+    "Handle": {
+        "comm": "Handle stays cool.",
+        "cont": {
+            "entity_a": "Handle is sturdy. Handle is comfortable and long enough for maneuvers.",
+            "entity_b": "Handle attachment not secure; requires a larger screw. Wooden cap tends to get loose. Knob handle remains wobbly after secure attachment."
+        }
+    },
+    "Ease of Cleaning": {
+        "comm": "Easy to clean.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Fits well with wok and easy to store."
+        }
+    },
+    "Weight": {
+        "comm": "Lightweight.",
+        "cont": {
+            "entity_a": "With a nice weight balance.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Hand-hammered effect makes steaming and cooking gravies easier. Rounded lip makes balancing over cookware difficult. Lid size not as advertised."
+        }
+    }
+}

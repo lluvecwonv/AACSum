@@ -1,0 +1,72 @@
+{
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The device lacks modern firmware updates, making it incompatible with newer operating systems. The device can function well with older systems like Windows XP but not with newer ones like Vista.",
+            "entity_b": ""
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The installation wizard on the CD does not work, causing installation difficulties. The setup process is complex and requires technical expertise to complete successfully.",
+            "entity_b": "Setup is generally easy, though advanced features may require technical expertise."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Technical support is ineffective, particularly with Windows Vista compatibility issues. Linksys does not provide adequate support for Vista and newer operating systems. The device is no longer supported by Linksys, complicating setup and usage.",
+            "entity_b": "Technical support is available but only through email communication."
+        }
+    },
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Once installed, the device connects well over distances but struggles with wireless security protocols. The product is prone to intermittent performance and unreliable connections.",
+            "entity_b": "The router is extremely stable with fantastic range. The router maintains a stable signal and rarely needs resetting."
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Software design is poor, causing issues with audio streaming and compatibility with certain applications. The hardware works well, but the outdated software limits its usability.",
+            "entity_b": ""
+        }
+    },
+    "Documentation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The product documentation is inadequate, making setup challenging without prior networking experience.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The music streaming quality is poor with frequent cutouts.",
+            "entity_b": "The router performs well with multiple devices connected simultaneously. Some users experienced issues with signal drops and slow speeds with multiple users."
+        }
+    },
+    "Configuration": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The product is difficult to configure without a Linksys router.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The router interface is user-friendly with excellent security features. Some users experienced overheating issues when stacked with other devices."
+        }
+    },
+    "Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "It supports advanced WiFi encryption and works well with X-Box Live and Nintendo Wi-Fi. It has a gigabit switch, making it suitable for high-speed connections. The Game Fuel feature supports VoIP nicely. The router is a good solution for gaming and heavy internet use. The router lacks 802.11n specs but has a MIMO system for higher speeds."
+        }
+    }
+}

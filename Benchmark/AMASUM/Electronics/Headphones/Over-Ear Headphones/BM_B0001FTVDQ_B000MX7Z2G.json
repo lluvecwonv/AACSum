@@ -1,0 +1,65 @@
+{
+    "Sound": {
+        "comm": "Good sound quality.",
+        "cont": {
+            "entity_a": "Great sound quality with clean acoustics and crisp bass. Not the best for bass enthusiasts; other models offer better bass output.",
+            "entity_b": "Lacks strong bass."
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable fit.",
+        "cont": {
+            "entity_a": "Comfortable fit for long durations, even for glasses wearers.",
+            "entity_b": "Comfortable clip-on design, more so than earbuds. Secure fit during workouts, but may cause chafing in hot weather."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sound leakage due to open-ear design, not ideal for quiet environments.",
+            "entity_b": "Retractable cord is convenient but only one side retracts."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durable over many years despite minor plastic cracking.",
+            "entity_b": "Durability concerns with thin cables and non-retracting wire. Mixed experiences with durability; some units failed quickly."
+        }
+    },
+    "Cable": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Long cable can be cumbersome but is replaceable.",
+            "entity_b": ""
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good value for the price, especially with modifications for enhanced bass.",
+            "entity_b": ""
+        }
+    },
+    "Usage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Suitable for a wide range of music genres and uses.",
+            "entity_b": "Good for everyday listening, but not ideal for noisy environments."
+        }
+    },
+    "Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sennheiser provides good customer service for replacements.",
+            "entity_b": ""
+        }
+    },
+    "Adapter": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires an adapter for 3.5 mm devices, which can be awkward.",
+            "entity_b": ""
+        }
+    }
+}

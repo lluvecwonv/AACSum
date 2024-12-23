@@ -1,0 +1,65 @@
+{
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Experiences start issues at temperatures below 70°F. Fast recovery time and refills tank quickly. Initial good performance, but later runs constantly and overheats. Fills up to 120 psi in about 90 seconds. Fast recovery time with 4+ cfm. Fast recovery time and dependable operation. Good power and quick recharge.",
+            "entity_b": "Break-in period is essential for optimal performance. Maintains good air pressure. Fast pressure build-up. High maximum pressure. Maintains pressure well."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Heaviest portable compressor without wheels. Compact design is convenient. Portable, but requires direct power connection. Compact with high CFM and PSI. Portable but heavy, lacks wheels. Heavy with no built-in hose wrap. Light and easy to use. Portable but heavy.",
+            "entity_b": "Portable and easier to carry than larger models. Compact and portable."
+        }
+    },
+    "Noise": {
+        "comm": "Loud operation.",
+        "cont": {
+            "entity_a": "Relatively quiet for a compressor. Quieter than oil-free compressors due to oil lubrication. Short refresh rate and relatively quiet. Quiet operation with quick re-charge.",
+            "entity_b": "Noisy but expected for a compressor. Loud operation is a common complaint. Loud operation, requires hearing protection."
+        }
+    },
+    "Build Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Brass drain valves need to be tightened to avoid leaks. Gauges are plastic but well protected. Good build quality, but heavy and loud. Oil-lubricated, lasts longer than oil-less compressors. Modeled after a durable Emglo model. Some units may arrive with damage or defects. Well-built and performs well for its size. High quality for the price.",
+            "entity_b": "Solid build quality and easy to set up. Durable and well-built for its price. Some units arrive with leaks or defects."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Switch issues led to bypassing for functionality. Does not operate well in cold weather, trips overload switch. Requires a dedicated 20 amp circuit for optimal operation. Struggles with long extension cords. Requires regular draining to prevent rust.",
+            "entity_b": "Pressure switch issues in some units. Not powerful enough for high air flow tools. Requires regular maintenance to prevent rust."
+        }
+    },
+    "Suitability": {
+        "comm": "Good for home use but not for professional applications.",
+        "cont": {
+            "entity_a": "Suitable for framing nailer and smaller finish nailers. Good for framing and finish work.",
+            "entity_b": "Suitable for finish nail guns and small tasks. Good for light-duty tasks. Good for DIY and small projects. Good for inflating tires and small tasks."
+        }
+    },
+    "Accessories": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Supplied with the appropriate amount of oil and airtight quick connect fitting. Missing oil on delivery, and poor customer service from seller.",
+            "entity_b": "Includes two quick connects. Comes with a long hose and assortment of hose tips. Includes a pressure gauge and hose. Lacks accessories despite advertisement."
+        }
+    },
+    "Price": {
+        "comm": "Good value for the price.",
+        "cont": {
+            "entity_a": "Best compressor for the price.",
+            "entity_b": "Durable and well-built for its price."
+        }
+    },
+    "Temperature Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compressor may not start in temperatures below 50°F. Cold weather performance is problematic.",
+            "entity_b": ""
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "Accuracy": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Offers nearly as good accuracy as a wired mouse. Excellent accuracy for gaming.",
+            "entity_b": ""
+        }
+    },
+    "Ergonomics": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Ergonomics are excellent, providing comfort for right-handed users.",
+            "entity_b": "Ergonomic design with excellent battery life using NiMH rechargeables. Not suitable for left-handed users. Some users report difficulty with button presses due to ergonomic design."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Includes two batteries for easy swapping. Battery life depletes rapidly during moderate gaming. Battery life typically lasts 7-10 hours on a full charge. Switching batteries frequently can be annoying. Battery life is short, requiring daily changes with heavy use. Batteries need frequent replacement, often lasting less than a day. Fast battery switch is convenient.",
+            "entity_b": "Rechargeable batteries last about three months with 8 hours of daily use. Excellent battery life using NiMH rechargeables."
+        }
+    },
+    "Interference": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Issues with WiFi interference causing performance problems. Mouse is sensitive to magnetic or WiFi interference, causing signal drops. Sporadic pointer motion due to wireless interference.",
+            "entity_b": "Does not operate on 2.4GHz, limiting range."
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Mouse is comfortable and stylish.",
+            "entity_b": "Mouse is comfortable with lots of options."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Texture of the sides is rough plastic, unlike previous models with soft rubber.",
+            "entity_b": "Plastic around the lower side is hard, lacking cushioning for thumb rest. Mouse is shaped well for use as both a mouse and remote."
+        }
+    },
+    "Weight": {
+        "comm": "Mouse is heavy.",
+        "cont": {
+            "entity_a": "Does not fit well into the palm.",
+            "entity_b": "Mouse is large but still portable."
+        }
+    },
+    "Usability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Pointer movement can be jerky at times. Mouse stutters occasionally while gaming. Cursor skipping and screen jumping. Mouse can freeze periodically, affecting usability.",
+            "entity_b": "Mouse sometimes struggles on tables with wooden patterns. Cursor jumping issues may require exchanging the mouse. Some users experience erratic behavior and spontaneous volume increases."
+        }
+    },
+    "Buttons": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some users experience the left button wearing out and getting stuck over time. Mouse is comfortable with customizable buttons.",
+            "entity_b": "Left-click button can wear out over time. Offers volume, track control, and customizable button functions."
+        }
+    },
+    "Scroll": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Mouse occasionally suffers from scroll wheel issues.",
+            "entity_b": "Features a 4D scroll wheel."
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Range is excellent for media operations, up to 30 ft."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Mouse works well with Mac. Some media programs are not fully supported."
+        }
+    },
+    "Resolution": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Allows for on-the-fly resolution changes for accuracy and quick reflexes in gaming.",
+            "entity_b": ""
+        }
+    },
+    "Convenience": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Excellent accuracy and cordless convenience for gaming.",
+            "entity_b": ""
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "USB receiver is about two inches long, requiring frequent plugging and unplugging with laptops."
+        }
+    }
+}

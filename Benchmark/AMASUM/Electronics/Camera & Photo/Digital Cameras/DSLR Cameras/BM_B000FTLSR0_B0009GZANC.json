@@ -1,0 +1,184 @@
+{
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera is small enough to travel in a large purse.",
+            "entity_b": ""
+        }
+    },
+    "Control": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Provides more control than digital devices.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "Performs flawlessly.",
+        "cont": {
+            "entity_a": "Provides higher quality results than the Kodak P850.",
+            "entity_b": "Great image quality."
+        }
+    },
+    "Feature": {
+        "comm": "Good entry-level DSLR.",
+        "cont": {
+            "entity_a": "Transition from point-and-shoot to DSLR is clean and effortless with the K100D.",
+            "entity_b": "Dedicated buttons for ISO and White Balance."
+        }
+    },
+    "Image Stabilization": {
+        "comm": "Effective image stabilization.",
+        "cont": {
+            "entity_a": "Built-in anti-shake is a must-have feature and superior to expensive anti-shake lenses.",
+            "entity_b": ""
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Using Sanyo eneloop rechargeables works great, overcoming concerns about AA battery life.",
+            "entity_b": "No battery included in some units."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Works with old K lenses if they have electronic dots on the inside ring.",
+            "entity_b": "Compatible with most F-mount Nikon lenses."
+        }
+    },
+    "Cost": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comparable features to Nikon and Canon at a fraction of the cost.",
+            "entity_b": "Highly affordable, offering great value for beginners."
+        }
+    },
+    "Lens": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The 18-55mm kit lens offers a lot of quality for very little cost.",
+            "entity_b": "Recommended accessories include a telephoto lens, filters, and a flash."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sturdy and durable, lasting many years and still working perfectly.",
+            "entity_b": ""
+        }
+    },
+    "Value": {
+        "comm": "Good entry-level DSLR value.",
+        "cont": {
+            "entity_a": "Compatible with existing Pentax lenses.",
+            "entity_b": "Offering great value for beginners."
+        }
+    },
+    "Defect": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some dead pixels present.",
+            "entity_b": "Some cameras may have non-US cords, indicating a grey market issue."
+        }
+    },
+    "Picture Quality": {
+        "comm": "Takes good pictures.",
+        "cont": {
+            "entity_a": "Outstanding outdoor results and very good indoor results.",
+            "entity_b": "Great picture quality but limited by lower megapixels for large prints."
+        }
+    },
+    "User-Friendliness": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Extremely user-friendly with excellent image stabilization.",
+            "entity_b": "Easy to use with a full feature set."
+        }
+    },
+    "Color": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good color fidelity and performance in low light.",
+            "entity_b": ""
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The shutter is loud.",
+            "entity_b": ""
+        }
+    },
+    "Display": {
+        "comm": "",
+        "cont": {
+            "entity_a": "LCD screen displays can go dark before changes are made.",
+            "entity_b": "No Black and White mode or illuminated display."
+        }
+    },
+    "Lens Compatibility": {
+        "comm": "Compatible with a wide range of lenses.",
+        "cont": {
+            "entity_a": "Compatible with many K-mount and M42 screw mount lenses.",
+            "entity_b": "Works well with older Nikkor AF lenses."
+        }
+    },
+    "Focus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Auto-focus works well, but manual focus may be required for certain subjects.",
+            "entity_b": "Auto-focus setting isn't perfect but satisfactory for the price."
+        }
+    },
+    "Battery Issue": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Battery issues require using high-capacity NiMH rechargeables.",
+            "entity_b": ""
+        }
+    },
+    "Sensitivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Takes good pictures with accurate colors and high ISO sensitivity.",
+            "entity_b": ""
+        }
+    },
+    "Affordability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Affordable with legendary Pentax lens quality.",
+            "entity_b": ""
+        }
+    },
+    "Memory": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Requires 2GB or smaller SD cards."
+        }
+    },
+    "Accessory": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Lacks SD card and camera strap."
+        }
+    },
+    "Maintenance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Requires sensor cleaning for optimal performance."
+        }
+    },
+    "Mechanism": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The aperture mechanism may fail, resulting in repair costs."
+        }
+    }
+}

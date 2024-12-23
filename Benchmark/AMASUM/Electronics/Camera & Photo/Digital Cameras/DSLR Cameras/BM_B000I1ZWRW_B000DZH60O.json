@@ -1,0 +1,93 @@
+{
+    "Compatibility": {
+        "comm": "Compatible with older lenses.",
+        "cont": {
+            "entity_a": "Compatible with existing Canon lenses.",
+            "entity_b": "Compatible with older Minolta lenses."
+        }
+    },
+    "Usability": {
+        "comm": "Easy to use.",
+        "cont": {
+            "entity_a": "Reliable and easy to figure out with plenty of functions.",
+            "entity_b": "Easy to operate and produces excellent results."
+        }
+    },
+    "Design": {
+        "comm": "Fits well in the hands.",
+        "cont": {
+            "entity_a": "Compact and easy to handle for those with small hands.",
+            "entity_b": "High performance in a compact, easy-to-handle body."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Quick change on point of focus and a larger LCD viewer.",
+            "entity_b": "Fast response time and continuous mode at 3 frames per second."
+        }
+    },
+    "Quality": {
+        "comm": "Good picture quality.",
+        "cont": {
+            "entity_a": "Takes excellent high-res digital photos.",
+            "entity_b": "Vivid colors and terrific clarity."
+        }
+    },
+    "Price": {
+        "comm": "Good value.",
+        "cont": {
+            "entity_a": "Solid Canon quality at a reasonable price.",
+            "entity_b": "Good value for basic photography."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Reliable with long battery life."
+        }
+    },
+    "Image Stabilization": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Image-stabilization lens needed for low-light shots.",
+            "entity_b": "Anti-shake function allows for sharp pictures at low shutter speeds."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sturdy and durable, used in extreme weather conditions.",
+            "entity_b": ""
+        }
+    },
+    "Beginner Suitability": {
+        "comm": "Great for beginners.",
+        "cont": {
+            "entity_a": "Perfect starter DSLR for beginners.",
+            "entity_b": "Great for beginners with intuitive controls."
+        }
+    },
+    "Performance": {
+        "comm": "Reliable performance.",
+        "cont": {
+            "entity_a": "Fast and responsive.",
+            "entity_b": "Fast, clear, and accurate with steady feature."
+        }
+    },
+    "Accessories": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Came with a 15-58 mm lens, two battery packs, and a charger.",
+            "entity_b": "Kit includes spare battery and 2 GB compact flash card."
+        }
+    },
+    "Controls": {
+        "comm": "Controls are easy to access.",
+        "cont": {
+            "entity_a": "Controls are easy to access and understand.",
+            "entity_b": "Conveniently located controls."
+        }
+    }
+}

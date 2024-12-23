@@ -1,0 +1,86 @@
+{
+    "Camera": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera handles harsh lighting conditions similar to today's cell phones. Solid, heavy, utilitarian body with no video features. The camera performs well for action and still photography. The camera and lens arrived in well-protected packaging, with performance as if new.",
+            "entity_b": "The D50 was converted to an infrared-only camera and works well for astrophotography. Older camera model but still performs excellently. The camera stopped working after a month due to a broken aperture mechanism."
+        }
+    },
+    "Photo Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "High image quality with minimal noise at ISO 200. Excellent picture quality for its price range.",
+            "entity_b": "Takes great pictures and is user-friendly. Great clarity, speed, ease of use, and picture quality."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with old film AF lenses and manual lenses; manual focus requires setting aperture with the lens ring and shutter speed with the front wheel.",
+            "entity_b": "Compatible with most F-mount Nikon lenses."
+        }
+    },
+    "Sensor": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The APS-C sensor is considered one of the best 6MP sensors. 6.1MP is sufficient for quality photography.",
+            "entity_b": "Easy to use with full features, though lower megapixel limits poster-sized prints."
+        }
+    },
+    "Battery Life": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Battery life is exceptional, lasting for weeks. Battery life is impressive, even after taking 500+ photos in raw format.",
+            "entity_b": "Flash didn't work and no battery was included."
+        }
+    },
+    "Body": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durable and well-built body. Camera body in great condition, with a new charger provided.",
+            "entity_b": "Camera was better than described and works flawlessly. The camera body and lens were in perfect condition upon arrival."
+        }
+    },
+    "Lens": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with old film AF lenses and manual lenses.",
+            "entity_b": "Compatible with most F-mount Nikon lenses."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durable and well-built body.",
+            "entity_b": "The camera stopped working after a month due to a broken aperture mechanism."
+        }
+    },
+    "Flash": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Synchronizes to 1/500 sec in flash mode with external Nikon flash SB-600.",
+            "entity_b": "Flash didn't work and no battery was included."
+        }
+    },
+    "Storage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "CF card holder is ceramic and prone to cracking; images are downloaded via USB to avoid card removal.",
+            "entity_b": "Requires 2GB or smaller SD cards. Camera does not support current memory card types."
+        }
+    },
+    "Usage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great entry-level DSLR with a variety of options and manual settings. The D70S is a good beginner to intermediate DSLR.",
+            "entity_b": "Great for beginners with autofocus, aperture setting, and shutter speed options. Perfect for learning about DSLR photography."
+        }
+    },
+    "Condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Camera body in great condition, with a new charger provided.",
+            "entity_b": "Camera was better than described and works flawlessly. The camera body and lens were in perfect condition upon arrival."
+        }
+    }
+}

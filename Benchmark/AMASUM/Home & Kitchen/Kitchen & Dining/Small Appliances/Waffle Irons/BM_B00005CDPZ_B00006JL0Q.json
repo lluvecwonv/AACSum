@@ -1,0 +1,107 @@
+{
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Plastic clasp broke after a few uses; poor design choice to use plastic near heat.",
+            "entity_b": "Plastic roller included is not as traditional but functional."
+        }
+    },
+    "Thickness": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Pizzelles are very thick, requiring the lid to be locked down each time.",
+            "entity_b": "Produces consistent, evenly browned krumkakes."
+        }
+    },
+    "Accessories": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Included accessories like spoon, cannoli roller, and recipe book were missing.",
+            "entity_b": "Comes with several recipes that work well."
+        }
+    },
+    "Preparation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Batter is easy to make and quickly done.",
+            "entity_b": "Heats up quickly and easy to adjust for desired krumkake outcome."
+        }
+    },
+    "Practice": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires practice to determine the right amount of batter to avoid overflow.",
+            "entity_b": ""
+        }
+    },
+    "Coating": {
+        "comm": "Non-stick surface makes it easy to clean.",
+        "cont": {
+            "entity_a": "Non-stick coating worked well initially but deteriorated over time.",
+            "entity_b": "Non-stick surface makes it easy to remove krumkake."
+        }
+    },
+    "Indicator": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Green and red indicator lights are unreliable.",
+            "entity_b": "Durability issues with latch and red light not functioning properly."
+        }
+    },
+    "Storage": {
+        "comm": "Compact and easy to store.",
+        "cont": {
+            "entity_a": "Makes three pizzelles at a time.",
+            "entity_b": ""
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Small pizzelles are ideal for cookie trays and ice cream sandwiches.",
+            "entity_b": ""
+        }
+    },
+    "Control": {
+        "comm": "Consistent thickness and browning control.",
+        "cont": {
+            "entity_a": "Easy-to-use dial.",
+            "entity_b": "Temperature control is effective but some units have uneven cooking."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Locking arm and handle have durability issues.",
+            "entity_b": "Some issues with uneven cooking and latch durability."
+        }
+    },
+    "Functionality": {
+        "comm": "Easy to clean.",
+        "cont": {
+            "entity_a": "Great for making a variety of flavors and can be used for cannoli shells.",
+            "entity_b": "Machine is easy to use and adjust, making consistent krumkakes."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some issues with the plastic latch breaking and lack of response from customer service.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "Machine works well.",
+        "cont": {
+            "entity_a": "The ready light is not reliable.",
+            "entity_b": "Good for making traditional krumkakes without the mess of stovetop irons."
+        }
+    },
+    "Cooking": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Bakes unevenly, with one side browning faster than the other. Some users experience uneven cooking, particularly in the center."
+        }
+    }
+}

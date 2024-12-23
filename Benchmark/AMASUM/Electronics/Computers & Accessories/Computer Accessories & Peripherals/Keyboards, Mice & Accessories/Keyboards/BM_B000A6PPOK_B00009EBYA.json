@@ -1,0 +1,79 @@
+{
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Ergonomic design prevents carpal tunnel and increases typing speed. Stylish design, but thin font and off-white printing wear off quickly. Built-in wrist pads and split-keyboard design improve comfort. Comfortable layout but large size takes up desk space.",
+            "entity_b": "Wireless keyboard praised for convenience and portability. Physical design is flimsy and not universally compatible."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durable withstanding heavy use, but keys can wear out over time. Inconsistent quality with some keyboards failing prematurely.",
+            "entity_b": "Some models stop working randomly, requiring resets or replacements."
+        }
+    },
+    "Usability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Keys require significant pressure and can cause hand pain. Space bar and other keys may stick or require excessive force. Printing on keys wears off quickly, affecting usability.",
+            "entity_b": "Keys not in standard positions can require adjustment. Loud clicking noise can be disruptive. Split-up space bar keys can be problematic."
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Built-in wrist pads and split-keyboard design improve comfort.",
+            "entity_b": ""
+        }
+    },
+    "Backlight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not backlit, which can be inconvenient for some users.",
+            "entity_b": ""
+        }
+    },
+    "Wireless": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wireless capability is missed in newer models.",
+            "entity_b": "Wireless keyboard praised for convenience and portability."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with PCs and Macs with additional software.",
+            "entity_b": "Works well with specific devices like PSP 1000 and Dell Axim x51v. Compatible with Palm TX but has connection issues in landscape mode. Good for specific PDAs but not universally reliable."
+        }
+    },
+    "Affordability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Affordable compared to other ergonomic keyboards.",
+            "entity_b": "Infrared option is more affordable than Bluetooth."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Customer service may provide incorrect compatibility information."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Battery life is short, requiring frequent replacements."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "PDA holder is flimsy and does not hold devices securely."
+        }
+    }
+}

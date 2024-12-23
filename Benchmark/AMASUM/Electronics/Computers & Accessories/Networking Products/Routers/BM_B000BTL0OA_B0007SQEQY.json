@@ -1,0 +1,100 @@
+{
+    "Network": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Marvel chipset bug causes Wi-Fi network crashes with patched Android devices.",
+            "entity_b": "Signal strength reduces with walls between laptop and router."
+        }
+    },
+    "Frequency": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router stops broadcasting on 2.4 GHz and requires frequent reboots.",
+            "entity_b": ""
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Firmware modification allows VPN setup, providing an encrypted path. Open source firmware support enhances customization options.",
+            "entity_b": ""
+        }
+    },
+    "Traffic": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router handles heavy traffic well, with easy web-interface navigation.",
+            "entity_b": ""
+        }
+    },
+    "Coverage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wi-Fi coverage is excellent, but higher frequency band performance is poor.",
+            "entity_b": ""
+        }
+    },
+    "Reboots": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router requires frequent reboots after recent firmware update. Frequent Wi-Fi disconnections necessitate frequent reboots. Router performance degrades under load, causing random reboots.",
+            "entity_b": "Requires daily reboot for continued functionality."
+        }
+    },
+    "Setup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Setup wizard is problematic; manual configuration recommended.",
+            "entity_b": "Setup is easy but shared mode has DNS passthrough issues. Easy to set up and use for creating a hotspot."
+        }
+    },
+    "Overheating": {
+        "comm": "Router gets hot.",
+        "cont": {
+            "entity_a": "Router overheats due to lack of cooling fan.",
+            "entity_b": "Requires ventilation."
+        }
+    },
+    "Customization": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router lacks advanced customization with basic firmware. Router is DD-WRT compatible for enhanced control.",
+            "entity_b": ""
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service sent a replacement for a faulty unit.",
+            "entity_b": "Customer support is excellent."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Does not work with DSL modems."
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Good for traveling, with a carry case and light weight."
+        }
+    },
+    "Security": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "WPA configuration is simple, but WEP is problematic."
+        }
+    },
+    "Warranty": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router stopped working after four months, out of warranty."
+        }
+    }
+}

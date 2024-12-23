@@ -1,0 +1,191 @@
+{
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router initially had good range but had serious incompatibility problems with several devices.",
+            "entity_b": "The concept is great but the lack of firmware updates limits compatibility with modern operating systems."
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The Buffalo WHR-HP-G54 was bought as a replacement and works great with excellent range and fast performance.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The Buffalo WHR-HP-G54 was bought as a replacement and works great with excellent range and fast performance.",
+            "entity_b": "The device performs well when it works but is unreliable."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router stopped working after a month and would not respond to resets.",
+            "entity_b": "The device is unreliable and frequently loses connection."
+        }
+    },
+    "Configuration": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Changing the subnet address is not possible, restricting remote access via VPN.",
+            "entity_b": "The device is hard to configure due to complex software protection."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service was unhelpful and had long wait times.",
+            "entity_b": "Technical support is not helpful and lacks knowledge of necessary software updates."
+        }
+    },
+    "Tech Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Linksys tech support was helpful in resolving setup problems that required a firmware update.",
+            "entity_b": "Vista support is poor, requiring multiple chat sessions with Linksys."
+        }
+    },
+    "Distance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router improved distance and signal with SRX400 enhanced cards.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router initially worked well but started having problems after about a year.",
+            "entity_b": ""
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Firmware updates fixed initial connection drops.",
+            "entity_b": "The concept is great but the lack of firmware updates limits compatibility with modern operating systems."
+        }
+    },
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router increased speed significantly with new PCI card installation.",
+            "entity_b": ""
+        }
+    },
+    "Wireless": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router provides the greatest wireless range among other routers used.",
+            "entity_b": "The device works well with wired connections but struggles wirelessly."
+        }
+    },
+    "Connection": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Defective units and high drop rates led to returns.",
+            "entity_b": "Sound quality is poor and music cuts out frequently."
+        }
+    },
+    "Setup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Setup is easy for those with networking knowledge.",
+            "entity_b": "The installation process is tedious and not user-friendly."
+        }
+    },
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router sometimes drops connections but can be remedied by power cycling.",
+            "entity_b": "Wireless security features cause spotty connectivity."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Linksys support is generally knowledgeable and helpful.",
+            "entity_b": "Technical support is not helpful and lacks knowledge of necessary software updates."
+        }
+    },
+    "Speed": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router has fast throughput and many configuration options.",
+            "entity_b": ""
+        }
+    },
+    "Issues": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router's range and speed are good but require time with tech support to resolve issues.",
+            "entity_b": "The product's last supported operating system is Windows XP."
+        }
+    },
+    "Sensitivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router is sensitive to power surges and has firmware full of bugs.",
+            "entity_b": ""
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Setup can be difficult, requiring hard resets.",
+            "entity_b": "The installation process is complex, even for experienced users."
+        }
+    },
+    "Strength": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router has better range than previous models but signal strength is uncertain.",
+            "entity_b": ""
+        }
+    },
+    "Third-Party Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router's firmware is buggy and lacks third-party support.",
+            "entity_b": ""
+        }
+    },
+    "Signal Strength": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router increased signal strength significantly but had issues with dropped connections.",
+            "entity_b": ""
+        }
+    },
+    "Ease of Setup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router is easy to set up but has problematic firmware leading to connectivity issues.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility with OS": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The product is not compatible with 64-bit Vista systems."
+        }
+    },
+    "Audio": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The device loses audio from the PC when activated."
+        }
+    },
+    "Utility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The device requires frequent utility reloads to function properly."
+        }
+    }
+}

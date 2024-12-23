@@ -1,0 +1,51 @@
+{
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The teapot's glass is fragile and prone to breaking, especially the spout. The glass teapot is made in Japan, but the stainless steel strainer is made in China. The teapot's thin glass can be fragile but holds up well with careful handling. The teapot is attractive and made from quality borosilicate glass.",
+            "entity_b": "The product is made of plastic, not glass, which may leach chemicals. The plastic material can stain and degrade quickly."
+        }
+    },
+    "Infuser": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The included infuser is not of high quality and can oxidize and ruin the tea over time. The large strainer basket allows tea leaves to expand for better flavor.",
+            "entity_b": "The product's lid and filter can be difficult to clean and maintain."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The teapot is well-designed, easy to clean, and pours without spilling. The spout is designed to prevent dribbling when pouring.",
+            "entity_b": "The product is easy to use and clean, with a convenient design for brewing loose leaf tea. The design is convenient but requires a plate or saucer to catch leaks."
+        }
+    },
+    "Capacity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The teapot is suitable for brewing two medium-sized mugs of tea.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The product is not durable and has a tendency to break down over time."
+        }
+    },
+    "Ease of Use": {
+        "comm": "The product is easy to use and clean.",
+        "cont": {
+            "entity_a": "The teapot is lightweight and dishwasher safe.",
+            "entity_b": "The product is microwave and dishwasher safe."
+        }
+    },
+    "Leakage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The product leaks from the bottom, creating a mess. The leaking issue worsens over time with usage. The valve mechanism is sensitive and prone to leakage."
+        }
+    }
+}

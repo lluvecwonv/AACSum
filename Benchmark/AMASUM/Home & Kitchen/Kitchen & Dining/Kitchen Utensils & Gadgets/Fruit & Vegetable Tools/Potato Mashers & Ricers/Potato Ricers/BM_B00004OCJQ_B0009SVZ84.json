@@ -1,0 +1,58 @@
+{
+    "Material": {
+        "comm": "Stainless steel construction, dishwasher safe.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Made of good quality stainless steel."
+        }
+    },
+    "Handle": {
+        "comm": "Comfortable handle.",
+        "cont": {
+            "entity_a": "The front handle with the black grip fell off after two uses. Sharp edges under the handle can be a hazard during hand cleaning. The handles are comfortable to use with good grips.",
+            "entity_b": "The pin comes out too easily, making it inconvenient."
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The basket is small, not fitting a large apple and doesn't sit well across a big pot.",
+            "entity_b": "Large capacity for quick ricing. Large size allows quick processing of a large quantity of potatoes."
+        }
+    },
+    "Functionality": {
+        "comm": "Produces creamy mashed potatoes without lumps.",
+        "cont": {
+            "entity_a": "Produces very smooth and creamy mashed potatoes. The mashing plate is smaller than the basket, causing about 20% of the potatoes to be wasted. Not suitable for processing carrots. Not suitable for large quantities of potatoes.",
+            "entity_b": "Produces smooth and fluffy mashed potatoes. Good for draining thawed spinach and squeezing zoodles and cauliflower rice. Potatoes may squeeze through gaps instead of being pressed through."
+        }
+    },
+    "Cleaning": {
+        "comm": "Difficult to clean.",
+        "cont": {
+            "entity_a": "Easy to clean after use, but not returnable if broken. Difficult to clean due to non-removable parts with cracks and crevices.",
+            "entity_b": "Easy to assemble, disassemble, and clean. Difficult to clean due to gaps where food gets trapped."
+        }
+    },
+    "Construction": {
+        "comm": "Sturdy construction.",
+        "cont": {
+            "entity_a": "The extended edge is flimsy and breaks easily.",
+            "entity_b": "Solid construction but part of the metal is thin and bends easily. Not commercial grade despite claims, prone to bending under pressure."
+        }
+    },
+    "Effort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires strength to use, but makes mashed potatoes easier without lumps.",
+            "entity_b": "Durable and sturdy, but heavy and clunky."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The price is high for the function it provides.",
+            "entity_b": ""
+        }
+    }
+}

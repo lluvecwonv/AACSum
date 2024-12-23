@@ -1,0 +1,79 @@
+{
+    "Condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The mixer arrived with defects such as dents, scratches, and missing parts.",
+            "entity_b": "The mixer is made of plastic with a chrome finish, not metal as advertised."
+        }
+    },
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The stainless steel bowl and whip accessory showed signs of rust and wear after minimal use.",
+            "entity_b": "The plastic construction raises concerns about durability."
+        }
+    },
+    "Motor": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The motor and head-lock mechanism are faulty, causing instability and noise during operation. The motor is louder and less powerful compared to older models. The mixer is prone to sparking and tripping power supply.",
+            "entity_b": "The motor is underpowered and struggles with thicker shakes. The motor overheats quickly and cannot handle hard ice cream."
+        }
+    },
+    "Bowl": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The bowl leaks a gray-blue substance into the dough. The stainless steel bowl requires extensive cleaning to remove contaminants.",
+            "entity_b": ""
+        }
+    },
+    "Authenticity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The product was advertised as new but appeared to be reconditioned.",
+            "entity_b": ""
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service was difficult to reach and unhelpful in resolving issues.",
+            "entity_b": ""
+        }
+    },
+    "Stability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The mixer lacks a spring on the tool lock mechanism, affecting stability. The mixer head moves excessively, causing the release lever to unlock.",
+            "entity_b": ""
+        }
+    },
+    "Cleaning": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The mixer is easy to clean."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The mixer has a retro look."
+        }
+    },
+    "Attachment": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The mixing attachment is too small for effective blending."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The product is not suitable for making thick milkshakes. The mixer works well for protein shakes with softer ingredients."
+        }
+    }
+}

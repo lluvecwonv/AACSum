@@ -1,0 +1,100 @@
+{
+    "Earphones": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The foam earphone covers disintegrated to dust upon touch. The earphone jack does not stay plugged in snug and tight. Supplied earbud unit is inferior.",
+            "entity_b": "Comes with accessories like a sync cable, clear protective case, armband, and in-ear earphones. Earbuds provided are not of good quality. Poor sound quality with provided headphones."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The battery was bad and would not charge. Battery life doesn't last long when charged and must be plugged into a USB port to charge. Battery life is phenomenal. Some issues with charging and needing to reset by plugging in. Great battery life.",
+            "entity_b": "Uses regular replaceable batteries. Battery door is flimsy. Battery is not rechargeable, leading to frequent replacements. Uses AAA batteries. Battery drains quickly."
+        }
+    },
+    "Screen": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Screen contrast is awful, making it almost impossible to see for those with vision issues. Screen resolution is not great, and making an organized playlist is difficult. Screen is almost impossible to read outdoors in sunlight. Screen contrast is low and hard to read in daylight. Screen easily scratched but can be protected with a screen protector or case.",
+            "entity_b": "Screen display is small and difficult to read without good vision."
+        }
+    },
+    "Buttons": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Buttons are fairly easy to use. Buttons seem flimsy, but they work fine.",
+            "entity_b": "Buttons are difficult to use. Volume scroll is stiff. Volume control is unreliable."
+        }
+    },
+    "Sound": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sound quality is good. Sound quality is excellent. Good sound quality. Good sound quality.",
+            "entity_b": "Sound quality is better than expected using the equalizer. Sound quality is poor. Good sound quality with additional headphones."
+        }
+    },
+    "Radio": {
+        "comm": "Can listen to FM radio.",
+        "cont": {
+            "entity_a": "Can record voice and radio. Voice recorder and radio options available.",
+            "entity_b": "FM receiver included. FM radio is a nice bonus feature."
+        }
+    },
+    "Charging": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Must hook up to the computer to charge or delete songs. Requires a different cable to hook up to anything other than a computer. Lacks a separate charger; charges via USB connection.",
+            "entity_b": ""
+        }
+    },
+    "Playlist": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Only one playlist can be maintained at a time. Player cannot organize music by folder and does not order music by filename. Player plays songs in alphabetical order rather than by album or artist.",
+            "entity_b": "Requires manual sorting of songs due to lack of playlist feature. Music organization is challenging, requiring proper ID3 tags."
+        }
+    },
+    "Interface": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Interface is lousy, mixing up album order. User interface is simple and easy to navigate. Build quality is a little cheap but works well with Windows Media Player.",
+            "entity_b": "Menu not intuitive and not in English, making navigation difficult. Clunky interface."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compact without being flimsy. Sturdy unit that performs well.",
+            "entity_b": ""
+        }
+    },
+    "Memory": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Easily expandable memory is a positive feature. Does not recognize microSD card for additional storage.",
+            "entity_b": "Upgradeable with an SD card. Expandable memory with SD card."
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "No extra software required; uses drag and drop for music management. Easy to use, but software is terrible for arranging files. Can store music in a straightforward manner without complex software."
+        }
+    },
+    "Price": {
+        "comm": "Good for the price.",
+        "cont": {
+            "entity_a": "Great product for the price.",
+            "entity_b": "Overall, good for the price."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good for listening to music, radio, and recording. Firmware can be updated to improve performance.",
+            "entity_b": "Great for music but not good for audiobooks due to lack of bookmarking. No bookmarking feature for audiobooks."
+        }
+    }
+}

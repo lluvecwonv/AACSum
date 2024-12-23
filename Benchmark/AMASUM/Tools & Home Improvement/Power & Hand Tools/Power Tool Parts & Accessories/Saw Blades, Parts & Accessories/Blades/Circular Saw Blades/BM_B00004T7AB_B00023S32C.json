@@ -1,0 +1,72 @@
+{
+    "Cutting": {
+        "comm": "Smooth cutting performance.",
+        "cont": {
+            "entity_a": "Makes very smooth and accurate cuts on extruded aluminum. Smooth cutting action with a high-quality finish, comparable to a wet horizontal bandsaw. Cuts through aluminum and PVC cleanly without lubricant issues. Cuts aluminum picture frame molding cleanly with minimal touch-up required. Cuts 6061 T6 Aluminum cleanly and easily. Metal cutting blade provides a smooth cut on plexiglass mirrors without chipping. Fast and clean cuts through extruded aluminum and 2-inch angle. Cuts aluminum like wood with minimal burrs or heat buildup when lubricated.",
+            "entity_b": "Cuts 3/8 inch steel sheet better than a plasma cutter. Suitable for cutting various metal thicknesses without needing grinding. Can cut 2-inch solid shafts quickly. Cuts thicker steel with ease, comparable to cutting wood."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Used the first blade for over three years on thin to 1/4 inch aluminum without problems. Remains sharp after several hundred cuts. Durable, with a long-lasting sharpness, even after extensive use.",
+            "entity_b": "Outlasts most blades except Diablo, even with broken teeth. Long-lasting performance on quarter inch material with proper guidance."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The blade is thicker and heavier, providing stabilization for smoother cuts. Vibration damping slots effectively reduce chatter. The blade's thickness results in a larger kerf than desired.",
+            "entity_b": "Milwaukee 42 tooth blade works well for most metal cutting applications. Requires careful use to avoid chipping or losing teeth."
+        }
+    },
+    "Application": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Highly effective for cutting tough aluminum for ultralight aircraft construction. Ideal for cutting extruded aluminum tubing.",
+            "entity_b": "Ideal for cutting 1/2 inch steel plate for truck frames. Recommended for thin metal stock and 50T for thin material."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Effective for cutting aluminum sections over 1/4 inch, despite not being intended for such use.",
+            "entity_b": "Performs well on low rpm circular or chop saws."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Smooth cutting performance, but pricey compared to Diablo blades. Cost-effective compared to other blades for steel cutting."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "72 tooth blade suitable for both thin and thick extrusions without requiring a large saw.",
+            "entity_b": "Best value for metal cutting blades."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Installed on a compound miter saw.",
+            "entity_b": ""
+        }
+    },
+    "Challenges": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Frustration with receiving the incorrect thin version of the blade multiple times.",
+            "entity_b": ""
+        }
+    },
+    "Lubrication": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires lubrication for optimal performance and longevity.",
+            "entity_b": ""
+        }
+    }
+}

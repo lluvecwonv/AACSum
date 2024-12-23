@@ -1,0 +1,100 @@
+{
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Purchased for $450.",
+            "entity_b": ""
+        }
+    },
+    "Age": {
+        "comm": "Outdated camera.",
+        "cont": {
+            "entity_a": "Impressive despite being a 10-year-old camera.",
+            "entity_b": ""
+        }
+    },
+    "Resolution": {
+        "comm": "",
+        "cont": {
+            "entity_a": "4.2MP resolution is adequate with interpolation for larger images.",
+            "entity_b": "Kodak KAF8300CE CCD imager chip used for high performance."
+        }
+    },
+    "Build": {
+        "comm": "Solid body.",
+        "cont": {
+            "entity_a": "Superior build quality compared to Canon Rebel series. Pro body with weather sealing and built-in hand grip.",
+            "entity_b": "Rubber-coated aluminum chassis feels better than Rebel or Nikon. Solid build and feels great in hand."
+        }
+    },
+    "Autofocus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Pro autofocus with 45 points are standout features.",
+            "entity_b": "Finicky focus and lighting issues in automatic mode. Focusing issues persist."
+        }
+    },
+    "Usage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good as a backup camera due to ruggedness and speed.",
+            "entity_b": "Great for novice and pro users with many features and excellent image quality."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "EF-S lenses are incompatible with the 1D.",
+            "entity_b": ""
+        }
+    },
+    "Photography": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Low resolution but great for general and close-up photography.",
+            "entity_b": "Excellent picture quality and easy to learn. Sharp images with minor color accuracy complaints."
+        }
+    },
+    "Issues": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Encountered 'error 99' and difficulty finding accessories.",
+            "entity_b": "Film card door issue resolved with velcro and superglue. Lenses have focusing issues, requiring repairs. Viewfinder is dim, and focusing can be tricky with included lenses."
+        }
+    },
+    "Technology": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Old technology, but 1600 ISO photos are usable.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Fast burst rate, but a new $600 DSLR surpasses it in other ways.",
+            "entity_b": "Focal plane dust removal system is unmatched by Canon and Nikon."
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not worth more than $500 unless for collection purposes.",
+            "entity_b": ""
+        }
+    },
+    "Ease of Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Intuitive and easy to use with smooth controls. Menus are easy to navigate with well-laid-out buttons."
+        }
+    },
+    "Flash": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Powerful flash for its size with nice weight and balance."
+        }
+    }
+}

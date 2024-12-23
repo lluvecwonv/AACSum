@@ -1,0 +1,86 @@
+{
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router has frequent connectivity issues and requires constant supervision to restart.",
+            "entity_b": "Signal strength decreases with walls in between."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service is unresponsive and unhelpful. Poor customer service and support.",
+            "entity_b": "Excellent customer support from Netgear."
+        }
+    },
+    "Advertisement": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Product is advertised for a service that is no longer provided.",
+            "entity_b": ""
+        }
+    },
+    "Setup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Difficult to set up and configure, especially for VPN and remote access. Hardware is reliable but requires IT knowledge for setup. Setup issues with wireless and security modes.",
+            "entity_b": "Easy to set up but issues with DNS passthrough in shared mode."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Flawed wireless performance in mixed environments. Frequent crashes and instability, even with the latest firmware. Product lacks dual antennas, affecting multipath elimination.",
+            "entity_b": "Product performance is satisfactory but not for DSL use."
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Firmware updates frequently needed but not always effective.",
+            "entity_b": ""
+        }
+    },
+    "VPN": {
+        "comm": "",
+        "cont": {
+            "entity_a": "VPN feature does not work reliably.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Does not work with DSL and can overheat."
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Good for travel and securing connections."
+        }
+    },
+    "Security": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Difficult to configure WEP but WPA is easier."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Product died after a few months of use."
+        }
+    },
+    "Maintenance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Requires daily reboot."
+        }
+    }
+}

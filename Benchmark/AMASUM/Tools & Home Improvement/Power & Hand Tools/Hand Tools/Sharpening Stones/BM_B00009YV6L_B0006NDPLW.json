@@ -1,0 +1,72 @@
+{
+    "Sharpness": {
+        "comm": "Effective for quick sharpening.",
+        "cont": {
+            "entity_a": "Good sharpener for light touch-up in the field. Best sharpener for thin curfed Japanese knives and hunting knives. Effective for quick sharpening of small and medium-sized knives. Excellent for quick touch-ups but not for razor-sharp edges. Good for sharpening a variety of tools, not just knives.",
+            "entity_b": "Effective for cleaning up nicks and burrs on machinery. Sharpens knives well and maintains cutlery with minimal effort. Effective for machine repair and sharpening lathe tools. Great for sharpening chisels and removing high spots on die plates."
+        }
+    },
+    "Handle": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Handle has some lateral play, leading to uneven edges. Handle does not snap onto the stone, reducing usability. Handle fits loosely and does not lock securely. Handle design allows for compact storage.",
+            "entity_b": ""
+        }
+    },
+    "Sheath": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sheath provides a secure handle and protects the hand. Locking sheath makes it portable and durable.",
+            "entity_b": ""
+        }
+    },
+    "Grit": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Combination of fine and coarse grits allows for effective sharpening. Two-sided with coarse and fine sharpening surfaces.",
+            "entity_b": "Stone not marked for coarseness, causing confusion."
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compact, lightweight, and easy to carry. Stores easily within the handle for portability.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Diamond chips wore down quickly compared to previous models.",
+            "entity_b": "Stone came used, not new."
+        }
+    },
+    "Usability": {
+        "comm": "Easy to use and maintain with minimal effort.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Using correct oil mix improves sharpening performance."
+        }
+    },
+    "Suitability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not suitable for major blade rework or profiling.",
+            "entity_b": "Good for minor reshaping and sharpening. Effective for large surfaces like machine work tables."
+        }
+    },
+    "Condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Stone claims to be flat but isn't."
+        }
+    },
+    "Preference": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Norton stones are preferred for ease of cleaning and solid surface finish."
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "Sharpness": {
+        "comm": "Knives are sharp.",
+        "cont": {
+            "entity_a": "Slicing smoothly without tearing meat. Edges are sharp but can dull quickly.",
+            "entity_b": "Blades are sharp, modern looking. Require effort to cut meat. Hold an edge well."
+        }
+    },
+    "Quality": {
+        "comm": "Quality feels good.",
+        "cont": {
+            "entity_a": "Not the sharpest knives; one had a pronounced bent edge. Quality has declined over the years.",
+            "entity_b": "Knives are smaller than expected. Knives are sturdy, sharp, and attractive for formal settings."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Handles are wood, can be rough and require oiling. Handles are not finished well, feel like raw wood.",
+            "entity_b": "One-piece design, comfortable and durable with no risk of loosening. Handles are shiny and show fingerprints easily."
+        }
+    },
+    "Maintenance": {
+        "comm": "Knives stay sharp and maintain edge.",
+        "cont": {
+            "entity_a": "Require occasional honing. Must be hand washed to prevent damage. Wood handles can splinter after washing.",
+            "entity_b": "Dishwasher safe."
+        }
+    },
+    "Origin": {
+        "comm": "Made in China.",
+        "cont": {
+            "entity_a": "Quality control issues noted with bent tips and loose rivets.",
+            "entity_b": "Not German Wusthof as expected."
+        }
+    },
+    "Comparison": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not the same quality as original Chicago Cutlery knives, admitted by the company. Matches older Chicago Cutlery knives.",
+            "entity_b": "Knives are not as sharp as other brands but look good with flatware."
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great value for everyday use, well-suited for everyday cutting needs.",
+            "entity_b": ""
+        }
+    },
+    "Storage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Storage case is poorly made, knives can fall out if turned over. Beautiful presentation box, but hinges broke after few uses. Storage box is not durable."
+        }
+    },
+    "Appearance": {
+        "comm": "Knives are nice looking.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Visually pleasing."
+        }
+    },
+    "Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Excellent customer service, addressed order issues promptly."
+        }
+    }
+}

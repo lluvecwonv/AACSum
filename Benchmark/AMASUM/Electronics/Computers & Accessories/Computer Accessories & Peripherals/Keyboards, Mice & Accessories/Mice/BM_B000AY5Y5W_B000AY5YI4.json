@@ -1,0 +1,100 @@
+{
+    "Ergonomics": {
+        "comm": "Comfortable and well-designed for long use.",
+        "cont": {
+            "entity_a": "Excellent ergonomics.",
+            "entity_b": "High precision and ergonomic design."
+        }
+    },
+    "Battery": {
+        "comm": "Short battery life.",
+        "cont": {
+            "entity_a": "Swappable batteries eliminate the need for docking. Battery life depletes quickly during gaming. Extra battery always charged is a convenience. Battery life is about a day, with a quick swap feature. Frequent battery swaps needed due to short life.",
+            "entity_b": ""
+        }
+    },
+    "Gaming": {
+        "comm": "High accuracy and responsiveness.",
+        "cont": {
+            "entity_a": "On-the-fly resolution change enhances gaming accuracy. Great for gaming with fast reaction time. Accurate tracking comparable to wired mice.",
+            "entity_b": "10 programmable buttons enhance gaming utility. Reliable for gaming with adjustable weights. Excellent for high-resolution screens."
+        }
+    },
+    "Durability": {
+        "comm": "Durable.",
+        "cont": {
+            "entity_a": "Durable with long-lasting usage over years.",
+            "entity_b": "Hard plastic pads on the bottom improve durability and glide. Cord is twist-resistant and durable. Durable materials with good grip."
+        }
+    },
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "WiFi interference issues. Connectivity issues with heavy WiFi traffic.",
+            "entity_b": ""
+        }
+    },
+    "Tracking": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Jerky pointer movement can occur.",
+            "entity_b": "Laser tracks well with adjustable dpi settings. High accuracy and smooth laser tracking."
+        }
+    },
+    "Scroll": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Scroll wheel problems reported.",
+            "entity_b": "Scroll wheel's left and right buttons can be cumbersome. Some users experience scroll wheel issues."
+        }
+    },
+    "CustomerService": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Logitech customer service is lacking.",
+            "entity_b": ""
+        }
+    },
+    "Receiver": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Receiver lacks portability features.",
+            "entity_b": ""
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Heavy with weight discs, but not glowing at night. Interchangeable weights offer customization. Weight balancing not essential for all users."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comfortable grip and customizable buttons.",
+            "entity_b": ""
+        }
+    },
+    "Buttons": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Frequent double-click issue with the left button.",
+            "entity_b": "Programmable buttons are easy to use."
+        }
+    },
+    "Driver": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Driver installation issues reported."
+        }
+    },
+    "ControlPanel": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Logitech control panel issues with OS X."
+        }
+    }
+}

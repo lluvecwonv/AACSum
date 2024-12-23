@@ -1,0 +1,58 @@
+{
+    "location": {
+        "comm": "The hotel is perfectly located in Chicago, making it convenient for exploring the city.",
+        "cont": {
+            "entity_a": "The hotel has easy access to public transportation and many attractions within walking distance.",
+            "entity_b": "The hotel offers excellent views of the Chicago River and proximity to various attractions, making it easy to walk to many places in the city."
+        }
+    },
+    "room": {
+        "comm": "The rooms are clean.",
+        "cont": {
+            "entity_a": "The modern rooms feature a thermostat that allows guests to control the temperature for their comfort.",
+            "entity_b": "The rooms are very large and spacious, with some providing great views of the river; The hotel features a huge bathroom with separate sinks, a bathtub, and a shower."
+        }
+    },
+    "staff": {
+        "comm": "The staff are friendly and very helpful.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": ""
+        }
+    },
+    "recommendation": {
+        "comm": "Many guests expressed their desire to stay here again.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": ""
+        }
+    },
+    "breakfast": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The complimentary breakfast was substandard, resembling a soup kitchen with long lines and insufficient seating.",
+            "entity_b": ""
+        }
+    },
+    "amenities": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "there are no mini-fridges or vending machines for snacks or drinks, and the toilet paper provided is of poor quality."
+        }
+    },
+    "value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "While some guests felt the hotel was not worth the price paid considering the typical accommodations offered."
+        }
+    },
+    "cleaness": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "cleanliness needs to be improved as some guests have pointed out unpleasant odors and dirty bathrooms."
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "Performance": {
+        "comm": "Quiet operation.",
+        "cont": {
+            "entity_a": "Relatively quiet for a compressor. Quieter than oil-free compressors. Fairly quiet and fast charging to desired pressure. Short refresh rate and quiet enough for indoor use.",
+            "entity_b": "Quiet as any large or small compressors. Quiet enough for normal conversation nearby. Quieter than expected. Very quiet and efficient. Quick to refill and quiet operation."
+        }
+    },
+    "Portability": {
+        "comm": "Heavy.",
+        "cont": {
+            "entity_a": "Compact but heavy for portability. Heavy and awkward to carry.",
+            "entity_b": "Portable but heavy to move by hand. Portable but not lightweight. Heavy but manageable with a cart."
+        }
+    },
+    "BuildQuality": {
+        "comm": "High quality.",
+        "cont": {
+            "entity_a": "Great build quality. Durable and dependable tool.",
+            "entity_b": "High quality and reliable. Well-built and sturdy."
+        }
+    },
+    "Usage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good for home use but not for continuous use with blow nozzles. Good for hobby and home improvement projects.",
+            "entity_b": "Runs 3 Bostitch roofing nailers without issues. Not suitable for high-demand air tools. Handles multiple nailers simultaneously. Not suitable for continuous grinder operation. Handles multiple tools with ease."
+        }
+    },
+    "RecoveryTime": {
+        "comm": "Fast recovery time.",
+        "cont": {
+            "entity_a": "Fills in 90 seconds to 120 PSI.",
+            "entity_b": "Pumps up to pressure very fast."
+        }
+    },
+    "Durability": {
+        "comm": "Oiled for longer life.",
+        "cont": {
+            "entity_a": "Oiled for longer compressor life.",
+            "entity_b": "Oiled for longevity."
+        }
+    },
+    "Packaging": {
+        "comm": "Arrives well packaged.",
+        "cont": {
+            "entity_a": "Arrives well packaged.",
+            "entity_b": "Double boxed from the factory. High quality packaging. Arrives in perfect condition."
+        }
+    },
+    "Operation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Runs constantly and overheats after 20-30 minutes. Thermal protection often kicks in due to low amps. Requires no extension cord.",
+            "entity_b": "Struggles to fill large tires."
+        }
+    },
+    "Startup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Does not start well in cold weather. Difficult to start in cold weather; a larger startup capacitor might help. Needs warming up in cold weather.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Plastic but well-protected gauges. No built-in hose wrap and can be loud. Requires a dedicated 20 amp circuit.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compressor pressure set at 97-98 PSI, shut off at 125 PSI. Supplied with appropriate oil and airtight brass quick connect fitting.",
+            "entity_b": "Cycles and maintains line pressure well."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Powerful and reliable for contracting applications.",
+            "entity_b": ""
+        }
+    },
+    "Maintenance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Easy to order replacement parts online.",
+            "entity_b": "Requires oil before use."
+        }
+    },
+    "Cost": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Slightly expensive but worth the cost."
+        }
+    },
+    "Origin": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Manufactured in China.",
+            "entity_b": ""
+        }
+    }
+}

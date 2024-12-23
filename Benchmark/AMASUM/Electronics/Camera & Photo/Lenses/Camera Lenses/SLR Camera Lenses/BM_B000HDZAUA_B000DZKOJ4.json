@@ -1,0 +1,79 @@
+{
+    "Autofocus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Stopped working in less than a year. A bit off at 200mm and up; manual focus is recommended. Problematic in low light, but manual focus can overcome this. Slow and loud, causing some photos to be unusable due to shake. Slow but lens is a good value for the price.",
+            "entity_b": ""
+        }
+    },
+    "Warranty": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Issues with unauthorized sellers. Repair service by Tamron was quick, but shipping was at user's expense. 6-year warranty and includes a lens hood.",
+            "entity_b": "Fast and efficient replacement service from Amazon."
+        }
+    },
+    "Build": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Solidly built.",
+            "entity_b": "Excellent build quality, justifying the price."
+        }
+    },
+    "Image Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Picture quality is good. No image stabilization, but still produces great pictures. Takes nice clear shots but not meant for fast-moving sports. Good quality for the price. Decreases at extreme zoom, but still a good lens for the price. Sharp and performs well in mid to long range shooting.",
+            "entity_b": "Amazing results with 70-200mm f2.8 lens and 2X converter. Tack-sharp images and great bokeh for portraits."
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Noisy and slow, not suitable for astrophotography due to lens creep. Noisy and the macro/normal button froze.",
+            "entity_b": "SSM is quiet and fast, enhancing lens performance."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Less expensive compared to other lenses. Good value for the price.",
+            "entity_b": "Worth the price for high-end cameras, especially full-frame."
+        }
+    },
+    "Lightweight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lightweight and less expensive compared to other lenses. Lightweight for its size.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Manual focus is recommended. Without stabilization, a tripod is necessary.",
+            "entity_b": "Performs well in low light with Sony video camera."
+        }
+    },
+    "Error": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lens started getting an error about dirty contacts after 7 months despite being clean.",
+            "entity_b": "Intermittent overexposure issue with initial lens; replacement works perfectly."
+        }
+    },
+    "Usage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good for photography in good lighting conditions. Good quality lens for beginners and semi-pro photographers.",
+            "entity_b": ""
+        }
+    },
+    "Macro": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Macro function is great.",
+            "entity_b": ""
+        }
+    }
+}

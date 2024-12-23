@@ -1,0 +1,93 @@
+{
+    "Usability": {
+        "comm": "Easy to clean.",
+        "cont": {
+            "entity_a": "The grill is easy to use.",
+            "entity_b": "Easy to set up. Dishwasher safe components."
+        }
+    },
+    "Smoke": {
+        "comm": "Produces less smoke than traditional grills.",
+        "cont": {
+            "entity_a": "Some smoke may occur with fatty or marinated meats.",
+            "entity_b": "Not completely smokeless."
+        }
+    },
+    "Cooking": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cooks food evenly and provides good grill marks.",
+            "entity_b": "Heats up quickly and maintains steady temperature."
+        }
+    },
+    "Size": {
+        "comm": "Suitable for small meals.",
+        "cont": {
+            "entity_a": "Compact size not for large quantities.",
+            "entity_b": "Grill surface is compact."
+        }
+    },
+    "Temperature Control": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Challenging for thick cuts of meat.",
+            "entity_b": "May require additional tools for visibility."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durable and holds up well over time.",
+            "entity_b": "Well-made with high-quality materials."
+        }
+    },
+    "Indoor Use": {
+        "comm": "Suitable for apartments.",
+        "cont": {
+            "entity_a": "Recommended for apartment dwellers due to indoor usability.",
+            "entity_b": "Versatile for both indoor and outdoor use."
+        }
+    },
+    "Heat": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sufficient heat for most grilling needs but not comparable to charcoal grills.",
+            "entity_b": "Some users report insufficient heat for searing meats."
+        }
+    },
+    "Alternative": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good alternative for those unable to use outdoor grills.",
+            "entity_b": ""
+        }
+    },
+    "Surface": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Grill scratches easily and may require careful cleaning.",
+            "entity_b": ""
+        }
+    },
+    "Specialty Cooking": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Effective for Korean BBQ style grilling.",
+            "entity_b": "Effective for cooking burgers and hot dogs."
+        }
+    },
+    "Ventilation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some issues with smoke alarms if used without ventilation.",
+            "entity_b": ""
+        }
+    },
+    "Quick Meals": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Great for quick meals without using the stove."
+        }
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pads on the bottom are hard plastic, preventing tearing and enhancing sliding. The cord is nylon-wrapped, preventing twisting and breaking.",
+            "entity_b": ""
+        }
+    },
+    "Buttons": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Offers the equivalent of 10 programmable buttons for gaming. Programmable buttons are easy to use and well-placed. Lacks additional buttons for gaming.",
+            "entity_b": "Multi-function buttons are convenient but optional. Customizable buttons with provided software. Software allows button reprogramming."
+        }
+    },
+    "Cord": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wired design preferred for gaming. Cord could be longer.",
+            "entity_b": "Cordless design simplifies desktop setup. Cordless feature appreciated by multiple users."
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Weight discs add a nice heaviness, and it does not glow in the dark. Weights improve precision for gaming. Weight customization is impressive but not essential. Adjustable weights enhance user comfort.",
+            "entity_b": ""
+        }
+    },
+    "DPI": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Adjustable dpi setting is a favorite feature. Extremely responsive with a 2000dpi engine. High precision and unique DPI changing feature. High precision, perfect for vector drawing apps.",
+            "entity_b": ""
+        }
+    },
+    "Precision": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The laser tracks well, providing incredible speed and accuracy. Works well on various surfaces, ideal for Photoshop. Great for high-resolution screens.",
+            "entity_b": "Accurate laser movement tracking. Precise movement for games and graphics."
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable to use.",
+        "cont": {
+            "entity_a": "Comfortable and accurate for long-term use. Some users find the mouse size awkward.",
+            "entity_b": "Comfortable design with well-positioned buttons."
+        }
+    },
+    "Brand": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Logitech is a sturdy and reliable brand.",
+            "entity_b": ""
+        }
+    },
+    "Build": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Tough build, difficult to break. Durable materials and ergonomic design.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Adjustable motion sensitivity for different tasks. Reliable for gaming, with customizable weights. Long-lasting performance even after years of use. Excellent for first-person gaming.",
+            "entity_b": "Transmitter distance can affect performance. Interference issues can occur with wireless networks. Lag can occur during high system activity. Power-saving function may interrupt usage."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Logitech control panel lacks OS X support.",
+            "entity_b": "Receiver plugs easily into USB port. Compact mini receiver reduces clutter."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some find it expensive unless used for gaming.",
+            "entity_b": "Good value for an inexpensive wireless mouse."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Weight cartridge could be more secure. Scroll wheel issues after extended use. Some users experience erratic behavior and freezing.",
+            "entity_b": ""
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Excellent battery life with power-saving features. Does not consume batteries quickly. Battery life indicator provides timely alerts."
+        }
+    },
+    "Control": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Choppy scroll wheel movement.",
+            "entity_b": "Volume control on the mouse is convenient. Onboard volume controls useful for gaming."
+        }
+    },
+    "Usage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Excellent mouse for CAD work."
+        }
+    }
+}

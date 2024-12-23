@@ -1,0 +1,58 @@
+{
+    "Security": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Provides minimal security. Not recommended for high-security needs.",
+            "entity_b": "Design makes it difficult for thieves to cut. Offers good protection against bolt cutters."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Broke after a few uses and is unreliable. Lacks durability.",
+            "entity_b": "Rusts quickly when used outdoors. Failed after minimal use, requiring a locksmith to remove."
+        }
+    },
+    "Weather Resistance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "May seize up in wet weather conditions.",
+            "entity_b": "Has a drainage issue that leads to freezing in cold weather."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Visually distinctive with multiple color options.",
+            "entity_b": "Sturdy and fits well with specific storage systems. Sharp edges can cause injury."
+        }
+    },
+    "Keys": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comes with two keys and operates smoothly. Color-coded keys help with identification.",
+            "entity_b": "Keys are flimsy and prone to breaking."
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lightweight.",
+            "entity_b": "Heavy and feels secure."
+        }
+    },
+    "Affordability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Affordable.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Can be cut with bolt cutters.",
+            "entity_b": "Requires lubrication to function smoothly."
+        }
+    }
+}

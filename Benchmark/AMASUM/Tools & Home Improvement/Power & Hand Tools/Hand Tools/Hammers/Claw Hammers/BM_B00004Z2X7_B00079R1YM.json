@@ -1,0 +1,156 @@
+{
+    "Claw": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Has a very good bite, making it easy to pull out nails even when their heads come off.",
+            "entity_b": ""
+        }
+    },
+    "Origin": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Feels like it is made in China, despite being labeled as made in the USA.",
+            "entity_b": ""
+        }
+    },
+    "Finish": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Machine-made with sharp edges, lacking the hand-polished finish of older models.",
+            "entity_b": ""
+        }
+    },
+    "Balance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Feels off compared to older models.",
+            "entity_b": "Excellent weight balance and shock reduction."
+        }
+    },
+    "Grip": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good grip, well-balanced, and made of wood.",
+            "entity_b": "Rubber handle is not very durable."
+        }
+    },
+    "Handle": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Curved white hickory handle fits comfortably in the hand, with a 17-inch length for extended reach. Nice wood handle, but requires sharpening of the claw. Long, and the grip takes some getting used to. Thick.",
+            "entity_b": "Handle has a tendency to come loose and requires loc-tite. Has split and cracked, making it dangerous to use. Long handle can be inconvenient for belt loops. Too long and heavy, affecting balance."
+        }
+    },
+    "Magnet": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Magnet to hold a nail, and a great axe handle design. Magnetic nail starter on the blue version is worth the extra money.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wood on head wears over time but lasts well.",
+            "entity_b": "Handle is not very durable. Hammer broke after a year of use."
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Very comfortable and cool-looking.",
+            "entity_b": ""
+        }
+    },
+    "Shock": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Hickory handles absorb shock better than other materials.",
+            "entity_b": "Excellent shock reduction."
+        }
+    },
+    "Finish Improvement": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Glossy slick finish on the handle can be improved with sanding and tung oil.",
+            "entity_b": ""
+        }
+    },
+    "Order": {
+        "comm": "",
+        "cont": {
+            "entity_a": "A curved handle was ordered but a straight handle was received.",
+            "entity_b": ""
+        }
+    },
+    "Ergonomics": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great ergonomics of the handle, weight balance, and head shape.",
+            "entity_b": ""
+        }
+    },
+    "Nail Handling": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Handles heavy gauge nails with ease.",
+            "entity_b": "Great nail-pulling capability."
+        }
+    },
+    "Driving": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Drives nails fine, with a good price point.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Hammer is very expensive but considered worth the investment. Price is high but justified for frequent users. Not worth $200."
+        }
+    },
+    "Interchangeability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Interchangeable head.",
+            "entity_b": "Interchangeable heads are a valuable feature."
+        }
+    },
+    "Elbow Pain": {
+        "comm": "Reduces elbow pain.",
+        "cont": {
+            "entity_a": "Due to its weight and balance.",
+            "entity_b": "Significantly."
+        }
+    },
+    "Power": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Significant power for its weight.",
+            "entity_b": "Minimal vibrations with excellent power for its weight."
+        }
+    },
+    "Vibration": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Hammer is extremely light with minimal vibration."
+        }
+    },
+    "Durability and Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Durable and light, suitable for daily use."
+        }
+    },
+    "Side Nail Puller": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Superior quality with a side nail puller. Effective for stubborn nails. Standout feature. Nail puller on the side is a valuable feature."
+        }
+    }
+}

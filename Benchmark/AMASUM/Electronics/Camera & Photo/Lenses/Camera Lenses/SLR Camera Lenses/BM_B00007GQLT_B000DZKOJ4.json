@@ -1,0 +1,93 @@
+{
+    "Focal Length": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Versatile 32mm focal length for both photo and video work.",
+            "entity_b": ""
+        }
+    },
+    "Low Light": {
+        "comm": "Great in low light.",
+        "cont": {
+            "entity_a": "Vivid color and sharpness at f/2.8. Great for landscapes and tight spaces in low light. Fast lens with stunning picture quality in low light.",
+            "entity_b": "Phenomenal results in low light with new Sony video camera."
+        }
+    },
+    "Distortion": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Barely perceptible barrel distortion on a crop sensor camera. Slight distortion easily corrected in post. Heavy vignetting and softness in corners, but works well if understood.",
+            "entity_b": ""
+        }
+    },
+    "Image Quality": {
+        "comm": "Produces good image quality.",
+        "cont": {
+            "entity_a": "At a low cost and weight. Very sharp images. Crisp and sharp images, good for beginners. Great image quality for ultra-wide angle use.",
+            "entity_b": "Great optics with unparalleled results and 2X converter. Tack sharp images and great bokeh, especially for portraits. Tack sharp images with the ability to eye auto focus."
+        }
+    },
+    "Autofocus": {
+        "comm": "Autofocus works well.",
+        "cont": {
+            "entity_a": "Manual mode is preferred. Fast and accurate focus compared to 50mm L f/1.2 lens. Slow focus for night use.",
+            "entity_b": "SSM feature is quiet and fast."
+        }
+    },
+    "Build Quality": {
+        "comm": "Solid build.",
+        "cont": {
+            "entity_a": "With metal and glass, preferred over cheaper lenses. Well-built.",
+            "entity_b": "Build quality and image quality justify the price tag."
+        }
+    },
+    "Aperture": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wide angle with a 2.0 aperture when using Aputure DEC Lensregain.",
+            "entity_b": ""
+        }
+    },
+    "Focus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Fast and accurate focus compared to 50mm L f/1.2 lens. Slow focus for night use.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Overpriced.",
+            "entity_b": "Worth the price for high-end cameras, especially full-frame."
+        }
+    },
+    "Versatility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Fixed focal length but versatile and sharp.",
+            "entity_b": ""
+        }
+    },
+    "Flare": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Slight flaring, recommend using a lens hood.",
+            "entity_b": ""
+        }
+    },
+    "Color": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Colors can appear lifeless and lacking detail.",
+            "entity_b": ""
+        }
+    },
+    "Replacement": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Intermittent overexposure issue resolved with replacement. Fast replacement service from Amazon."
+        }
+    }
+}

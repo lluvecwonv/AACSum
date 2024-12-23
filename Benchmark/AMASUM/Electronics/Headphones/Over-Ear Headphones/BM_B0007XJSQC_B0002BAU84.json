@@ -1,0 +1,58 @@
+{
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Multiple headphones broke apart and flaked despite gentle use. Durability issues with wiring and plug. Cushions may peel over time.",
+            "entity_b": ""
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Significant quality difference between old and new versions of HD201s. New headphones have smaller band, delicate plastic, and sound issues.",
+            "entity_b": ""
+        }
+    },
+    "Sound": {
+        "comm": "Sound quality is clear with balanced bass and treble.",
+        "cont": {
+            "entity_a": "Sound and fit are satisfactory for the price. Volume is lower compared to other models. Clear sound reproduction for various music genres. Low bass response but good voice range treble. Good for casual listening but lacks deep bass. Requires high volume settings on devices. Sound is respectable for the price. Sound quality is not high-end but sufficient for casual use.",
+            "entity_b": ""
+        }
+    },
+    "Cable": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cable is excessively long, causing inconvenience. Cord is very long and prone to tangling. Long cord is both a pro and a con.",
+            "entity_b": ""
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not noise-canceling but effectively blocks external noise. Good for blocking out background noise.",
+            "entity_b": ""
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable and lightweight for long use.",
+        "cont": {
+            "entity_a": "Comfortable over-ear design. Comfortable but not suitable for high-end audio editing.",
+            "entity_b": ""
+        }
+    },
+    "Handling": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires careful handling to avoid damage.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Inexpensive with good sound quality. Excellent sound quality for the price.",
+            "entity_b": ""
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "Durability": {
+        "comm": "Some units fail shortly after installation.",
+        "cont": {
+            "entity_a": "Model 154 heaters don't last long. Heater produces good heat but has a limited lifespan.",
+            "entity_b": "Some units fail shortly after purchase."
+        }
+    },
+    "Installation": {
+        "comm": "Heater is easy to install.",
+        "cont": {
+            "entity_a": "Installation of Model 157 was simple, taking less than 30 minutes. Installation is straightforward, but requires careful access to a screw hole above the motor box. Heater is easy to install but lacks screws and instructions. Installation can be challenging due to design issues. Surface mount design requires no plaster repair.",
+            "entity_b": "Installation requires specific electrical setup."
+        }
+    },
+    "Heating": {
+        "comm": "Heats up quickly.",
+        "cont": {
+            "entity_a": "Heater takes about 2 minutes to warm up and heats a 160 sqft bathroom in under 10 minutes. Works well for warming small spaces quickly. Produces more heat than the previous version but less than vented models. The fan moves heat down effectively. Heater is good for small bathrooms but may not be sufficient for larger spaces. Heater is suitable for auxiliary heating in small spaces.",
+            "entity_b": "Heater works well for maintaining temperature in a garage. Heats a one-car garage effectively. Effective heating for small spaces. Heater is good for garage use but noisy. Heats up quickly and maintains temperature. Heater is suitable for short-term heating needs. Produces good heat but has noise issues."
+        }
+    },
+    "Noise": {
+        "comm": "Heater is noisy.",
+        "cont": {
+            "entity_a": "Heater can be noisy due to fan vibrations.",
+            "entity_b": "Loud rattling sounds are common and difficult to fix. Noisy operation due to design flaws."
+        }
+    },
+    "Design": {
+        "comm": "Heater is compact.",
+        "cont": {
+            "entity_a": "The heater has a small footprint and doesn't require outside venting. Solid construction and improved coil over previous models. Model 157 uses a solid element, unlike older models with coil elements. The heating element is now a solid wire, not a coiled wire. Compact and consumes less than 11 amps.",
+            "entity_b": "Plug fitting is not standard, requiring specific outlets. Requires a dedicated 240V circuit. External thermostat can be added."
+        }
+    },
+    "Thermostat": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Using an external thermostat voids the warranty. Internal thermostat is inconsistent. Thermostat issues can occur after short use."
+        }
+    }
+}

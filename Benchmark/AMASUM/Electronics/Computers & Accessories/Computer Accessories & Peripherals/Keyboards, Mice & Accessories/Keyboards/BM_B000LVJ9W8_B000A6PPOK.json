@@ -1,0 +1,58 @@
+{
+    "Design": {
+        "comm": "Ergonomic design increases typing speed.",
+        "cont": {
+            "entity_a": "High quality ergonomic design reduces discomfort and increases typing speed and accuracy. Comfortable with beautiful form and great keyswitches. Stylish design.",
+            "entity_b": "Prevents carpal tunnel. Ergonomic design is beneficial for wrist comfort. Typing position is more natural compared to traditional keyboards. Reduces wrist and shoulder pain."
+        }
+    },
+    "Keys": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Esc, F-keys, and programmable buttons are small, not mechanical, and prone to breaking. No empty mechanical button available for macro assignments. Programmable keys allow customization. Some users find key placement, like arrow keys, uncomfortable. Noisy key operation could be improved with sturdier frame. Thumb keys provide convenience and ease of use. Some users find thumb keys and bracket keys awkward to reach.",
+            "entity_b": "Keys do not stick and withstand heavy usage. Poor key printing quality. Keys are stiff and require significant pressure to depress. Frequent key malfunction and short lifespan. Keys wear off quickly, especially on non-business versions. Space bar design is inefficient and prone to issues. Printing on keys wears off quickly. Letters on keys wear off easily, causing inconvenience. Some users experience key binding issues. Convenience keys are useful but letters rub off easily."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Price is high but considered worth it for the benefits.",
+            "entity_b": "Price has increased significantly over time."
+        }
+    },
+    "Comfort": {
+        "comm": "Helps alleviate wrist pain.",
+        "cont": {
+            "entity_a": "Suitable for those with RSI issues. The learning curve is high but worth the effort for improved comfort and efficiency.",
+            "entity_b": "Keyboard is comfortable but lacks durability."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durable construction with some users experiencing long product lifespan.",
+            "entity_b": "Quality and durability have declined over time."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service is responsive and provides replacements for worn parts.",
+            "entity_b": "Customer service issues with warranty claims."
+        }
+    },
+    "Layout": {
+        "comm": "Increases typing speed after adjustment.",
+        "cont": {
+            "entity_a": "Requires time to get used to the layout, but faster typing than on a standard keyboard. The keyboard lacks a numbers pad, which can be created through remapping.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Wireless capability is not critical for functionality."
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "Longevity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The headphones have poor longevity, with the right side speaker failing after a few months.",
+            "entity_b": "Durability issues with erratic right connection over time."
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable for extended wear.",
+        "cont": {
+            "entity_a": "The wire is heavy and awkward, making it uncomfortable around the neck. The head pad and ear cups are uncomfortable and can get sweaty over extended use. The headphones have a strong clamping force that may cause discomfort over time.",
+            "entity_b": "Requires a proper amp for full potential. Very comfortable with a tight fit that may require stretching."
+        }
+    },
+    "Sound": {
+        "comm": "Excellent sound quality.",
+        "cont": {
+            "entity_a": "Sound quality is not exceptional and high notes are muted. Audio performance is outstanding with effective noise-cancellation emulation. Sound quality is generally good with a neutral profile. Good sound quality but the heavy coiled cord detracts from usability. Comfortable with a good sound for gaming and music. Excellent sound reproduction with a flat response suitable for studio use. Sound quality is good with a strong bass response. Great for reference mixing with accurate sound representation.",
+            "entity_b": "Broad soundstage and clear highs and mids. Great pairing with a tube amplifier for enhanced audio experience. Warm and natural sound with extended bass. Sound is clear and detailed, suitable for a variety of music genres. Impressive audio clarity and detail, making them ideal for mixing and mastering. Highly detailed sound with great imaging and instrument separation. High-quality audio performance with a smooth and balanced sound."
+        }
+    },
+    "Build": {
+        "comm": "Build quality issues.",
+        "cont": {
+            "entity_a": "Build quality is inconsistent, with some units failing after short use. High build quality but issues with the ear pads and headband material deteriorating.",
+            "entity_b": "Build quality concerns with frequent cable issues."
+        }
+    },
+    "Cord": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The wire is heavy and awkward, making it uncomfortable around the neck. Coiled cord is heavy, awkward, and short, causing discomfort. The coiled cord is a common point of dissatisfaction due to its weight and length.",
+            "entity_b": "Long and thick cord may be cumbersome for some users."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durability issues with some units failing shortly after warranty ends. Durability issues, with some units experiencing audio failure after a short period.",
+            "entity_b": ""
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good noise isolation but not active noise-cancelling.",
+            "entity_b": "Open-back design does not provide noise cancellation. The headphones are not suitable for noisy environments due to open-back design. Open-back design provides a spacious sound but lacks noise isolation."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Requires a strong amp to drive due to high impedance. Requires a proper DAC and amp setup for optimal performance."
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Great value for money with excellent sound quality and comfort."
+        }
+    }
+}

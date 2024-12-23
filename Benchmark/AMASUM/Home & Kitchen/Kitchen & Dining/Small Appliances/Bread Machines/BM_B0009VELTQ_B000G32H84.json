@@ -1,0 +1,142 @@
+{
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Basic functionality is liked, but it burns the bottom and leaves the inside not completely cooked.",
+            "entity_b": "Machine is defective with consistent poor results across multiple attempts."
+        }
+    },
+    "Recipe": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The recipe book is highly detailed with times and instructions for adding ingredients.",
+            "entity_b": "Recipes provided can be adapted for preferred flavors."
+        }
+    },
+    "Mixing": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Bread requires manual intervention during mixing to avoid flour not being mixed properly.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "Durable with consistent performance.",
+        "cont": {
+            "entity_a": "Consistent performance over 3.5 years of use.",
+            "entity_b": "Consistent performance over 10 years."
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Large size and loaves come out with a thick crust even on the light setting.",
+            "entity_b": "Compact design fits well in small kitchens. Small loaf size is suitable for small families."
+        }
+    },
+    "Paddle": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The paddle can become loose and detach during the cycle.",
+            "entity_b": "Paddle can get stuck and requires careful extraction."
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "A grinding noise occurs during the baking phase.",
+            "entity_b": "Bread is consistently well-baked with minimal noise."
+        }
+    },
+    "Convection": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Convection feature bakes a crispy crust with three loaf size choices. Convection feature leads to over-browning if not monitored.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Brushed stainless steel finish is attractive and easy to clean.",
+            "entity_b": "Machine is compact and fits well in small spaces."
+        }
+    },
+    "Adaptability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Recipes can be adjusted for high altitude baking with success.",
+            "entity_b": "Requires careful recipe adaptation for best results."
+        }
+    },
+    "Bread Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Gluten-free bread setting works well. Bread burns on one side over time.",
+            "entity_b": "Produces dry bread with some recipes."
+        }
+    },
+    "Maintenance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Pan can become loose over time with heavy use.",
+            "entity_b": "Inside bowl surface scratches easily; avoid metal utensils."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service was helpful in replacing defective units.",
+            "entity_b": ""
+        }
+    },
+    "Quality Control": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some units may have quality control issues.",
+            "entity_b": ""
+        }
+    },
+    "Cycle": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Provides a good knead and rise cycle.",
+            "entity_b": "Quick Cycle does not beep for add-ins."
+        }
+    },
+    "Recipe Book": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The included recipe book is not highly regarded; additional cookbooks recommended.",
+            "entity_b": ""
+        }
+    },
+    "Crust": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Crust option is not available for all settings."
+        }
+    },
+    "Operation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Bread maker is not completely hands-off, requires monitoring.",
+            "entity_b": "Quiet operation and compact size are appreciated."
+        }
+    },
+    "Allergy-Friendly": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Useful for allergy-friendly bread with minimal supervision."
+        }
+    },
+    "Timer": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Timer function allows for fresh bread in the morning. Lacks a pocket for yeast, affecting timer function use."
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "Suction": {
+        "comm": "Great suction power.",
+        "cont": {
+            "entity_a": "Much more powerful suction compared to tornado-style canister vacuums. Better suction than older models but is loud. Suction is poor on hardwood floors, leaving particles behind. Excellent suction, especially on hardwood floors.",
+            "entity_b": "Powerful suction for cat hair and litter. The suction power is excellent. Strong suction but blows air forcefully out the back."
+        }
+    },
+    "Weight": {
+        "comm": "Lightweight and easy to carry.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Lightweight and easy to carry up and down stairs. Compact size suitable for small spaces like travel trailers."
+        }
+    },
+    "Durability": {
+        "comm": "Durable and long-lasting.",
+        "cont": {
+            "entity_a": "Some units still running after decades.",
+            "entity_b": "Dependable and long-lasting quality."
+        }
+    },
+    "Ease of Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Emptying the Mighty Mite is clean and easy. The vacuum is versatile for various cleaning tasks, including cement floors and furniture. Lightweight and easy to assemble. Attachments store easily. The wand is extra long, making it awkward to use.",
+            "entity_b": "The new swivel wand makes cleaning wood floors easier. Bag replacement is easy with no mess. Great for corners and hard-to-reach spots. The vacuum is compact and easy to handle. The vacuum has good suction and is easy to use."
+        }
+    },
+    "Noise": {
+        "comm": "The noise level is very loud.",
+        "cont": {
+            "entity_a": "Strong suction but noisy.",
+            "entity_b": ""
+        }
+    },
+    "Hose": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The hose packaging caused a weakness, leading to frequent bending issues. Hose stiffness causes frequent kinking, stopping suction. The hose is thin and may crack but becomes more flexible with use. The hose is cheap and easily kinked. The hose is flimsy and often twists, causing suction loss.",
+            "entity_b": "Hose is too short and inflexible, causing difficulty in use. The hose tears easily and lacks stretch. The hose is short and requires effort to stretch."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No bristle brush, making it easy to clean hair from carpets. No automatic cord winder or variable speed. Cheap construction; parts fall apart during use. The switch/button is difficult to operate and may stop working.",
+            "entity_b": "Floor & wall attachment is poorly designed with hard bristles and exposed screws. The vacuum lacks wheels, making it less user-friendly. The vacuum has a strong blower, but it spreads dust."
+        }
+    },
+    "Versatility": {
+        "comm": "Lightweight and versatile for cleaning various surfaces.",
+        "cont": {
+            "entity_a": "The vacuum is lightweight, powerful, and versatile.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comparatively, the Eureka Airspeed Exact Pet has better performance.",
+            "entity_b": "Compact vacuum for cleaning cars and tight spaces. Vacuum stopped working after a short fall."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great pricing for the vacuum.",
+            "entity_b": ""
+        }
+    }
+}

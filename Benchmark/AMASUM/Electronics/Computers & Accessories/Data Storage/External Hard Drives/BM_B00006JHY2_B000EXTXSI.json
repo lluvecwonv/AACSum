@@ -1,0 +1,107 @@
+{
+    "DataTransfer": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Efficient in transferring data from old drives to current storage technology.",
+            "entity_b": "Requires USB connection for initial recognition before using Firewire."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Affordable compared to external zip disk drives priced between $80-$200.",
+            "entity_b": "Large memory capacity for the price. Good value for the price with USB and Firewire cables included."
+        }
+    },
+    "Condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Arrived in excellent condition and works great.",
+            "entity_b": ""
+        }
+    },
+    "Speed": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Records files at a high speed.",
+            "entity_b": "Dependable but slow seek time."
+        }
+    },
+    "Documentation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Poor documentation quality.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with Windows 7.",
+            "entity_b": "Occasional issues with Windows XP shutdown. Suitable for both Mac and PC."
+        }
+    },
+    "Software": {
+        "comm": "No installation needed, just plug and play.",
+        "cont": {
+            "entity_a": "No special software required.",
+            "entity_b": "Pre-installed software can be removed and reinstalled if needed."
+        }
+    },
+    "Capacity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Uses 750MB capacity disks, suitable for smaller file backups.",
+            "entity_b": "500GB space sufficient for photos, music, and movies. Large storage capacity at a reasonable price."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "USB cord is appreciated for easy data transfer.",
+            "entity_b": "Stylish and modern design. Compact and fits well on a desk."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No longer has web support from Iomega.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Dependable and fast performance over years of use.",
+            "entity_b": "Reliable and silent operation. Heats up during heavy use. Unstable at times, data loss possible."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No discs have gone bad.",
+            "entity_b": "Failed to complete backups after a year of use."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Product works well for reading old backed up emails and ZIP100 data.",
+            "entity_b": "Useful for backing up iTunes and iPhotos via Firewire. Dual interface provides versatility."
+        }
+    },
+    "Usability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great for storage of smaller documents.",
+            "entity_b": "Easy to use with dual interface. External hard drive is easy to set up and use."
+        }
+    },
+    "Temperature": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Vibrates noticeably, may require a rubber isolation pad. Lacks a cooling fan but operates quietly."
+        }
+    }
+}

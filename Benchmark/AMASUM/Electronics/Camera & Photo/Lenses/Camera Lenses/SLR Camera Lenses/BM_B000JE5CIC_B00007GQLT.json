@@ -1,0 +1,86 @@
+{
+    "Sharpness": {
+        "comm": "Sharp images.",
+        "cont": {
+            "entity_a": "Tack sharp with brilliant color. Super-sharp with built-in camera stabilization for handheld use in low light. Very sharp from f/1.8, but not the fastest in focus speed. Sharp and fast, ideal for low-light photography. Sharper and better built than Canon and Nikon lenses in this focal length.",
+            "entity_b": "Sharpness at f/2.8. Sharp images, but soft at f/2.8 and sharper at f/4.0."
+        }
+    },
+    "Color": {
+        "comm": "Brilliant or vivid color.",
+        "cont": {
+            "entity_a": "Brighter colors and crisper images compared to other Sony lenses. Colors and microcontrast are typical Zeiss.",
+            "entity_b": "Vivid color."
+        }
+    },
+    "Bokeh": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Round bokeh. Produces stunning images with creamy bokeh at f/1.8. Outstanding bokeh.",
+            "entity_b": ""
+        }
+    },
+    "Weight": {
+        "comm": "Heavy.",
+        "cont": {
+            "entity_a": "Heavy and not ideal for walking around, but perfect for studio headshots. Heavy, performs best on a tripod.",
+            "entity_b": ""
+        }
+    },
+    "Build": {
+        "comm": "Solid build.",
+        "cont": {
+            "entity_a": "Well-built and comfortable to handle.",
+            "entity_b": "Solid build with all metal and glass construction."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "High price but worth the quality.",
+            "entity_b": ""
+        }
+    },
+    "Focus": {
+        "comm": "Fast focus.",
+        "cont": {
+            "entity_a": "Not the fastest in focus speed.",
+            "entity_b": "Fast focus compared to 50mm L f/1.2."
+        }
+    },
+    "Versatility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Excellent for portrait work and astrophotography.",
+            "entity_b": "Versatile focal length equivalent to 32mm, great for both photo and video. Wide angle good for landscapes and tight spaces."
+        }
+    },
+    "Weather Resistance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lacks weather sealing.",
+            "entity_b": ""
+        }
+    },
+    "Distortion": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Slight barrel distortion on crop sensor, easily corrected in post."
+        }
+    },
+    "Vignetting": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Heavy vignetting and soft corners."
+        }
+    },
+    "Flare": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Prone to flaring; a lens hood is recommended."
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "Performance": {
+        "comm": "The system initially worked well.",
+        "cont": {
+            "entity_a": "Required frequent reboots and power disconnection.",
+            "entity_b": "Failed over time."
+        }
+    },
+    "Setup": {
+        "comm": "Setup was easy.",
+        "cont": {
+            "entity_a": "Supports multiple PCs.",
+            "entity_b": "Adding devices requires a Linksys program. Setup utility had initial issues finding the router."
+        }
+    },
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The advertised range of 300ft is questionable, with poor signal quality beyond 80ft. Range is less than claimed, with strong signals under 50ft. Signal range is limited, with maximum effective range around 30ft.",
+            "entity_b": "Good range within a two-level house. Not as powerful as expected; range is limited in a 2,700 sq. ft. brick house. Limited range and confusing web interface."
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "User guide lacks key information and is incomplete for NT and 2000. Installation software simplifies setup, and the router auto-detects wireless adapters.",
+            "entity_b": "Router functions well without the included software."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router is not suitable for Macintosh users due to lack of support.",
+            "entity_b": "Router is compatible with both Mac and PC after setup adjustments."
+        }
+    },
+    "Firmware": {
+        "comm": "Firmware updates improve performance.",
+        "cont": {
+            "entity_a": "Necessary for full functionality and performance. May be unstable until firmware is upgraded.",
+            "entity_b": "Added features."
+        }
+    },
+    "Connection": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router has difficulty maintaining connections with Windows 2000. May stop working when devices reboot or when multiple services are used. Some users experience frequent disconnections requiring resets.",
+            "entity_b": "Frequently drops signals and requires resets. Wireless N technology is unreliable, with frequent disconnections. Wireless connection is inconsistent and often requires resets."
+        }
+    },
+    "Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Combines wireless and 4-port switch with simple setup and rich features.",
+            "entity_b": "Router provides good speed and coverage but lacks gigabit support."
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router installation is simple without using the installation disk. Some users experience installation issues with different versions of the product."
+        }
+    },
+    "Speed": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Easy setup with good performance for non-demanding users.",
+            "entity_b": "Router offers good speed but requires periodic power cycling. Router is fast with wired connections but has limited wireless range."
+        }
+    }
+}

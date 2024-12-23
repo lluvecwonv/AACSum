@@ -1,0 +1,86 @@
+{
+    "Interference": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The system interferes with other 2.4 GHz wireless devices, such as mice, routers, and phones.",
+            "entity_b": ""
+        }
+    },
+    "Subwoofer": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The subwoofer is powerful enough for any room.",
+            "entity_b": ""
+        }
+    },
+    "Speakers": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The center and front speakers are not wireless. Wireless rear speakers require a power outlet. Rear speakers have a limited range. Wireless rear speakers are prone to interference. Wireless rear speakers are easy to hang and aesthetically pleasing. Rear speakers require high volume adjustment in 5.1 surround mode. Rear speakers have low output and are not adjustable. Wireless rear speakers work well within 10 feet of the transmitter.",
+            "entity_b": "Convenient USB-powered speakers without a separate power supply. Portable with a durable carrying case. Media controls on the speakers are convenient. Limited by short cables and lack of AUX input. Speakers move due to bass vibrations. USB connection frees up the headset jack. Buttons for volume control are small. Carrying case fits easily into a laptop bag. Speakers are larger than expected for travel. Rubber feet prevent speakers from moving. Physical design is compact and portable."
+        }
+    },
+    "Electricity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "High electricity consumption when on standby.",
+            "entity_b": ""
+        }
+    },
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cable input issues with digital and analog signals. The wireless signal is down-converted to 48kHz.",
+            "entity_b": ""
+        }
+    },
+    "Sound": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great sound quality and easy setup. Good sound quality with a Creative X-Fi Extreme Card. Great sound quality for music and movies. Powerful bass with adjustable sound levels for each channel. Sound quality is impressive for compact size.",
+            "entity_b": "Good sound quality for their size. Sound quality is better than built-in laptop speakers. Lacks deep bass and warmer midrange. Some distortion at high volumes. Sound quality is good for streaming audio. Sound is not suitable for high-bass music. Speakers provide good sound for presentations. Sound quality is clear and loud enough for a good-sized room. Treble and bass are clear, with some distortion at high volumes. Overall good sound for the price."
+        }
+    },
+    "Setup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The system is easy to set up with an adapter for gaming consoles.",
+            "entity_b": "Speakers are easy to set up and use. Installation is simple and quick."
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The system includes a software interface and is easy to use.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The system is not fully compatible with Vista.",
+            "entity_b": "Compatible with Windows XP and Vista. Occasional issues with USB audio device on Vista."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The control console heats up slightly. Plastic stands for speakers are not adjustable. Good build quality and packaging.",
+            "entity_b": "Speakers are not a replacement for a home stereo."
+        }
+    },
+    "Certification": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The system is THX certified.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wireless speakers are prone to dropping out and cause interference.",
+            "entity_b": ""
+        }
+    }
+}

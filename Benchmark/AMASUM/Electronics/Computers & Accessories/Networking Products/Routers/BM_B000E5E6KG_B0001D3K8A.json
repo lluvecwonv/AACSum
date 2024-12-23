@@ -1,0 +1,100 @@
+{
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lack of firmware updates for modern operating systems.",
+            "entity_b": "Product is effective with third-party firmware."
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Installation process is difficult and the wizard on CD is ineffective. Installation requires significant technical knowledge. Difficult to install and requires frequent software reloads. Requires technical expertise for setup and operation.",
+            "entity_b": "Installation is straightforward and works well with diverse devices. Easy to install with good range and security features. Setup is easy with helpful tech support."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Technical support is unhelpful, especially with Windows Vista.",
+            "entity_b": "Tech support is not effective and located in India. Mac setup requires tech support assistance."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Product is not compatible with Vista. Works well with Windows XP, but not with Vista. Good product for Windows XP, but lacks Vista drivers.",
+            "entity_b": "Compatible with multiple devices and provides stable connection."
+        }
+    },
+    "Wireless": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wireless security (WEP/WPA) causes connectivity issues. Wireless mode is unreliable and sound is choppy.",
+            "entity_b": "Wireless performance is reliable and fast. Wireless performance is good but requires frequent resets."
+        }
+    },
+    "Sound": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sound quality is acceptable, but not exceptional. Music cuts out frequently, indicating reliability issues.",
+            "entity_b": ""
+        }
+    },
+    "Hardware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Hardware works well, but software is poorly designed.",
+            "entity_b": "Router works well but lacks third-party firmware support."
+        }
+    },
+    "Product Information": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Product information is outdated and only supports Windows XP.",
+            "entity_b": ""
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wireless mode is unreliable and sound is choppy.",
+            "entity_b": "Router frequently loses network settings. Router is reliable and durable over years of use."
+        }
+    },
+    "Router": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Setup can be problematic without a Linksys router.",
+            "entity_b": "Router does not work with PS3 unless directly connected. Router has good signal range and speed."
+        }
+    },
+    "Delivery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Product arrived on time."
+        }
+    },
+    "Power": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Did not include a power adapter and was locked with custom firmware."
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Installation software is outdated and lacks features."
+        }
+    },
+    "Security": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Reliable router with easy maintenance and security."
+        }
+    }
+}

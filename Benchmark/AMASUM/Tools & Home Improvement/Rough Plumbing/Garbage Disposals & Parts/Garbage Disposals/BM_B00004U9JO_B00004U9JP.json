@@ -1,0 +1,72 @@
+{
+    "Safety": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Fire hazard recall on a switch, but replacement costs are not covered.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "Durability concerns with parts rusting and leaking over time.",
+        "cont": {
+            "entity_a": "Expected lifespan is about 2-3 years, but units have rust issues. Units often require frequent replacements due to leaks and rust. Durability is a concern, with many units failing shortly after the warranty period.",
+            "entity_b": "Some users experienced early motor burnout."
+        }
+    },
+    "Installation": {
+        "comm": "Direct replacement for older models makes installation straightforward.",
+        "cont": {
+            "entity_a": "Installation can be straightforward but may lack necessary components like power cords. Easy to install with existing mounts, but requires additional electrical work.",
+            "entity_b": "Installation can be challenging due to mounting and wiring complexities."
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some units have quality control issues, such as not working out of the box.",
+            "entity_b": ""
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service can be unresponsive and warranty claims cumbersome.",
+            "entity_b": ""
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Quiet operation compared to older models.",
+            "entity_b": "Noise level is high compared to older models. Quiet operation and compact size are appreciated."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The same mounting system allows for easy replacement.",
+            "entity_b": ""
+        }
+    },
+    "Components": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Does not include a power cord; needs to be purchased separately."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Affordable price for the performance offered."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Good for light to medium use but may struggle with larger items."
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "Sound": {
+        "comm": "Sound quality is good for the price.",
+        "cont": {
+            "entity_a": "Sound quality is good but not exceptional. High notes are muted, which was disappointing. Sound is crisp with good bass but lacks comfort for extended wear. Sound quality is excellent, but headphones have a tight fit.",
+            "entity_b": "Sound quality is good for TV but not for music. Sound quality is clear for TV dialogues. Headphones provide good sound quality for the price."
+        }
+    },
+    "NoiseCancellation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Noise-cancellation works well without the high price of other headsets. Noise isolation is not as effective as expected.",
+            "entity_b": "Headphones are lightweight and comfortable but lack noise cancellation."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Right side speaker stopped working after a few months of use. Durability is questionable with issues of parts failing within months. Construction is flimsy and prone to breakage.",
+            "entity_b": ""
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable.",
+        "cont": {
+            "entity_a": "Comfortable but heavy, with a stiff headband. Headphones fit well and are comfortable for hours.",
+            "entity_b": "Comfortable but loose fitting, prone to falling off. Headphones are lightweight and comfortable but lack noise cancellation."
+        }
+    },
+    "Cord": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cord is heavy, coiled, and awkward to manage. Cord is too short and heavy, leading to discomfort.",
+            "entity_b": ""
+        }
+    },
+    "Interference": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Static and pops occur frequently, disrupting the listening experience. Wireless technology causes interference and static."
+        }
+    },
+    "VolumeControl": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Volume control is separate from TV volume. Volume control and tuning wheel are easily confused. Volume can fluctuate randomly, causing discomfort."
+        }
+    },
+    "Setup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Easy to set up but requires additional equipment for compatibility with some TVs."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Battery life is good and rechargeable batteries are replaceable."
+        }
+    },
+    "Charging": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Charging station is convenient but can have connectivity issues."
+        }
+    },
+    "Fit": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Headphones are not suitable for exercise due to poor fit."
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Headphones have a good range and are easy to use."
+        }
+    }
+}

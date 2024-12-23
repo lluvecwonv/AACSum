@@ -1,0 +1,58 @@
+{
+    "Installation": {
+        "comm": "Easy installation.",
+        "cont": {
+            "entity_a": "Installation requires access above, cannot be done from room side. Toughest part is attic crawl. Replacement required entire casing removal despite same measurements. Installation can be tricky but manageable with the right approach. Installation may require additional ceiling support. Installation might require attic access and additional support.",
+            "entity_b": "Easy installation with adaptors for wall thickness. Exterior vent requires larger hole. Requires 8-inch exhaust duct. Installation requires some modifications."
+        }
+    },
+    "Noise": {
+        "comm": "Quiet operation.",
+        "cont": {
+            "entity_a": "Moderately quiet, not silent. Fan is quiet, with moderate noise level. Quiet but looks too plastic-like. One unit worked well, the other became loud quickly. Fan is louder than expected but functions well. Quiet operation, but installation may require wall modifications.",
+            "entity_b": "Almost silent operation. Very quiet operation. Quiet operation is the biggest asset. Quiet and low current usage. Quiet operation even near the shower. Quiet but could move more air. Quiet operation with a soft fluid sound. Quiet and efficient operation. Quiet operation but not very powerful. Quiet with a soft fluid sound."
+        }
+    },
+    "Price": {
+        "comm": "Good value for the money.",
+        "cont": {
+            "entity_a": "Quality is decent for the price. Great fan for the price, but quality is not impressive.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Flimsy exhaust duct connector, requires screwing onto the body. Grill mount design is poor, with a weak attachment. Plastic nozzle for air output is not secure.",
+            "entity_b": "Moves air well and has a sturdy exterior vent. Exterior flap prevents cold air backflow. Heavy gauge metal construction for exterior register. Backdraft damper is noisy on windy days."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Fan is not strong enough for very small bathrooms. Does not move air significantly. Not suitable for larger bathrooms.",
+            "entity_b": "Not very strong in eliminating odors quickly. Effective in reducing moisture in bathrooms. Quiet and powerful exhaust fan. Effective in moving steam and moisture."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "New fan did not solve smoke alarm issue, required additional dehumidifier.",
+            "entity_b": "Eight years of continuous use without issues."
+        }
+    },
+    "Efficiency": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Motor is more efficient at 1.5 amps compared to the old 2 amps.",
+            "entity_b": "Quiet and low current usage."
+        }
+    },
+    "Instructions": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not clear instructions, requires some modification for proper fit.",
+            "entity_b": "Easy installation with clear instructions."
+        }
+    }
+}

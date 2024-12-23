@@ -1,0 +1,86 @@
+{
+    "Design": {
+        "comm": "Keyboard has a stylish design.",
+        "cont": {
+            "entity_a": "Keyboard is aesthetically appealing and has ergonomic design. Keyboard has a sleek design and good tactile feel.",
+            "entity_b": "Keyboard is stylish with smooth key strokes. Keyboard lettering is small and light-colored."
+        }
+    },
+    "Ergonomics": {
+        "comm": "Ergonomic design is comfortable.",
+        "cont": {
+            "entity_a": "Mouse is heavy but ergonomic. The mouse is ergonomic but heavy due to batteries.",
+            "entity_b": "Mouse could be larger for comfort. Comfortable use for gaming and other activities."
+        }
+    },
+    "Wireless": {
+        "comm": "Wireless connection is reliable but has left-handed usage issues.",
+        "cont": {
+            "entity_a": "Wireless base acts as a charger for the mouse. Good wireless range and ergonomic design.",
+            "entity_b": "Wireless feature is temperamental with placement issues."
+        }
+    },
+    "Software": {
+        "comm": "Software issues limit functionality.",
+        "cont": {
+            "entity_a": "Software is clunky. Software issues occasionally cause lag or interference.",
+            "entity_b": "Software installation may require multiple attempts and may cause startup errors. Software installation can alter system settings unexpectedly."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Battery life is good, with a reminder for recharging. Recharges well, batteries last long.",
+            "entity_b": "Mouse battery life is short; recommend using rechargeable batteries. Batteries do not last as long as advertised."
+        }
+    },
+    "Keyboard": {
+        "comm": "Keyboard has a good tactile feel.",
+        "cont": {
+            "entity_a": "Keyboard is well-designed, durable, and has a tight action. Keyboard has neat features and special function key capability.",
+            "entity_b": "Keyboard keys are soft and quiet. Dynamic zoom feature on the keyboard is finicky."
+        }
+    },
+    "Mouse": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Mouse is large, clunky, and has poor movement. The mouse's battery pack was defective, and returns were difficult.",
+            "entity_b": "Mouse works on most surfaces. Mouse design is comfortable but can attract fingerprints."
+        }
+    },
+    "Installation": {
+        "comm": "Easy to install.",
+        "cont": {
+            "entity_a": "Installation is straightforward, but software is clunky. Installation on Windows XP Home was smooth.",
+            "entity_b": "Easy to install and operate."
+        }
+    },
+    "Durability": {
+        "comm": "Solid construction with long-lasting batteries.",
+        "cont": {
+            "entity_a": "The mouse has a nice heft and seems durable. The keyboard is durable and continues to function well over time.",
+            "entity_b": "The mouse's rubber wears off quickly."
+        }
+    },
+    "Functionality": {
+        "comm": "Keyboard and mouse combo is responsive and ergonomic.",
+        "cont": {
+            "entity_a": "Keyboard and mouse combo is smooth, easy to handle, and has nice features. Multimedia buttons are not highly customizable.",
+            "entity_b": "Seamless switching between multiple PCs with KVM. UberOptions SetPoint enhancements allow extensive customization."
+        }
+    },
+    "Connection": {
+        "comm": "Good reception as long as there's no obstruction.",
+        "cont": {
+            "entity_a": "Wireless connection works flawlessly, including advanced mouse functions.",
+            "entity_b": "Wireless setup is simple and works well with multiple PCs."
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Good value for the money with reliable performance."
+        }
+    }
+}

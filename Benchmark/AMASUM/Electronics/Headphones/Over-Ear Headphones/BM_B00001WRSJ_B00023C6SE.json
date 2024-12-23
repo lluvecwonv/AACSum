@@ -1,0 +1,86 @@
+{
+    "Sound": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Balanced, clean, and clear sound with little coloration. Upper frequencies and voices are more detailed and sweeter compared to Audio Technica ATH-M50s. Capable of very deep bass but may require EQ adjustment for more bass presence. Sound quality is excellent, with strong bass, clean highs, and an articulate midrange. Excellent sound reproduction with no artificially boosted bass or treble. Sound is clear and distinct, with a wide range. Slightly less bass-heavy compared to consumer headphones, focusing on accuracy.",
+            "entity_b": "Sound quality is not the greatest but works well. Sound quality is better than TV speakers. Background hiss present with occasional phase issues. Sound quality is good with digital optical signal."
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable to wear.",
+        "cont": {
+            "entity_a": "Comfortable with a good adjustment system, offering a nice sound barrier to exterior noises. Lightweight and comfortable, suitable for long periods of use. Comfortable to wear for long periods, even with glasses.",
+            "entity_b": "Loose fit on the head. Comfortable ear cushions."
+        }
+    },
+    "Bass": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Capable of very deep bass but may require EQ adjustment for more bass presence. Sound quality is excellent, with strong bass, clean highs, and an articulate midrange. Slightly less bass-heavy compared to consumer headphones, focusing on accuracy.",
+            "entity_b": ""
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Folding mechanism improves portability, although not as portable as some other models. Included carrying bag adds to portability.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The headphones are very durable and have lasted for years. Stock earcups wear out in a year, but durable replacement options are available.",
+            "entity_b": "Headphones are made well."
+        }
+    },
+    "Cord": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cord is well made, sturdy, and the aluminized plug fits well into the aux port. Long coiled cord provides flexibility and does not get tangled. Extra long cord can be a nuisance but provides great flexibility. Coiled cord is heavy and may be inconvenient for portable use.",
+            "entity_b": ""
+        }
+    },
+    "NoiseIsolation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good noise isolation without active noise canceling.",
+            "entity_b": "Headphones filter out road noise well."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Build quality feels sturdy, with a long-lasting design.",
+            "entity_b": ""
+        }
+    },
+    "Fit": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Earcups are somewhat fragile and need replacement over time. Earpads are prone to flaking after extended use but are easily replaceable.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "They have a very flat response, suitable for studio use. Great for mixing and monitoring music with a neutral sound profile.",
+            "entity_b": "Requires no obstructions between the user and the base for optimal reception. Charging on the base is tricky and requires precise placement. Limited range from the base, causing cutouts if too far away. Volume control is difficult to find and use. Allows for shared TV watching with varying volume preferences. Good for apartment living and late-night use without disturbing others. Background hiss and static increase as battery life diminishes. Interference issues with plasma TVs. Short range with signal loss if moving away from the transmitter. Requires careful placement on the charger to ensure charging."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Battery life is excellent."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Headphones are affordable and suitable for their class."
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Excellent pairing with DarkVoice 336 SE tube amplifier and IFI Black Label portable DAC amp.",
+            "entity_b": ""
+        }
+    },
+    "Sound": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sound quality is amazing from highs to lows, with crisp and clear sound. Clear, bright highs and a warm sound signature. The sound is balanced with incredible clarity and detail. Great for music mastering and mixing due to accuracy and detail. Sound stage is well-defined.",
+            "entity_b": "Sound is clear and loud with prominent treble and weak bass. Some users experience white noise in the background."
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The headphones are comfortable and can be worn for extended periods. Comfortable fit after breaking in, but initial tightness may require adjustment.",
+            "entity_b": "Comfortable clip-on design. Fit well but may cause discomfort on long runs in hot weather. Fit around the ear is too loose, affecting sound quality."
+        }
+    },
+    "Power": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires a powerful amp to drive them to full potential. Requires a proper amp to avoid sounding dull and lifeless.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Open-back design does not provide noise cancellation. Not suitable for noisy environments due to open-back design.",
+            "entity_b": "Only one cord is retractable. Retractable cord feature helps prevent tangling."
+        }
+    },
+    "Bass": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Bass is extended and well-articulated. The bass is tight and controlled.",
+            "entity_b": "Bass response is lacking."
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Very good value for money, especially compared to models priced between $500 and $700.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Build quality issues with cable connections, leading to audio cutouts. Durable and long-lasting, with replaceable ear pads and cables.",
+            "entity_b": "Cables are thin, potentially affecting long-term durability."
+        }
+    }
+}

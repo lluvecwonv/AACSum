@@ -1,0 +1,72 @@
+{
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great ergonomic design.",
+            "entity_b": "Compact and portable. Requires a flat solid surface due to lack of lap lock. The stand is cheap and fragile."
+        }
+    },
+    "Typing": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Typing speed and accuracy significantly increase with use.",
+            "entity_b": ""
+        }
+    },
+    "Keys": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The keyswitches are great, but the frame could be sturdier to reduce noise. The Esc, F-keys, and programmable buttons are small, non-mechanical, and prone to mis-clicks. Programmable keys offer customization options. Some keys are in suboptimal positions for programming. Key remapping is easy and supports multiple OS. The keyboard lacks Mac OSX drivers for some keys.",
+            "entity_b": "Mirror alignment is difficult, affecting usability. IR port placement on Dell affects beam alignment."
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The keyboard is comfortable and helps alleviate carpal tunnel symptoms. The thumb keys provide an ergonomic advantage.",
+            "entity_b": ""
+        }
+    },
+    "Build Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Build quality is generally excellent but lacks water resistance.",
+            "entity_b": "The stand is cheap and fragile."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service is responsive and helpful.",
+            "entity_b": "Tech support blamed user initially but conceded a defective board."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The keyboard is durable and lasts for many years.",
+            "entity_b": "Battery life is shortened on Zodiac."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No numbers pad, but can be created through the top row keys. The keyboard is good for both work and gaming. Switching back to a traditional keyboard can be challenging after using this one.",
+            "entity_b": "Works well with Dell Axim X5 and Zodiac but not with Tungsten E. Installation is fast and easy, but the software may not work properly with all devices. The keyboard is affordable but may not be compatible with all devices. Dvorak layout drivers are available."
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Installation is fast and easy, but the software may not work properly with all devices."
+        }
+    },
+    "Manual": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The manual is inadequate for explaining features."
+        }
+    }
+}

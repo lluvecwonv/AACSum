@@ -1,0 +1,72 @@
+{
+    "Bugs": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Major bugs present, and Belkin is aware.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Upgrading from another Belkin product results in reduced throughput. Good performance as long as there is no interference from cordless phones. Works well with Linux Ubuntu with excellent WiFi reception and speeds.",
+            "entity_b": "Router has poor wireless speed and range."
+        }
+    },
+    "CustomerService": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Belkin customer service unable to resolve issues without engineering intervention. Customer support is inadequate and unhelpful.",
+            "entity_b": "Belkin support unable to resolve issues with Call of Duty: Modern Warfare 2. Belkin support is difficult to contact and unresponsive."
+        }
+    },
+    "SignalStrength": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Signal strength is poor; only fair signal 15 feet away and no signal 50 feet away. Older pre-N notebook card performs better in terms of signal strength.",
+            "entity_b": "Good signal strength and easy setup with Mac."
+        }
+    },
+    "ResourceConsumption": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Belkin N1 card consumes excessive system resources, causing lockups.",
+            "entity_b": ""
+        }
+    },
+    "Stability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Driver updates can cause system instability, requiring reinstallation of Windows. Product is unstable and frequently drops connection.",
+            "entity_b": "Router randomly disconnects and resets settings upon reboot. Router unable to maintain PPPOE connection for extended periods."
+        }
+    },
+    "Installation": {
+        "comm": "Installation is generally easy.",
+        "cont": {
+            "entity_a": "The CD provided was incorrect in one case. Installation CD issues resolved by Belkin support. Installation was simple with Verizon FIOS achieving up to 15 Mbps download and 7 Mbps upload.",
+            "entity_b": "Belkin router setup is straightforward with Macintosh compatibility. Setup is easy with plenty of coverage throughout the home."
+        }
+    },
+    "Interference": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Card is susceptible to interference from 2.4 GHz devices.",
+            "entity_b": ""
+        }
+    },
+    "Connectivity": {
+        "comm": "Router drops connection frequently.",
+        "cont": {
+            "entity_a": "Frequent connectivity issues and poor range. Connection to existing N network only achieved slower Wireless G speed.",
+            "entity_b": "Particularly during gaming. Wireless connection is unreliable and frequently drops."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Does not stream video well and has low reliability.",
+            "entity_b": "Received as a used product despite being sold as new."
+        }
+    }
+}

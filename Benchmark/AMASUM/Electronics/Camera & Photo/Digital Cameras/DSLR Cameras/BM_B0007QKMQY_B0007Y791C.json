@@ -1,0 +1,65 @@
+{
+    "Description": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The product description did not match the actual item, missing strap and incorrect camera model.",
+            "entity_b": "Missing focusing ring not mentioned in the description."
+        }
+    },
+    "Condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Item was in bad condition with missing settings indicator and side cover.",
+            "entity_b": "The camera body was in good condition, but the battery life was short."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera works and takes nice pictures, with easy-to-use features and online manual access. Fast picture-taking speed, good for capturing moments with children. Easy to use with good automatic mode and customizable settings.",
+            "entity_b": "Great for landscapes and portraits, with a preference for full-frame. Low-light performance is impressive with minimal noise. Older model but provides superb image quality and control. Heavy and lacks some modern features but remains a solid choice for serious photographers."
+        }
+    },
+    "Price": {
+        "comm": "Affordable.",
+        "cont": {
+            "entity_a": "DSLR option, suitable for beginners with various settings.",
+            "entity_b": "Full-frame option with pleasing colors."
+        }
+    },
+    "Accessories": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Received extra battery and memory card. Some models had missing accessories and were dusty or dirty.",
+            "entity_b": ""
+        }
+    },
+    "Issues": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Camera had focus, flash, and busy signal issues, requiring potential repair. Battery and computer sync issues, making image retrieval difficult.",
+            "entity_b": ""
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Camera is lightweight and easy to carry.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Older model but functions well, though some parts may be missing or require repair.",
+            "entity_b": "Durable and reliable with a strong build."
+        }
+    },
+    "Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Canon's service will stop after September 2015, as parts will not be available."
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "Authenticity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pan's labeling was incorrect, raising concerns about its authenticity.",
+            "entity_b": ""
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The inner surface appeared painted and scratched, not meeting Nordic Ware quality.",
+            "entity_b": ""
+        }
+    },
+    "Safety": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pan had sharp metal edges, posing a safety risk.",
+            "entity_b": "The pan's rim edges are sharp, requiring careful handling."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pan initially performed well but began sticking after two months despite proper care.",
+            "entity_b": "The pan leaked, causing issues with non-stick coating and batter containment."
+        }
+    },
+    "Comparison": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The Platinum Collection pan is thicker and bakes more evenly than the Pro Cast pan.",
+            "entity_b": ""
+        }
+    },
+    "Condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pan arrived repackaged with minor flaws but had a good weight and feel.",
+            "entity_b": ""
+        }
+    },
+    "Capacity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "It holds up to 15 cups of batter, preventing overflow and burning.",
+            "entity_b": "The pan holds at least 3 cups of pound cake batter."
+        }
+    },
+    "Non-stick": {
+        "comm": "The pan is non-stick and allows cakes to release easily.",
+        "cont": {
+            "entity_a": "The non-stick finish deteriorated after several uses, causing sticking.",
+            "entity_b": "The pan's non-stick coating is effective, but directions on spray usage are inconsistent."
+        }
+    },
+    "Durability": {
+        "comm": "The pan is sturdy and heavy-duty.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The pan is durable and survived being run over without damage."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pan's weight and design contribute to its excellent baking performance.",
+            "entity_b": ""
+        }
+    },
+    "Ease of Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pan requires careful greasing of crevices for best results.",
+            "entity_b": ""
+        }
+    },
+    "Cleaning": {
+        "comm": "The pan is easy to clean.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The pan is dishwasher safe."
+        }
+    },
+    "Recommendation": {
+        "comm": "The pan is recommended for quality baking.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The pan is ideal for keto recipes."
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "Build": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Solid body with superior build quality compared to Canon Rebel series. Pro body with weather sealing and built-in hand grip.",
+            "entity_b": "Compact and easy to handle body."
+        }
+    },
+    "Shooting": {
+        "comm": "",
+        "cont": {
+            "entity_a": "8fps shooting speed is impressive for a 10-year-old camera.",
+            "entity_b": "Fast response time with continuous shooting at 3fps."
+        }
+    },
+    "Autofocus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Pro autofocus with 45 points and AI Servo Mode prevents losing subjects. Fast autofocus performance with a suitable lens.",
+            "entity_b": ""
+        }
+    },
+    "Resolution": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Low resolution at 4.2MP is a limitation for some users.",
+            "entity_b": ""
+        }
+    },
+    "Accessories": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Difficult to find accessories due to the camera's age.",
+            "entity_b": "Missing CF card and incompatible USB cable are issues."
+        }
+    },
+    "Error": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Error 99 is a known issue with this camera model.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Compatible with older Minolta lenses, providing cost savings. The camera has a full-sized CCD and compatibility with Sony and Konica-Minolta lenses."
+        }
+    },
+    "Ease of Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Relatively easy to use with intuitive controls. Notable for its ease of use and exceptional performance."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Reliable with long battery life."
+        }
+    },
+    "Image Stabilization": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Anti-shake feature enhances image stability. Image stabilization feature is beneficial for sharp photos."
+        }
+    },
+    "Photography": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Great for basic photography with good picture quality. Excellent for close-ups but limited in certain conditions."
+        }
+    },
+    "Color": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Vivid colors and terrific clarity in photos."
+        }
+    },
+    "Lens Options": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Plenty of lens options available second-hand."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Sony's proprietary hot shoe limits flash options."
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Time has passed this camera by, with newer DSLRs offering better value.",
+            "entity_b": ""
+        }
+    }
+}

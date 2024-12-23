@@ -1,0 +1,51 @@
+{
+    "Installation": {
+        "comm": "Easy to install.",
+        "cont": {
+            "entity_a": "Taking less than 30 minutes. Installation is straightforward but screw holes are difficult to access. Installation can be difficult due to design flaws. Installation instructions are not included in the box.",
+            "entity_b": "Does not include a knockout clamp. Requires an electrician for installation."
+        }
+    },
+    "Heating": {
+        "comm": "Heats quickly.",
+        "cont": {
+            "entity_a": "Heats a 160 sqft bathroom in under 10 minutes. The heater does not put out much heat. Works as an auxiliary heater. Replacement for older models, fits perfectly and heats well. Takes a couple of minutes to produce warm air. Heater is suitable for small spaces.",
+            "entity_b": "Throws out a lot of heat quickly. No temperature control and heat direction is upward. Perfect for small spaces like bathrooms and bedrooms."
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Makes clicking noises when shutting down. Fan is quieter than older models. Solid construction but can be noisy.",
+            "entity_b": "Not noisy. Very quiet."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The infrared red light is not desirable for home use. Solid heating element instead of ribbon, which is more durable. Heater is smaller but fits existing spaces well.",
+            "entity_b": "Electrical parts are not protected from dirt accumulation."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The heater is cheaply made. Solid construction. Thermostat and fan issues lead to premature failure. Replacement units often fail quickly.",
+            "entity_b": "Thermostat wore out after 10 months, causing safety issues."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Works well but lacks a fan-only option.",
+            "entity_b": "Thermostat activates even when 'off' at mid-forties temperature. Thermostat not included as advertised."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Affordable."
+        }
+    }
+}

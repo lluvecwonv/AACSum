@@ -1,0 +1,72 @@
+{
+    "Sound": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Very balanced, clean, and clear sound with little coloration. Upper frequencies and voices are more detailed and sweeter compared to Audio Technica ATH-M50s. Incredible sound quality for the cost. Offers the lowest bass response without disappointment. Great for mixing, with detailed sound across the spectrum.",
+            "entity_b": "Excellent sound quality with a wide and expansive sound stage. Warm sound with clear mids and highs. Very detailed and articulate sound. Highly recommended for audiophiles seeking natural sound."
+        }
+    },
+    "Bass": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Capable of very deep bass, but bass boost may be needed for more bass than present in the recording. Offers the lowest bass response without disappointment. Not overly bass-heavy.",
+            "entity_b": "Bass is tight and controlled, but sub-bass may be lacking."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Foldable design improves portability. Coiled cable prevents tangling and accidental disconnection. Not active noise-canceling, but blocks out some ambient noise.",
+            "entity_b": "Open back design provides a natural and spacious sound. Not suitable for noisy environments due to open back design."
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable for long periods.",
+        "cont": {
+            "entity_a": "Very comfortable fit with a great adjustment system. Comfortable for long periods, though ear pads may wear out.",
+            "entity_b": "Very comfortable after breaking in. Comfortable for extended wear, but clamping force may be tight."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durable build, lasting over many years with proper maintenance. Long-lasting with replaceable ear pads.",
+            "entity_b": "High build quality, though cable connection is a weak point. Durable with replaceable cables. Sound quality is consistent over years of use."
+        }
+    },
+    "Cable": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cord is well made and sturdy, with a nice aluminized plug. Coiled cable prevents tangling and accidental disconnection. Coiled cord can be cumbersome, but provides flexibility.",
+            "entity_b": "High build quality, though cable connection is a weak point. Durable with replaceable cables."
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Super value, especially for mixing and monitoring music.",
+            "entity_b": ""
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Foldable design improves portability.",
+            "entity_b": ""
+        }
+    },
+    "Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Flat response suitable for studio use.",
+            "entity_b": "Great for mixing and mastering with phenomenal accuracy. Excellent for gaming and music with good imaging."
+        }
+    },
+    "Amplification": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Requires a proper amplifier to drive effectively. Best paired with a quality DAC and amplifier for optimal performance."
+        }
+    }
+}

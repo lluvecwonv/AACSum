@@ -1,0 +1,79 @@
+{
+    "Build": {
+        "comm": "Well built and easy to use.",
+        "cont": {
+            "entity_a": "Solid with great aesthetics and feel. Built well and offers good quality.",
+            "entity_b": "Tough as nails, easy to adjust, well built. Super solid build and easy to use."
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Right size for around the house, not too small or overly large and heavy.",
+            "entity_b": "Smaller than expected but works well for small household jobs."
+        }
+    },
+    "Usability": {
+        "comm": "Easy to use.",
+        "cont": {
+            "entity_a": "Easy to use one-handed and doesn't slip like cheaper wrenches.",
+            "entity_b": "Does not slip or strip teeth."
+        }
+    },
+    "Weight": {
+        "comm": "Heavy.",
+        "cont": {
+            "entity_a": "Heavy, but the jaws operate smoothly. Heavy but usable by smaller individuals due to the extra weight.",
+            "entity_b": "Hefty but made of solid steel. Heavy and sturdy with a warranty that guarantees a free replacement if the handle breaks."
+        }
+    },
+    "Quality": {
+        "comm": "High quality.",
+        "cont": {
+            "entity_a": "High quality with sharp teeth that grip well.",
+            "entity_b": "Strong grip, especially on small parts."
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great value for the price.",
+            "entity_b": "Not the least expensive, but durable enough to last a lifetime."
+        }
+    },
+    "Durability": {
+        "comm": "Can withstand heavy use.",
+        "cont": {
+            "entity_a": "Heavy cast iron construction with virtually nothing that can break. Can withstand heavy use without damage.",
+            "entity_b": "Exterior paint chipped after a drop, causing sharp edges."
+        }
+    },
+    "Warranty": {
+        "comm": "Lifetime warranty.",
+        "cont": {
+            "entity_a": "Has a lifetime warranty honored by Irwin.",
+            "entity_b": "Lifetime warranty available. Heavy and sturdy with a warranty that guarantees a free replacement if the handle breaks."
+        }
+    },
+    "Performance": {
+        "comm": "Does the job it was designed to do very well.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Handles all jobs around the house and garage."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Handle clean of burs with sharp dies.",
+            "entity_b": "Has a replaceable lower jaw."
+        }
+    },
+    "Smell": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Makes hands smell unpleasantly after use.",
+            "entity_b": ""
+        }
+    }
+}

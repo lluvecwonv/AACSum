@@ -1,0 +1,44 @@
+{
+    "Material": {
+        "comm": "Stainless steel construction.",
+        "cont": {
+            "entity_a": "Made from thin stainless steel with insecure welds.",
+            "entity_b": "Overpriced."
+        }
+    },
+    "Usability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Feels clunky and uncomfortable to use. Requires excessive downward force, leading to metal shavings in food. Handle is uncomfortable and not solid. Handle design makes it difficult to hold, especially with arthritis.",
+            "entity_b": "Difficult to use. Difficult to hold steady over pots or bowls. Easy to use and produces good texture. Difficult to crank due to design."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The little feet that rest on the bowl are ineffective. Arms on the bowl's edge are weak and bend easily. Food mill is lightweight and not very sturdy.",
+            "entity_b": "Plastic scraper breaks easily and is ineffective. Handle welding is weak and prone to snapping. Plastic pin holding scraper is cheaply made."
+        }
+    },
+    "Effectiveness": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Leaves black residue in food, possibly grease or metal. Leaves food behind in the base due to blade misalignment. Blade doesn't push food through effectively, only pure liquid passes. Blade does not meet flush with the sides, causing food buildup.",
+            "entity_b": "Food mill is inefficient, requiring manual scraping. Produces smooth mashed potatoes and applesauce. Food mill does not press food effectively."
+        }
+    },
+    "Cleaning": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Difficult to clean due to seeds getting stuck in holes.",
+            "entity_b": "Easy to assemble, disassemble, and clean."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The knob's screw irritates the user's hand.",
+            "entity_b": ""
+        }
+    }
+}

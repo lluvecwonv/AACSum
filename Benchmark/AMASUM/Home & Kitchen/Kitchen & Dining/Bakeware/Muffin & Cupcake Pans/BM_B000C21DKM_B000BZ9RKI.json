@@ -1,0 +1,58 @@
+{
+    "Non-stick": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pan is non-stick and does not require spray oil, which can cause a film to form. The non-stick coating is not effective for all recipes. Non-stick surface works well with proper greasing. Pan's non-stick coating may flake off or bake into food. Non-stick surface is effective with butter-flavored shortening. Non-stick surface may not be reliable without greasing. Non-stick surface works well.",
+            "entity_b": "No non-stick coating, just metal."
+        }
+    },
+    "Cleaning": {
+        "comm": "Easy to clean and maintain.",
+        "cont": {
+            "entity_a": "Hand-washing is recommended to preserve the non-stick coating. Easy to clean with a plastic spatula. Recommended to hand wash.",
+            "entity_b": "Stainless steel can be harder to clean than nonstick. Avoid soaking to prevent tarnishing. Hand wash recommended to prevent discoloration. Seamless design makes cleaning easier. Detergent can corrode aluminum in the dishwasher. Hand wash only to maintain quality."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sturdy and has some weight to it. Heavier than expected, very sturdy. Durable and survived being run over by a car. Durable with good quality material. Heavy duty and well-made. The pan is very heavy and sturdy. Heavy duty and worth the value. Sturdy and durable. Pan is very sturdy and suitable for low-carb baking. Heavy duty with a light-colored interior. Pan is sturdy and provides even baking.",
+            "entity_b": "Super sturdy pan. Heavy-duty, commercial-grade. Heavy-duty muffin tin. Heavier than expected. Heavy-duty aluminum construction."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Design is perfect for pineapple upside-down cake. Rim edges are sharp but manageable with care. The pan is suitable for keto bread and bagels.",
+            "entity_b": "The pan is not a mini muffin pan; it's more like a mini pie pan. The edge is narrow and hard to grab. Lid clearance could be higher for frosted cupcakes. Lid fits well but may squish tall cupcakes. Seamless design prevents batter trapping."
+        }
+    },
+    "Cooking": {
+        "comm": "Bakes cakes evenly.",
+        "cont": {
+            "entity_a": "Holds at least 3 cups of pound cake batter. Cakes release easily from the ungreased pan. Cake releases perfectly with cooking spray. Some users report leakage issues. Pan is sturdy and provides even baking.",
+            "entity_b": "Reliable browning and cooking. Bakes beautifully. Holds heat better for even caramelization. Even cooking and easy release. Reflects heat for even baking. Shiny surface produces even browning. Shiny aluminum prevents crispy bottoms. Reflects heat better than dark pans. Great for baking large meatballs."
+        }
+    },
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Heavy duty and non-stick.",
+            "entity_b": "Material does not slide easily out of the oven. Aluminum construction prevents rusting. No seams to trap batter. USA-made."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rusts in the dishwasher despite being labeled dishwasher safe.",
+            "entity_b": "Lid allows for easy storage and transport. Fits well in small ovens."
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Very good quality and easy to clean.",
+            "entity_b": "Excellent product quality. Nordic Ware pans are highly recommended."
+        }
+    }
+}

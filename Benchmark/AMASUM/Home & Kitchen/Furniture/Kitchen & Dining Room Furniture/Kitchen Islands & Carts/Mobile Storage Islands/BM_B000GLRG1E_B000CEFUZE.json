@@ -1,0 +1,65 @@
+{
+    "Packaging": {
+        "comm": "Well-packaged with no damages.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Packaged extremely well with all pieces in perfect condition."
+        }
+    },
+    "Assembly": {
+        "comm": "Easy to assemble.",
+        "cont": {
+            "entity_a": "Screw and dowel holes align perfectly, ensuring easy assembly. Leafs come preinstalled with the top, simplifying assembly. Assembly is easy but requires two people for certain steps. Clear instructions, but lack of labeling on parts complicates assembly.",
+            "entity_b": "Except for the drawers due to shallow tap holes. Instructions recommend laying out all pieces before assembly."
+        }
+    },
+    "Material": {
+        "comm": "Solid construction.",
+        "cont": {
+            "entity_a": "Solid wood construction with no missing pieces or hardware. Sturdy kitchen cart made from solid wood. Real wood with a natural finish.",
+            "entity_b": "Solid piece of furniture with better quality than IKEA. Heavy and well-made with hardwood sides, back, and front. Solid oak construction with a granite top."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Design includes composite stock walls and drawer bottom. Drop leaves provide additional workspace. Flexible storage options with the addition of lid racks. Efficient use of space with folding extensions.",
+            "entity_b": "White color is more ivory than bright white. Granite top enhances the appearance. Well-designed with functional storage and drawers. Granite countertop is elegant and enhances kitchen aesthetics."
+        }
+    },
+    "Storage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Limited cupboard space, but provides extra work surface. Sturdy with ample storage space.",
+            "entity_b": "Functional and fits well in the kitchen."
+        }
+    },
+    "Mobility": {
+        "comm": "Casters allow easy movement and locking in place.",
+        "cont": {
+            "entity_a": "Rolling casters are steel with rubber wheels. Heavy-duty wheels with brake locks.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "Heavy-duty construction.",
+        "cont": {
+            "entity_a": "Durable wheels.",
+            "entity_b": "Granite top is heavy and attractive."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Affordable price for high-quality materials.",
+            "entity_b": "Priced at $450, considered good value. Price fluctuates, with a noted $35 drop after purchase."
+        }
+    },
+    "Issues": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Some pieces arrived cracked, requiring repair. Strong chemical smell in drawers that dissipates over time. Customer service quickly replaced a broken granite countertop."
+        }
+    }
+}

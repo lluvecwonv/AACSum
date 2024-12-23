@@ -1,0 +1,72 @@
+{
+    "Convenience": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Only one wire retracts, which is less convenient. Not fully retractable as expected, only one wire retracts.",
+            "entity_b": "Difficult to place headphones on the base for charging."
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable fit.",
+        "cont": {
+            "entity_a": "Most comfortable clip-on headphones owned, more comfortable than earbuds. Secure and comfortable clip-on attachments. Earpieces can pinch after prolonged wear. Fit around the ear is too loose, affecting sound quality.",
+            "entity_b": "Forgettable during use. Snug fit and comfortable ear cushions."
+        }
+    },
+    "Sound": {
+        "comm": "Good sound quality.",
+        "cont": {
+            "entity_a": "Clearer and louder sound compared to previous version, but with weak bass. Occasional white noise in the background. Fit around the ear is too loose, affecting sound quality.",
+            "entity_b": "Sound quality is not the greatest but works well. Sound better than TV speakers, especially for movies. Good digital sound with optical input. Some interference from other devices. Background hiss and occasional out-of-phase issues. Background hiss and low bass are significant issues. Sound quality diminishes with battery life."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Thin cables may affect long-term durability.",
+            "entity_b": ""
+        }
+    },
+    "Wire": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cord is too short, requiring an extension. Retractable mechanism works smoothly, reducing tangling.",
+            "entity_b": ""
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Excellent battery life."
+        }
+    },
+    "Reception": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Requires unobstructed line to base for good reception. Short range, with signal dropping beyond 15 feet."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Charging dock design is poor and frustrating."
+        }
+    },
+    "Volume": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Volume control is difficult to use."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Effective at keeping ears warm during workouts.",
+            "entity_b": "Good for watching TV without disturbing others."
+        }
+    }
+}

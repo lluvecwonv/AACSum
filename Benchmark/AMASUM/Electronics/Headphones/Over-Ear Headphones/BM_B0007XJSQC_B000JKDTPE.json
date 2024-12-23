@@ -1,0 +1,65 @@
+{
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Three out of four headphones broke apart, and the last one's covering is flaking off. The new version has a smaller band, borderline delicate plastic, and sound shorts out. The old version was about 3x sturdier than the new one. Wires seem fragile and prone to damage under normal conditions. The construction is not very sturdy, with issues like broken jacks and wires.",
+            "entity_b": "The plastic construction is weak, leading to breaks within 2-3 months. The build quality is poor, leading to breaks. They are not as durable, with issues like broken plastic and dead sides."
+        }
+    },
+    "Sound": {
+        "comm": "The sound is balanced in high and mid sections, but lows are lacking.",
+        "cont": {
+            "entity_a": "The headphones have better high and mid-range clarity compared to Beats, but the bass is not as deep. The sound quality is great for the price, balancing bass and treble well. The sound clarity allows for detailed listening experiences. The sound volume is lower compared to other models, requiring higher device volume.",
+            "entity_b": "The headphones are comfortable with crisp and clean sound. The sound quality is good. The sound quality is clear with decent bass for the price."
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The headphones are lightweight and comfortable for over-ear configuration. They are comfortable for long periods, even over glasses.",
+            "entity_b": "The headphones are comfortable. They have a hard clamp that can become uncomfortable after short use."
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "They are not noise-canceling but effectively drown out environmental noise.",
+            "entity_b": "They are effective at blocking outside noise."
+        }
+    },
+    "Cord": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The cord is excessively long, making it cumbersome in certain situations.",
+            "entity_b": "The cord is short, limiting movement at a desk."
+        }
+    },
+    "Price": {
+        "comm": "The headphones are affordable.",
+        "cont": {
+            "entity_a": "The sound quality is great for the price.",
+            "entity_b": "Suitable for budget audiophiles."
+        }
+    },
+    "Comparison": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The headphones have better high and mid-range clarity compared to Beats.",
+            "entity_b": "The headphones are a cheaper alternative but not comparable to higher-end models like Bose."
+        }
+    },
+    "Usage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The headphones are suitable for casual listening but not for high-end audio needs.",
+            "entity_b": ""
+        }
+    },
+    "Lifespan": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The headphones have a long lifespan, with some lasting over 10 years.",
+            "entity_b": ""
+        }
+    }
+}

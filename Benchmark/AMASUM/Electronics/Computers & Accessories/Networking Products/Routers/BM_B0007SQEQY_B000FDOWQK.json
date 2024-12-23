@@ -1,0 +1,93 @@
+{
+    "Signal": {
+        "comm": "Signal strength reduces or varies.",
+        "cont": {
+            "entity_a": "Reduces if there are walls between the laptop and router.",
+            "entity_b": "N connection causes constant dropped signals and requires repeated resets. Weaker than expected; requires DD-WRT firmware for better performance."
+        }
+    },
+    "Setup": {
+        "comm": "Easy setup.",
+        "cont": {
+            "entity_a": "Issues with shared mode and DNS passthrough.",
+            "entity_b": "Setup utility initially struggled to find the router. Easy setup and configuration using a wired connection."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Excellent customer support from Netgear.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "Works with certain connections.",
+        "cont": {
+            "entity_a": "Works with cable internet connection. Does not work with DSL modems.",
+            "entity_b": "Works well with older Linksys products, but newer ones have high failure rates. Product worked great for wired, wireless, and Voice over IP."
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lightweight with a carry case, good for traveling and securing connections.",
+            "entity_b": ""
+        }
+    },
+    "Temperature": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Gets hot, ensure it is not covered.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not cheap.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Slim and nice looking router.",
+            "entity_b": "Product looks well-made, but Draft-N technology is too new. Dim LED lights and inconvenient reset button placement."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router stopped working after warranty expired.",
+            "entity_b": "Router has frequent wireless disconnects and requires manual intervention. Not as reliable as older models."
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Installation can be challenging without IT knowledge.",
+            "entity_b": "Poor install software but works well after adjusting settings."
+        }
+    },
+    "Reboot": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires reboot once a day.",
+            "entity_b": "Router works well with multiple devices but requires periodic power recycling."
+        }
+    },
+    "Range": {
+        "comm": "Good range.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Good range in a two-level house. The router is powerful and has good range with G mode. Router has a good range and speed but lacks a Gigabit connection."
+        }
+    },
+    "Security": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Good for security but requires running a Linksys program to add computers to the network."
+        }
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "Information": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Insufficient product information for non-technical users.",
+            "entity_b": ""
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Included software is not user-friendly for non-technical users.",
+            "entity_b": "Better performance when letting Windows control the connection instead of Netgear's software."
+        }
+    },
+    "Storage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Windows 10 updates filled storage memory, rendering it unusable.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "Better performance.",
+        "cont": {
+            "entity_a": "Good performance for Linux-based laptops, supporting WPA and WEP with easy connections. Better performance than a more expensive USB N adaptor.",
+            "entity_b": "Range and speed are inadequate. Speed and coverage are as advertised."
+        }
+    },
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Signal drops significantly beyond 40 feet. Signal reception is good throughout a two-story house. Signal strength is not always full but remains connected. Easy setup with good signal throughout the house.",
+            "entity_b": "Works well with the Rangemax router, maintaining a stable connection."
+        }
+    },
+    "Delivery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Delivery was fast and product arrived in perfect condition.",
+            "entity_b": ""
+        }
+    },
+    "Installation": {
+        "comm": "Installation is easy.",
+        "cont": {
+            "entity_a": "Installation instructions available online were helpful.",
+            "entity_b": "Installation was easy and took less than 10 minutes. Installation was easy and smooth, with improved sensitivity compared to previous cards."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Price was low, but the product worked as expected.",
+            "entity_b": ""
+        }
+    },
+    "Troubleshooting": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Troubleshooting may be needed for address conflicts on networks.",
+            "entity_b": "Setup was problematic due to wrong IP address issues."
+        }
+    },
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Reliable and dependable for providing wireless connectivity.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Does not work with secure recent routers. Requires specific drivers for Windows; not supported under Linux without additional setup. Drivers not available for Texas Instruments CardBus Controllers.",
+            "entity_b": ""
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Older version of the card; no technical support available. Seller was helpful and quick to refund for a faulty product.",
+            "entity_b": "Technical support was unhelpful."
+        }
+    },
+    "Speed": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Installation is easy, but speed is a concern for older laptops.",
+            "entity_b": "Speed and coverage are as advertised."
+        }
+    },
+    "Setup": {
+        "comm": "Setup was easy.",
+        "cont": {
+            "entity_a": "Setup was straightforward with provided software. Linksys support site provides drivers if needed.",
+            "entity_b": "Setup was easy with an on-screen wizard."
+        }
+    },
+    "CPU": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "CPU usage spikes to 80% when the card is plugged in."
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "Ergonomics": {
+        "comm": "Comfortable grip.",
+        "cont": {
+            "entity_a": "Well-balanced, comfortable wireless mouse with excellent ergonomics.",
+            "entity_b": "Ergonomic design helps with wrist and hand pain relief."
+        }
+    },
+    "Resolution": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Allows on-the-fly resolution changes for better gaming accuracy.",
+            "entity_b": "High mouse speed without adjustment options."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comes with two batteries, allowing for hot swapping without docking. Battery life is short, especially during gaming, requiring frequent changes.",
+            "entity_b": "Consumes batteries quickly."
+        }
+    },
+    "Accuracy": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Accuracy is comparable to wired mice, but can experience jerky pointer movement.",
+            "entity_b": ""
+        }
+    },
+    "Interference": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Suffers from Wi-Fi interference, affecting performance.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durability issues with left button and scroll wheel over time.",
+            "entity_b": "Made from cheap plastic, with fragile thumb-buttons."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rough plastic sides may not be preferred.",
+            "entity_b": ""
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Logitech customer service is responsive but not always effective.",
+            "entity_b": ""
+        }
+    },
+    "Gaming": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Overall, a great mouse for gaming, but battery and interference issues may be a concern.",
+            "entity_b": "Suitable for users with wrist pain but not for gaming."
+        }
+    },
+    "Materials": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Made from cheap plastic."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Lacks a scroll wheel, limiting functionality."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Not compatible with Windows 10, causing inconsistency."
+        }
+    },
+    "Surface": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Works only on certain surfaces, like a pants leg."
+        }
+    },
+    "Movement": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Requires whole arm movement, which can be cumbersome."
+        }
+    }
+}

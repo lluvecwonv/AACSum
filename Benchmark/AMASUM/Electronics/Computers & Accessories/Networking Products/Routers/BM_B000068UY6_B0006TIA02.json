@@ -1,0 +1,86 @@
+{
+    "Connection": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wireless connection speed is significantly faster compared to Linksys. Wireless and wired speeds differ significantly. Problems connecting with AirPort card on a Macintosh. Signal weakens through walls and interference from other devices. Signal quality and speed are excellent with good coverage. Wireless speed issues, requiring firmware updates. Wireless connection quality varies by location.",
+            "entity_b": "Stable with fantastic range. Works great with X-Box Live and Nintendo Wi-Fi. No connection issues with multiple devices. Handles many connections without slowing down. Reliable with various wireless devices. Fast and reliable with gaming devices."
+        }
+    },
+    "Security": {
+        "comm": "",
+        "cont": {
+            "entity_a": "256-bit WEP is available. Advanced firewall configuration, including time-based port opening. Security features include parental controls and MAC filtering.",
+            "entity_b": "Supports stronger WiFi encryption. Secure and compatible with various devices."
+        }
+    },
+    "Setup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Initial setup had issues with network visibility and PCMCIA card recognition. Setup pages are cryptic. Simple setup with Netgear router had issues with signal drops. Easy to install and configure. Setup took less than 30 minutes. Setup requires network wizard for changes. Setup was easy but tech support was needed. Installation wizard makes setup easy. Simple setup with quick installation guide.",
+            "entity_b": "Easiest router setup experienced. Fast setup with clear instructions. Difficult installation experience with poor initial tech support."
+        }
+    },
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Full signal strength throughout the house. Range is poor; requires proximity for connection. External antenna added to extend range. Signal strength is good with appropriate configuration.",
+            "entity_b": "Good broadcast range, stable connection. Signal strength is excellent."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Never achieved promised 22 Mbps speed. Wireless freezes require power cycling. Packet loss and random reboot issues. Wireless speed issues, requiring firmware updates.",
+            "entity_b": "Fast download and upload speeds with Comcast. More expensive than non-N routers but reliable. Overheating issue when stacked under another device."
+        }
+    },
+    "Tech Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Poor customer service with long wait times. Customer service is not helpful beyond scripted responses.",
+            "entity_b": "Tech support communicates via email. Tech support is helpful with configuration."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Antenna was disconnected or broken internally. Router gets hot; needs proper airflow.",
+            "entity_b": "Blue LEDs and black chromed finish are aesthetically pleasing."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "DHCP server failed after five months. Problems with VPN connection dropping.",
+            "entity_b": "Zero downtime except when rebooting for configuration changes. Defective unit replaced without issues."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Problems with PPPOE logon to Earthlink.",
+            "entity_b": "Reliable with D-Link DWL-G550 wireless PCI Card."
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Firmware and drivers not optimized for 22 Mbps mode. Issues with firmware upgrade wiping configuration. Firmware issues with DSL connection. Firmware updates improve performance.",
+            "entity_b": ""
+        }
+    },
+    "Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great price to feature ratio with extensive security options. VPN works well with this router.",
+            "entity_b": "Game Fuel feature supports VOIP. Advanced packet routing features. Gigabit switch included. GameFuel feature is easy to configure."
+        }
+    },
+    "Aesthetics": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Blue LEDs and black chromed finish are aesthetically pleasing."
+        }
+    }
+}

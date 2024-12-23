@@ -1,0 +1,65 @@
+{
+    "Interference": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Interference with 2.4 GHz wireless devices such as mice, Wi-Fi, and cordless phones.",
+            "entity_b": ""
+        }
+    },
+    "Sound": {
+        "comm": "Great sound quality.",
+        "cont": {
+            "entity_a": "Powerful subwoofer for its size. Sound quality is good, but rear speakers need volume adjustment for better 5.1 surround effect. Great sound quality with clear bass. The system offers THX certified sound at a reasonable price.",
+            "entity_b": "Loud and deep bass suitable for a large entertainment room. Sound quality is much better than older Creative and Logitech models. No distortion at maximum volume. Great sound for DVDs with DTS/THX encoding. High bass may need adjustments for balanced sound. Great for gaming, music, and movies with a strong bass presence."
+        }
+    },
+    "Wireless": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wireless rear speakers require power outlets and are not truly wireless. Wireless rear speakers have limited range and may not work beyond 10 feet. Rear speakers require power outlets, reducing the wireless convenience.",
+            "entity_b": ""
+        }
+    },
+    "Setup": {
+        "comm": "Requires adapters for connecting audio devices.",
+        "cont": {
+            "entity_a": "The system is easy to set up and has a user-friendly software interface. Requires an optical input adapter for TV use.",
+            "entity_b": "Wired speakers with short cords may require accessories for better setup. Requires adapters for connecting audio devices due to lack of optical input."
+        }
+    },
+    "Control": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The control console heats up and does not save settings after power loss.",
+            "entity_b": "Corded volume control is convenient but has a strange red light. No control over treble, only volume and superbass."
+        }
+    },
+    "Dolby/DTS": {
+        "comm": "The system decodes Dolby and DTS signals.",
+        "cont": {
+            "entity_a": "The system decodes Dolby and DTS signals with digital optical inputs.",
+            "entity_b": ""
+        }
+    },
+    "Speakers": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rear speakers sometimes have a hiss. Plastic stands limit mounting options but universal mounts can be used.",
+            "entity_b": "Rear speaker wires are short and may require extensions."
+        }
+    },
+    "Price": {
+        "comm": "Great price compared to similar systems.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Great price compared to similar systems."
+        }
+    },
+    "Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great service from Amazon in replacing defective units.",
+            "entity_b": ""
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "Autofocus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Stopped working in less than a year. Problematic in low light. Slow but acceptable for the price.",
+            "entity_b": "Fast and accurate. Generally fast but can be slow in low light."
+        }
+    },
+    "Warranty": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Tamron is not an authorized seller in Canada, affecting warranty eligibility. Tamron warranty repair service is efficient but shipping is at the user's expense. Warranty process is cumbersome. Includes a lens hood and a 6-year warranty.",
+            "entity_b": ""
+        }
+    },
+    "Macro": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Telephoto macro function is appreciated. Macro feature works well. Macro and zoom combination is well-received.",
+            "entity_b": "Great for portrait and macro work."
+        }
+    },
+    "Build": {
+        "comm": "Well-built.",
+        "cont": {
+            "entity_a": "Solid and well-built, providing good picture quality. Lightweight and less expensive.",
+            "entity_b": "Heavy compared to other lenses. Solid construction with fast, quiet autofocus."
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lens is noisy and slow, especially unsuitable for astrophotography due to lens creep.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "Good value for money.",
+        "cont": {
+            "entity_a": "Great value for a 70-300mm range. Affordable alternative to Canon lenses. Great for the price.",
+            "entity_b": "Highly recommended for its price point. Great prime lens for the budget."
+        }
+    },
+    "Stabilization": {
+        "comm": "Lacks image stabilization.",
+        "cont": {
+            "entity_a": "Still produces great pictures.",
+            "entity_b": "No image stabilization but f/1.8 aperture compensates."
+        }
+    },
+    "Focus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Focus is slow and the lens body contains plastic parts prone to breaking. Focus is slow and noisy, with noticeable chromatic aberration.",
+            "entity_b": "Focus is fast and images are sharp."
+        }
+    },
+    "Image Quality": {
+        "comm": "Produces sharp images.",
+        "cont": {
+            "entity_a": "Picture quality is clear and impressive for the price. Good clarity for action shots. Sharp when stopped down to f/8. Soft images in dim or dark conditions. Image quality softens at extreme zoom.",
+            "entity_b": "Sharpness is better than some more expensive lenses. Produces clear, crisp photos. Chromatic aberration can occur but is minor."
+        }
+    },
+    "Usage": {
+        "comm": "Excellent for portraits.",
+        "cont": {
+            "entity_a": "Not suitable for fast-moving sports photography. Good for outdoor photography in good lighting. Great for low-light video surveillance work. Great for portraits and nature photography.",
+            "entity_b": "Suitable for portraits and action shots. Great for low light and indoor sports photography."
+        }
+    },
+    "Bokeh": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Great bokeh quality. Produces beautiful bokeh. Sharp images with creamy bokeh."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "After 7 months, the lens showed an error due to supposedly dirty contacts, though they were clean.",
+            "entity_b": ""
+        }
+    },
+    "Construction": {
+        "comm": "Well-built and sturdy.",
+        "cont": {
+            "entity_a": "The lens is lightweight for its size.",
+            "entity_b": "Not weather-sealed."
+        }
+    }
+}

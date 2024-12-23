@@ -1,0 +1,86 @@
+{
+    "Sound": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The sound quality is amazing for a 2.1 setup, with a loud bass. The sound is comparable to other high-end speakers and can be turned up without distortion. The speaker system provides excellent sound quality, especially for the price. Overall, the sound power and quality make this a strong performer for the price.",
+            "entity_b": "The sound quality is good for their size, with convenient media controls. Good sound projection for large rooms, although not accurate transducers. They provide good sound quality for MP3 playback, movies, and talk radio. Sound quality is good at normal levels, but distortion occurs at higher volumes. Sound quality is good for speech and movies, but music can sound tinny."
+        }
+    },
+    "Bass": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Bass is solid and performs well, making it great for movies and gaming. The subwoofer is powerful and produces deep bass. There is a lack of midrange, but the bass is fantastic.",
+            "entity_b": "Good for general use, but not suitable for music heavy in bass."
+        }
+    },
+    "Durability": {
+        "comm": "The speakers are durable.",
+        "cont": {
+            "entity_a": "The speakers have been durable, surviving multiple falls.",
+            "entity_b": "They are durable, lasting up to 10 years."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The design is sturdy, although some find the silver/plastic look tacky.",
+            "entity_b": "The speakers have a stylish design and are easy to transport. The physical design is compact, but the USB cord could be longer."
+        }
+    },
+    "Installation": {
+        "comm": "The system is easy to install.",
+        "cont": {
+            "entity_a": "Installation is easy, but the cables are short.",
+            "entity_b": "The speakers are easy to set up and use, with no additional power cable needed."
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "They are portable, come with a nice case, and are easy to pack. Compact and usable for travel, with a significant improvement over built-in laptop speakers. The carrying case is robust and convenient for travel."
+        }
+    },
+    "Power": {
+        "comm": "",
+        "cont": {
+            "entity_a": "A controller knob allows for easy power on, volume, and bass adjustment, with a convenient headphone jack.",
+            "entity_b": "The speakers are USB-powered and do not require a separate power supply."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Some issues with USB connectivity and compatibility with certain systems."
+        }
+    },
+    "Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Logitech makes high-quality products, and this speaker system is one of them.",
+            "entity_b": "Lack of AUX input is a downside."
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The subwoofer is large and requires adequate space.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The Z-2300 is superior to built-in television speakers and offers lower bass than more expensive stereo speakers. Some users have experienced issues with the speakers blowing over time.",
+            "entity_b": ""
+        }
+    },
+    "Vibration": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The speakers have a tendency to vibrate at high volumes, which can cause nearby items to fall.",
+            "entity_b": "The speakers move around due to bass vibrations but are otherwise well-made."
+        }
+    }
+}

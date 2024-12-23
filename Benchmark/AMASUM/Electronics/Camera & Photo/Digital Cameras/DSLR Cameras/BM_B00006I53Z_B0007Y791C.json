@@ -1,0 +1,72 @@
+{
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Purchased for $450. Not worth $2000, but reasonable for $450.",
+            "entity_b": "Used model purchased for $300, suitable for beginners or full-frame enthusiasts."
+        }
+    },
+    "Build": {
+        "comm": "Solid body.",
+        "cont": {
+            "entity_a": "Superior to Canon Rebel series. Professional body with weather sealing.",
+            "entity_b": "Top-notch with solid feel and well-laid-out controls."
+        }
+    },
+    "Speed": {
+        "comm": "",
+        "cont": {
+            "entity_a": "8fps. Fast autofocus and 8.3 FPS.",
+            "entity_b": ""
+        }
+    },
+    "Resolution": {
+        "comm": "",
+        "cont": {
+            "entity_a": "4.2MP resolution is low but can be managed with interpolation.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Difficult to find accessories.",
+            "entity_b": ""
+        }
+    },
+    "Features": {
+        "comm": "Older model but still offers pro features.",
+        "cont": {
+            "entity_a": "45 autofocus points.",
+            "entity_b": "Delivers excellent pictures. Full-frame camera offers effective wide-angle lens performance."
+        }
+    },
+    "Image Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Usable photos at 1600 ISO despite older technology.",
+            "entity_b": "Image quality, dynamic range, and color are superior. Great image quality and consistent output. Noticeable sharpness difference compared to crop sensors."
+        }
+    },
+    "Presentation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Original 5D has personality in presentation, unlike newer 5D models focused on sharpness."
+        }
+    },
+    "Maintenance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Sensor required cleaning and battery had short life, but seller provided replacement."
+        }
+    },
+    "Accessories": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Missing strap in the bundle and initial issues with charger and mirror."
+        }
+    }
+}

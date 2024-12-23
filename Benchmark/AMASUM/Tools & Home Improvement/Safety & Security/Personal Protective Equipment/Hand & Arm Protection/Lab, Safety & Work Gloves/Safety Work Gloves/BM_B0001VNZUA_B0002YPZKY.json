@@ -1,0 +1,79 @@
+{
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Quality has declined compared to original Mechanix gloves, with deformed fingers and loose threads.",
+            "entity_b": "Gloves ripped on second use, with grip on fingertips wearing off quickly."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durability has decreased, with holes forming quickly in some pairs. Velcro on wrist comes apart after less than 3 months of use.",
+            "entity_b": "Fit well but lack durability. Stitching issues with seams coming apart quickly."
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable.",
+        "cont": {
+            "entity_a": "Comfortable and breathable, providing stable grip and shooting comfort.",
+            "entity_b": "Durable for light construction and landscaping."
+        }
+    },
+    "Fit": {
+        "comm": "Fit well.",
+        "cont": {
+            "entity_a": "Snug fit allows for precision in tactical applications. Fit is generally good, but size may vary between models.",
+            "entity_b": "Good fit with a snug design enhancing usability."
+        }
+    },
+    "Task Suitability": {
+        "comm": "Not suitable for heavy-duty tasks.",
+        "cont": {
+            "entity_a": "Good for light utility tasks and general use.",
+            "entity_b": "Recommended for light work; unsuitable for rough surfaces like concrete. Better for light to moderate work."
+        }
+    },
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Palm material feels thin and fragile, leading to quicker wear.",
+            "entity_b": "Reduced palm calluses and skin cuts due to padding."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Excessive branding with logo tags that affect comfort.",
+            "entity_b": "Well-designed with good padding and reinforced stitching."
+        }
+    },
+    "Grip": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Lack of grip makes them unsuitable for handling heavy boxes."
+        }
+    },
+    "Stitching": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Stitching and Velcro durability are concerns.",
+            "entity_b": "Finger and palm stitching prone to wear and tear."
+        }
+    },
+    "Touchscreen": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Touchscreen compatible.",
+            "entity_b": "Touchscreen feature wears out quickly. Offers some touchscreen capability, but not reliable."
+        }
+    },
+    "Weather Suitability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not suitable for cold or wet conditions.",
+            "entity_b": ""
+        }
+    }
+}

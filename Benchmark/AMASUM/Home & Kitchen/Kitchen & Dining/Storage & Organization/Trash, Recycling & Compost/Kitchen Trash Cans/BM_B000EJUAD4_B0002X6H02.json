@@ -1,0 +1,86 @@
+{
+    "Convenience": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The trash can has dual compartments for trash and recycling, which is convenient.",
+            "entity_b": "The swing-top lid design is convenient but limits the can's capacity."
+        }
+    },
+    "Design": {
+        "comm": "The product is well-packaged but may arrive with minor dents.",
+        "cont": {
+            "entity_a": "The design is sleek and fits well in a kitchen setting. The product is fingerprint-resistant and has a stylish appearance.",
+            "entity_b": "The product is pricey but has a contemporary design."
+        }
+    },
+    "Mechanism": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The foot pedal mechanism is smooth and the lids close quietly.",
+            "entity_b": ""
+        }
+    },
+    "Odor": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The deodorizer works effectively to prevent odors.",
+            "entity_b": "The swing top keeps odors contained."
+        }
+    },
+    "BagHandling": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The trash bags stay in place and don't slip. It is easy to remove and replace trash bags.",
+            "entity_b": "The liner makes bag removal easy. Specific trash bags are expensive but regular bags can be used."
+        }
+    },
+    "Cleaning": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The can is easy to clean and maintain.",
+            "entity_b": "The finish is difficult to clean and may develop rust spots. The lid can get dirty easily but is easy to clean."
+        }
+    },
+    "Construction": {
+        "comm": "The construction is sturdy.",
+        "cont": {
+            "entity_a": "The construction is sturdy but can dent easily.",
+            "entity_b": "The trash can is sturdy and made of stainless steel."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "There are issues with durability, as some parts may break over time.",
+            "entity_b": ""
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The size is suitable for a kitchen and holds a lot of trash.",
+            "entity_b": "The can is suitable for both home and office use."
+        }
+    },
+    "Filter": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The charcoal filters need replacement and can be costly.",
+            "entity_b": ""
+        }
+    },
+    "Handles": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The handles on the bins are inconvenient when full.",
+            "entity_b": ""
+        }
+    },
+    "CustomerService": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Customer service is responsive and helpful."
+        }
+    }
+}

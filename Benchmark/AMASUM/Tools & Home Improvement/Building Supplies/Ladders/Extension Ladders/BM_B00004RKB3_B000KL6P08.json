@@ -1,0 +1,65 @@
+{
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The ladder cracked after two years of use, causing a fall.",
+            "entity_b": "Rung locks are made of plastic, not metal as shown in pictures. Plastic rung locks are concerning for long-term durability."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service was difficult to deal with regarding product reimbursement or replacement. Positive experiences with Amazon's handling of replacements for damaged products.",
+            "entity_b": ""
+        }
+    },
+    "Maneuverability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The ladder is difficult to maneuver alone unless very strong. The ladder is heavy and requires assistance to move and set up.",
+            "entity_b": "The ladder is difficult to raise without marking wood siding. The ladder is heavy, requiring two people to handle. The ladder is sturdy but heavy and difficult to maneuver alone."
+        }
+    },
+    "Condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Product arrived with damage, such as a large puncture hole through the ladder rung. Multiple reports of the ladder arriving damaged, including broken fiberglass. Some users experienced issues with damaged ladders during shipping.",
+            "entity_b": "Product arrived with a broken latching mechanism. Replacement ladder also arrived with rung lock broken. The ladder arrived with damaged rungs but remains usable. Ladder arrived with a dent but still functions."
+        }
+    },
+    "Construction": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The ladder is described as solid and safe with excellent construction. Fiberglass construction offers non-conductivity. The ladder is sturdy and provides a safe feeling compared to older aluminum ladders. The ladder has a stable feel, even at maximum extension. Ladders are generally stable and suitable for electrical work due to non-conductivity. The ladder is solid and extends smoothly without hanging up. Fiberglass is heavier than aluminum but offers a stable climbing experience. Werner ladders have been used by generations without failure.",
+            "entity_b": "Ladder is sturdy and well-constructed. The ladder is stable and suitable for heavier individuals. Ladder is well-made and extends smoothly. The ladder is stable and offers good value for the price. Plastic extension locks are a concern for safety."
+        }
+    },
+    "Brand": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Werner ladders are generally reliable and well-regarded.",
+            "entity_b": ""
+        }
+    },
+    "Stability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The ladder is stable and does not shift when climbing.",
+            "entity_b": ""
+        }
+    },
+    "Labeling": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some customers reported deceptive labeling regarding the ladder's maximum reach.",
+            "entity_b": ""
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The ladder is a good value compared to store prices."
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Protection": {
+        "comm": "Fails to protect electronics from power surges.",
+        "cont": {
+            "entity_a": "Lights remain on, giving false hope of protection. Pivot-plug feature is useful for large plugs, but overall surge protection is ineffective.",
+            "entity_b": "Failed to protect devices during a lightning strike. Surge protector failed, causing electronics to be damaged."
+        }
+    },
+    "Warranty": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Belkin does not honor their 'Equipment Plug-in Lifetime Warranty'. Warranty issues with Belkin make it unreliable.",
+            "entity_b": "Belkin's warranty process is difficult to navigate."
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Arrived with a faulty plug that would not stay connected. Switches break easily, making it difficult to turn on or off. The grounding pin broke without force applied.",
+            "entity_b": "USB ports do not provide the advertised power output. Power sockets are too close together for wider adapters. Mounting is easy, but the quality is questionable. High-pitched noise when using USB ports. Some units arrived appearing used or refurbished. Inconsistent quality in recent purchases compared to past products."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lacks a built-in/resettable circuit breaker. Heavy-duty construction material for the cord and plug. Rotating plugs allow for large items to be plugged in without short extension cords.",
+            "entity_b": "The cord length and outlet spacing are generally sufficient."
+        }
+    }
+}

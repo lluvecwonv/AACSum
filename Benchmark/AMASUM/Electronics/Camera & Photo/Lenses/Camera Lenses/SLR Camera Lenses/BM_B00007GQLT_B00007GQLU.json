@@ -1,0 +1,86 @@
+{
+    "Focal Length": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Versatile focal length functioning like a 32mm, great for photo and video.",
+            "entity_b": "Field of view suitable for portraits on crop sensor."
+        }
+    },
+    "Low Light": {
+        "comm": "Performs well in low light.",
+        "cont": {
+            "entity_a": "Sharp images even in low light.",
+            "entity_b": "Ideal for portraits and action shots in low light conditions."
+        }
+    },
+    "Distortion": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Barely perceptible barrel distortion on crop sensor, easily corrected in post. Some distortion correctable in post.",
+            "entity_b": ""
+        }
+    },
+    "Image Quality": {
+        "comm": "Sharp images.",
+        "cont": {
+            "entity_a": "Good image quality at low cost and weight, suitable for video resolution. No noticeable vignetting. Sharp images even in low light. Produces clear and detailed images.",
+            "entity_b": "Sharpness comparable to L series lenses but more affordable. Occasional chromatic aberration but overall high image quality."
+        }
+    },
+    "Autofocus": {
+        "comm": "Fast and accurate autofocus.",
+        "cont": {
+            "entity_a": "Autofocus works well. Fast and accurate focus compared to 50mm L f/1.2.",
+            "entity_b": "Fast autofocus, beautiful creamy bokeh."
+        }
+    },
+    "Build": {
+        "comm": "Solid build quality.",
+        "cont": {
+            "entity_a": "Solid metal and glass build, not lightweight but preferable to cheaper lenses.",
+            "entity_b": "Heavy compared to zoom lenses, but superior image quality. Affordable with good build quality and image performance."
+        }
+    },
+    "Lens Hood": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Prone to flaring, recommend using a lens hood.",
+            "entity_b": ""
+        }
+    },
+    "Bokeh": {
+        "comm": "Great bokeh.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Produces stellar images with great bokeh, especially for portraits. Sharp images and smooth bokeh, excellent for portrait work."
+        }
+    },
+    "Versatility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Useful for landscapes and tight space.",
+            "entity_b": "Highly recommended for portraits, good value for money."
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not lightweight.",
+            "entity_b": "Lightweight and compact."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good quality for the price.",
+            "entity_b": ""
+        }
+    },
+    "Suitability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wide angle suitable for landscapes and architecture.",
+            "entity_b": "Excellent for portraits with shallow depth of field."
+        }
+    }
+}

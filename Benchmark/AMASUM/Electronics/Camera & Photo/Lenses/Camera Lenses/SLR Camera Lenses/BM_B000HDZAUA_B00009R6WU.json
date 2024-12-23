@@ -1,0 +1,58 @@
+{
+    "Autofocus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Autofocus stopped working in less than a year. Autofocus is problematic in low light; manual focus is recommended. Autofocus is noisy and hunts.",
+            "entity_b": "The autofocus is nearly silent, fast, and accurate. Fast autofocus and very good in low light photography."
+        }
+    },
+    "Warranty": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Tamron warranty repair service is efficient, but shipping is at customer's expense. Warranty process is cumbersome.",
+            "entity_b": ""
+        }
+    },
+    "Build": {
+        "comm": "The lens is solidly built.",
+        "cont": {
+            "entity_a": "The lens is lightweight and less expensive. Build quality includes a lot of plastic, prone to breaking.",
+            "entity_b": "The 28mm lens has incredible build quality with a silent and smooth focus ring. Build quality is excellent, comparable to L lenses. The lens is heavy and solidly built."
+        }
+    },
+    "Image Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Picture quality is impressive for the price. Picture clarity is good but autofocus is slow. Lens produces soft images at full zoom. No image stabilization, but good picture quality in bright conditions.",
+            "entity_b": "The 50mm lens is sharper in terms of image quality. Images are true to life with no distortion and sharp at all apertures. Not as sharp at f/1.8, but sharp from f/2.8. Images are sharp and crisp. A great lens for the price, providing sharp images and good performance."
+        }
+    },
+    "Lighting": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Performs well in good lighting conditions. Good for low-light video surveillance with manual focus.",
+            "entity_b": "Great for low-light conditions without needing a flash. Low light performance is quite good. Excellent for indoor photos, especially in low light."
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great value for a 70-300mm lens compared to expensive alternatives. Good for amateur photography and budget-friendly. Good lens for the price but lacks image stabilization.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lens is noisy and slow, not suitable for astrophotography. The focal ring is loose and slips.",
+            "entity_b": "Wide angle suitable for small spaces and wide shots. Wide angle allows for a variety of composition approaches. Suitable for close-quarter portraits and general photography."
+        }
+    },
+    "Macro": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Macro feature is appreciated.",
+            "entity_b": ""
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "Condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The Nikon D2xs camera body is in like-new condition.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Works flawlessly. Performs very well for an older professional body. Still a great performer despite newer models being available.",
+            "entity_b": "Easy to use with fairly obvious controls. High performance in a compact, easy-to-handle body."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Very durable and reliable, lasting without issues.",
+            "entity_b": "Surprisingly long battery life."
+        }
+    },
+    "Image Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Produces sharp images, especially with a good lens, and can create large prints. Excellent low ISO performance and outstanding image quality.",
+            "entity_b": "Takes wonderful pictures with little to no editing needed. Picture quality is not the best and can be finicky, performing best in RAW setting. Vivid colors and terrific clarity in photos."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera focuses faster than the user, but it is heavy.",
+            "entity_b": "Plenty of controls available, which are worth learning. Proprietary hot shoe limits compatibility with non-Sony accessories."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Accepts older Minolta lenses. Compatible with Minolta gear, including lenses and flashes. Camera is compatible with Minolta lenses, allowing for continued use of existing gear."
+        }
+    },
+    "Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The D2x and D2xs models are about 90% the same. Top-of-the-line camera and considered the last of the professional DX cameras.",
+            "entity_b": "Provides the accuracy and simplicity of a film SLR with digital convenience. Anti-shake feature is appreciated, especially for reducing blur. Anti-shake feature is effective in low shutter speed conditions. No time-lapse recording feature is available."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Priced high on Amazon but can be found cheaper elsewhere.",
+            "entity_b": "Discontinued but available at a lower price, offering good value."
+        }
+    },
+    "Accessories": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Does not include a CF card or a compatible USB cable."
+        }
+    },
+    "Shutter": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Shutter speed and flash range are not as good as other DSLRs."
+        }
+    }
+}

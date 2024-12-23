@@ -1,0 +1,135 @@
+{
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Performs well.",
+            "entity_b": "Smooth performance with graphics."
+        }
+    },
+    "Battery": {
+        "comm": "Excellent battery life.",
+        "cont": {
+            "entity_a": "Battery life is long-lasting with Duracell Ultra.",
+            "entity_b": "Shutting off when not in use. Long-lasting charge with sleep mode feature."
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable to use.",
+        "cont": {
+            "entity_a": "Compact yet comfortable. Comfortable design and includes navigation buttons. Comfortable and reliable, eliminating the need for a wire. Too large for small hands, causing discomfort.",
+            "entity_b": "Ergonomic design with responsive buttons. Not comfortable for extended use, causing hand cramps."
+        }
+    },
+    "Surface": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Works well on any surface.",
+            "entity_b": ""
+        }
+    },
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Connects instantly without software installation.",
+            "entity_b": "Wireless setup."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Large, possibly unsuitable for small hands. Receiver is large, almost the size of the mouse. Requires bulky transceiver with a wire. Receiver size and cable length make it impractical for wireless use.",
+            "entity_b": "Compact receiver reduces clutter."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Decent price at $19.99 with no additional costs. Good value for the price.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with Laser 6000 base.",
+            "entity_b": ""
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Heavy enough to not feel cheap.",
+            "entity_b": ""
+        }
+    },
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Signal range is weak, often not reaching 6 feet. Low battery signal and poor signal quality despite proximity. Signal strength issues occur frequently.",
+            "entity_b": "Transmitter distance affects performance; extension cable helps. Wireless receiver works well through obstacles. Occasional interference from wireless networks."
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Installation is straightforward and simple.",
+            "entity_b": ""
+        }
+    },
+    "Balance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Balance feels slightly off with the battery installed.",
+            "entity_b": ""
+        }
+    },
+    "Button": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Middle button is tight and hard to push.",
+            "entity_b": "Multi-function buttons work without setup but are optional. Reprogrammable buttons with provided software. Some issues with email and IM button compatibility."
+        }
+    },
+    "Issue": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Computer sleep issue resolved by updating drivers. Received DOA, does not use standard batteries. Stopped working after two months. Erratic sensor movement.",
+            "entity_b": "Wireless network interference resolved by moving the receiver. Email button works; IM button stopped."
+        }
+    },
+    "Precision": {
+        "comm": "Precision is good.",
+        "cont": {
+            "entity_a": "Not very responsive or accurate. Sensitive pointer requires slowing down.",
+            "entity_b": "Accurate laser tracking with smooth scrolling. Precise tracking, especially useful for games. Responsive and intuitive."
+        }
+    },
+    "Magnification": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Magnification feature is helpful for vision problems. Magnifying window is small and requires frequent movement.",
+            "entity_b": ""
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Large receiver is not portable.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires a mouse pad due to 'invisible laser' feature.",
+            "entity_b": "No hesitation or skipping during use. Useful audio controls and easy setup."
+        }
+    },
+    "Wireless": {
+        "comm": "Wireless feature eliminates cords.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Receiver placement affects tracking performance."
+        }
+    }
+}

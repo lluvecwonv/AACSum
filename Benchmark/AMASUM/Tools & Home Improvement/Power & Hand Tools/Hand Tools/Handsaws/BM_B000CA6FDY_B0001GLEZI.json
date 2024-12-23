@@ -1,0 +1,58 @@
+{
+    "Cutting": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cuts small trees and branches easily. Vibrates significantly when cutting larger diameters. Requires a sawing motion for effective use. Not suitable for cutting through wider limbs or for high accuracy tasks. Effective for trimming small branches and trees.",
+            "entity_b": "Very sharp and flexible blade, ideal for flush cuts. Blade is thin and allows precise cuts, but can be flimsy. Works well for small wood projects and craft tasks. Suitable for tight spaces and precise work. Best for soft and hard wood, not for heavy-duty tasks. Provides clean cuts and is useful for dovetail and trim work."
+        }
+    },
+    "Blade": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Blade installation is difficult and poorly designed, requiring adjustments with a screwdriver. Blade attachment issues are common, with misaligned components needing manual adjustment. Instructions for blade installation are inadequate. Blades remain sharp after extended use.",
+            "entity_b": "Blade replacement is costly, often necessitating a new saw purchase. Blade is replaceable but replacements are not readily available."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lightweight and easy to maneuver. Design flaw with the protective sleeve slipping off easily.",
+            "entity_b": "Handle is simple but effective for grip. Lightweight and convenient for woodworking projects. Pull saw design makes cutting easier than traditional saws. Handle is not very sturdy and can feel cheap."
+        }
+    },
+    "Power": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not as powerful as a chainsaw but suitable for small projects and crafts.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Product arrived with signs of prior use, such as dried grass and debris.",
+            "entity_b": "Teeth can break easily if used improperly. Can become damaged if hitting nails or staples."
+        }
+    },
+    "Safety": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Safety features include a two-button start action.",
+            "entity_b": ""
+        }
+    },
+    "Accessories": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comes with a storage bag.",
+            "entity_b": ""
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service issues noted, with long hold times.",
+            "entity_b": ""
+        }
+    }
+}

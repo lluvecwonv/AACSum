@@ -1,0 +1,114 @@
+{
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "About 20% of keystrokes were not picked up by the Treo 270, leading to an unacceptable performance.",
+            "entity_b": "Performance varies between different units."
+        }
+    },
+    "Convenience": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The wireless keyboard is convenient and allows for easy typing without using a stylus.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "The keyboard is aesthetically pleasing and ergonomic for media center use.",
+        "cont": {
+            "entity_a": "The size of the keys is non-standard, requiring adjustment.",
+            "entity_b": "The keyboard is durable and easy to type on. The mouse button is stiff, inaccurate, and poorly designed."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The PDA holder's support arms are flimsy and do not hold the PDA securely.",
+            "entity_b": ""
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Battery life is short, necessitating extra batteries.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "The keyboard is not compatible with some systems despite having the required software.",
+        "cont": {
+            "entity_a": "Requires a PC and Windows for Mac/Palm users. The keyboard does not work with the Tungsten T3 despite 'universal' labeling. Advertised compatibility was misleading, requiring return. The keyboard does not work with Toshiba e405 due to IR alignment issues. Does not work with HX 4705 despite being listed as compatible. Keyboard is not compatible with some devices despite claims.",
+            "entity_b": "Requires Media Center IR receiver, not included. Works perfectly with Windows 7 Media Center."
+        }
+    },
+    "Sound": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The keyboard clicks loudly, disturbing others in meetings.",
+            "entity_b": ""
+        }
+    },
+    "Stability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The Palm TX recognizes the keyboard, but landscape mode is unstable.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "Requires additional purchases for full functionality. Mouse feature is difficult to use and not user-friendly.",
+        "cont": {
+            "entity_a": "Works well with PSP 1000 with custom firmware and specific applications. The keyboard allows typing and includes a mouse button for similar laptop experience. The keyboard works well with some devices but not consistently. Setup is quick and works well with compatible devices. The keyboard is easy to set up and use with a mouse option. Keyboard functions well but mouse is difficult to use. The keyboard works with Xbox 360 but not with some PCs. Worked well initially but had compatibility issues with system upgrades. IR arm design limits usability and requires manual holding.",
+            "entity_b": "Can be programmed to control TV functions. Works well with existing infrared remote setups. Line of sight needed for IR functionality. Pointer control is difficult but can be adjusted in settings. The keyboard functions well with XP and Windows 7. Mouse quality is poor but keyboard functions are reliable. Keyboard has good range but mouse is nearly unusable. Keyboard is easy to store and comfortable to use."
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Downloading drivers from Targus.com is easier than using the included CD-ROM.",
+            "entity_b": ""
+        }
+    },
+    "Cost": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The infrared option is cheaper than Bluetooth.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The Targus drivers caused battery issues on the Tungsten C. The keyboard lasted two years without battery replacement.",
+            "entity_b": ""
+        }
+    },
+    "Condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Received a used item instead of new, lacking original packaging.",
+            "entity_b": "Package was new and arrived in perfect condition."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service incorrectly claimed incompatibility with a compatible PDA. Customer support provides outdated and unhelpful responses.",
+            "entity_b": ""
+        }
+    },
+    "Usability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The cradle works best for squared PDAs and may require tilting for IR alignment. The cursor arrow key and split space bar keys can be problematic. The keyboard kept falling off and stopped working with a system upgrade. IR arm alignment issues make it unusable with some devices. Keyboard stopped working with certain devices and no updated drivers available. IR reception is directional and can get stuck, requiring reboot.",
+            "entity_b": ""
+        }
+    },
+    "Features": {
+        "comm": "Backlit keys are limited to media keys only.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The keyboard lacks IE/Internet shortcuts."
+        }
+    }
+}

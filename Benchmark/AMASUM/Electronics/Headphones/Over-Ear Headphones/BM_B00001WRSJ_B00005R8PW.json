@@ -1,0 +1,121 @@
+{
+    "Sound": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Balanced, clean, and clear sound with very detailed upper frequencies. Capable of deep bass, but may require EQ for more bass than present in recordings. Excellent sound quality for the price. Sound is neutral and suitable for studio use. Sound is crisp and clear with good bass response.",
+            "entity_b": "Better sound with simulated surround and improved fit compared to older models. Sound quality is fine but construction is poor, leading to frequent breakage. Sound quality is excellent, but build quality is poor with plastic parts prone to breaking. Good sound clarity and reception compared to other brands."
+        }
+    },
+    "Build": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durable and sturdy build; foldable and portable. Very durable, with some parts available for replacement. May be prone to damage at the plastic part connecting the headband to the earcup.",
+            "entity_b": "Construction is poor, leading to frequent breakage. Build quality is poor with plastic parts prone to breaking."
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable.",
+        "cont": {
+            "entity_a": "Comfortable fit with a good sound barrier to exterior noises. Not true over-ear headphones; may cause discomfort over time.",
+            "entity_b": "Lightweight and comfortable."
+        }
+    },
+    "Cord": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cord is well-made and sturdy but non-detachable. Long coiled cord can be inconvenient for portable use.",
+            "entity_b": ""
+        }
+    },
+    "Ear Pads": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Ear pads are fragile and require replacement over time. Some parts, like the ear cushions, are fragile and require periodic replacement.",
+            "entity_b": ""
+        }
+    },
+    "Noise Isolation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good noise isolation without active noise cancelling.",
+            "entity_b": "Minimal sound leakage."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "High value for the price, especially when on sale.",
+            "entity_b": ""
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Foldable and portable.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Very durable, with some parts available for replacement. May be prone to damage at the plastic part connecting the headband to the earcup.",
+            "entity_b": "Build quality is poor with plastic parts prone to breaking."
+        }
+    },
+    "Wireless": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Excellent wireless performance with good battery life and an extra battery included."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Proprietary battery may not be easily replaceable."
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Range is adequate for home use but may cut out with head movement."
+        }
+    },
+    "Static Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Static noise may occur with head movement."
+        }
+    },
+    "Warranty": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Warranty service requires contacting the manufacturer in Germany."
+        }
+    },
+    "Volume": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Volume control can be hard to find when adjusting. Volume may be lower than expected."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great for mixing and monitoring music due to flat response.",
+            "entity_b": "Reception cuts out when the phone rings."
+        }
+    },
+    "Authenticity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Packaging and included case may vary, indicating possible issues with authenticity.",
+            "entity_b": ""
+        }
+    }
+}

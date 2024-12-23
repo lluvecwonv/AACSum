@@ -1,0 +1,72 @@
+{
+    "Compatibility": {
+        "comm": "Suitable for full-frame cameras.",
+        "cont": {
+            "entity_a": "Advantages over other lenses.",
+            "entity_b": "Works well on both crop and full-frame cameras."
+        }
+    },
+    "Performance": {
+        "comm": "Performs well in low light.",
+        "cont": {
+            "entity_a": "Allows for photos and filming with Sony video cameras.",
+            "entity_b": "Offers excellent low-light performance without a flash."
+        }
+    },
+    "Optics": {
+        "comm": "Produces sharp images.",
+        "cont": {
+            "entity_a": "Tack-sharp images with great bokeh, ideal for portraits.",
+            "entity_b": "Produces true-to-life images with no distortion and sharpness at all apertures."
+        }
+    },
+    "Issue": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Intermittent 2-4EV overexposure issue, resolved with a replacement.",
+            "entity_b": "Softness at f/1.8, but sharpens from f/2.8."
+        }
+    },
+    "CustomerService": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Amazon provided excellent customer service with fast replacement shipping.",
+            "entity_b": ""
+        }
+    },
+    "Adaptability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lens is adaptable to Sony A7III with eye autofocus across the screen.",
+            "entity_b": ""
+        }
+    },
+    "Focus": {
+        "comm": "Focus is silent and fast.",
+        "cont": {
+            "entity_a": "SSM feature.",
+            "entity_b": "Autofocus is accurate."
+        }
+    },
+    "BuildQuality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Build and image quality justify the price tag.",
+            "entity_b": "The 28mm lens has excellent build quality, built like a tank, comparable to L lenses."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The lens is compact and well-suited for indoor and portrait photography."
+        }
+    },
+    "Distortion": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Minimal distortion at the fringe, crisp images, ideal for wide shots."
+        }
+    }
+}

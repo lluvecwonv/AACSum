@@ -1,0 +1,79 @@
+{
+    "Origin": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Made in America.",
+            "entity_b": "Made in USA."
+        }
+    },
+    "Performance": {
+        "comm": "Cuts wire easily.",
+        "cont": {
+            "entity_a": "Cuts through brad nails and finish nails easily. Requires strong grip for cutting. Good for removing finish nails from wooden moldings. Functional for cutting wires and medium cables. Hard to cut thicker wires compared to Irwin pliers. Cuts clean with minimal effort.",
+            "entity_b": "High leverage can cut through anything 4mm and below. Great for bending and cutting wires. Excellent for steel tying."
+        }
+    },
+    "Quality": {
+        "comm": "Durable and well made.",
+        "cont": {
+            "entity_a": "Overall high quality and well made. Poor quality control in some units. Replacement pair met quality standards.",
+            "entity_b": "Industrial quality. Top quality. Superior quality compared to cheaper versions."
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable handles.",
+        "cont": {
+            "entity_a": "Handle is not the most comfortable.",
+            "entity_b": "Comfortable rubber handle grip. Yellow handles are highly visible."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lacks refinement of finish compared to older models. Hefty steel. Poor finish does not affect performance. Newer leverage point makes cutting easier. Edges sharp enough to draw blood, not the cutting edges. Hinge is too tight, requiring more effort to open. Good leverage and oiled hinge. Tip is blunt, reducing usability in certain situations. Finish is rough and incomplete. Proportionality issues with cutting alignment. Plastic trays for Stanley sockets can be opened using these cutters. Uneven grinding and sharp edges. Rough finishing with sharp burrs. Heavy in hand, which can be advantageous.",
+            "entity_b": "Long handles provide great leverage. Heavy duty and durable. Highly recommended for electricians. Slightly stiff initially. Aggressive knurling inside the jaws. Great for daily use. Best for electricians."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rusted quickly when left outdoors. Long-lasting tool with proper care. Blades undamaged after cutting stainless steel springs. Cutting edge chipped on first use with fence wire. Durability is questioned after cutting hard materials.",
+            "entity_b": "Made for lifetime use. Built to last. Stiff when new, but loosens with use."
+        }
+    },
+    "Weight": {
+        "comm": "Heavy weight.",
+        "cont": {
+            "entity_a": "Lighter than older models.",
+            "entity_b": ""
+        }
+    },
+    "Usability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires strong grip for cutting.",
+            "entity_b": "Easy to use."
+        }
+    },
+    "Rust": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rusted quickly when left outdoors.",
+            "entity_b": "Rust present on arrival in some units."
+        }
+    },
+    "Additional Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Crimping fish tape feature is handy."
+        }
+    },
+    "Leverage": {
+        "comm": "Good leverage.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Long handles provide great leverage."
+        }
+    }
+}

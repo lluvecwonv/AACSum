@@ -1,0 +1,37 @@
+{
+    "Durability": {
+        "comm": "Durable.",
+        "cont": {
+            "entity_a": "Several headphones broke apart and the covering flaked off despite gentle use. Old HD201s were sturdier compared to the new version received. Wires appear fragile and may not withstand normal wear. Physical durability is questionable.",
+            "entity_b": "Durable with a sturdy cord and long-lasting build. Durable construction with replaceable ear pads. Reliable for long-term use."
+        }
+    },
+    "Sound": {
+        "comm": "Sound quality is clear.",
+        "cont": {
+            "entity_a": "The bass is not as deep as Beats, but high and mid-range are clearer and crisper. Sound quality is impressive for the price and provides good sound isolation. Not ideal for audio editing due to low bass, but suitable for general listening. Sound clarity is high, but headphones require volume adjustment for adequate bass. Sound quality is respectable, but not suitable for high-fidelity needs. High-quality sound for the price.",
+            "entity_b": "Balanced, clean, and clear sound with detailed upper frequencies. Requires EQ adjustment for enhanced bass. Offers a flat response suitable for studio use. Sound quality is excellent with strong bass and clean highs. Sound is accurate and clear without distortion at high volumes. Great sound reproduction with a wide frequency range. High-quality sound suitable for mixing and monitoring. Excellent value for the price with clear and balanced sound."
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable for extended use.",
+        "cont": {
+            "entity_a": "Over-the-ear design is comfortable and fits well. Comfortable for extended wear, but ear cups may cause discomfort over time. Headphones are lightweight and comfortable, but may not be suitable for all head sizes. Comfortable for long periods, but sound isolation is limited.",
+            "entity_b": "Comfortable with a great adjustment system. Good for long periods of wear with a snug fit. Comfortable with a snug fit, but ear pads may wear out over time."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The newer model had a smaller band, delicate plastic, and intermittent sound issues. Long cable is inconvenient for gym use. Headphones are not noise-canceling but effectively reduce ambient noise. Headphones have a long cord, which can be both a convenience and a nuisance.",
+            "entity_b": "Coiled cable prevents tangling but may feel heavy. Lightweight and foldable for portability. Cord is long and coiled, suitable for studio use but less portable. Not noise-canceling but provides good sound isolation."
+        }
+    },
+    "Price": {
+        "comm": "Good sound quality for the price.",
+        "cont": {
+            "entity_a": "Affordable.",
+            "entity_b": "Excellent value for the price."
+        }
+    }
+}

@@ -1,0 +1,163 @@
+{
+    "Connection": {
+        "comm": "",
+        "cont": {
+            "entity_a": "VPN connections between locations are unreliable, frequently dropping.",
+            "entity_b": "The router often experiences dropped signals and requires frequent resets."
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Firmware updates have not resolved connection issues.",
+            "entity_b": "Firmware updates can improve performance significantly."
+        }
+    },
+    "Stability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router sometimes locks up and requires frequent reboots.",
+            "entity_b": "The router box was never turned off or reset, indicating stability."
+        }
+    },
+    "WAN": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The dual WAN option works inconsistently, failing to switch between connections as advertised.",
+            "entity_b": ""
+        }
+    },
+    "DHCP": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The DHCP server sometimes hangs, requiring restarts.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router supports VPN, Router, and Firewall functionalities.",
+            "entity_b": ""
+        }
+    },
+    "Temperature": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router can get hot and needs proper ventilation.",
+            "entity_b": ""
+        }
+    },
+    "Remote Access": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Remote access allows for settings changes without being on-site.",
+            "entity_b": ""
+        }
+    },
+    "Installation": {
+        "comm": "Setup was easy.",
+        "cont": {
+            "entity_a": "Installation and setup are straightforward and intuitive.",
+            "entity_b": "Required using a specific program for security."
+        }
+    },
+    "Configuration": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router is suitable for smaller installations due to its easy configuration.",
+            "entity_b": ""
+        }
+    },
+    "Port Redirection": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router cannot redirect incoming connections from one port to another.",
+            "entity_b": ""
+        }
+    },
+    "Load Balancing": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Load balancing does not work well with secure connections. The load balancing feature is effective for general use but has limitations with certain applications.",
+            "entity_b": ""
+        }
+    },
+    "VPN": {
+        "comm": "",
+        "cont": {
+            "entity_a": "VPN functionality is robust but not always easy to configure.",
+            "entity_b": ""
+        }
+    },
+    "VoIP": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router does not work well with VoIP systems, randomly closing ports.",
+            "entity_b": ""
+        }
+    },
+    "Bandwidth Management": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router's bandwidth management feature can overburden it if overused.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router is not compatible with all software listed in the package.",
+            "entity_b": "The router is incompatible with some devices and features."
+        }
+    },
+    "Firewall": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The product has a robust firewall setup and VPN capabilities.",
+            "entity_b": ""
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router provides good value for the price and performs well in specific use cases.",
+            "entity_b": ""
+        }
+    },
+    "MTU": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router has a problem with MTU configuration, causing issues with VPN connections.",
+            "entity_b": ""
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The router's range is limited, especially in larger or brick houses. The router's range did not improve compared to older models. The router's range is less than expected for an N model."
+        }
+    },
+    "Speed": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The router has a fast speed but limited range. It provides a fast connection for wireless N devices."
+        }
+    },
+    "User Interface": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The router's user interface is confusing and poorly designed."
+        }
+    },
+    "Tech Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Linksys tech support can be helpful in resolving issues."
+        }
+    }
+}

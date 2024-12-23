@@ -1,0 +1,58 @@
+{
+    "Design": {
+        "comm": "Ergonomic design is excellent.",
+        "cont": {
+            "entity_a": "Crafted specifically for left-handed users with excellent ergonomic design. Designed for left-handed users, preventing wrist strain. Excellent fit for left-handed users.",
+            "entity_b": "Great design, lightweight, and responsive. Ergonomics are excellent, suitable for long periods of use."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Could be lighter with Li-ion battery instead of two AA's. Excellent battery life with auto-off feature. Comes with AA batteries.",
+            "entity_b": "Ability to swap batteries on the fly is convenient. Battery life depletes rapidly during gaming. Battery life is typically about 7-10 hours on a full charge. Comes with two batteries for continuous use. Battery swapping is quick and easy. Short battery life, requiring frequent swaps. Battery life is about a day, swap is quick. Batteries do not make good contact with the charger at times. Frequent battery swaps required due to short life."
+        }
+    },
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The transmitter is weak, requiring the receiver to be within a few feet. Requires a nearby USB receiver for stable performance. Not Bluetooth compatible, taking up a USB port. Mouse skips and loses signal with transmitter 3 feet away. Connection is reliable with no issues post-purchase. Occasional interference issues from other devices.",
+            "entity_b": "Wireless range is excellent, works from 10 feet away. Receiver does not plug into the mouse for portability. Receiver can cause interference with WiFi networks. Receiver causes interference with WiFi during heavy traffic. Receiver is compact and suitable for travel."
+        }
+    },
+    "Buttons": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Only available left-handed mouse with many buttons similar to top-end right-handed ones. Back/forward buttons by the thumb are frequently used and appreciated. Volume/mute buttons are comfortable to access. Mail and IM buttons are less accessible but not often used. Too many buttons for personal taste. Buttons are well-placed and hard to push accidentally. The scroll wheel is very responsive.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Email and instant message notification lights are included, though not particularly useful. Requires SteerMouse for full Mac functionality. Software does not allow reprogramming of main mouse buttons.",
+            "entity_b": "Tracking speed can be changed on the fly. Dynamic DPI change improves precision in games."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not suitable for gaming due to lag and CPU usage. Pointer skips and is erratic at times. Pointer skips and jumps during heavy computer usage.",
+            "entity_b": "Great for gaming with fast response time and adjustable sensitivity. Great for FPS games with excellent connectivity."
+        }
+    },
+    "Installation": {
+        "comm": "Easy to install.",
+        "cont": {
+            "entity_a": "Installation and initial recognition are easy.",
+            "entity_b": ""
+        }
+    },
+    "Customer Service": {
+        "comm": "Logitech provides good customer support.",
+        "cont": {
+            "entity_a": "Customer service is excellent, offering quick refunds for defective products.",
+            "entity_b": "Logitech provides good customer support for replacements."
+        }
+    }
+}

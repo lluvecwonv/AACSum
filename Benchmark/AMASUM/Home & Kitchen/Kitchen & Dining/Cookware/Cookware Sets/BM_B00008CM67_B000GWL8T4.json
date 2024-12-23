@@ -1,0 +1,97 @@
+{
+    "Safety": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The edges of the saute pan are very sharp, posing a safety hazard.",
+            "entity_b": "Non-stick coating is peeling consistently, raising safety concerns."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Pots overheat, causing food to burn and stick, even on low heat.",
+            "entity_b": "The non-stick surface wears away, causing food to stick."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cookware started to rust and pit after a few years of use.",
+            "entity_b": "Non-stick coating on the handle rivets and pots started peeling after a couple of years."
+        }
+    },
+    "Appearance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Black markings and discoloration appear on the inside of saucepans.",
+            "entity_b": "The cookware maintains a sleek appearance."
+        }
+    },
+    "Heat Distribution": {
+        "comm": "The cookware heats evenly.",
+        "cont": {
+            "entity_a": "Heavy solid core with even heat distribution and excellent finish.",
+            "entity_b": "The cookware distributes heat evenly."
+        }
+    },
+    "Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Measurement lines inside the pans are a helpful feature.",
+            "entity_b": "The frying pans have indicators to show when they are hot enough."
+        }
+    },
+    "Handles": {
+        "comm": "Handles stay cool while cooking.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Handles on the glass covers can get warm during use."
+        }
+    },
+    "Cleaning": {
+        "comm": "The cookware is easy to clean.",
+        "cont": {
+            "entity_a": "Difficult to clean, with persistent marks and stains.",
+            "entity_b": "Easy to clean, even after burning food."
+        }
+    },
+    "Design": {
+        "comm": "The set is aesthetically pleasing.",
+        "cont": {
+            "entity_a": "Good weight and minimalistic design, but one pan chipped due to harsh degreaser use.",
+            "entity_b": "Rubberized handles are excellent and well-balanced."
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The quality has diminished over the years, with uneven cooking and crackling sounds.",
+            "entity_b": "Non-stick coating remains intact after several months of use."
+        }
+    },
+    "Non-stick": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The non-stick coating is absent, avoiding chemical exposure.",
+            "entity_b": "Non-stick surface requires occasional seasoning with oil."
+        }
+    },
+    "Usability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lids fit multiple pots, enhancing usability.",
+            "entity_b": "Some pots do not work on induction cooktops."
+        }
+    },
+    "Value": {
+        "comm": "The cookware is a good value for the price.",
+        "cont": {}
+    },
+    "Compatibility": {
+        "comm": "The cookware is suitable for various stovetops.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The cookware works well on induction stoves."
+        }
+    }
+}

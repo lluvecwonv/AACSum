@@ -1,0 +1,86 @@
+{
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The product has constant dropped signals and requires frequent resets. Signal quality inside an apartment varies from excellent to good. The router initially had wireless connection drops, but changing frequency settings improved reception. The router works well but lacks range beyond 300 feet. The router performs worse than older models in terms of coverage and speed. The router has a poor range and requires a strong wireless card for optimal speed.",
+            "entity_b": "The router is extremely stable and has fantastic range. Some models have trouble with signal strength and reliability."
+        }
+    },
+    "Brand": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router appears well-made and is from a reputable brand.",
+            "entity_b": ""
+        }
+    },
+    "Technology": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Draft-N technology may be too new and unrefined for public use.",
+            "entity_b": ""
+        }
+    },
+    "Installation": {
+        "comm": "Easy setup.",
+        "cont": {
+            "entity_a": "Installation was easy, with a desktop connected at 130 to 260 Mbps and a notebook at 54 Mbps. Adding a computer to the network requires running a Linksys program, which is annoying but good for security. The setup utility initially had issues finding the router, and there was no documentation for workarounds. The installation disk should be avoided; setup is better done online.",
+            "entity_b": "Easy setup and reliable performance for multiple devices. Easy WPA setup."
+        }
+    },
+    "Performance": {
+        "comm": "Works well.",
+        "cont": {
+            "entity_a": "The router works well across a two-level house. The router provides good speed and range after replacing a malfunctioning unit. The router works well with various wireless devices. The router was received promptly and works as advertised. The router required periodic reboots and eventually stopped working. Router lacks gigabit support, which affects large file transfers. Advanced setup mode is required for optimal performance with wireless printers.",
+            "entity_b": "Works well with Xbox Live and Nintendo Wi-Fi after firmware upgrade. Secure and works great with various gaming consoles and streaming services. Great performance for gaming and multimedia applications. Router functions well after resolving DSL modem conflict."
+        }
+    },
+    "Hardware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router came with a wrong power cord and would not start up. The reset button is inconveniently located, causing accidental resets. The router's LED lights are dim and difficult to see.",
+            "entity_b": "Overheats when stacked with a Dlink Switch. Gigabit switch is a plus."
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Flashing the firmware with DD-WRT enhanced performance.",
+            "entity_b": ""
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The product is unreliable and requires frequent reboots.",
+            "entity_b": "Handles many connections without slowing down."
+        }
+    },
+    "Security": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Supports stronger WiFi encryption for secure access."
+        }
+    },
+    "Setup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Setup can be challenging without IT knowledge. Requires experienced setup for advanced functions."
+        }
+    },
+    "Network": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Good for prioritizing packet routing. Advanced settings for network management."
+        }
+    },
+    "Obsolescence": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The router became obsolete quickly.",
+            "entity_b": ""
+        }
+    }
+}

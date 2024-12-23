@@ -1,0 +1,65 @@
+{
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Worth its price, especially for high-end cameras.",
+            "entity_b": "Offers incredible value. Not a high-end lens but acceptable for the price."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Performs well in low light with Sony video cameras that allow lens changes.",
+            "entity_b": "Good everyday lens with fast autofocus. AF is a bit slow."
+        }
+    },
+    "Image Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Produces phenomenal results with great optics. Amazing image quality with the 70-200 f2.8 lens and 2X converter, especially for wildlife photography. Fantastic lens for Sony Alpha a77M2, capable of tack-sharp images and great bokeh. Produces tack-sharp images, comparable to Zeiss lenses. Sharp wide open with effective eye autofocus.",
+            "entity_b": "At 28mm, images are a bit soft, but sharpness improves at 50mm-80mm. Soft at f/3.5 and f/18+, best used around f/11. Good for portraits, landscapes, and close-ups."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with Sony A7III and A-Mount LA-EA3 adapter.",
+            "entity_b": ""
+        }
+    },
+    "Build": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Build and image quality justify the price tag. SSM is quiet and fast.",
+            "entity_b": "Girthy and all plastic build."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Excellent customer service with fast replacement.",
+            "entity_b": ""
+        }
+    },
+    "Lens Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Intermittently caused 2-4EV overexposure, but replacement worked perfectly.",
+            "entity_b": ""
+        }
+    },
+    "Focal Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Nice focal range of 28-80mm, suitable for various photography needs."
+        }
+    },
+    "Purpose": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Not a professional lens, but suitable for amateur use. Good all-purpose lens for general use and a great bargain."
+        }
+    }
+}

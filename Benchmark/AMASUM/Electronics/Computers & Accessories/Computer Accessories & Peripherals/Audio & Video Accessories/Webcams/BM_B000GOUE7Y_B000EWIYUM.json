@@ -1,0 +1,72 @@
+{
+    "Resolution": {
+        "comm": "Resolution may not meet expectations.",
+        "cont": {
+            "entity_a": "Basic UVC camera with 800 x 600 resolution. Good resolution and sound quality.",
+            "entity_b": "7.0 megapixel claim."
+        }
+    },
+    "Installation": {
+        "comm": "Easy to install and use.",
+        "cont": {
+            "entity_a": "No additional software needed for setup. Installation is easy but requires bundled software drivers. Recognized in Windows 7 and Vista without issues.",
+            "entity_b": "Clear image and good audio features."
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Microsoft software is large (~100MB) and requires Internet Explorer for installation.",
+            "entity_b": "Software bundle is competitive compared to other cameras."
+        }
+    },
+    "Video Quality": {
+        "comm": "Good video quality.",
+        "cont": {
+            "entity_a": "Better than older models, bandwidth permitting. Decent video quality.",
+            "entity_b": "Fisheye effect is noticeable."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not compatible with all social media platforms, supports Google Plus and Nimbuzz. Some users report compatibility issues with Skype and other IM applications. Some users report driver issues with Vista and Windows 7.",
+            "entity_b": "Detected issues with wireless network adapter compatibility. Software and camera compatibility issues with some operating systems."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sliding cover to protect the lens. Compact and includes a hard case. Compact and portable with a protective carrying case. Compact design and good for laptops. Comes with a cylindrical zip pouch for protection.",
+            "entity_b": "Built-in microphone and zoom/pan features are nice."
+        }
+    },
+    "Audio": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Mic quality is inconsistent and may pick up static from laptop antennas.",
+            "entity_b": "Good audio features."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Manual tilt feature for desired angle adjustment. Good electronic adjustments for Zoom, Brightness, Contrast, Hue, Gamma, Low Light. Not good in dim light and lacks focus adjustment. Inconsistent functionality with Skype. Easy to install and use, but may require frequent disconnection and reconnection.",
+            "entity_b": "Auto focus only, no manual adjustment available. Clear image and frame rates during video chat."
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Convenient attachment to laptop screens. Known issue with mounting on very thin laptop screens.",
+            "entity_b": "Grip on laptops is loose."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Affordable and provides good picture quality. Affordable, but resolution may not meet expectations.",
+            "entity_b": ""
+        }
+    }
+}

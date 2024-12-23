@@ -1,0 +1,93 @@
+{
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Pads on the bottom are hard plastic, enhancing durability.",
+            "entity_b": "Long-lasting, reliable performance."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Enhances Photoshop efficiency with programmable shortcuts. Laser tracks well, with fast speed and good feel. Ability to change DPI settings enhances gaming performance. High precision with a 2000dpi engine. Precise and smooth laser tracking. Weights assist in controlling precision movements. Precision suitable for intricate tasks. Reliable for gaming and long-term use. High precision and adjustable weight enhance performance. Great accuracy and fit for gaming.",
+            "entity_b": "Performance is fantastic with long battery life. Works well on most surfaces but struggles on wooden patterns. Strong signal strength and programmable buttons. Erratic behavior can occur with some units."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Ergonomic design could be improved for larger hands. Wired design preferred for gaming over wireless. Rubber grips improve comfort. Scroll wheel left and right buttons are cumbersome. Scroll wheel is choppy. Symmetrical design preferred over fancy shapes.",
+            "entity_b": "Lots of options and comfortable design. Ergonomic design fits well in hand. Comfortable and convenient media controls. Some buttons require hard pressing. Overall design may not suit left-handed users."
+        }
+    },
+    "Buttons": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Has 10 programmable buttons, beneficial for gaming. Programmable buttons are easy to use and well-placed. Limited buttons are a drawback for gaming.",
+            "entity_b": "Functional buttons are well-placed. Volume and media controls are convenient. Media functions require software installation."
+        }
+    },
+    "Cord": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Nylon-wrapped cord prevents twisting and breaking. Cord length could be longer.",
+            "entity_b": "USB receiver is long, inconvenient for laptops."
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Heavy with weight discs. Weights allow for customizable heft. Adjustable weights and DPI are useful features. Weight system allows for fine-tuning. Adjustable weights and DPI for easy handling.",
+            "entity_b": ""
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rubber grips improve comfort.",
+            "entity_b": "Comfortable for extended use."
+        }
+    },
+    "Surface Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires a smooth mouse pad for optimal performance. Durable build and operates on various surfaces.",
+            "entity_b": "Works well on most surfaces but struggles on wooden patterns."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Rechargeable batteries last about 3 months. Battery life is very good."
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Installation can be problematic on some systems.",
+            "entity_b": "Media functions require software installation."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Software issues can affect functionality.",
+            "entity_b": "Some issues with cursor jumping, resolved by exchange."
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Older model with limited range. Good range for media operations. Transmission range decreases with age."
+        }
+    },
+    "Customization": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Limitless sensitivity and weight customizations.",
+            "entity_b": ""
+        }
+    }
+}

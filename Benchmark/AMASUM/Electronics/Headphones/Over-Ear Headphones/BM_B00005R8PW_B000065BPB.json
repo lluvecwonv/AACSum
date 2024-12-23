@@ -1,0 +1,72 @@
+{
+    "Sound": {
+        "comm": "Sound quality is good.",
+        "cont": {
+            "entity_a": "Sound quality is acceptable for a system at this price. Sound quality and performance are great. Good sound quality but stopped working after a month. Sound quality is fine with okay range.",
+            "entity_b": "Sound quality is average, with the right speaker failing after five months. Sound quality is impressive for the price, with a neutral sound profile. Sound quality is excellent with clear separation of audio elements."
+        }
+    },
+    "Durability": {
+        "comm": "Durability is poor.",
+        "cont": {
+            "entity_a": "Durability is questionable with issues in construction leading to breakage. Headphones quit working after less than a year of light use.",
+            "entity_b": "Headphones lack longevity, with issues arising after only a few months of use. Durability is poor, with sound cutting out after limited use."
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable and lightweight.",
+        "cont": {
+            "entity_a": "Lightweight and comfortable for extended use. Recommended for users needing large ear coverings to accommodate hearing aids.",
+            "entity_b": "Fit is tight, causing discomfort after extended use. Ear cups become sweaty after extended use."
+        }
+    },
+    "Noise": {
+        "comm": "Good noise isolation.",
+        "cont": {
+            "entity_a": "Wireless headphones inherently have noise trade-offs. Static noise occurs when moving head.",
+            "entity_b": "Noise isolation is disappointing, with inadequate noise attenuation. Audio performance is outstanding with effective noise emulation."
+        }
+    },
+    "Volume": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Volume control is hard to find. Volume may be low.",
+            "entity_b": "Treble is too high."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Superior product compared to cheaper Sony headphones.",
+            "entity_b": "The head pad has shrunk over time, making them uncomfortable. The cord is heavy and awkward, affecting usability."
+        }
+    },
+    "Fit": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Minimal sound leakage makes them suitable for late-night TV listening.",
+            "entity_b": ""
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some issues with missing second battery, which uses a proprietary design.",
+            "entity_b": ""
+        }
+    },
+    "Reception": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Clarity and reception are better than Advent brand with occasional static. Reception cuts out when phone rings.",
+            "entity_b": ""
+        }
+    },
+    "Construction": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Construction is weak and prone to breakage.",
+            "entity_b": "Plastic construction feels cheap."
+        }
+    }
+}

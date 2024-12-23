@@ -1,0 +1,65 @@
+{
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Buffalo WHR-HP-G54 had excellent range. Wireless signal reached 40ft through obstacles. Router increased signal range significantly, but had firmware issues. Range was better than previous models, but not strong. Router had significant range improvement over older models.",
+            "entity_b": "Worked well in a two-level house with good range. Router lacked range and disconnected frequently. Router had poor range compared to previous models."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Had serious incompatibility issues with PlayStation 3 and Cingular 8525.",
+            "entity_b": "Router worked fine but had issues with range extender compatibility."
+        }
+    },
+    "Setup": {
+        "comm": "Setup was easy.",
+        "cont": {
+            "entity_a": "Linksys tech support was helpful in solving setup problems requiring a firmware update. Setup was easy with helpful customer support.",
+            "entity_b": "Setup utility initially failed to find the router. Worked well after bypassing installation disk. Easy to set up, worked well for home network."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router stopped working after a month and had issues with customer service. Unreliable with frequent connection drops. Connection drops twice a week, requiring power cycling. Router stopped working after power surges. Firmware and code had bugs, affecting reliability.",
+            "entity_b": "Constant dropped signal with Linksys USB N adapter. Product failed after a time, with a high failure rate. Required periodic power recycling and eventually failed. Router constantly dropped wireless connections."
+        }
+    },
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Improved signal and performance significantly with SRX400 enhanced cards. Good range and speed, but unreliable with frequent drops.",
+            "entity_b": "Setup was easy with good signal quality. Router had poor wireless speed and confusing interface. Router had good speed and range but required tech support."
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Firmware update was necessary for stable performance. Router had good range and speed but was prone to connection drops.",
+            "entity_b": "Initial wireless drops improved after firmware flash."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Linksys support was helpful but inconsistent.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router had inconveniently placed reset button."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router worked well with wireless N notebook adapter. Router worked well with direct connections. Router worked well with various wireless devices. Worked well for home network setup."
+        }
+    }
+}

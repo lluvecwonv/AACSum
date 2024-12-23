@@ -1,0 +1,93 @@
+{
+    "Comfort": {
+        "comm": "Comfortable grip.",
+        "cont": {
+            "entity_a": "Comfortable and the length is just right for reaching nails from close to far range. Grip is excellent and comfortable for extended use. The curved handle design provides a comfortable grip.",
+            "entity_b": "Effective for daily professional use. Comfortable grip and effective for daily professional use. Suitable for reducing joint strain during extended use."
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The hammer is heavier than most, adding strength when hitting nails. The hammer is light but effective for basic construction purposes.",
+            "entity_b": "Lightweight but delivers the same swing as heavier hammers. Lightweight with significant power, reducing fatigue. Lightweight with minimal vibrations."
+        }
+    },
+    "Balance": {
+        "comm": "Well-balanced.",
+        "cont": {
+            "entity_a": "Nice balance and heft, suitable for general use. Great balance and low impact on hands. The hammer has a nice weight and balance.",
+            "entity_b": "High-quality construction and balance."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durable with good nail-pulling power.",
+            "entity_b": "Superior quality and durability, suitable for long-term use. Durable and long-lasting, even with frequent use."
+        }
+    },
+    "Shock Reduction": {
+        "comm": "Effective shock reduction.",
+        "cont": {
+            "entity_a": "The anti-vibration feature makes a difference, though not as effective as marketed. Antivibe feature reduces wrist pain. Comfortable grip with effective shock reduction.",
+            "entity_b": "Effective shock reduction, reducing elbow pain. The hammer is light, powerful, and reduces repetitive strain injuries."
+        }
+    },
+    "Grip": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The broader surface area provides a good grip and confidence when working.",
+            "entity_b": ""
+        }
+    },
+    "Feature": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Magnetic nail holder is a nice feature, though some models lack it.",
+            "entity_b": "Side nail puller is an excellent feature. Interchangeable head is a valuable feature. Side nail puller is useful for various tasks."
+        }
+    },
+    "Rust Prevention": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Painted finish prevents rusting over time.",
+            "entity_b": ""
+        }
+    },
+    "Construction": {
+        "comm": "Well-made.",
+        "cont": {
+            "entity_a": "Solid construction.",
+            "entity_b": "High-quality construction."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Affordable and well-made for the price.",
+            "entity_b": "High price justified by performance and durability. Price is high, but performance justifies the investment. Expensive but worth it for professional carpenters."
+        }
+    },
+    "Usage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good for home projects, but may not hold up for professional use.",
+            "entity_b": "Great for framing and demo work."
+        }
+    },
+    "Handle": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The handle is comfortable and the hammer is well-balanced.",
+            "entity_b": "The handle may require additional maintenance to prevent loosening. Long handle may be cumbersome in a belt loop. Long handle provides leverage but may be too heavy for some."
+        }
+    },
+    "Power": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The larger head makes it easier to strike the nail.",
+            "entity_b": ""
+        }
+    }
+}

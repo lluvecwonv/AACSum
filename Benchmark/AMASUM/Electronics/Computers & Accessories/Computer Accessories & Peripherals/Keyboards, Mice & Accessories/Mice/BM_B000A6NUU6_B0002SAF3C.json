@@ -1,0 +1,128 @@
+{
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good value for the price with well-built, well-designed, and flawless performance.",
+            "entity_b": ""
+        }
+    },
+    "Browsing": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Browsing is enhanced by customizable button commands.",
+            "entity_b": ""
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The mouse is small, fitting small hands well, but may be too small for larger hands. Compact size is ideal for travel, but the cord is short for desktop use.",
+            "entity_b": "Symmetrical design is preferred over fancy shapes."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "After 14 months, the wheel stopped working. Some users experienced durability issues with the cord fraying.",
+            "entity_b": ""
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Amazon customer service suggested contacting Microsoft for support.",
+            "entity_b": ""
+        }
+    },
+    "Ergonomics": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The mouse is not ergonomic for larger hands, requiring awkward hand positioning.",
+            "entity_b": "Comfortable design with lots of options, even for Mac users. Plastic lower side could be improved with cushioned material."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Corded design avoids battery issues common with wireless mice. Blue LED light adds a nice design touch.",
+            "entity_b": ""
+        }
+    },
+    "Scroll": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The scroll wheel is smooth, which some users may find unsatisfactory.",
+            "entity_b": "Scroll wheel is accurate on almost any surface."
+        }
+    },
+    "Installation": {
+        "comm": "Installation is easy.",
+        "cont": {
+            "entity_a": "Installation is easy with software available online.",
+            "entity_b": ""
+        }
+    },
+    "Gaming": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not suitable for gaming due to issues with the middle scroll function.",
+            "entity_b": "Media buttons enhance gaming and relaxation experiences."
+        }
+    },
+    "Precision": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The mouse is precise with no noticeable lag.",
+            "entity_b": "Performance is fantastic with strong signal strength."
+        }
+    },
+    "Coating": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rubberized coating can degrade over time with heavy use.",
+            "entity_b": ""
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Recharable batteries last about 3 months with 8-hour daily use. Good battery life with NiMH rechargeables. Long battery life and range make it a good portable mouse."
+        }
+    },
+    "Surface": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Occasional issues on wooden patterned surfaces, resolved by using a paper mouse pad."
+        }
+    },
+    "Transmission": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Transmission range decreases with age."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Some software compatibility issues with certain media programs."
+        }
+    },
+    "Behavior": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Some users experience cursor jumping issues, resolved with a driver update. Some users experience issues with erratic mouse behavior and volume control."
+        }
+    },
+    "Left-Handed Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Not suitable for left-handed users as it lacks support for left-hand capabilities."
+        }
+    }
+}

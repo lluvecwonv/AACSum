@@ -1,0 +1,58 @@
+{
+    "Installation": {
+        "comm": "Easy to install.",
+        "cont": {
+            "entity_a": "Quick, taking less than 10 minutes with clear instructions. Easy driver installation.",
+            "entity_b": "Setup is seamless and quick. Some installation difficulties using the supplied CD. Better results with Windows installation."
+        }
+    },
+    "Compatibility": {
+        "comm": "Good compatibility with older laptops.",
+        "cont": {
+            "entity_a": "Compatible with both Windows XP and Ubuntu. Works well with Apple routers, limited by AT&T DSL connection. Atheros chipset ensures compatibility with Linux distributions. Linux compatible with madwifi drivers. Flawless performance under Windows XP and Linux. Not compatible with Compaq Presario, causing conflicts with chipsets. Failed installation with Compaq Presario, requiring a NetGear card.",
+            "entity_b": "Does not work with Linux without checking distro compatibility. Not compatible with Windows XP SP3 auto wireless configuration."
+        }
+    },
+    "Performance": {
+        "comm": "Good performance and range.",
+        "cont": {
+            "entity_a": "Reaching 108Mbps with a D-Link router. Reliable connection for close-to-the-router usage, but weak for distant roaming. Extended range and fast speed when used with D-Link DI-624 Router and firmware updates. Inconsistent performance with Fedora Linux, failing to auto-install. Good card for the money, tested open and WPA. Improved wireless range and connection with an old Dell laptop.",
+            "entity_b": "Increased range and speed with Linksys WRT54GX4 router. Improved range compared to older Linksys cards. Picks up signals well, even from a distance. Great range and speed with Linksys SRX400 technology. Improved internet connection compared to built-in network cards."
+        }
+    },
+    "Price": {
+        "comm": "Affordable.",
+        "cont": {
+            "entity_a": "Provides good value for the price.",
+            "entity_b": "Fast shipping."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durable and stylish design, though the protruding part is flimsy. Lights are non-functional but durable and stylish.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Fast delivery and functionality as advertised.",
+            "entity_b": "Reliable and functional, providing good internet connection."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some issues with D-Link customer service and driver compatibility.",
+            "entity_b": ""
+        }
+    },
+    "Issues": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Locks up computers, requiring unplugging and battery removal. Frequent connection problems when inserted during boot-up."
+        }
+    }
+}

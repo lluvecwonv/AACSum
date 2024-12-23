@@ -1,0 +1,83 @@
+{
+    "Reversibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The fan is not truly reversible; it must be manually flipped in the window to change airflow direction.",
+            "entity_b": "The fan does not have a reverse airflow feature."
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "It fits well in standard 28” windows and is easy to install.",
+            "entity_b": "Installation can be difficult due to size and weight. The fan requires additional modifications for secure installation."
+        }
+    },
+    "Power": {
+        "comm": "The fan is powerful and moves a lot of air.",
+        "cont": {}
+    },
+    "Noise": {
+        "comm": "It is noisy, especially on high settings.",
+        "cont": {
+            "entity_a": "The noise level is high even on the low setting, but the airflow is effective.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durability is inconsistent, with some units failing quickly and others lasting longer.",
+            "entity_b": "Durability is an issue, with some units failing after short use."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service is unhelpful for issues like blown fuses.",
+            "entity_b": ""
+        }
+    },
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Plastic casing is fairly durable.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The fan is inexpensive and provides good value for the price.",
+            "entity_b": ""
+        }
+    },
+    "Balance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The fan is not balanced and may vibrate excessively."
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The fan is heavy and requires secure installation."
+        }
+    },
+    "Effectiveness": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The fan is effective in cooling large spaces. It is suitable for use as a whole house fan."
+        }
+    },
+    "Accessories": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The fan does not include enough window extenders for all installations.",
+            "entity_b": ""
+        }
+    }
+}

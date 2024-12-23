@@ -1,0 +1,65 @@
+{
+    "Build": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Solid body with superior build quality compared to newer models.",
+            "entity_b": "Durable construction; survived a fall without damage."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "8fps and professional autofocus with 45 points. High ISO performance is usable despite older technology.",
+            "entity_b": "Performs flawlessly with higher quality results than previous models. Shutter speed is fast with very sharp pictures."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not compatible with newer EF-S lenses.",
+            "entity_b": "Compatible with old K lenses, though not all are autofocus. Compatible with many K-mount and M42 screw mount lenses. Compatible with older Pentax lenses, providing a good value for existing users."
+        }
+    },
+    "Resolution": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Low resolution at 4.2MP, but interpolation can be used for larger images.",
+            "entity_b": "Good image quality with accurate colors and ISO up to 3200."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Error 99 encountered and accessories difficult to find.",
+            "entity_b": "Very easy to use with a good range of auto features and modes. Some battery issues; requires high mAh NiMH rechargeables. Not suitable for fast succession of shots due to limited buffer size."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Considered overpriced if above $500 unless for collectors.",
+            "entity_b": ""
+        }
+    },
+    "Photography": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great camera for general and close-up photography despite low resolution.",
+            "entity_b": ""
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Small and portable, fits in a large purse."
+        }
+    },
+    "Stabilization": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Built-in anti-shake feature limits the need for expensive lenses. Image stabilization feature works well."
+        }
+    }
+}

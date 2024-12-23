@@ -1,0 +1,93 @@
+{
+    "Adjustment": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rough adjustment release lock is difficult to use. Fine adjustment sticks and body does not slide smoothly in the collar. Prone to become hard to adjust vertically due to wood dust. Retainer snap ring on the vertical adjustment shaft has broken twice. Base was very hard to adjust and switch did not work half the time. Fine tuning adjustment is under the guard, requiring a longer wrench. Depth locks in channels, slight changes made with a side dial. Easy to adjust height and change bits. Router has easy and precise adjustments.",
+            "entity_b": ""
+        }
+    },
+    "Power": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Powerful and versatile. Router has plenty of power and a soft start feature. Router is capable of producing 2.25 HP of mechanical energy. Router has lots of power and is very reliable. Router is very powerful and reliable.",
+            "entity_b": ""
+        }
+    },
+    "Soft Start": {
+        "comm": "Router has a soft start feature.",
+        "cont": {
+            "entity_a": "Soft start feature is softer than older models. Soft start and variable speed features are appreciated. Soft start and variable speed are great features.",
+            "entity_b": ""
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Easy to install and fits well on the router table base. Mounted on a Woodpecker routing table, needed a chuck extender.",
+            "entity_b": "Device is difficult to install with limited support from Linksys. Installation can be complex due to software protection. Product is difficult to install and setup."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router is durable and came with both 1/4\" and 1/2\" chucks. Router is very durable and has never given a problem over two years of use. Collet failed after about a year but replacement worked well.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router is compatible with Bosch router table.",
+            "entity_b": "Device lacks support and firmware updates for modern operating systems. Product information does not mention compatibility is limited to Windows XP. Product is not compatible with Windows Vista. Device works well with Windows XP."
+        }
+    },
+    "Control": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router is easy to control and feels like an extension of you. Router is easy to control with wood handles.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Front spindle bearing is retained with screws, lacking a bearing clamp. Router has a heavy and bulky design but locks adjustments in place.",
+            "entity_b": "Music link software is poorly designed but functional."
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Powerful and quiet. Router is smooth, quiet, and powerful. Router is super quiet and powerful.",
+            "entity_b": ""
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router performs flawlessly. Router is very reliable.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Variable speed is great for different size bits and types of wood. Router has a self-releasing collet system. Router is well constructed and very functional.",
+            "entity_b": "Device connects well without skips when setup properly. Device works well with open networks. Product works well when setup correctly. Device works well with wired connection."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Vista support is poor, requiring compatibility mode for setup. Product lacks Vista drivers and support. Product is not supported by Linksys for modern operating systems."
+        }
+    },
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Wireless security can cause connectivity issues. Wireless connection is prone to disconnection. Device causes audio from PC to be lost when activated. Product has intermittent connectivity issues. Wireless connection requires additional drivers for functionality. Device is difficult to configure and has intermittent connection issues."
+        }
+    }
+}

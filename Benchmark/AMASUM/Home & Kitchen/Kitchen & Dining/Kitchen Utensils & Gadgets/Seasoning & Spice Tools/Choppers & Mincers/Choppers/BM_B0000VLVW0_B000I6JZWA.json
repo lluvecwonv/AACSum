@@ -1,0 +1,72 @@
+{
+    "Versatility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The board scraper is versatile, doubling as a chopper but not sharp enough to be considered a knife.",
+            "entity_b": "There are two different size blades, offering versatility in chopping sizes."
+        }
+    },
+    "Sharpness": {
+        "comm": "Not sharp enough.",
+        "cont": {
+            "entity_a": "Works well on hard vegetables but tends to make mush of tomatoes.",
+            "entity_b": "Requires significant force to chop."
+        }
+    },
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The metal version might scratch surfaces but offers more flex than the plastic version.",
+            "entity_b": "The plastic material is brittle and prone to breaking, especially the hinge and base."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The scraper is durable, easy to clean, and features a comfortable grip.",
+            "entity_b": "The product is inexpensive but not durable, often breaking after a few uses."
+        }
+    },
+    "Handling": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The handle is too plump and hard to hold. The rubberized grip feels high-quality despite its affordability.",
+            "entity_b": "The chopper is easy to use but requires the vegetables to be pre-cut into smaller pieces."
+        }
+    },
+    "Cleaning": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Easy to clean.",
+            "entity_b": "Cleaning is difficult due to food getting stuck in the grid."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Affordable.",
+            "entity_b": "Inexpensive."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "It has a straight flat blade, which is not as easy for picking things up compared to models with a shelf. The edges are straight, allowing cuts to the edge of a pan. It has measurement marks for even cutting and is handy for measuring dough.",
+            "entity_b": "The device is not suited for chopping cheese and can make a mess."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "It is heat resistant, sturdy, and doesn't melt when exposed to high temperatures.",
+            "entity_b": "Effective at chopping onions and other vegetables but not suited for harder items like carrots. It is a good tool for uniform chopping but requires careful handling to avoid breakage."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Customer service is unresponsive and replacement parts are difficult to obtain."
+        }
+    }
+}

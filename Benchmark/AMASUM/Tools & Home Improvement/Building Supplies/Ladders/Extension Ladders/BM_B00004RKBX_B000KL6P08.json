@@ -1,0 +1,79 @@
+{
+    "Strength": {
+        "comm": "Strong.",
+        "cont": {
+            "entity_a": "Reasonably strong for users under 200 lbs; rated for 200 lbs; suitable for users up to 175 lbs without any give.",
+            "entity_b": "Holds up to 300 lbs, suitable for larger users; suitable for professional use."
+        }
+    },
+    "Weight": {
+        "comm": "Lightweight.",
+        "cont": {
+            "entity_a": "Easy to maneuver around the house; making it easier to use than heavier ladders; 20ft ladder is lightweight, maneuverable.",
+            "entity_b": "Heavier than expected but lighter than fiberglass ladders; lightest ladder at this length but still requires strength to set up; heavy but manageable."
+        }
+    },
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Nicely constructed from aluminum.",
+            "entity_b": "Plastic rung locks instead of aluminum."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Plastic safety holders are a concern for long-term use.",
+            "entity_b": "Rung locks are made of plastic, leading to durability concerns; plastic rung locks may deteriorate over time."
+        }
+    },
+    "Safety": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Arrived with broken latching mechanism, affecting safety; plastic rung locks may deteriorate over time, affecting safety."
+        }
+    },
+    "Convenience": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Convenient delivery for those without a flatbed trailer.",
+            "entity_b": ""
+        }
+    },
+    "Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great for occasional homeowner use; useful for reaching most parts of a home.",
+            "entity_b": "Suitable for professional use; very sturdy and provides a stable platform."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Affordable price with home delivery.",
+            "entity_b": "Good quality, lightweight, and well-priced."
+        }
+    },
+    "Stability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Heavy-duty and secure, collapses for storage; offers secure footing with improved tread ridges.",
+            "entity_b": "Solid, stable, and provides a safe foundation; very sturdy and provides a stable platform; heavy but manageable, offering great stability."
+        }
+    },
+    "Operation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The ladder stays in place and is easy to operate.",
+            "entity_b": "Smooth height adjustments."
+        }
+    },
+    "Construction": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The ladder is technically 13 feet long, extremely lightweight, but strong.",
+            "entity_b": "Well constructed with some damaged rungs but still usable."
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "Power": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Draws a bit of current from USB port, causing occasional computer stalls.",
+            "entity_b": ""
+        }
+    },
+    "Resolution": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Practically high definition, supports 720p, but frame rate slows down.",
+            "entity_b": "Good resolution for VOIP. Delivers 640x480 resolution at 30fps smoothly. Resolution not as sharp as built-in webcams."
+        }
+    },
+    "Color": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Outstanding color contrast and brightness with exposure adjustments.",
+            "entity_b": ""
+        }
+    },
+    "Setup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Easy to set up with built-in color and light features for great picture quality.",
+            "entity_b": "Plug-and-play with no setup issues."
+        }
+    },
+    "Audio": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Audio issues with high-speed internet connections. Video is good but audio problems persist. Audio quality is decent but needs manual adjustment.",
+            "entity_b": "Built-in microphone and speaker are convenient. Sound interruptions possibly due to other programs. Microphone issues resolved with new drivers."
+        }
+    },
+    "Picture": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Blurry picture with focal point setting problems. Picture quality is clear with good design and easy attachment to monitors. Good image quality but struggles with lighting adjustments. Good picture quality but requires light adjustments. Picture quality issues with color adjustments.",
+            "entity_b": "Picture quality could be improved for a higher price. Picture quality is impressive for its size. Decent picture quality but clip design is poor."
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Installation is easy but requires a clamp not included. Device is easy to install but not stable on laptops. Installation can be tricky on Windows Vista. Not compatible with some older USB ports.",
+            "entity_b": "Requires wider mounting clamp for desktop LCD monitors. Installation instructions needed for Windows Vista. No driver support for Windows 7."
+        }
+    },
+    "Driver": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Generic drivers download automatically; Logitech drivers hard to find. Driver issues with Windows XP Media Center Edition.",
+            "entity_b": "Software conflicts with Windows Vista. Driver-only installation affects performance."
+        }
+    },
+    "Focus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Automatic focus works well in varying light conditions. Manual focus for high magnification in close-ups.",
+            "entity_b": "Manual focus required for clear images. Manual focus for high magnification in close-ups."
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Software lacks TWAIN and WIA support, limiting image capture integration. Some Logitech webcams cause system crashes on certain OS versions. Software and driver issues can occur. Software slows down computers significantly.",
+            "entity_b": "Software enhances low light and cancels sound loops. Software lacks a voice recorder, causing conflicts. Software conflicts with Windows Vista. Software slows down computers significantly."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires sufficient RAM for proper operation.",
+            "entity_b": ""
+        }
+    },
+    "Microphone": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Adjust microphone settings to avoid overloaded voice output.",
+            "entity_b": ""
+        }
+    },
+    "Tracking": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Automatic face tracking works but can be temperamental.",
+            "entity_b": "Good resolution for VOIP with effective face-tracking and special effects. Video is blurry and doesn't track hand movements well."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Frequent disconnections and software conflicts reported.",
+            "entity_b": "Some units have software and hardware issues."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Picture quality is clear with good design and easy attachment to monitors.",
+            "entity_b": "Compact and portable with a convenient carrying pouch."
+        }
+    },
+    "Fit": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Device is easy to install but not stable on laptops.",
+            "entity_b": "Fits poorly on laptops and often falls off. Mount insufficient for laptop display frames. Clip does not fit wide notebook screens well. Fits securely on some laptops but not all."
+        }
+    },
+    "Video": {
+        "comm": "Good video quality.",
+        "cont": {
+            "entity_a": "Video is good but audio problems persist.",
+            "entity_b": "Good video quality but manual focus needed."
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good video quality, but not the best in the market.",
+            "entity_b": "Resolution is good but not outstanding."
+        }
+    }
+}

@@ -1,0 +1,93 @@
+{
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The Zune is durable.",
+            "entity_b": ""
+        }
+    },
+    "Storage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Has a large storage capacity, holding up to 7500 songs with album art. The Zune's storage is sufficient for music, movies, and TV shows.",
+            "entity_b": "Features an SD card slot for expandable storage, increasing its capacity."
+        }
+    },
+    "Sound": {
+        "comm": "Sound quality is good.",
+        "cont": {
+            "entity_a": "Has a nice sound.",
+            "entity_b": "Sound quality is good with the included headphones, though the equalizer may need adjustment."
+        }
+    },
+    "Interface": {
+        "comm": "",
+        "cont": {
+            "entity_a": "An easy-to-use interface with good battery life. A better interface than an iPod.",
+            "entity_b": "Menu navigation can be non-intuitive and the language may not be in English."
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The Zune software is discontinued and no longer supported by Microsoft, making updates and music syncing difficult. Microsoft does not provide free software or customer support for Zune.",
+            "entity_b": "Doesn't require extra software for music transfer."
+        }
+    },
+    "Screen": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The Zune has a large, bright screen, providing good video quality.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The device is bulky, making it less suitable for exercise but great for home use.",
+            "entity_b": "The Sansa MP3 player is lightweight."
+        }
+    },
+    "Accessories": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Accessories for Zune are hard to find compared to those for iPods.",
+            "entity_b": "Comes with accessories like a sync cable, protective case, and armband."
+        }
+    },
+    "Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The Zune offers features such as WiFi connectivity and music sharing with other Zune owners.",
+            "entity_b": "The player includes an FM radio."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Battery life decreases over time, but the device can still be used while plugged in.",
+            "entity_b": "Uses replaceable AAA batteries, but the battery door is flimsy."
+        }
+    },
+    "Playlist": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Playlists must be created on a computer.",
+            "entity_b": "The player does not support playlist creation or bookmarking for audiobooks."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The player is affordable and offers good value for those on a budget."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Some units have reliability issues, such as not turning on or freezing during playback."
+        }
+    }
+}

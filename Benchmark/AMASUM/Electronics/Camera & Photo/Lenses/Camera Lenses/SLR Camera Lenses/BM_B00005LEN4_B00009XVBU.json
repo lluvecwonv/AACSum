@@ -1,0 +1,100 @@
+{
+    "Photo Quality": {
+        "comm": "Sharp photographs.",
+        "cont": {
+            "entity_a": "Improves photo quality significantly. Incredibly sharp photographs. Issues with blue tint in photos; requires adjustments.",
+            "entity_b": "Produces sharp, saturated, and color-accurate images. Matched only by the best optics for sharpness and contrast."
+        }
+    },
+    "Autofocus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Autofocus not supported on Nikon D5600; requires AF-S lens. No internal AF motor; manual focus required on certain cameras. AF works well on cameras with inbuilt motor. Noisy focus but not a concern for still photography.",
+            "entity_b": "Focus can hunt at close range on non-contrasty subjects. Slow autofocus but sharp images. Heavy and slow focusing is a drawback."
+        }
+    },
+    "Build Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Built like a tank but lightweight due to plastic construction. Optical quality is high despite plastic build.",
+            "entity_b": "Extremely sharp and solidly built. Heavy and cumbersome for handheld use."
+        }
+    },
+    "Bokeh": {
+        "comm": "Great bokeh.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Bokeh is outstanding."
+        }
+    },
+    "Manual Focus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires manual focus on DX cameras without a focusing motor. Easy transition from automatic to manual shooting.",
+            "entity_b": "Manual focus recommended for macro."
+        }
+    },
+    "Durability": {
+        "comm": "Durable if handled carefully.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with a wide range of Nikon cameras.",
+            "entity_b": ""
+        }
+    },
+    "Portrait Photography": {
+        "comm": "Great for portraits.",
+        "cont": {
+            "entity_a": "Great for portraits and close-up work with beautiful depth of field.",
+            "entity_b": "Excellent for portraits with great clarity and blur."
+        }
+    },
+    "Price": {
+        "comm": "Good value for the money.",
+        "cont": {
+            "entity_a": "Excellent value for the price.",
+            "entity_b": "Good value for the money compared to other high-end lenses."
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lightweight and compact.",
+            "entity_b": "Heavy and cumbersome for handheld use."
+        }
+    },
+    "Low Light Photography": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great for low light photography.",
+            "entity_b": ""
+        }
+    },
+    "Macro Photography": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Fantastic macro lens for Canon. Manual focus recommended for macro. Ideal for macro and portrait photography."
+        }
+    },
+    "Lens Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No lens protector included.",
+            "entity_b": "No image stabilization; handheld macro shots difficult. Performs well with extension tubes for specific photography needs."
+        }
+    },
+    "Delivery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Arrived on time and in excellent condition."
+        }
+    }
+}

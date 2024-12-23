@@ -1,0 +1,107 @@
+{
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good value for the price with well-built and well-designed features.",
+            "entity_b": "The product is overpriced for its quality."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The mouse is about half the size of a normal MS optical mouse. Not ergonomic, requiring awkward hand positions to use. The mouse is small, making it good for traveling and fits well in small hands. The mouse is compact, easy to store, and works well for laptops. Fits well in small hands, but not suitable for larger hands. The blue LED is a nice visual feature. The mouse is lightweight and portable.",
+            "entity_b": "Ergonomic design helps reduce wrist stress and pain. Joystick design is beneficial for carpal tunnel relief. Requires whole arm movement, not just wrist."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The wheel stopped working after 14 months, indicating a short lifespan.",
+            "entity_b": "Cheap plastic construction and fragile thumb-buttons."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Amazon customer service suggested contacting Microsoft for support.",
+            "entity_b": ""
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The mouse is about half the size of a normal MS optical mouse. The mouse is small, making it good for traveling and fits well in small hands. Fits well in small hands, but not suitable for larger hands.",
+            "entity_b": ""
+        }
+    },
+    "Ergonomics": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not ergonomic, requiring awkward hand positions to use.",
+            "entity_b": "Ergonomic design helps reduce wrist stress and pain. Joystick design is beneficial for carpal tunnel relief. Suitable for relieving RSI and carpal tunnel symptoms. Requires whole arm movement, not just wrist. Effective in reducing pain but lacks precision for gaming."
+        }
+    },
+    "Cable": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Corded mouse avoids battery issues common with wireless mice. The cord is short, requiring a USB extension for desktop use.",
+            "entity_b": "Stiff cable interferes with movement."
+        }
+    },
+    "Scroll": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The scroll wheel is smooth but lacks tactile feedback. Not ideal for gaming due to the middle scroll function issues.",
+            "entity_b": "No scroll wheel available, which is a limitation. Scroll button does not work on text editors in Windows. Lack of scroll wheel limits functionality."
+        }
+    },
+    "Buttons": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Buttons feel flimsy with noticeable spring action. Software allows for customizable button functions.",
+            "entity_b": "Cheap plastic construction and fragile thumb-buttons."
+        }
+    },
+    "Tracking": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The mouse is precise and accurate in tracking.",
+            "entity_b": "Effective in reducing pain but lacks precision for gaming."
+        }
+    },
+    "Coating": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rubberized coating can wear off over time.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Not compatible with Windows 10. Mixed reviews due to learning curve and lack of traditional mouse features."
+        }
+    },
+    "Surface": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Works only on limited surfaces like a pants leg."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Corded mouse avoids battery issues common with wireless mice.",
+            "entity_b": "Consumes batteries quickly in wireless version. Wireless version has connectivity issues."
+        }
+    },
+    "Speed": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The mouse speed is too fast and not adjustable."
+        }
+    }
+}

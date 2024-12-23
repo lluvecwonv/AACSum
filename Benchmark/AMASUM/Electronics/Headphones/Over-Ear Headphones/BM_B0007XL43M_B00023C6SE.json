@@ -1,0 +1,72 @@
+{
+    "Sound": {
+        "comm": "Sound quality is clear.",
+        "cont": {
+            "entity_a": "No background noise. Comparable to wired headphones. Lack of bass depth is disappointing.",
+            "entity_b": "Not the greatest but works well. Better than TV speakers. Slight background hiss and occasional phase issues. Background hiss can be significant and distracting."
+        }
+    },
+    "Surround": {
+        "comm": "Dolby surround sound.",
+        "cont": {
+            "entity_a": "Impressive surround sound effect providing a theater-like experience. Good stereo decoding abilities including DTS.",
+            "entity_b": "Excellent digital sound with Dolby 5.1 surround."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durability is an issue as the joint on the headpiece snaps easily.",
+            "entity_b": ""
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable fit.",
+        "cont": {
+            "entity_a": "Ear cushions could be softer.",
+            "entity_b": ""
+        }
+    },
+    "Mobility": {
+        "comm": "Obstructions affect performance.",
+        "cont": {
+            "entity_a": "Line-of-sight operation limits mobility; any obstruction cuts off sound.",
+            "entity_b": "Headphones cut out if you wander far from the base. Range is short and can drop signals even when near the receiver."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rechargeable batteries and built-in recharger are included.",
+            "entity_b": "Battery life is excellent."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Expensive, but worth the price if bought on sale below $150. Headphones are pricy but provide great sound.",
+            "entity_b": "Affordable price for the features offered."
+        }
+    },
+    "Volume": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Volume is adjustable and strong with no static.",
+            "entity_b": "Volume control is difficult to find and use."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires careful transmitter placement for optimal performance.",
+            "entity_b": "Charging dock is tricky and frustrating to use."
+        }
+    },
+    "Connection": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Good for use with fiber optic connections."
+        }
+    }
+}

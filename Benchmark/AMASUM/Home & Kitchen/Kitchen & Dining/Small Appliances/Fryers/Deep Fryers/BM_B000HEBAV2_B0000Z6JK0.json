@@ -1,0 +1,65 @@
+{
+    "Cooking": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Fried chicken and fries perfectly with the right amount of crisp.",
+            "entity_b": "Oil gets too hot, burning the outside while leaving the inside undercooked."
+        }
+    },
+    "Odor": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Does not emit smoke or smell of fried food throughout the house.",
+            "entity_b": ""
+        }
+    },
+    "Safety": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Safe to use with no grease splattering.",
+            "entity_b": "Magnetized cord for safety to prevent spills."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Handles on baskets come off too often, causing inconvenience. Inner grease pan has sharp edges, posing a risk of cuts. Plastic top can warp if exposed to steam. Convenient with dual baskets for cooking multiple items simultaneously.",
+            "entity_b": "Lightweight and compact, saving space. Outside gets hot as it's not insulated. No basket included, but comes with a plastic spatula. Simple design without adjustable thermostat."
+        }
+    },
+    "Temperature": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Heats up to 375 degrees F in 14 minutes but lacks an audible alarm for temperature readiness. Worked well initially but had issues with temperature accuracy and reliability in subsequent uses. No temperature control knob; temperature runs about 15 degrees under the setting. Good for frying large quantities but needs careful handling due to temperature drops when loaded.",
+            "entity_b": "No temperature control; only heats to one setting. Great for simple frying tasks but lacks control for more precise cooking. Heats up quickly and maintains heat well. No temperature indicator light, requiring manual checking."
+        }
+    },
+    "Capacity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires a lot of oil and has a large capacity.",
+            "entity_b": "Perfect for small portions but not suitable for larger meals."
+        }
+    },
+    "Cleaning": {
+        "comm": "Easy to clean.",
+        "cont": {
+            "entity_a": "Components come apart easily.",
+            "entity_b": "Easy to store."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some users reported it stopped working after a few uses.",
+            "entity_b": ""
+        }
+    },
+    "Power": {
+        "comm": "Cord can detach easily.",
+        "cont": {
+            "entity_a": "Causing frustration with maintaining power.",
+            "entity_b": "Cord connection is not reliable, can disconnect easily."
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "Alignment": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The fence is about 1/32\" out of parallel to the blade, even after adjusting. The plate cutter is not parallel to the fence. The adjustable plate was 1/16+ out of square and milled with a radius. Overall alignment was off with some slop.",
+            "entity_b": ""
+        }
+    },
+    "Ease of Use": {
+        "comm": "The tool is easy to set up and use. The tool is light weight and easy to maneuver. The tool is easy to adjust and use. The tool is light and easy to use. The tool cuts slightly below the exact center on 3/4 plywood. The tool is extremely accurate and very light.",
+        "cont": {
+            "entity_a": "The tool is very easy to use. The tool is easy to use and accurate with the first couple cuts. The tool is lightweight and easy to maneuver. The tool is light weight, making it easy to maneuver and hold in place. The tool is easy to set up and cuts perfect slots. The tool works great for joining materials. The tool makes accurate cuts and has a high-quality design. The tool is easy to use, makes clean cuts, and works quietly. The tool has a strong motor and accurate cuts. The tool is easy to adjust and use. The tool is light and easy to use. The tool cuts slightly below the exact center on 3/4 plywood. The tool is extremely accurate and very light.",
+            "entity_b": "The tool is light and easy to use with one hand. The tool cuts quickly with little force required. The tool is well made and designed. The tool is not loud. The tool works well with the exception of the dust collection bag. The tool is light weight, making it easy to maneuver and hold in place."
+        }
+    },
+    "Dust Collection": {
+        "comm": "The dust collection is an issue as the chute clogs easily.",
+        "cont": {
+            "entity_a": "The exhaust port clogs easily. Sawdust tends to get stuck in the port going to the collection bag. The dust bag collects shavings well. The dust exhaust clogs.",
+            "entity_b": "The dust bag doesn't work well and causes clogs. The dust collection is ineffective."
+        }
+    },
+    "Cut Quality": {
+        "comm": "The tool makes accurate cuts.",
+        "cont": {
+            "entity_a": "Cut is too wide for the biscuit by more than 1/32\". The blade itself is warped. The cutter blade and action are smooth. The tool makes accurate cuts and has a high-quality design. The tool is easy to use, makes clean cuts, and works quietly. The tool has a strong motor and accurate cuts. The tool works smoothly on Oak and Pine.",
+            "entity_b": "The tool cuts biscuit joints well. The tool cuts quickly with little force required. The tool has an abundance of small details that add confidence to the cut."
+        }
+    },
+    "Quality": {
+        "comm": "The tool is well made.",
+        "cont": {
+            "entity_a": "The Porter Cable unit allows much better tracking and precision. The engine is strong and never bogs down. The machine has excellent quality and good accuracy. The tool is solid and well made, easy to operate. The quality seems to be there. The machine is accurate, easy to use, and has rack and pinion adjustment. The tool is well made and very easy to use.",
+            "entity_b": "The tool is very high quality and works as intended."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The price is right.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The tool does not come with a hard case as pictured; it comes with a soft-sided bag.",
+            "entity_b": ""
+        }
+    },
+    "Origin": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The tool is made in Mexico.",
+            "entity_b": "The tool is made by Porter Cable."
+        }
+    }
+}

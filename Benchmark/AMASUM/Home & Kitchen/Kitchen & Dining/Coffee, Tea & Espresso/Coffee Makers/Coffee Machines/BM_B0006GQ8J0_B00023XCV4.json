@@ -1,0 +1,79 @@
+{
+    "Appearance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The coffeepot is attractive.",
+            "entity_b": "The percolator is sleek and clean."
+        }
+    },
+    "Taste": {
+        "comm": "The coffee tastes good.",
+        "cont": {
+            "entity_a": "Minimal grounds left in the bottom.",
+            "entity_b": "Coffee grounds often end up in the brewed coffee, even with filters."
+        }
+    },
+    "Ease of Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pot is easy to use and clean, with the interior cup level feature being particularly useful.",
+            "entity_b": "The percolator is easy to clean, but the cord connection can become moist and contaminated."
+        }
+    },
+    "Brewing": {
+        "comm": "Brews quickly.",
+        "cont": {
+            "entity_a": "It brews 55 cups of coffee or less in a reasonable amount of time.",
+            "entity_b": "The percolator makes great coffee and keeps it hot for hours."
+        }
+    },
+    "Leaking": {
+        "comm": "Coffee leaks.",
+        "cont": {
+            "entity_a": "Coffee leaks during brewing, causing a mess. The pot leaks through the base and near the handle, even after minimal use.",
+            "entity_b": ""
+        }
+    },
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pot is made of thin aluminum, making it prone to corrosion and burns if touched.",
+            "entity_b": "The basket and spreader are made of cheap material, leading to grounds in the coffee."
+        }
+    },
+    "Durability": {
+        "comm": "Durability is an issue, with some units breaking down after a few months.",
+        "cont": {
+            "entity_a": "Durability is inconsistent, with some units leaking after a few months.",
+            "entity_b": ""
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pot can be noisy when starting to perk.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The price is considered high for the quality and durability offered.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "While it works well initially, issues such as leaking and broken parts occur over time.",
+            "entity_b": "The percolator lacks an on/off button and automatic shut-off feature. The product often trips GFCI outlets, indicating possible electrical issues."
+        }
+    },
+    "Cord": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The power cord is too short."
+        }
+    }
+}

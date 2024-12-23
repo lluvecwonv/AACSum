@@ -1,0 +1,86 @@
+{
+    "Technical Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Inadequate with long wait times and ineffective assistance.",
+            "entity_b": "Excellent customer support from Netgear."
+        }
+    },
+    "Reboot": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router frequently reboots and drops wireless connections. Frequent disconnections require router rebooting, unresolved by firmware updates or network card replacements. Handles ISP's PADT packets by disconnecting and rebooting, causing brief connectivity loss. Router frequently reboots or hangs, requiring a reset.",
+            "entity_b": "May require daily reboots for optimal performance."
+        }
+    },
+    "Wireless Configuration": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router can only configure wireless channel 6. Wireless link indicator LEDs do not function as described in the manual. Works well with mixed 802.11b and 802.11g networks.",
+            "entity_b": "WPA configuration is easy, but WEP configuration is challenging."
+        }
+    },
+    "Documentation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Advanced features are poorly documented without sample configurations. Documentation is comprehensive for both novice and experienced users.",
+            "entity_b": ""
+        }
+    },
+    "Signal Strength": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Signal strength and quality are inconsistent. Effective as an access point with strong signal throughout a two-story house. Provides good range and speed with strong WPA security. Easy to set up with a strong signal through two floors. Some users report poor wireless range and frequent disconnections.",
+            "entity_b": "Signal strength reduces with walls between the router and devices."
+        }
+    },
+    "Speed": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The product description is misleading regarding 108Mbps speed, achievable only with specific D-Link products. Stable connection with a consistent speed of 108Mbps using a compatible wireless card.",
+            "entity_b": "Setup is easy with fast download speeds for existing wireless PCs."
+        }
+    },
+    "Setup": {
+        "comm": "Easy to set up.",
+        "cont": {
+            "entity_a": "Easy to set up with simple installation instructions. User-friendly software with an easy connection wizard. Easy to set up with manual configuration for advanced features.",
+            "entity_b": "Setup is easy but issues with DNS passthrough may occur. Difficult setup for non-IT users."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Works well as a wireless adapter with compatible devices. Compatible with VPN and provides better range than older models.",
+            "entity_b": "Does not work with DSL modems. Cannot be used as a regular DSL router."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Reliable with no issues for years of use.",
+            "entity_b": "Router stopped working after a few months of use."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Includes a slim zippered case for portability. Lightweight and good for travel use in hotel rooms."
+        }
+    },
+    "Temperature": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router gets hot and should not be covered."
+        }
+    },
+    "Hardware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Firmware upgrades can be problematic, requiring multiple restarts.",
+            "entity_b": "Router received was broken and needed replacement."
+        }
+    }
+}

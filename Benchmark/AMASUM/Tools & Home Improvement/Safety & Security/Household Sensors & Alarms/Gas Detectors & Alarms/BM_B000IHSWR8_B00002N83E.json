@@ -1,0 +1,79 @@
+{
+    "Price": {
+        "comm": "Priced lower than competing models.",
+        "cont": {
+            "entity_a": "Cheaper than big-box store kits.",
+            "entity_b": "Reasonable price."
+        }
+    },
+    "Instructions": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lack of instructions was a significant issue, leading to testing errors. Some kits were missing instructions, requiring online searches. Easy to use with clear directions when instructions are available.",
+            "entity_b": "Instructions can be unclear, leading to potential errors. Instructions were clear, and results arrived promptly."
+        }
+    },
+    "Components": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The kit only contained one pack instead of the two mentioned.",
+            "entity_b": "Some kits lacked necessary components, making them unusable."
+        }
+    },
+    "Ease of Use": {
+        "comm": "Easy to use.",
+        "cont": {
+            "entity_a": "The kit is easy to order and use, with fast result turnaround.",
+            "entity_b": "The kit is easy to use but requires careful adherence to instructions."
+        }
+    },
+    "Results": {
+        "comm": "Results were consistent with professional testing.",
+        "cont": {
+            "entity_a": "Results were quick and detailed. Test results were consistent with professional service results. Test kit worked as advertised and results were emailed quickly.",
+            "entity_b": "Results are detailed and emailed quickly when expedited shipping is used. Test results can vary greatly between tests. Some tests returned inconclusive results due to shipping issues."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service was difficult to reach. The lab was helpful in resolving issues with missing results.",
+            "entity_b": "Customer service is sometimes unresponsive."
+        }
+    },
+    "Shipping": {
+        "comm": "Shipping costs are additional.",
+        "cont": {
+            "entity_a": "No extra fees beyond shipping to the lab. Shipping cost can exceed the cost of the test kit itself.",
+            "entity_b": "Test kits often do not include prepaid return envelopes, adding to cost."
+        }
+    },
+    "Accuracy": {
+        "comm": "",
+        "cont": {
+            "entity_a": "High margin of error may necessitate retesting for borderline results. Consumer Reports indicated low accuracy and reliability.",
+            "entity_b": "Test kits can be inaccurate, as indicated by inconsistent results."
+        }
+    },
+    "Reports": {
+        "comm": "Reports are detailed.",
+        "cont": {
+            "entity_a": "Reports are detailed and include future instructions.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "User errors often result in invalid tests."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The kit is misleading about included costs and fees."
+        }
+    }
+}

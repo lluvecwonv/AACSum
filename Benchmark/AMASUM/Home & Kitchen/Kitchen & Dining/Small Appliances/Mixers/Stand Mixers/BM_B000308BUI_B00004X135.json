@@ -1,0 +1,65 @@
+{
+    "Motor": {
+        "comm": "Motor burned out after limited use.",
+        "cont": {
+            "entity_a": "Motor burned out after two uses of chocolate chip cookie dough. Replacement motor also started smoking and quit after only two uses. Electric motor broke down during light mixing. Struggled with bread dough, started smoking while kneading. The motor burnt out within one year.",
+            "entity_b": "Motor burned out after first use. Motor gets hot quickly. Motor gets weak with cold ice cream."
+        }
+    },
+    "Construction": {
+        "comm": "Plastic construction and weak motor.",
+        "cont": {
+            "entity_a": "The machine is sturdy and effective. Metal of the hub on the wire mixer is of poor quality, deteriorating and leaving a black powder.",
+            "entity_b": "Mixer is plastic, not metal as described. Mixer is cheaply constructed and did not last long."
+        }
+    },
+    "Mixing": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The mixer is powerful and quiet. Flat beater mixes as well as Kitchen Aid mixer. The kneading attachment works well for dough. Works well for making cakes and doesn't move around when in use. The mixer is quiet and handles 8 cups of flour.",
+            "entity_b": "Machine is not made for mixing shakes. Does not mix shakes consistently, leaving lumps. Not suitable for thick shakes. Under-powered for thick shakes. Mixer does not mix well, leaving lumps. Mixer is not a blender, suitable for liquids only."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The mixer is solidly-built and decorative. The machine does not take up a lot of counter space. The mixer is heavy to move around.",
+            "entity_b": ""
+        }
+    },
+    "Ease_of_Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No need to buy a more expensive mixer; this one is sufficient. Pouring shield is convenient for adding flour. The product is easy to move and doesn't weigh much. The mixer is easy to use and clean.",
+            "entity_b": "Cord is very short."
+        }
+    },
+    "Attachments": {
+        "comm": "",
+        "cont": {
+            "entity_a": "No capacity for food attachments.",
+            "entity_b": ""
+        }
+    },
+    "Guard": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The plastic splash guard moves and doesn't stay in place. Plastic splash guard gets in the way when tilting the head. The plastic splash guard is cumbersome.",
+            "entity_b": "Plastic tip on mixer rod may not hold up. Plastic mixer blades do not mix hard ice cream well. Plastic spindle serves no purpose."
+        }
+    },
+    "Speed_Control": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Difficult to change speed settings, and it doesn't mix the bottom of the bowl well. Speed control could be improved. Speed control lever is stiff to move.",
+            "entity_b": ""
+        }
+    },
+    "Bowl": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The beater does not reach the bottom and sides of the bowl effectively. Difficult to reach and scrape the sides of the bowl while mixing. The bowl kept getting stuck on the base.",
+            "entity_b": ""
+        }
+    }
+}

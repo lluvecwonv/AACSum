@@ -1,0 +1,86 @@
+{
+    "Sharpness": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Tack sharp with brilliant color. Super-sharp with built-in camera stabilization for low light use. Very sharp from f1.8, with top-notch image quality. Outstanding bokeh and sharpness. Superior to other Sony lenses in brightness and sharpness.",
+            "entity_b": "Not as sharp at 28mm, better at 50mm-80mm. Soft at f/3.5 and f/18+, best at f/11."
+        }
+    },
+    "Color": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Brilliant color. Typical Zeiss colors and microcontrast.",
+            "entity_b": "Good color reproduction without tint."
+        }
+    },
+    "Bokeh": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Gorgeous bokeh. Produces breathtaking results with creamy bokeh. Outstanding bokeh and sharpness.",
+            "entity_b": ""
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Heavy and not suitable as a walk-around lens. Heavy, best used with a tripod.",
+            "entity_b": ""
+        }
+    },
+    "Build": {
+        "comm": "Well-built.",
+        "cont": {
+            "entity_a": "Well-built and comfortable to handle.",
+            "entity_b": "Plastic build but looks good on the camera."
+        }
+    },
+    "Autofocus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Fast and accurate autofocus.",
+            "entity_b": "Fast autofocus. AF is a bit slow."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "High price tag, but worth the investment.",
+            "entity_b": "Great value for the price. Excellent price point."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Ideal for portrait work and astrophotography.",
+            "entity_b": "Not a professional lens but perfect for everyday amateur use. Great all-purpose lens for general use."
+        }
+    },
+    "WeatherSealing": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lacks weather sealing.",
+            "entity_b": ""
+        }
+    },
+    "Comparison": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Superior to other Sony lenses in brightness and sharpness. Considered the best lens Sony makes.",
+            "entity_b": ""
+        }
+    },
+    "FocalRange": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Nice focal range of 28-80mm, suitable for portraits and landscapes."
+        }
+    },
+    "UseCase": {
+        "comm": "Good for portraits.",
+        "cont": {
+            "entity_a": "Ideal for portrait work and astrophotography.",
+            "entity_b": "Good for portraits and landscapes."
+        }
+    }
+}

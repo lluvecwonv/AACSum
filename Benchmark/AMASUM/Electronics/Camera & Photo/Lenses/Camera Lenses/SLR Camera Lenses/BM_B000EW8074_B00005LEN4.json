@@ -1,0 +1,65 @@
+{
+    "Performance": {
+        "comm": "Fast and accurate focus.",
+        "cont": {
+            "entity_a": "Excellent low light performance across all focal ranges with image stabilization. Effective image stabilization, suitable for low-light photography.",
+            "entity_b": "Very sharp images, suitable for low light photography."
+        }
+    },
+    "Versatility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Covers wide angle to mid-range telephoto, making it versatile for various shooting situations. Highly versatile, suitable for various types of photography.",
+            "entity_b": "Performs better on crop sensors than full frame. Compatible with many Nikon models, but not all."
+        }
+    },
+    "Focus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Auto focus is fast and accurate.",
+            "entity_b": "Requires manual focus on cameras without a focusing motor. Manual focus required on some models, but still a great lens."
+        }
+    },
+    "Cost": {
+        "comm": "",
+        "cont": {
+            "entity_a": "High cost and weight are drawbacks.",
+            "entity_b": "Great price value, especially for crop sensor cameras. Great lens for the price with good optical quality."
+        }
+    },
+    "Build": {
+        "comm": "Solid build quality.",
+        "cont": {
+            "entity_a": "Larger and heavier than kit lens. Large and heavy, but with a solid feel.",
+            "entity_b": "Built like a tank, but lightweight due to plastic construction. Plastic build but excellent optical performance."
+        }
+    },
+    "ImageQuality": {
+        "comm": "Sharp images with beautiful bokeh.",
+        "cont": {
+            "entity_a": "Sharp images with good color and contrast. Excellent image quality, comparable to more expensive lenses.",
+            "entity_b": "Incredibly sharp photographs with great bokeh. Produces beautiful blurred background effects."
+        }
+    },
+    "Aperture": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Constant f/2.8 throughout the zoom range.",
+            "entity_b": "Soft focus at lower apertures on full frame."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not weather sealed, but dust does not affect image quality. Loud image stabilizer due to older system.",
+            "entity_b": "Compact and lightweight, making it a great walk-around lens."
+        }
+    },
+    "PhotographyType": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great for indoor and portrait photography with wide angle capabilities. Well-suited for both photo and video use.",
+            "entity_b": "Excellent for portrait photography with a shallow depth of field."
+        }
+    }
+}

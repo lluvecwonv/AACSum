@@ -1,0 +1,65 @@
+{
+    "Cutting": {
+        "comm": "Cuts wire well.",
+        "cont": {
+            "entity_a": "Great for cutting heavy wire artificial floral stems. Great tool for cutting stainless pins. Cuts wire well unless it's hot. The jaws don't line up well, affecting cutting performance.",
+            "entity_b": "Intended for cutting jacketed copper and aluminum wire. Sharp teeth allow fast, neat terminal bends."
+        }
+    },
+    "Durability": {
+        "comm": "Durable.",
+        "cont": {
+            "entity_a": "No dents or chips after cutting a tap con. Quality cutters that last a long time.",
+            "entity_b": "Heavy-duty and lasts longer than other brands."
+        }
+    },
+    "Leverage": {
+        "comm": "Long handles provide great leverage.",
+        "cont": {
+            "entity_a": "Wide mouth and strong cutting blades provide good leverage. Longer handles offer extra leverage.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Ergonomic design with a sharper point for tight places. Curved head keeps hands safe.",
+            "entity_b": "Comfortable rubber handle grip. Comfortable grip with aggressive knurling inside the jaws."
+        }
+    },
+    "Rust": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Rusts after exposure to water.",
+            "entity_b": "Rust present in package upon arrival."
+        }
+    },
+    "Quality": {
+        "comm": "Made in the USA.",
+        "cont": {
+            "entity_a": "Top quality.",
+            "entity_b": "Rugged and reliable."
+        }
+    },
+    "Maintenance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Hinge binding issue; took extra steps to open.",
+            "entity_b": "Requires oiling for maintenance. Requires some oiling and time to break in completely."
+        }
+    },
+    "Strength": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not as strong as yellow handle pair.",
+            "entity_b": "Heavy, solid, and well-made."
+        }
+    },
+    "Insulation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Not insulated."
+        }
+    }
+}

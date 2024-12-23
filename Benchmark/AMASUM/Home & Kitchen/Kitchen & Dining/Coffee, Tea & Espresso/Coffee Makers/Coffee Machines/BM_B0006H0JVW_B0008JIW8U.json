@@ -1,0 +1,93 @@
+{
+    "Ease of Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The system is easy to use.",
+            "entity_b": ""
+        }
+    },
+    "Brewing": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Makes cold brew coffee concentrate.",
+            "entity_b": "Brews enough for two cups quickly. The machine is loud during brewing."
+        }
+    },
+    "Cleanup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The filter simplifies cleanup. Filter bags are recommended for easier cleanup.",
+            "entity_b": ""
+        }
+    },
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The glass pitcher is thin and fragile.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The system doesn't come with a lid when purchased from Amazon.",
+            "entity_b": "The lid may warp over time, causing steam issues. The clock display is hard to read due to lack of backlight."
+        }
+    },
+    "Leakage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Coffee leaks during steeping due to stopper issues.",
+            "entity_b": "The decanter drips when pouring from a full pot."
+        }
+    },
+    "Concentration": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Produces a strong coffee concentrate that lasts a week.",
+            "entity_b": ""
+        }
+    },
+    "Taste": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The cold brew has low acidity and a smooth taste.",
+            "entity_b": "Produces average coffee taste."
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The glass carafe is a good size for storage.",
+            "entity_b": "The machine is small and suitable for single servings."
+        }
+    },
+    "Efficiency": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The Toddy system is more efficient than other methods for making cold brew.",
+            "entity_b": ""
+        }
+    },
+    "Cost": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Compact and cost-effective compared to Keurig."
+        }
+    },
+    "Heat Retention": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Keeps coffee warm for only an hour."
+        }
+    },
+    "Programmability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Programmable feature for delayed brewing is unreliable."
+        }
+    }
+}

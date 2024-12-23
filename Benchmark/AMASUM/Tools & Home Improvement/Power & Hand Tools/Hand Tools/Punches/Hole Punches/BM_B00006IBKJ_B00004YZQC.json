@@ -1,0 +1,79 @@
+{
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Works great for moderate size jobs, quickly and efficiently. Works well for classroom and office use, punching up to 25 sheets.",
+            "entity_b": "Punches clean holes in leather with multiple size options. Works well for occasional use, but not ideal for heavy-duty tasks."
+        }
+    },
+    "Capacity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Can punch 15+ sheets at a time without jamming, but struggles with 28 sheets.",
+            "entity_b": ""
+        }
+    },
+    "Alignment": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Consistently aligns holes for a professional look.",
+            "entity_b": "Some models have alignment issues or dull punches."
+        }
+    },
+    "Material": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Requires significant force for thicker leather. Using backing material like denim can prolong the tool's life."
+        }
+    },
+    "Ease of Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Easy to use and empty, but needs a solid edge catch near maximum capacity.",
+            "entity_b": "Easy to use with a good grip, but requires strength for thicker materials."
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Offers good value for the price, especially compared to manual punches.",
+            "entity_b": "Affordable and provides value by saving belts from being discarded."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Reliable and saves time compared to manual punches.",
+            "entity_b": ""
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not silent but effective.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durable with heavy use, but some units may have defects or wear quickly.",
+            "entity_b": "The tool is sturdy but lacks padded handles, making it hard to use for long periods. Some punches may chip or dull quickly."
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Made in the USA with good craftsmanship. Overall, well-made and effective for leather projects."
+        }
+    },
+    "Issues": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some units may arrive damaged or not as advertised.",
+            "entity_b": "Not as sharp as expected, requiring extra effort to punch holes."
+        }
+    }
+}

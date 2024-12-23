@@ -1,0 +1,72 @@
+{
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The product failed within a month and again after 8 months of minimal use. The gears are made of cheap steel that does not last. Durability is questionable, with gears wearing out after less than two years.",
+            "entity_b": ""
+        }
+    },
+    "Motor": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The motor continues to run but stops churning due to stripped gears. The ice cream maker is noisy and requires monitoring to prevent motor burnout.",
+            "entity_b": "The motor struggles in warm climates without AC."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lid does not sit flat and is difficult to lock in place. The design is simple and works fine for making vegan or non-dairy ice cream. The metal canister is thin and arrived bent.",
+            "entity_b": "Compact and portable, suitable for small families. Cool design but poor quality, with potential coolant leakage."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Product support from the manufacturer is lacking.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Produces delicious ice cream with a consistency comparable to soft serve. Ice cream freezes around the edges but not in the middle.",
+            "entity_b": "Freezes ice cream faster than older models. Soft serve consistency achieved after 20-30 minutes. Holds a freeze long enough to make a second batch."
+        }
+    },
+    "Ease of Use": {
+        "comm": "Easy to use and clean.",
+        "cont": {
+            "entity_a": "But noisy.",
+            "entity_b": "With minimal trouble involved."
+        }
+    },
+    "Capacity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Makes enough ice cream for about four people."
+        }
+    },
+    "Preparation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Requires a lot of ice and rock salt, which can be messy.",
+            "entity_b": "Requires freezing the canister and chilling the mix ahead of time. No ice or salt needed, making it quieter and more cost-effective."
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The power cord is short, requiring strategic placement.",
+            "entity_b": "Compact and portable, suitable for small families."
+        }
+    },
+    "Operation": {
+        "comm": "Operates quietly.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The top locks securely."
+        }
+    }
+}

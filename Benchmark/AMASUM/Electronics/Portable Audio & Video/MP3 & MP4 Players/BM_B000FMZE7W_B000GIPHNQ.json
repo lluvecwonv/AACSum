@@ -1,0 +1,86 @@
+{
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Zune's design is durable. Screen is bigger than the iPod Video.",
+            "entity_b": "Compact and lightweight design. Ergonomic design for easy handling."
+        }
+    },
+    "Usability": {
+        "comm": "Easy to use.",
+        "cont": {
+            "entity_a": "Easy to load music and videos. Software interface is not intuitive.",
+            "entity_b": "Easy to upload music via USB. SonicStage software is not user-friendly."
+        }
+    },
+    "Sound": {
+        "comm": "Good sound quality.",
+        "cont": {
+            "entity_a": "Music quality isn't as good as newer Zune models.",
+            "entity_b": "Sound quality is excellent with customization options."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Battery life is not as long as it originally was. Battery life is good enough for two+ movies on a single charge.",
+            "entity_b": "Battery life is excellent with quick charging."
+        }
+    },
+    "Software": {
+        "comm": "Requires software for music transfer.",
+        "cont": {
+            "entity_a": "Software is buggy at times but usable. Needs software to be recognized by PC.",
+            "entity_b": "Software limits connection to one computer. Software freezes computer occasionally."
+        }
+    },
+    "Display": {
+        "comm": "",
+        "cont": {
+            "entity_a": "First screen has a good-sized font, but others are hard to read. Screen quality is poor. Backlighting can be uneven.",
+            "entity_b": "Display is hard to read in daylight."
+        }
+    },
+    "Storage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Advertised as 30GB, but only 11.9GB is available for use. Holds up to 7500 songs and includes album art.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Does not support Windows XP Pro 64-bit systems. Does not support drag-and-drop file transfer.",
+            "entity_b": "Supports MP3 format. Converts MP3 files to ATRAC format."
+        }
+    },
+    "Accessories": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comes with a car accessory control plug. Accessories for Zune are hard to find compared to iPod.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "Durable.",
+        "cont": {
+            "entity_a": "Durable and works well after years. Durable and reliable over the years.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Physical controls can be cumbersome.",
+            "entity_b": "FM radio feature included."
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Offers good value for price.",
+            "entity_b": ""
+        }
+    }
+}

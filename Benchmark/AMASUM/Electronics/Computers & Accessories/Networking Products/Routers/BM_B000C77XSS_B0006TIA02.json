@@ -1,0 +1,79 @@
+{
+    "Range": {
+        "comm": "Great range.",
+        "cont": {
+            "entity_a": "Signal strength was excellent through multiple walls.",
+            "entity_b": "Fantastic range."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Serious incompatibility issues with some devices. Connection issues with PlayStation 3 and Cingular 8525. Intermittent problems with Toshiba Tecra M5 and Dell M700.",
+            "entity_b": "Performs well with multiple devices including gaming consoles."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router was unreliable, dropping connections frequently. Some units experienced frequent connection drops. Router stopped working after a month.",
+            "entity_b": "Extremely stable. Reliable setup with D-Link DWL-G550 wireless PCI Card. Handles many connections without slowing down."
+        }
+    },
+    "Setup": {
+        "comm": "Setup was easy.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Reliable setup with D-Link DWL-G550 wireless PCI Card."
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Firmware update solved initial setup problems. Firmware upgrade was necessary to fix connection drops. Firmware update was necessary for stable wireless operation. Firmware was buggy.",
+            "entity_b": "Requires firmware update for optimal Xbox Live performance. Works well with X-Box Live and Nintendo Wi-Fi after firmware upgrade."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service was unhelpful and call was dropped. Customer support was generally helpful but varied in expertise.",
+            "entity_b": "Tech support was helpful in resolving initial setup issues."
+        }
+    },
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Improved signal and performance significantly with SRX400 enhanced cards. Router increased speed significantly with compatible PCI card.",
+            "entity_b": "Wireless signal strength is strong and stable. Fast and reliable with a solid signal."
+        }
+    },
+    "Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router had great features.",
+            "entity_b": "Router interface is user-friendly with great features. Offers advanced settings and supports VIOP nicely."
+        }
+    },
+    "Security": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Supports strong WiFi encryption for secure connections."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Offers gigabit LAN speeds and stable wireless connection."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Overheating issues when stacked under another device."
+        }
+    }
+}

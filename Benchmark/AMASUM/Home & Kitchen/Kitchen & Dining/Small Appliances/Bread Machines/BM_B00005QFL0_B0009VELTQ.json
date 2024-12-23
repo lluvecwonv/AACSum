@@ -1,0 +1,51 @@
+{
+    "Heating": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Heats ingredients to the correct temperature.",
+            "entity_b": "Burns the bottom and leaves the inside undercooked."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Adds yeast from the yeast holder. Produces well-risen and thoroughly baked bread when functioning. Moves during kneading, which can lead to damage if not monitored. Loud knocking sound during the dough cycle. Easy operation with a timer feature for overnight baking. Larger capacity and includes a yeast dispenser. Requires careful ingredient measurement for optimal results. Produces good quality bread with a variety of settings. Lack of a cancel or clear button for errors.",
+            "entity_b": "Convection feature can cause over-browning. Requires manual intervention for optimal mixing. Produces great bread when functioning properly. Easy to operate with a wide variety of settings. Consistently produces good gluten-free bread. Produces consistently good bread with a convection oven. Dough cycle is reliable for preparing dough."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Breaks down easily, with some units failing within a year. Durable, with some units lasting over a decade. Issues with kneading blade durability.",
+            "entity_b": "Some units have defects and poor customer service. Issues with paddle and pan durability over time."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Poor customer service, with high costs for support.",
+            "entity_b": "Some units have defects and poor customer service."
+        }
+    },
+    "Instructions": {
+        "comm": "",
+        "cont": {
+            "entity_a": "User instructions are crucial for proper operation.",
+            "entity_b": "Recipe book is helpful with times and instructions."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Attractive design with a brushed stainless steel finish."
+        }
+    },
+    "Maintenance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Easy to clean and maintain."
+        }
+    }
+}

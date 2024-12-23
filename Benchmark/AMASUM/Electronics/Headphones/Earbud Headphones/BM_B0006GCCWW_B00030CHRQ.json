@@ -1,0 +1,72 @@
+{
+    "Sound": {
+        "comm": "Sound quality is excellent.",
+        "cont": {
+            "entity_a": "Incredible sound quality, better than Bose earphones. Amazing, slightly warmer than SR80i's. Very clear and accurate sound. Sound quality is great, best with rock or folk music. Sound quality is pretty good, but not the best in its price range. Sound is fantastic, clear and distinct. Smooth, detailed sound. Crisp and extremely clear sound. Magnificent sound quality. Every note and instrument is clear and distinct. Vocals are rich and natural with no distortion. Detail in sound is exceptional. Sound depth and overall sound quality is unmatched in this price range. Presents music in an up-close fashion. Sound quality is superb after 10+ hours of use.",
+            "entity_b": "Bass response is incredible. High frequencies are crisp and clear. Earbuds can be turned up to concert volume levels. Great highs and mids with decent bass. Sound quality was amazing until a silicone tip was lost. Sound quality is a major upgrade from stock iPod buds. Sound quality is great. Bass is deeper than expected. Sound quality is excellent but reliability is terrible. Instruments sound clear and distinct. Sound is excellent with deep quality. Sound quality is great, but cord length is an issue. Sound quality is great for the price."
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable.",
+        "cont": {
+            "entity_a": "Can be painful after an hour of use, especially for glasses wearers. Ear pads are not the most comfortable. Cheap foam is not comfortable. Comfort is the biggest downside. Comfort is a common issue for extended use.",
+            "entity_b": "Comfortable fit with three different sized earpieces included. Comfortable enough to listen while sleeping. Very comfortable and good for workout. Comfortable fit with small, medium, and large adapters. Perfect fit and stay in ears well."
+        }
+    },
+    "Cable": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cable is too thick and heavy.",
+            "entity_b": "Short cord with a 3ft extension. Cord design is asymmetrical and too short. Cord length is a common complaint. Cord design is awkward. Cord design is a drawback. Cord has a tendency to develop a putty-like consistency over time. Cord system is annoying. Cord design is not an improvement over traditional models. Cord system is awkward."
+        }
+    },
+    "Isolation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Noise isolation is non-existent. Semi-open design not great for noisy environments.",
+            "entity_b": "Excellent isolation. Noise blocking is excellent. Reduces outside noise significantly."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Retro style is distinct and good.",
+            "entity_b": "Cord design is more for brand display than comfort."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Earpiece falling off the mounting stalk.",
+            "entity_b": "Rubber coating on wires breaks down quickly. Reliability is an issue with cords fraying."
+        }
+    },
+    "Adapter": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Comes with a 1/4\" plug, requires an adapter for 1/8\". Not suitable for laptops without an adapter.",
+            "entity_b": ""
+        }
+    },
+    "Fit": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Too tight for a normal head shape after 6 months.",
+            "entity_b": "Must be in the ear canal to sound good."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Well worth the price.",
+            "entity_b": "Price is reasonable for the sound quality."
+        }
+    },
+    "Usage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Excellent for mixing, mastering, and production of audio.",
+            "entity_b": "Great for gym use with a short cord and armband. Great for frequent plane rides. Great for use with an iPod."
+        }
+    }
+}

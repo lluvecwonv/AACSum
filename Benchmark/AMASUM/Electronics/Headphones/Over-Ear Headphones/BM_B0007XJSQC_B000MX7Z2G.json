@@ -1,0 +1,58 @@
+{
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Three out of four headphones purchased broke apart. Durable for the price, lasting several years with daily use. The plug can break easily, requiring careful handling.",
+            "entity_b": ""
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The headphones are lightweight and comfortable for long-term use. Comfortable with good sound quality, but the left ear cup is uncomfortable for some users. The ear cups are shallow, causing discomfort over long periods.",
+            "entity_b": "Most comfortable clip-on ear headphones, more comfortable than earbuds. Clip-on attachments are secure and comfortable. Earpieces pinch after prolonged use. Fit is too loose, affecting sound quality."
+        }
+    },
+    "Sound Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sound quality fades over time, but the old pair was sturdier. Sound quality is fantastic for the price, with clear highs and mid-range. The sound quality is serviceable for the price, though the bass is not strong. Sound quality is clear, with a good balance of highs, mids, and lows. Good sound quality for the price, but the bass can sound boxy. Sound quality is good, but the headphones require more power to reach high volumes. Sound quality is decent for the price, but the headphones are not very loud.",
+            "entity_b": "Sound is clearer and louder, but treble is more prominent than bass. Bass is exceptionally weak, requiring equalizer adjustments. Audio quality is nice, but bass response is lacking."
+        }
+    },
+    "Noise Isolation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not noise-canceling, but effectively drown out surrounding noise. Sound isolation is decent, but not great for blocking out background noise. The headphones are lightweight and block out a lot of outside noise.",
+            "entity_b": ""
+        }
+    },
+    "Cable": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The headphones have a long cable, which can be cumbersome in certain situations. The headphones have a very long cord, which can be cumbersome.",
+            "entity_b": "Retractable cord is a nice feature, though cables are thin. Retractable mechanism works well, preventing cord tangling. Only one wire is retractable, limiting convenience."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The band is smaller, plastic is delicate.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sound randomly shorts out when plugged into a PC. The headphones are not ideal for audio editing but are suitable for casual listening.",
+            "entity_b": ""
+        }
+    },
+    "Replacement Parts": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Replacement pads for older HD201s are sturdier than the new ones received.",
+            "entity_b": ""
+        }
+    }
+}

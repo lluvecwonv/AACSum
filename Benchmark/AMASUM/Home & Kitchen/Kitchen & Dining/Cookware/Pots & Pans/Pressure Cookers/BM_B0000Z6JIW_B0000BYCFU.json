@@ -1,0 +1,44 @@
+{
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The pressure cooker developed black oxidation inside the pot and lid after first use, making it unusable. The metal thickness, especially the lid, seems very thin. Stainless steel construction rusts after first use.",
+            "entity_b": "The bottom warped after a few uses, making it unusable. The canner is sturdy but experiences discoloration due to aluminum construction."
+        }
+    },
+    "Safety": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lid pin flew off, causing a dangerous steam release. The lid's locking mechanism can be tricky and unsafe if not properly aligned.",
+            "entity_b": "The canner has a solid build and includes safety features to prevent accidental opening."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The lid is difficult to open and close due to poor design. The lid is hard to lock and unlock. The lid gets very tight and difficult to open after cooking. The cooker is heavy and difficult to handle for older individuals.",
+            "entity_b": "The lid does not fit properly, making it unreliable for canning. The lid can be difficult to close securely. The canner is large and heavy, making it cumbersome for some users."
+        }
+    },
+    "Maintenance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Handles constantly loosen and require re-tightening. The cooker is difficult to clean as food sticks to the bottom. Handles need frequent tightening, and customer service is unresponsive. The cooker is versatile, fitting multiple cooking methods, but requires careful maintenance.",
+            "entity_b": "The pressure gauge stopped working after a short period, risking over-pressurization. The pressure gauge is prone to issues, and customer service is not helpful."
+        }
+    },
+    "Pressure": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Inconsistent pressure, making it unreliable for canning or mycelium inoculations.",
+            "entity_b": "The pressure seal valve requires extra attention to build pressure. The pressure gauge and regulator require careful monitoring."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The cooker works well for stews, soups, and tenderizing meat quickly. The cooker has a nice pressure release feature and a better handle arrangement for storage.",
+            "entity_b": "The canner is easy to use and beginner-friendly with clear instructions. The canner is suitable for glass top ranges. Canning performance is consistent, producing well-sealed jars. The canner is not suitable for high heat from propane burners. The canner is effective for large batches and has replaceable parts for maintenance."
+        }
+    }
+}

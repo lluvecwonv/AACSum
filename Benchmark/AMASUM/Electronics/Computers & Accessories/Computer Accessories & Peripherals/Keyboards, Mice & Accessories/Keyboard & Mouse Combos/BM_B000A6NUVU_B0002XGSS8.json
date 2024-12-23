@@ -1,0 +1,65 @@
+{
+    "Keyboard": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Form is ergonomic and easy on the hands. Light touch and white keys that are easy to see in the dark. Five configurable hotkeys and dedicated ones for mail and internet. Misses every 3rd or 4th letter typed. Space bar broke after 4 weeks of use. Transparent keys that are hard to read under overhead lights. Not Apple compliant in key layout and function.",
+            "entity_b": "Detachable keypad is a great feature for limited desk space. Keys have a great feel, but the '000' key placement is awkward. Quiet with a nice feel. Spacebar sticks, making it difficult to use. Sometimes doesn't recognize key presses."
+        }
+    },
+    "Mouse": {
+        "comm": "Has a light touch.",
+        "cont": {
+            "entity_a": "Has a magnification feature. Hard to control and has battery issues. Left button only works part of the time. Feels solid in hand but has RF syncing issues. Precise and quick with a magnification button.",
+            "entity_b": "Small and may be uncomfortable for larger hands. Has a light, shabby feel compared to other models. Doesn't track well on certain surfaces."
+        }
+    },
+    "Installation": {
+        "comm": "Installation is simple.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Easy setup and installation."
+        }
+    },
+    "Wireless": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Decent wireless range and great mouse response. Often lose wireless connectivity. Wireless, eliminating wires.",
+            "entity_b": "Wireless device does not work well with PS/2 KVM switches."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Difficulties contacting Microsoft technical support.",
+            "entity_b": ""
+        }
+    },
+    "Build Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Build quality is good, but lacks Mac-specific keys.",
+            "entity_b": ""
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Mouse and keyboard consume batteries quickly.",
+            "entity_b": "Mouse and number pad have power switches to conserve battery life. MediaPad consumes batteries quickly and creaks."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Bluetooth dongle sometimes not recognized by Windows."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Spacebar design is flawed and often locks up.",
+            "entity_b": "Num pad doubles as a calculator with a clock and temperature readout."
+        }
+    }
+}

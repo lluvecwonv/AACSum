@@ -1,0 +1,65 @@
+{
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with glasses and have intuitive, useful features.",
+            "entity_b": ""
+        }
+    },
+    "Sound": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Out of the box, they're too bassy and the treble is muted; require equalizer adjustments for better sound. High impedance requires turning them up quite loud for the best sound reproduction. Light, easy to carry, and have a nice sound. Sound quality is not as good as expected for the price. Too much bass blocks out highs, not ideal for classical music. Good bass for rap/pop music. Sound quality is good, comparable to higher-end models. Sound is clear and well balanced. Sound quality is better than factory smartphone headphones. Sound is rich, round, and smooth, lacking brilliance of expensive headphones. Sound is great for jazz music, with good bass response. Sound is amazing for the price with impressive bass. Sound quality is fantastic for this style of headphone. Sound quality is good, with clear vocals and solid bass. Sound quality is rich and dynamic with good bass and clear highs.",
+            "entity_b": "Durable and sound great over time. Wonderful sound for daily use with computers. Good sound quality but not as quiet as more expensive models. Audio quality is okay but not exceptional. Sound is good but not as effective as higher-end models. Sound reproduction is good, but noise cancellation can cause whooshing sound in windy conditions. Sound is good but not as effective as higher-end models. Good sound quality for the price. Sound quality is satisfactory for general use. Sound quality is good, but noise cancellation is minimal. Good sound quality for the price. Good sound quality and noise reduction for the price. Sound quality is good, but noise cancellation is not very effective. Good sound quality but uncomfortable for long periods. Sound quality is good for the price, but noise cancellation is minimal."
+        }
+    },
+    "Comfort": {
+        "comm": "",
+        "cont": {
+            "entity_a": "They deliver modest performance and aren't very comfortable. Comfortable for long periods, even compared to expensive models.",
+            "entity_b": "Comfortable for short-term wear but not long flights. Comfortable for a couple of hours. Comfortable but bulky compared to other models. Comfortable for extended use. Comfortable for short periods but not for extended wear. Comfortable but not for long-term use."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Metal strips can pull hairs and they may fall off if you bend over. Fragile feel but look good and sit lightly on the ears. Lightweight, stylish, and suitable for closed environments. Retro design, light, and have a lifetime warranty.",
+            "entity_b": "Adjustability gets loose, causing earpieces to flop. Battery compartment design is inconvenient. Not as compact as expected for travel."
+        }
+    },
+    "Value": {
+        "comm": "Great value for the price.",
+        "cont": {
+            "entity_a": "Not worth the current $40 price point. Considered great value and must-have for audiophiles. Great value for the price, especially with warranty.",
+            "entity_b": "Good value for the price, especially for travel."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Durability issues with cord and plug. Wiring stiffens and kinks over time, with better build quality in the Anniversary Edition. Thin and twisty cable is less durable.",
+            "entity_b": "Durable and have a long battery life. Foam ear pads disintegrate over time."
+        }
+    },
+    "Noise Cancellation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not a noise-cancelling or wireless set, focusing on sound reproduction.",
+            "entity_b": "Noise cancellation is not very effective, more of a white noise hiss. Noise cancellation works well in certain environments like airplanes. Noise cancellation function is minimal in certain environments. Good for reducing low-frequency noises like engine hum. Effective in blocking out some background noise. Noise cancellation is not very effective compared to more expensive models. Noise cancellation is not very strong, adds background hum. Noise cancellation feature is not very strong."
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Light, easy to carry, and have a nice sound. Great for travel, fold up nicely, and easy to carry. Comfortable, fold up small, and deliver a powerful sound.",
+            "entity_b": "Not as compact as expected for travel."
+        }
+    },
+    "Environment": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great for hearing ambient noise in caregiver situations. Not ideal for external environments due to semi-open design. Open-back design is not suitable for noisy environments. Provide an amazing sound stage for Oculus Quest use.",
+            "entity_b": ""
+        }
+    }
+}

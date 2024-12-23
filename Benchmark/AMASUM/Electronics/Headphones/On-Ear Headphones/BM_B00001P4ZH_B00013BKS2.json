@@ -1,0 +1,51 @@
+{
+    "Compatibility": {
+        "comm": "Comfortable.",
+        "cont": {
+            "entity_a": "Compatible with glasses and has intuitive, useful features.",
+            "entity_b": "Comfortable and lighter than older models."
+        }
+    },
+    "Sound": {
+        "comm": "Sound quality is good.",
+        "cont": {
+            "entity_a": "Out of the box, they are too bassy and the treble is muted; boosting treble and lowering bass improves sound. High impedance requires high volume for best sound reproduction. Sound quality is not worth the $40 price point. Light, easy to carry, and have a nice sound. Sound is muffled with no detectable bass. Great sound quality, surpassing expectations. Too much bass for classical music, better suited for rap/pop. Sound quality is very good with solid bass, transparent mid-range, and crisp highs. Volume has to be near max on a phone compared to other headphones.",
+            "entity_b": "Clearer sounding than other headphones near the $29.95 price. Impressive bass and sound good through all frequencies. Sound quality is great, especially for critical listening. Sound is satisfactory, but ear pads may degrade over time. Sound quality is good, but plastic components are fragile. Outstanding sound but somewhat flimsy construction. Good sound quality but lacks full dynamic range. Great noise cancellation and sound quality."
+        }
+    },
+    "Construction": {
+        "comm": "Durability is poor.",
+        "cont": {
+            "entity_a": "Metal strips can pull hairs out and headphones may fall off when bending over. Feel fragile but look good and sit lightly on the ears. Not ideal for external environments due to semi-open design. The hook for storing headphones is uncomfortable and needs adjustment. Adjustable size and tension, but may still cause discomfort. Good for those who wear glasses as they do not put pressure on frames.",
+            "entity_b": "Cheap plastic construction prone to breaking. Build quality issues with the headband and ear cups breaking. Comfortable for extended wear but prone to breaking."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sound quality is not worth the $40 price point.",
+            "entity_b": "Clearer sounding than other headphones near the $29.95 price."
+        }
+    },
+    "Noise Cancellation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Great passive noise canceling with tight seal around ears."
+        }
+    },
+    "Warranty": {
+        "comm": "Lifetime warranty.",
+        "cont": {
+            "entity_a": "Customer service is superb.",
+            "entity_b": "Replacement process can be inconvenient."
+        }
+    },
+    "Portability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Portability is good as they fold up and come with a carrying pouch.",
+            "entity_b": ""
+        }
+    }
+}

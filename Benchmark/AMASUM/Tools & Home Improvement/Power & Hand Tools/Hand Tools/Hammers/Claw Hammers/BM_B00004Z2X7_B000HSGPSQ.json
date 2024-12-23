@@ -1,0 +1,93 @@
+{
+    "Grip": {
+        "comm": "Comfortable grip with effective shock reduction.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Excellent grip."
+        }
+    },
+    "Balance": {
+        "comm": "Well balanced.",
+        "cont": {
+            "entity_a": "Feels off compared to previous models.",
+            "entity_b": "Nice balance and heft."
+        }
+    },
+    "Handle": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Curved white hickory handle fits comfortably in hand. Long handle provides extended reach. Thick handle is a downside.",
+            "entity_b": "Comfortable and the length is just right for reach. Durable and comfortable handle."
+        }
+    },
+    "Magnet": {
+        "comm": "Magnetic nail holder helps with nail starting.",
+        "cont": {
+            "entity_a": "The magnetic nail starter on the blue version is worth the extra money.",
+            "entity_b": "Magnetic nail starter not included in this model."
+        }
+    },
+    "Weight": {
+        "comm": "Nice weight.",
+        "cont": {
+            "entity_a": "Great weight for driving framing nails. Does not make elbow ache due to weight.",
+            "entity_b": "The hammer is not the heaviest. Heavier weight adds strength when hitting nails."
+        }
+    },
+    "Shock Reduction": {
+        "comm": "Anti-vibration feature makes a difference.",
+        "cont": {
+            "entity_a": "Hickory handles absorb shock well.",
+            "entity_b": "Anti-vibe feature reduces wrist pain. Anti-vibe feature helps eliminate stress on joints."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The head is quick cranked out of a machine with sharp edges, not hand polished.",
+            "entity_b": "Nice design and comfortable to hold."
+        }
+    },
+    "Durability": {
+        "comm": "Well-made and solid.",
+        "cont": {
+            "entity_a": "Wood on head wears over time but lasts well.",
+            "entity_b": "Durable and comfortable handle."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great price, not worried about the wood handle possibly breaking.",
+            "entity_b": ""
+        }
+    },
+    "Nail Pulling": {
+        "comm": "Good nail pulling power.",
+        "cont": {
+            "entity_a": "The claw has very good bite, making it easy to pull out nails.",
+            "entity_b": ""
+        }
+    },
+    "General Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great for framing and general/demo work. Great for house framing.",
+            "entity_b": "Good for a range of tasks. Good for carpentry work."
+        }
+    },
+    "Finish": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Nice fit/finish. The lacquer finish can be scuffed up for a non-slip surface.",
+            "entity_b": "Painted finish prevents rust."
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Feels like made in China low quality despite being labeled as made in USA.",
+            "entity_b": ""
+        }
+    }
+}

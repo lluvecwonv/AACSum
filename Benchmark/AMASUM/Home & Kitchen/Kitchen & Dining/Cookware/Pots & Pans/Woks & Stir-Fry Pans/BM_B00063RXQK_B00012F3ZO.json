@@ -1,0 +1,72 @@
+{
+    "Performance": {
+        "comm": "Heats evenly.",
+        "cont": {
+            "entity_a": "Works as well as the Lodge cast iron skillet for larger meals. Great heat retention and suitable for stir-frying, deep frying, or making popcorn. Heating is even, with the hottest area at the bottom. Cooks evenly and retains heat well. Heats evenly and quickly, suitable for high-temperature cooking.",
+            "entity_b": "Seasoned well."
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Quality is good, but it is too heavy for some users. Quality American-made product.",
+            "entity_b": "Not made in the USA as expected. Thin material makes it prone to damage."
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Heavy, making it difficult to handle and clean for some users. Heavy and requires proper maintenance to prevent rust.",
+            "entity_b": "Lightweight and easy to store."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wok does not sit flat on a cooktop when heated, causing wobbling. Handles get hot; silicone grips recommended for safety. Flat bottom provides stability on various cooktops.",
+            "entity_b": "Sturdy handle with a hand-hammered effect. Wooden knob tends to loosen; requires a better screw. Handle remains loose even after tightening. Good size knob for a handle."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Dented easily despite careful handling."
+        }
+    },
+    "Packaging": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Arrived well seasoned with no rust or blemishes.",
+            "entity_b": "Arrived with no packing material, leading to damage. Arrived timely with no damage."
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The wok is spacious and allows for efficient cooking. Large size provides ample space for cooking.",
+            "entity_b": "Fits well on an 18-inch wok. Not 14 inches as advertised, causing fit issues."
+        }
+    },
+    "Cleaning": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Cleaning requires a large sink and upper body strength. Food tends to stick, requiring seasoning and proper cleaning.",
+            "entity_b": "Fits wok perfectly and easy to clean."
+        }
+    },
+    "Versatility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Versatile for cooking on open fire, gas, or electric stoves.",
+            "entity_b": "Satisfactory for steaming and keeping food warm."
+        }
+    },
+    "Returns": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Returns are not permitted, which is disappointing.",
+            "entity_b": ""
+        }
+    }
+}

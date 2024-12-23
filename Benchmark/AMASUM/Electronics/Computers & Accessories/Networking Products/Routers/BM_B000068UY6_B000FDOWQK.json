@@ -1,0 +1,79 @@
+{
+    "Speed": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The D-Link router offers a significant increase in wireless speed compared to Linksys. File transmission speed does not match advertised 22 Mbps. Router does not achieve promised 22 Mbps speed. Router's connection speed is similar to wired connections. Router's wireless portion has increased speeds after firmware upgrade. Router's wireless performance is poor compared to wired connections.",
+            "entity_b": "Router's wireless speed is slower than expected. Router's wireless speed is slower than a cheap trendnet mimo router."
+        }
+    },
+    "Security": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The 256-bit WEP security feature is appreciated. Router offers good security and configuration options. Router offers blazing fast wireless speeds and strong security features. Router's security features are robust and easy to configure.",
+            "entity_b": "Router installation is simple and works well with WPA encryption."
+        }
+    },
+    "Reliability": {
+        "comm": "Router's wireless connection is unreliable, requiring frequent resets.",
+        "cont": {
+            "entity_a": "Router requires daily rebooting to maintain internet connection. The wireless portion of the router freezes and requires power cycling. Router's wireless connection drops occasionally and requires rebooting. Router's wireless connection is unreliable and requires frequent reboots.",
+            "entity_b": "The N connection to the desktop has constant dropped signals. Wireless connection initially had drops, improved after frequency adjustments. Router's wireless connection is unreliable, causing frustration."
+        }
+    },
+    "Setup": {
+        "comm": "Router setup is easy.",
+        "cont": {
+            "entity_a": "Initial setup was difficult and time-consuming. Setup pages are cryptic and lack DHCP lease time display. Router setup is simple and works flawlessly. Changes require running the network wizard. Installation is easy, but firmware and drivers need optimization. Setup is easy, but wireless connection drops occasionally. Router's installation process is quick and easy. Router is easy to install and offers good coverage. Router's setup is straightforward, and wireless connection is reliable.",
+            "entity_b": "Adding new devices requires running a Linksys program. Setup utility initially failed to find the router. Router setup is smooth and straightforward."
+        }
+    },
+    "Performance": {
+        "comm": "Router's wireless performance is poor, and customer service is unhelpful.",
+        "cont": {
+            "entity_a": "Router offers good performance and security features. Router's performance is improved with firmware updates. Router's wireless portion offers good speed and reliability.",
+            "entity_b": "Firmware upgrade to DD-WRT improved performance. Router works well with a wired connection."
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Full signal strength is available throughout the house. Router has poor range and unreliable DHCP. Router works fine in apartments but is affected by obstacles. Router's range and speed are adequate for home use. Router's signal strength is good throughout a medium-sized apartment. Wireless range is good, but obstacles can weaken signals. Router offers good range and connection reliability. Router's range and speed are satisfactory for basic home use.",
+            "entity_b": "Router's range is limited, requiring a reset when using a cordless phone. Router's wireless range is limited compared to older models. Router's wireless range is limited, requiring a repeater."
+        }
+    },
+    "Configuration": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Advanced firewall configuration is available. Configuration settings are straightforward and easy to use.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Problems connecting to a Mac with an AirPort card. PCI receiver card compatibility issues were resolved by moving slots.",
+            "entity_b": "Router works great with a wireless N notebook adapter and PCI adapter."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service is poor and unhelpful.",
+            "entity_b": "Router works well with wireless devices and customer service is dependable."
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Firmware upgrades can improve router performance.",
+            "entity_b": ""
+        }
+    },
+    "Signal": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Antenna issues were reported, leading to poor Wi-Fi performance.",
+            "entity_b": ""
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "Compatibility": {
+        "comm": "The card works well with certain routers.",
+        "cont": {
+            "entity_a": "Works well with a Netgear dual band router.",
+            "entity_b": "Works well with both Windows XP and Ubuntu."
+        }
+    },
+    "Installation": {
+        "comm": "Installation is easy.",
+        "cont": {
+            "entity_a": "Took less than 10 minutes.",
+            "entity_b": "Straightforward with clear instructions."
+        }
+    },
+    "Performance": {
+        "comm": "Offers faster speed and extended range.",
+        "cont": {
+            "entity_a": "Faster speed and broader coverage for a home network.",
+            "entity_b": "Compared to older models."
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Range and speed are poor.",
+            "entity_b": "Provides good speed and range with a compatible D-Link router."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Technical support was unhelpful and focused on collecting personal information.",
+            "entity_b": ""
+        }
+    },
+    "Software": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Netgear software causes connection issues; it's better to use Windows control.",
+            "entity_b": ""
+        }
+    },
+    "CPU": {
+        "comm": "",
+        "cont": {
+            "entity_a": "CPU usage remains high when the card is plugged in, with no known fix.",
+            "entity_b": ""
+        }
+    },
+    "Recognition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The card was not recognized by some machines, leading to a return.",
+            "entity_b": "The card has compatibility issues with some chipsets, leading to returns."
+        }
+    },
+    "Linux": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Some cards do not auto-install on Fedora Linux as described. Works well with Linux distributions and older hardware."
+        }
+    }
+}

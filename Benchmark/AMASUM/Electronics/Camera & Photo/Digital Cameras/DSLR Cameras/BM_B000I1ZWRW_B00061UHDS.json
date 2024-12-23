@@ -1,0 +1,93 @@
+{
+    "Suitability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Perfect starter choice for beginners. Great product for beginners in photography.",
+            "entity_b": "Great, albeit outdated camera."
+        }
+    },
+    "Features": {
+        "comm": "",
+        "cont": {
+            "entity_a": "More features than expected. Reliable and easy to figure out with plenty of functions. Upgraded CMOS sensor and added features. Digital SLR with many options for creative pictures and a simple automatic mode. High end enough to do everything and still not overly complicated. Easy to use with many features. Many manual settings to choose from.",
+            "entity_b": "Focal plane dust removal system is unmatched. Allows selection of photographic scenes or customization."
+        }
+    },
+    "Lens": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Lens that came with it is very nice. Needed an image-stabilization lens for low-light shots. Lens in the kit is a step below the camera. Kit lens has good sharpness and fast focusing. Fits all other Canon lenses.",
+            "entity_b": ""
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Quality is quite good for an old model DSLR. Camera is very high quality, takes excellent high-res digital photos. High-quality photographs and easy to use. Solid Canon quality at a reasonable price. Least digital noise in higher ISO settings. Durable body, very user-friendly settings. Camera takes great shots with great detail and speed. Lightweight and takes outstanding photographs with good quality lenses. Camera has been a workhorse and held up well over several years.",
+            "entity_b": "Kodak KAF8300CE high performance CCD used. Excellent picture quality. Nice weight and balance. Powerful flash for its size."
+        }
+    },
+    "Condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Camera and extra things were in excellent condition. Seller added extra things without any extra cost.",
+            "entity_b": "Price was great and came with full array of accessories."
+        }
+    },
+    "Delivery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Delivered sooner than estimated.",
+            "entity_b": ""
+        }
+    },
+    "Display": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Large LCD display is beneficial for reduced near vision. Quick change on point of focus and a larger LCD viewer.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great camera for the money.",
+            "entity_b": ""
+        }
+    },
+    "Ease of Use": {
+        "comm": "Easy to use.",
+        "cont": {
+            "entity_a": "Very easy to use, takes great shots. Easy to understand manual and basic functions. Easy to learn to use with great photo clarity.",
+            "entity_b": "E-300 is intuitive and easy to use. Easy to learn and operate. Menus are easy to navigate with well-laid out buttons."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Camera sensor failed and is too expensive to repair.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Fits great for small hands, no shutter delay. Battery compartment adds more surface area and weight. Camera is compact, but difficult to handle with large lenses.",
+            "entity_b": "Rubber-coated aluminum chassis and smooth-working controls. Viewfinder is a little dim and focusing can be tricky."
+        }
+    },
+    "Photography": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good camera for astrophotography with some limitations.",
+            "entity_b": ""
+        }
+    },
+    "Focus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Finicky and difficult to focus without perfect lighting."
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "Range": {
+        "comm": "Good range.",
+        "cont": {
+            "entity_a": "Improved distance and signal with SRX400 enhanced cards. Signal strength increased significantly compared to older models.",
+            "entity_b": ""
+        }
+    },
+    "Setup": {
+        "comm": "Easy to set up and configure.",
+        "cont": {
+            "entity_a": "Setup is straightforward with various configuration options.",
+            "entity_b": "Easy to configure with a nice web interface. Easy to install with helpful dynamic DNS features."
+        }
+    },
+    "Speed": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Excellent range and speed.",
+            "entity_b": ""
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Stopped working after a month, freezing up and unresponsive. Initially worked well but had problems after a year. Unreliable, dropping connections frequently. Not reliable for long-term use, frequent disconnections reported.",
+            "entity_b": "VPN connections drop regularly, requiring frequent reboots. Dual WAN option works sometimes, but not reliable with unstable ISPs. Experiences disconnections from remote servers. Slow and unstable performance."
+        }
+    },
+    "VPN": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Subnet address cannot be changed, restricting VPN remote access. Connection issues with VPN when saving changes.",
+            "entity_b": "VPN connections drop regularly, requiring frequent reboots. Suitable for smaller installations with less than 250 users. Reliable for small businesses with VPN and dual WAN capabilities. Great for site-to-site VPN, but lacks XAUTH user credentials."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service was unhelpful and calls were dropped. Linksys tech support solved setup problems after a firmware update. Technical support varies in quality; some issues require expert help.",
+            "entity_b": "Poor customer support. Slow and unstable performance with poor tech support."
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Firmware upgrade fixes connection drops. Firmware is buggy and lacks third-party support.",
+            "entity_b": "Still supports firmware upgrades with VPN and firewall options."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router sensitive to power surges.",
+            "entity_b": "Gets hot, needs proper ventilation."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Cannot redirect ports, which is a limitation. Load balancing does not work with secure connections. Router overburdens with bandwidth management. Not suitable for VoIP systems due to port issues. Issues with some VoIP providers."
+        }
+    }
+}

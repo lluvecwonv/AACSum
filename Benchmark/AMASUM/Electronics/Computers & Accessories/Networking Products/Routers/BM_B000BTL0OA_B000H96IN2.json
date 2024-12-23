@@ -1,0 +1,79 @@
+{
+    "Connectivity": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Marvel chipset bug causes Wi-Fi network crashes with patched Android devices. Router drops connection frequently, requiring reboots. Wireless N devices have connectivity issues. Router is unstable and unreliable on the 5 GHz band. Router is incompatible with certain smart home devices.",
+            "entity_b": "Router crashes and requires frequent reboots. Router's NAT and wireless connections are unreliable. Router loses connectivity frequently, requiring resets. Router's wireless range is poor compared to older models."
+        }
+    },
+    "Reboot": {
+        "comm": "Router requires frequent reboots.",
+        "cont": {
+            "entity_a": "Due to 2.4 GHz and 5 GHz broadcasting issues.",
+            "entity_b": ""
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Easily modifiable firmware allows for VPN setup and secure network management. Router is compatible with DD-WRT and OpenWRT for advanced customization. Router lacks MU-MIMO support and has firmware stability issues.",
+            "entity_b": "Router is configurable with DD-WRT for enhanced features. Router is stable with DD-WRT but has wireless range issues. Router functions well but has firmware limitations. Router requires DD-WRT for optimal performance. Router performs well with DD-WRT but has wireless connectivity issues."
+        }
+    },
+    "Coverage": {
+        "comm": "Router provides good range and handles multiple devices well.",
+        "cont": {
+            "entity_a": "Router offers poor range and speed on both 2.4 GHz and 5 GHz bands.",
+            "entity_b": "Router has limited range and setup wizard issues."
+        }
+    },
+    "Customer Service": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Customer service provided a replacement for a faulty router. Linksys customer service is inadequate for resolving issues.",
+            "entity_b": "Router lacks firmware updates and support from Linksys."
+        }
+    },
+    "Heating": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router overheats due to lack of a cooling fan.",
+            "entity_b": ""
+        }
+    },
+    "Security": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router has security vulnerabilities and requires frequent resets.",
+            "entity_b": ""
+        }
+    },
+    "Setup": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Setup issues with the wizard; better results using the web interface.",
+            "entity_b": "Router is not recommended for non-technical users due to setup complexity."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router has hardware issues affecting long-term reliability.",
+            "entity_b": "Router is discontinued and lacks firmware support."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router performs well with good speed and coverage.",
+            "entity_b": "Router has good management interface but requires firmware updates for stability."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Router's USB storage feature is limited and slow."
+        }
+    }
+}

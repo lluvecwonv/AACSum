@@ -1,0 +1,79 @@
+{
+    "Bass": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Provides bass control for 2 channel speaker systems. Adds significant bass with TRUbass feature. Improves sound clarity and bass in small stereo systems.",
+            "entity_b": ""
+        }
+    },
+    "Volume": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Volume control does not work; limited usefulness. Remote control does not adjust volume; no controls on the unit itself. Sound is clearer and crisper with reduced volume.",
+            "entity_b": ""
+        }
+    },
+    "Connector": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Analog connectors are a downside.",
+            "entity_b": "Includes S/PDIF fiber optic output for greater sound control."
+        }
+    },
+    "Sound": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Enhances sound quality for Bose 3 speaker system. Dialogue in surround sound movies is clearer. Enhances sound for movies, music, and gaming. Improves sound when connected to a dish receiver. Profound improvement to small library sound system.",
+            "entity_b": "Improves laptop sound significantly compared to onboard sound. Improves sound quality significantly for music and games. Clears sound on Logitech z-2300 speakers. Good sound quality without hugging resources."
+        }
+    },
+    "Installation": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Easy installation with clear and rich sound."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Not compatible with ExpressCard slots. Not recommended for low-end laptops due to performance issues."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sound processor is not user-friendly; remote buttons are confusing.",
+            "entity_b": "Extends beyond laptop, making it difficult to travel with."
+        }
+    },
+    "Surround": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Surround mode somewhat improves sound but is not very spatial.",
+            "entity_b": ""
+        }
+    },
+    "Noise": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Very noisy headphone amp.",
+            "entity_b": "Static issues with notebook speakers; returned product."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Inexpensive with good performance as a stereo amplifier or pre-amp. Not worth more than $30. Good budget alternative to more expensive sound processors.",
+            "entity_b": ""
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Causes blue screen when safely removed from Windows."
+        }
+    }
+}

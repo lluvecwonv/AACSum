@@ -1,0 +1,100 @@
+{
+    "Lens": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Equipped with a decent lens.",
+            "entity_b": ""
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Accepts older Minolta lenses. Compatible with all Minolta gear, including lenses and flashes.",
+            "entity_b": "Full array of accessories."
+        }
+    },
+    "Usability": {
+        "comm": "Easy to use.",
+        "cont": {
+            "entity_a": "Relatively easy to use with fairly obvious controls. Conveniently located controls and familiar interface for Sony users.",
+            "entity_b": "Intuitive. Menus are easy to navigate with well-laid-out buttons."
+        }
+    },
+    "Review": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Results can be immediately reviewed and erased if needed.",
+            "entity_b": ""
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Very reliable with surprisingly long battery life.",
+            "entity_b": ""
+        }
+    },
+    "Feature": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Anti-shake feature is beneficial. Image stabilization feature prevents blurred shots.",
+            "entity_b": "Focal plane dust removal system is unmatched by Canon and Nikon."
+        }
+    },
+    "Accessories": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Missing CF card and USB cable doesn't match the camera.",
+            "entity_b": ""
+        }
+    },
+    "Performance": {
+        "comm": "High performance.",
+        "cont": {
+            "entity_a": "In a compact, easy-to-handle body.",
+            "entity_b": "Kodak KAF8300CE CCD imager chip."
+        }
+    },
+    "Picture": {
+        "comm": "Great picture quality.",
+        "cont": {
+            "entity_a": "Takes stunning close-up shots and looks good in RAW setting. Vivid colors and terrific clarity. Easy to use with great picture quality, even in low light.",
+            "entity_b": "Excellent picture quality."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Plenty of options with both manual and point-and-shoot modes. Conveniently located controls and familiar interface for Sony users.",
+            "entity_b": "Rubber-coated aluminum chassis and smooth-working controls."
+        }
+    },
+    "Flash": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Sony specific flash fitting and remote trigger.",
+            "entity_b": "Powerful flash for its size."
+        }
+    },
+    "Battery": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Exceptional battery timing.",
+            "entity_b": ""
+        }
+    },
+    "Limitations": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Limited-use due to lack of sync cord and proprietary hot shoe. No timelapse recording feature.",
+            "entity_b": "Viewfinder is a little dim, and focusing can be tricky with included lenses. Finicky and difficult to focus in imperfect lighting."
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great value DSLR with many controls at your fingertips.",
+            "entity_b": "Solid camera with good price and feels great in hand."
+        }
+    }
+}

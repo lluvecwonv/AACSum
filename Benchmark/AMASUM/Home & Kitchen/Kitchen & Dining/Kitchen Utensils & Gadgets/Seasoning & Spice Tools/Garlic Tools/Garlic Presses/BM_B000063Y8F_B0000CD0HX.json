@@ -1,0 +1,65 @@
+{
+    "Functionality": {
+        "comm": "Capable of pressing garlic without the skin removed.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Can press unpeeled garlic cloves."
+        }
+    },
+    "Cleaning": {
+        "comm": "Easy to clean.",
+        "cont": {
+            "entity_a": "With a perforated piece that pops up for cleaning.",
+            "entity_b": "With a flip-out design. Care needed to avoid pinching fingers."
+        }
+    },
+    "Material": {
+        "comm": "Made of stainless steel.",
+        "cont": {
+            "entity_a": "Prevents corrosion.",
+            "entity_b": ""
+        }
+    },
+    "Design": {
+        "comm": "Sturdy.",
+        "cont": {
+            "entity_a": "Well-made.",
+            "entity_b": "Ergonomic and lightweight. Clever hinge design."
+        }
+    },
+    "Effort": {
+        "comm": "Requires minimal force to press garlic.",
+        "cont": {
+            "entity_a": "Double leveraging action for effortless pressing.",
+            "entity_b": "Less effort due to the levered design."
+        }
+    },
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Built to last a lifetime with good quality control.",
+            "entity_b": "High-quality materials and workmanship."
+        }
+    },
+    "Operation": {
+        "comm": "The design makes it easy to clean and operate.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": ""
+        }
+    },
+    "Issue": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Some garlic gets stuck between the blade and the press. Crushed garlic is hard to remove from the sides of the press.",
+            "entity_b": "Some garlic leaks out the sides during pressing."
+        }
+    },
+    "Size": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "The chamber size is small, fitting one clove at a time."
+        }
+    }
+}

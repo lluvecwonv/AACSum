@@ -1,0 +1,72 @@
+{
+    "Claw": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The claw has a very good bite, making it easy to pull out nails.",
+            "entity_b": "Curved claw preferred for pulling nails in tight corners."
+        }
+    },
+    "Swing": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The hammer swings great and feels well-balanced and solid.",
+            "entity_b": "Flawless balance and easy to swing."
+        }
+    },
+    "Grip": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good grip and well-balanced wood handle.",
+            "entity_b": "Handle is comfortable and provides good control."
+        }
+    },
+    "Handle": {
+        "comm": "Absorbs shock well.",
+        "cont": {
+            "entity_a": "The curved white hickory handle fits comfortably in hand. Long handle provides lots of power and hickory absorbs shock well. Some received the wrong handle type but found it still useful. Great ergonomics of the handle, weight balance, and head shape. Thick handle is a downside for some users.",
+            "entity_b": "Solid steel construction with a shock-reducing handle. Handle absorbs shock well, reducing arm fatigue. Comfortable handle for prolonged use."
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great weight for driving framing nails with a nice fit and finish. No issues with hammer bouncing off nails. Great for everyday use, driving nails efficiently.",
+            "entity_b": "Good balance and weight distribution. Perfect for indoor general purpose use."
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Wood on the head wears over time but holds up well.",
+            "entity_b": "Great durability; lasts for years. All-steel construction is virtually indestructible."
+        }
+    },
+    "Ergonomics": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great ergonomics of the handle, weight balance, and head shape.",
+            "entity_b": ""
+        }
+    },
+    "Magnet": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The magnetic nail holder is useful for starting nails overhead.",
+            "entity_b": ""
+        }
+    },
+    "Construction": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Solid steel construction with a shock-reducing handle. Made in the USA with high build quality. All-steel construction is virtually indestructible."
+        }
+    },
+    "Finish": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Great weight for driving framing nails with a nice fit and finish.",
+            "entity_b": "The finish could be smoother. The clear coat on steel scratches easily."
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "Condition": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The DVD recorder was sold in 'very good' condition but arrived without a power cord.",
+            "entity_b": ""
+        }
+    },
+    "Playback": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The unit played back too fast, making voices sound unnatural. Playback is flawless on other Panasonic DVD players.",
+            "entity_b": "Can record and playback shows conveniently, allowing users to watch at their leisure."
+        }
+    },
+    "Usability": {
+        "comm": "Easy to use and set up.",
+        "cont": {
+            "entity_a": "Simple to use with a user-friendly interface and remote control. Menus are easy to use. The Panasonic DMR-E55 model is praised for its easy setup and well-designed interface.",
+            "entity_b": "May require additional accessories like a wireless USB adapter and IR cables. The remote control has small buttons, making it difficult for elderly users. Setup can be complicated and time-consuming, especially with satellite dish connections."
+        }
+    },
+    "Recording": {
+        "comm": "",
+        "cont": {
+            "entity_a": "High recording quality, even in EP mode, surpassing VHS. Setup is easy, and recording can be started quickly.",
+            "entity_b": "Records less than advertised at high quality, leading to potential storage issues."
+        }
+    },
+    "Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compatible with DVD-RAM but not DVD-RW.",
+            "entity_b": "Lacks HDMI or component hookups, limiting HD recording capabilities."
+        }
+    },
+    "Performance": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Reliable performance over a decade with no repairs needed.",
+            "entity_b": ""
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The unit is inexpensive considering its quality and features.",
+            "entity_b": "Requires subscription services for certain shows, incurring additional costs. Rebate process is lengthy and involves a delay in receiving the check."
+        }
+    },
+    "Support": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Customer service has long hold times and is not very knowledgeable or courteous."
+        }
+    },
+    "Functionality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Requires a TiVo contract for full functionality, but some features are accessible without it."
+        }
+    },
+    "Storage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Model lacks support for larger hard drives without hacking."
+        }
+    }
+}

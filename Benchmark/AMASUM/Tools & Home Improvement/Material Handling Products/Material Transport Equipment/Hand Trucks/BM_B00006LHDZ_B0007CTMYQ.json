@@ -1,0 +1,93 @@
+{
+    "Mobility": {
+        "comm": "Lightweight and easy to maneuver.",
+        "cont": {
+            "entity_a": "Large and sturdy wheels, easy to move heavy items.",
+            "entity_b": "Moves well on grass and gravel."
+        }
+    },
+    "Weight": {
+        "comm": "Lightweight but strong.",
+        "cont": {
+            "entity_a": "Very heavy and awkward to maneuver.",
+            "entity_b": "Lightweight but sturdy, non-rusting nylon construction."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Compact, does not take up much space.",
+            "entity_b": "Convertible to a 4-wheel platform cart."
+        }
+    },
+    "Odor": {
+        "comm": "Strong odor from rubber wheels.",
+        "cont": {
+            "entity_a": "Wheels have a strong odor initially.",
+            "entity_b": "Tires have a strong odor that dissipates over time."
+        }
+    },
+    "Durability": {
+        "comm": "Strong and durable, suitable for heavy loads.",
+        "cont": {
+            "entity_a": "Heavy-duty, durable, and inexpensive.",
+            "entity_b": "Tires dry rotted quickly."
+        }
+    },
+    "Construction": {
+        "comm": "Sturdy construction.",
+        "cont": {
+            "entity_a": "Sturdy and made in the USA.",
+            "entity_b": "Sturdy construction, but with strong initial odor."
+        }
+    },
+    "Wheels": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Solid rubber wheels, smooth rolling. Solid tires, no need for inflating.",
+            "entity_b": "Bad plastic rims led to product recall. Tires require frequent refilling."
+        }
+    },
+    "Platform": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Bottom plate could be larger to prevent items from tipping. Platform is smaller than expected, not ideal for large items.",
+            "entity_b": "Convertible feature is handy."
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Affordable and offers good value.",
+            "entity_b": ""
+        }
+    },
+    "Usability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good for simple moving jobs. Not ideal for stairs without a stair climber.",
+            "entity_b": "Stair climbers are effective."
+        }
+    },
+    "Functionality": {
+        "comm": "Good for moving heavy items.",
+        "cont": {
+            "entity_a": "Great for moving heavy items like a washer/dryer.",
+            "entity_b": "Good for moving heavy furniture and equipment."
+        }
+    },
+    "Versatility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Curved back is useful for moving plants.",
+            "entity_b": "Versatile and easy to convert between modes."
+        }
+    },
+    "Assembly": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Some assembly issues, missing hardware."
+        }
+    }
+}

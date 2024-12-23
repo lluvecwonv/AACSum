@@ -1,0 +1,128 @@
+{
+    "Condition": {
+        "comm": "Arrived in perfect condition.",
+        "cont": {
+            "entity_a": "Is like new.",
+            "entity_b": "Camera body and lens in perfect condition."
+        }
+    },
+    "Accessory": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The camera body alone was provided; a hand strap would have been nice.",
+            "entity_b": "Does not come with an SD card or camera strap."
+        }
+    },
+    "Performance": {
+        "comm": "Performs very well.",
+        "cont": {
+            "entity_a": "For an older pro body. Ridiculously strong and reliable.",
+            "entity_b": "Is easy for beginners."
+        }
+    },
+    "Print": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Produces sharp 16x24 prints with a good lens.",
+            "entity_b": "Great picture quality for small prints."
+        }
+    },
+    "Comparison": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The D2x and D2xs are about 90% the same.",
+            "entity_b": ""
+        }
+    },
+    "Weight": {
+        "comm": "",
+        "cont": {
+            "entity_a": "This camera is heavy.",
+            "entity_b": ""
+        }
+    },
+    "Autofocus": {
+        "comm": "",
+        "cont": {
+            "entity_a": "The autofocus is faster than manual focus.",
+            "entity_b": "Auto focus setting isn't perfect."
+        }
+    },
+    "Lens": {
+        "comm": "Works flawlessly with fast lenses.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Interchangeable lenses with most F-mount Nikons."
+        }
+    },
+    "Model": {
+        "comm": "Still a great performer despite newer models.",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "A great starter SLR camera."
+        }
+    },
+    "ISO": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Excellent low ISO performance.",
+            "entity_b": "Features a dedicated button for ISO and White Balance."
+        }
+    },
+    "Image Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Outstanding image quality. Picture quality is not as good as the D300.",
+            "entity_b": "6.1MP is sufficient for high-quality images."
+        }
+    },
+    "Price": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Amazon's price is high compared to eBay. Confusion over high price compared to D3.",
+            "entity_b": "Great deal for the price."
+        }
+    },
+    "Screen": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Review screen is small.",
+            "entity_b": "Does not have Black and White mode or an illuminated display."
+        }
+    },
+    "Card Compatibility": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Compatible with 2GB or smaller SD cards only."
+        }
+    },
+    "Handling": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Easy to handle and takes wonderful shots. Great handling and service from the seller."
+        }
+    },
+    "User Experience": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Easy to use and full-featured. User-friendly for beginners."
+        }
+    },
+    "Reliability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Camera stopped working after one month. The aperture mechanism was broken upon purchase."
+        }
+    },
+    "Seller Information": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Flash and battery issues should be clearly stated by sellers."
+        }
+    }
+}

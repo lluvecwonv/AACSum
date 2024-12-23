@@ -1,0 +1,65 @@
+{
+    "Quality": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Good quality for the price, better than check-out stand gloves.",
+            "entity_b": ""
+        }
+    },
+    "Durability": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Palm threads fray easily with friction, leading to reduced durability.",
+            "entity_b": "Palm padding is good, but material is not durable."
+        }
+    },
+    "Fit": {
+        "comm": "Fit is tight.",
+        "cont": {
+            "entity_a": "Fit is true to size, with liners that stay put. Too bulky for mechanical work; fit is tight on large hands.",
+            "entity_b": "Fit snugly and enhance hand usability. Requires careful size selection."
+        }
+    },
+    "Comfort": {
+        "comm": "Comfortable.",
+        "cont": {
+            "entity_a": "Rugged, tough, and comfortable gloves suitable for cold weather.",
+            "entity_b": "Initial comfort and fit are good. Comfy fit and protection."
+        }
+    },
+    "Waterproof": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Gloves are not waterproof; they get soaked quickly. Warm and waterproof, but can become damp from sweat. Truly waterproof, keeping hands dry in icy conditions.",
+            "entity_b": "Durable and comfortable, but not waterproof."
+        }
+    },
+    "Warmth": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Not windproof and do not keep hands very warm in high winds. Warm but waterlogged quickly during snow/rain storms. Warm and waterproof, but can become damp from sweat. Moisture tends to stay inside, leading to dampness and cold hands.",
+            "entity_b": "Not suitable for cold weather; provides minimal insulation."
+        }
+    },
+    "Design": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Quality control issues with mismatched gloves and different colored velcro straps.",
+            "entity_b": "Velcro wears out quickly, reducing fit quality. Touchscreen feature is unreliable and wears out quickly."
+        }
+    },
+    "Ease of Use": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Difficult to put on and take off due to three separate layers. Liners inside the gloves are not attached, making them difficult to put on again after removal. Internal liner pulls out when removing the gloves, complicating re-wearing.",
+            "entity_b": ""
+        }
+    },
+    "Usage": {
+        "comm": "",
+        "cont": {
+            "entity_a": "",
+            "entity_b": "Good for general light work but not durable for rough surfaces. Good for casual use, not for daily heavy-duty work. Great for light work and touchscreen use, but wears quickly."
+        }
+    }
+}

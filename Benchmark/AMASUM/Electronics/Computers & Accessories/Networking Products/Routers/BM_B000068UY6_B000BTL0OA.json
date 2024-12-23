@@ -1,0 +1,72 @@
+{
+    "Connectivity": {
+        "comm": "Router's wireless portion is unreliable with frequent disconnects.",
+        "cont": {
+            "entity_a": "Wireless connection drops frequently due to interference.",
+            "entity_b": "Marvel chipset bug causes Wi-Fi network crashes with Android devices."
+        }
+    },
+    "Reboot": {
+        "comm": "Router requires frequent reboots.",
+        "cont": {
+            "entity_a": "Router occasionally requires rebooting due to overheating.",
+            "entity_b": "Router stops broadcasting on 2.4 GHz, requiring frequent reboots."
+        }
+    },
+    "Setup": {
+        "comm": "Router is easy to set up.",
+        "cont": {
+            "entity_a": "Setup was simple and worked flawlessly after initial setup.",
+            "entity_b": "Router is easy to manage with a user-friendly app."
+        }
+    },
+    "Firmware": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Firmware upgrades enhance speed significantly.",
+            "entity_b": "Router is compatible with open-source firmware like DD-WRT."
+        }
+    },
+    "Security": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router has good security features like 256-bit WEP and MAC filtering.",
+            "entity_b": "Router supports VPN with easy firmware modification."
+        }
+    },
+    "Performance": {
+        "comm": "Router manages multiple devices well with strong performance.",
+        "cont": {
+            "entity_a": "Router provides good range and connection stability.",
+            "entity_b": "Router's wireless performance is poor with gigabit internet."
+        }
+    },
+    "Interface": {
+        "comm": "Router is easy to set up with a good interface.",
+        "cont": {
+            "entity_a": "Good web-based interface and quality.",
+            "entity_b": "Setup wizard has issues with static corporate WAN links."
+        }
+    },
+    "Overheating": {
+        "comm": "Router has overheating issues.",
+        "cont": {
+            "entity_a": "Router occasionally requires rebooting due to overheating.",
+            "entity_b": "Router has overheating issues causing emissions."
+        }
+    },
+    "Value": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router provides excellent value and is easy to install and configure.",
+            "entity_b": ""
+        }
+    },
+    "Range": {
+        "comm": "",
+        "cont": {
+            "entity_a": "Router provides strong signal and good range.",
+            "entity_b": "Router's wireless range is average."
+        }
+    }
+}
