@@ -17,7 +17,7 @@ lr=1e-5
 CUDA_VISIBLE_DEVICES=0,1 torchrun --nproc_per_node=2 --master_port=$master_port train.py --config-name=finetune.yaml  batch_size=4 gradient_accumulation_steps=1 lr=${lr}
 ```
 
-# Text Compression and Aspect Merging Pipeline
+# Text Compression and Aspect Merging Pipeline 📝
 ---
 This repository provides a comprehensive pipeline for performing text compression, aspect merging, and summarization using state-of-the-art language models and APIs. The system is designed to handle paired review data and generate concise summaries by compressing text, assigning aspects, merging similar aspects, and summarizing the results.
 
