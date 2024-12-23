@@ -66,24 +66,8 @@ python main.py \
     --merge
 ```
 
-## 2. Text Compression Only (--comp_text)
-If you want to compress the text data without merging aspects:
 
-``` bash
-python main.py \
-    --data_path "/path/to/data" \
-    --model_family "FacebookAI/xlm-roberta-large" \
-    --model "/path/to/finetuned_model" \
-    --result_path "/path/to/save/compressed_results" \
-    --prompt "/path/to/summarization_template.txt" \
-    --api_key "<your_openai_api_key>" \
-    --seed 1212 \
-    --assigner_model "gpt-4o-mini" \
-    --assigner_prompt "/path/to/assigner_prompt_template.txt" \
-    --comp_text
-```
-
-## 3. Full Pipeline (--merge --comp_text)
+## 2. Full Pipeline (--merge --comp_text)
 To perform both text compression and aspect merging:
 
 ```bash
