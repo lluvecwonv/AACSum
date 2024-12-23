@@ -125,6 +125,7 @@ CUDA_VISIBLE_DEVICES=1 python main.py \
   --result_folder_path "/path/to/results/cocotrip" \
   --save_path "/path/to/save/cocotrip_results"
 ```
+Note: This evaluation is conducted exclusively on the test dataset
 
 ### Evaluate on AMASUM
 
