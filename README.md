@@ -105,10 +105,13 @@ This repository contains an evaluation script designed to assess the performance
 
 ## Key Features 🚀
 Dataset Support: COCOTRIP and AMASUM datasets.
-Metrics:
+# Metrics:
 Rouge: Measures overlap between generated and benchmark summaries.
+
 BERTScore: Evaluates semantic similarity.
+
 CASPR: Assesses comparative aspect similarity and polarity recognition.
+
 Handles Multiple File Structures: Automatically detects and processes files for evaluation.
 
 ## Example Commands
