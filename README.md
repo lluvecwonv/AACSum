@@ -23,8 +23,11 @@ This repository provides a comprehensive pipeline for performing text compressio
 
 ## Features
 Text Compression: Compress long texts into concise representations using fine-tuned transformer models.
+
 Aspect Assignment: Assign aspects to compressed texts for better organization and understanding.
+
 Aspect Merging: Cluster and merge similar aspects from paired review data.
+
 Summarization: Generate summaries based on merged aspects.
 
 # General Command Structure
