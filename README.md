@@ -122,3 +122,10 @@ CUDA_VISIBLE_DEVICES=1 python main.py \
   --result_folder_path "/path/to/results/amasum" \
   --save_path "/path/to/save/amasum_results"
 ```
+
+## Contributors
+
+Thanks to all the contributors who have helped build this project! 🙌
+
+Check out the [Contributors List](https://github.com/your-repo-name/graphs/contributors).
+
