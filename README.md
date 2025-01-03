@@ -127,5 +127,5 @@ CUDA_VISIBLE_DEVICES=1 python main.py \
 
 Thanks to all the contributors who have helped build this project! 🙌
 
-Check out the [Contributors List](https://github.com/your-repo-name/graphs/contributors).
+Check out the [Contributors List]([https://github.com/your-repo-name/graphs/contributors](https://github.com/lluvecwonv/AACSum/settings/access)).
 
