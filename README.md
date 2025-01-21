@@ -127,7 +127,6 @@ CUDA_VISIBLE_DEVICES=1 python main.py \
 
 Thanks to all the contributors who have helped build this project! 🙌
 
-## Contributors
 
 Thanks to these amazing contributors:
 
