@@ -127,5 +127,26 @@ CUDA_VISIBLE_DEVICES=1 python main.py \
 
 Thanks to all the contributors who have helped build this project! 🙌
 
-Check out the [Contributors List]([https://github.com/your-repo-name/graphs/contributors](https://github.com/lluvecwonv/AACSum/settings/access)).
+## Contributors
+
+Thanks to these amazing contributors:
+
+<a href="https://github.com/jhyun13">
+  <img src="https://github.com/jhyun13.png" width="50" height="50" style="border-radius: 50%;" alt="Hyeon Jin">
+</a>  
+Hyeon Jin
+
+<br>
+
+<a href="https://github.com/lluvecwonv">
+  <img src="https://github.com/lluvecwonv.png" width="50" height="50" style="border-radius: 50%;" alt="lluvecwonv">
+</a>  
+Chaewon yoon
+
+<br>
+
+<a href="https://github.com/ohyurim1010">
+  <img src="https://github.com/ohyurim1010.png" width="50" height="50" style="border-radius: 50%;" alt="yurim oh">
+</a>  
+Yurim oh
 
