@@ -1,4 +1,4 @@
-# [WWW2025]Abstractive aspect-based comparative summarization 
+# [WWW2025 Short paper track]Abstractive aspect-based comparative summarization 
 ---
 
 # Fine-Tuning a RoBERTa Model for Compression Data Learning 🧠
