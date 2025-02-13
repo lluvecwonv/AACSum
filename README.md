@@ -12,6 +12,24 @@
 </table>
 </div>
 
+# Abstract
+Comparative summarization aims to generate a set of summaries
+that highlight the relevant differences and commonalities between
+two comparable entities. While these summaries provide users with
+general comparative information, they may not fully meet users’
+specific information needs, particularly when users seek detailed
+information about specific aspects of the entities. In this paper, we
+introduce the task of abstractive aspect-based comparative summa-
+rization, which identifies the aspects of entities from a set of two
+reviews and then generates abstractive contrastive and common
+summaries for each aspect. To support this task, we construct two
+new datasets and propose a simple large language model-based
+summarization model that generates both aspects and the corre-
+sponding contrastive and common summaries. Experimental results
+on the newly constructed datasets demonstrate that the proposed
+summarization model can generate higher-quality aspect-based
+comparative summaries compared to the baselines.
+
 
 # Aspect Merging Pipeline 📝
 ---
