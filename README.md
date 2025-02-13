@@ -1,26 +1,19 @@
 # [WWW2025 Short paper track]Abstractive aspect-based comparative summarization 
 ---
 
-# Fine-Tuning a RoBERTa Model for Compression Data Learning 🧠
----
-This script fine-tunes a RoBERTa model specifically for compression data learning tasks. It utilizes the transformers library to train a model that effectively processes and compresses token-level information, making it ideal for applications requiring structured compression and token-level accuracy.
+<table align="center">
+  <tr>
+    <td align="center"> 
+      <img src="assets/figure1.jpeg" alt="Teaser Figure" style="width: 700px;"/> 
+      <br>
+      <em style="font-size: 18px;">  <strong style="font-size: 18px;">Figure 1:</strong> AACSum/assets </em>
+    </td>
+  </tr>
+</table>
+</div>
 
-## Key Features 🚀
-Compression Data Learning: Tailored for learning compression tasks that require understanding and retaining essential token-level information.
-Customizable Training: Easily adaptable with hydra configuration for various datasets and training setups.
-Efficient Training:
-Supports gradient accumulation for handling large batches.
-Utilizes the lightweight paged_adamw_32bit optimizer.
-Reproducibility: Ensures deterministic results by fixing random seeds.
-Dataset Handling: Includes utilities for splitting datasets and preparing tokenized input.
 
-```bash
-master_port=18767
-lr=1e-5
-CUDA_VISIBLE_DEVICES=0,1 torchrun --nproc_per_node=2 --master_port=$master_port train.py --config-name=finetune.yaml  batch_size=4 gradient_accumulation_steps=1 lr=${lr}
-```
-
-# Text Compression and Aspect Merging Pipeline 📝
+# Aspect Merging Pipeline 📝
 ---
 This repository provides a comprehensive pipeline for performing text compression, aspect merging, and summarization using state-of-the-art language models and APIs. The system is designed to handle paired review data and generate concise summaries by compressing text, assigning aspects, merging similar aspects, and summarizing the results.
 
@@ -39,7 +32,7 @@ This repository provides a comprehensive pipeline for performing text compressio
 python main.py \
     --data_path "<path_to_input_data>" \
     --model_family "<pretrained_model_family>" \
-    --model "<path_to_finetuned_model>" \
+    --model "<path_to_finetuned_model>" \ 
     --result_path "<path_to_save_results>" \
     --prompt "<path_to_prompt_template>" \
     --api_key "<your_openai_api_key>" \
@@ -124,7 +117,23 @@ CUDA_VISIBLE_DEVICES=1 python main.py \
   --bench_folder_path "/path/to/benchmark/amasum" \
   --result_folder_path "/path/to/results/amasum" \
   --save_path "/path/to/save/amasum_results"
+  
 ```
+
+
+
+
+## Benchmark Datasets
+---
+We publicly release benchmark datasets used in our evaluations.
+
+The datasets are available at:
+```bash
+AACSum/Benchmark
+```
+These datasets contain paired review data and ground-truth summaries used for model evaluation.
+
+
 
 ## Contributors
 
