@@ -6,7 +6,7 @@
     <td align="center"> 
       <img src="assets/figure1.jpeg" alt="Teaser Figure" style="width: 700px;"/> 
       <br>
-      <em style="font-size: 18px;">  <strong style="font-size: 18px;">Figure 1:</strong> AACSum/assets </em>
+      <em style="font-size: 18px;">  <strong style="font-size: 18px;">Figure 1: Overview of the proposed method 
     </td>
   </tr>
 </table>
