@@ -178,4 +178,4 @@ Chaewon yoon
   <img src="https://github.com/ohyurim1010.png" width="50" height="50" style="border-radius: 50%;" alt="yurim oh">
 </a>  
 Yurim oh
-
+[![DOI](https://zenodo.org/badge/882383278.svg)](https://doi.org/10.5281/zenodo.14862986)
