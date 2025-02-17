@@ -1,4 +1,4 @@
-# [WWW2025 Short paper track]Abstractive aspect-based comparative summarization 
+# [WWW2025]Abstractive aspect-based comparative summarization 
 ---
 
 <table align="center">
