@@ -19,6 +19,7 @@ This work introduces **Abstractive Aspect-Based Comparative Summarization**, whi
   </tr>
 </table>
 </div>
+
 ### Features:
 - **Aspect-Based Summarization**: Summaries are structured around specific aspects such as "Staff", "Parking", "Price", etc.
 - **Contrastive & Common Summaries**: Captures both **differences** and **similarities** between entities.
