@@ -50,12 +50,13 @@ pip install -r requirements.txt
 ### 1. Aspect-Based Summarization
 Run the main script to generate aspect-based summaries:
 ```bash
-python generate_summaries.py --input data/reviews.json --output results/summaries.json
+python main.py --data_path data/reviews.json --result_path results/summaries.json
 ```
 ### 2. Evaluation
 Evaluate the summarization performance:
 ```bash
 python evaluate.py --predictions results/summaries.json --references data/gold_summaries.json
+--dataset cocotrip
 ```
 ---
 ## Citation

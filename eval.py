@@ -19,8 +19,8 @@ def set_args():
     """ Define command-line arguments """
     parser = argparse.ArgumentParser(description="Evaluation Script for COCOTRIP and AMASUM")
     parser.add_argument("--dataset", type=str, required=True, choices=["cocotrip", "amasum"], help="Dataset to evaluate")
-    parser.add_argument("--bench_file_path", type=str, required=True, help="Path to the benchmark JSON file")
-    parser.add_argument("--result_file_path", type=str, required=True, help="Path to the result JSON file")
+    parser.add_argument("--references", type=str, required=True, help="Path to the benchmark JSON file")
+    parser.add_argument("--predictions", type=str, required=True, help="Path to the result JSON file")
     parser.add_argument("--save_folder_path", type=str, help="Path to save evaluation results")
     return parser.parse_args()
 
@@ -123,8 +123,8 @@ def main():
     start_time = time.time()
 
     print("🔹 Loading Benchmark and Result JSON files...")
-    bench_data = load_json(args.bench_file_path)
-    result_data = load_json(args.result_file_path)
+    bench_data = load_json(args.references)
+    result_data = load_json(args.predictions)
 
     print("🔹 Evaluating results...")
     metrics = process_evaluation(args.dataset, bench_data, result_data)
