@@ -41,11 +41,7 @@ This work introduces **Abstractive Aspect-Based Comparative Summarization**, whi
 - Hugging Face Transformers
 - NLTK
 - Scikit-learn
-### Setup:
-```bash
-pip install -r requirements.txt
-```
----
+
 ## Usage
 ### 1. Aspect-Based Summarization
 Run the main script to generate aspect-based summaries:
