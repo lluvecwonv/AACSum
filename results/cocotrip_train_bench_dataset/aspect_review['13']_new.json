@@ -1,0 +1,49 @@
+{
+    "common_aspects": {
+        "room_quality": {
+            "comm": "The rooms are spacious, modern, and well-appointed, offering comfort for guests.",
+            "cont": {
+                "itemA": "We were in a room with 2 beds, fridge, & micro, which was nice and modern looking. The room is perfect for one or two people.",
+                "itemB": "Suites are large, well-appointed, with fabulous bathrooms. The room is spacious, comfortable and well-appointed."
+            }
+        },
+        "comfort": {
+            "comm": "The bedding is soft, offering a comfortable sleep experience.",
+            "cont": {
+                "itemA": "The sheets are soft and there are four pillows on the bed!",
+                "itemB": "The fluffy down duvets are delightful too."
+            }
+        },
+        "cleanliness": {
+            "comm": "The hotel maintains a high level of cleanliness throughout.",
+            "cont": {
+                "itemA": "The hotel was clean, and the free breakfast was a big hit.",
+                "itemB": ""
+            }
+        },
+        "staff_service": {
+            "comm": "The staff are friendly, helpful, and responsive to guests' needs.",
+            "cont": {
+                "itemA": "Staff are very friendly, willing to help in any way possible, and have been gracious during stays.",
+                "itemB": "The staff is exceptionally friendly, providing twenty-four-hour room service and helpful concierge service."
+            }
+        },
+        "location": {
+            "comm": "The hotel is conveniently located in vibrant areas with access to dining and nightlife options.",
+            "cont": {
+                "itemA": "This hotel is in the heart of Lincoln Park, with great little shops, restaurants, and bars nearby.",
+                "itemB": "The location can't be beat, it is in the heart of the Gold Coast near Michigan Avenue and other major attractions."
+            }
+        }
+    },
+    "unique_aspects": {
+        "itemA": {
+            "breakfast": "The free breakfast was excellent with muffins and make-your-own waffles.",
+            "value": "This hotel is the cheapest decent option I could find in Chicago and is perfect for the price."
+        },
+        "itemB": {
+            "amenities": "The hotel features flat-screen satellite televisions and iHome alarm clocks.",
+            "service": "They provide valet parking, although it can be hard to get to the front."
+        }
+    }
+}

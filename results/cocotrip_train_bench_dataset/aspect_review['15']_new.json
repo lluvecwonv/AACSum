@@ -1,0 +1,35 @@
+{
+    "common_aspects": {
+        "location": {
+            "comm": "The hotel is close to shopping areas and public transportation, but the immediate neighborhood has mixed reviews regarding safety.",
+            "cont": {
+                "itemA": "A short walk to the Eaton Centre and Yonge Street, location close to everything you need, but somehow the blocks surrounding the Grand Hotel are not the nicest area.",
+                "itemB": "It is superbly located in the tourist area of Toronto, in the heart of downtown near financial district and train station."
+            }
+        },
+        "staff_service": {
+            "comm": "The staff are friendly, helpful, and accommodating, providing excellent service.",
+            "cont": {
+                "itemA": "The staff at the Grand was very friendly, helpful, and attentive, knowledgeable with lots of tips for getting around the city.",
+                "itemB": "The service was impeccable, and staff was attentive and helpful although the lines for the Concierge were long."
+            }
+        },
+        "quality": {
+            "comm": "Guests mentioned the hotel provides a generally pleasant experience, though some noted issues with cleanliness.",
+            "cont": {
+                "itemA": "We were satisfied with our stay at this hotel, the service was very good, the hotel was clean, and the rooms were just fine.",
+                "itemB": "You can see dust everywhere!"
+            }
+        }
+    },
+    "unique_aspects": {
+        "itemA": {
+            "price": "Parking is expensive, but I was not charged.",
+            "amenities": "Excellent free breakfast buffet, pretty good indoor pool and jacuzzi, very clean facilities, and a nice rooftop."
+        },
+        "itemB": {
+            "price": "For the price, it's poor value for money with better options available in Toronto.",
+            "dining": "Had an outstanding breakfast on the gold floor and lovely meals at the hotel."
+        }
+    }
+}

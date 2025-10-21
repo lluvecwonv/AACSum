@@ -1,0 +1,42 @@
+{
+    "common_aspects": {
+        "room_quality": {
+            "comm": "The rooms are generally clean but vary in size and conditions.",
+            "cont": {
+                "itemA": "We booked a king room and were initially taken to a cramped room with no view. The room was clean but nothing special.",
+                "itemB": "The room was old but clean and very comfortable, and reasonably priced."
+            }
+        },
+        "location": {
+            "comm": "The hotel is located in Waikiki, which offers a mix of action and quiet.",
+            "cont": {
+                "itemA": "It is on the far end of Waikiki, which we liked because you are close to the action but also have some quiet.",
+                "itemB": "The location was great and very convenient."
+            }
+        },
+        "dining": {
+            "comm": "The hotel offers dining options on the beach and by the pool, with breakfast being a highlight.",
+            "cont": {
+                "itemA": "This hotel is right on the beach and has 2 restaurants in addition to a great place to eat at the pool. Breakfast each day was a delight poolside.",
+                "itemB": "Breakfast buffet is a good deal for the money, and their dinners are just as good as any other restaurant."
+            }
+        },
+        "service": {
+            "comm": "Service was mixed, with friendly staff but some issues with room availability.",
+            "cont": {
+                "itemA": "We had a very rough start to our stay, with complaints about room availability.",
+                "itemB": "The service was good, but that's about it for this hotel; the staff are friendly and helpful."
+            }
+        }
+    },
+    "unique_aspects": {
+        "itemA": {
+            "comfort": "The room had a small outdoor patio, but it was loud and not private.",
+            "amenities": "Tour amenities in the lobby were helpful, with the bell desk assisting in arranging transportation."
+        },
+        "itemB": {
+            "price": "I got a great deal for my stay.",
+            "cleanliness": "The AC units chill your room quickly."
+        }
+    }
+}

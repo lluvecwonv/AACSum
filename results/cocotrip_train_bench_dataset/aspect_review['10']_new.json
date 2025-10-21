@@ -1,0 +1,47 @@
+{
+    "common_aspects": {
+        "staff_service": {
+            "comm": "The staff are friendly and helpful but exhibit inconsistent service quality.",
+            "cont": {
+                "itemA": "The staff were very helpful and friendly despite arriving late; however, they kept us waiting at check-out with no real apology.",
+                "itemB": "Staff were friendly and accommodating, but there were issues with room service and a lack of urgency in addressing complaints."
+            }
+        },
+        "location": {
+            "comm": "The hotel is centrally located, providing easy access to key areas but may have some surrounding disruptions.",
+            "cont": {
+                "itemA": "The hotel is very well located, just off a main street in central Amsterdam, on a quiet canal street, within walking distance to tourist attractions.",
+                "itemB": "The location is ideal, being next to Central Station and close to various tourist attractions, though it can be a little far from some."
+            }
+        },
+        "room_quality": {
+            "comm": "Rooms vary in size and quality, with some being small but generally clean.",
+            "cont": {
+                "itemA": "Rooms are described as huge for a 3-star hotel but may have issues like stained carpeting and some staff being snooty.",
+                "itemB": "Rooms are noted as modern and clean; however, some are still small despite upgrades, but the overall quality, including amenities, is appreciated."
+            }
+        },
+        "dining": {
+            "comm": "Breakfast is included and has potential but can be inconsistent in quality.",
+            "cont": {
+                "itemA": "The breakfast, while reasonably priced, was often out of items and had stale pastries.",
+                "itemB": "Breakfast is fantastic, and while the sky lounge offers a nice atmosphere, prices for drinks are high."
+            }
+        },
+        "price": {
+            "comm": "The hotel provides good value for money.",
+            "cont": {
+                "itemA": "For the price, this hotel is well regarded among its peers in Amsterdam.",
+                "itemB": "It is considered extremely good value for money, encouraging a return stay."
+            }
+        }
+    },
+    "unique_aspects": {
+        "itemA": {
+            "amenities": "The room had a dangerous shower issue that needed resolving, which caused delays in scheduling."
+        },
+        "itemB": {
+            "view": "The hotel overlooks the entire city, providing lovely views from the balcony."
+        }
+    }
+}

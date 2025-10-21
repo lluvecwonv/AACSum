@@ -1,0 +1,87 @@
+{
+    "common_aspects": {
+        "target_audience": {
+            "comm": "The hotel suits young couples looking for culture, good food, and music at a reasonable price.",
+            "cont": {
+                "itemA": "The Gladstone would particularly suit young couples looking for some culture, good food and music at a reasonable price.",
+                "itemB": ""
+            }
+        },
+        "room": {
+            "comm": "Rooms are described as small, with unique characteristics and comfortable beds.",
+            "cont": {
+                "itemA": [
+                    "The room was also slightly disappointing.",
+                    "We found it to be small and the design a bit half hearted with a very strange shower!",
+                    "Further, because this is an old historic hotel, the rooms were small, coupled with a small bathroom.",
+                    "Overall the rooms are interesting and fun, but the beds are the best part.",
+                    "Fantastic hotel, great drinks, food and the staff super nice and cool.... only complaints were that our leftover margarita glasses weren't cleaned up, mattress wasn't great as it sagged in the middle and the shower felt like we were washing in a horizontal MRI machine!",
+                    "Details don't get addressed, the rooms are crazy small, and it's just not comfortable for any extended stay."
+                ],
+                "itemB": [
+                    "The room was small and definitely in need of a makeover.",
+                    "The rooms are well kept, clean... and the beds are incredibly comfortable.",
+                    "The rooms in the hotel were cleaned and spacious."
+                ]
+            }
+        },
+        "cleanliness": {
+            "comm": "Rooms are generally clean, although some may appear dingy.",
+            "cont": {
+                "itemA": [],
+                "itemB": [
+                    "I am sure both were clean, but they did not seem to be clean because they are so dingy.",
+                    "Rm was clean and for most part comfortable."
+                ]
+            }
+        },
+        "value": {
+            "comm": "The hotel is seen as providing good value, but there are concerns about the pricing.",
+            "cont": {
+                "itemA": "Its a great hotel and represents great value in a really interesting area of the city.",
+                "itemB": [
+                    "At $300 for one night, I was grossly overcharged.",
+                    "If I have one negative comment regarding this hotel it would be that the restaurant is very expensive."
+                ]
+            }
+        },
+        "service": {
+            "comm": "Service experiences vary, with some staff being friendly and others unfriendly.",
+            "cont": {
+                "itemA": [
+                    "After a long flight we found reception to be slightly frosty and unfriendly.",
+                    "The Gladstone had really friendly and engaging staff."
+                ],
+                "itemB": [
+                    "great staff, very friendly",
+                    "The hotel is very nice and the staff are very helpful and friendly."
+                ]
+            }
+        },
+        "location": {
+            "comm": "The hotel is well-located near activities but not extremely convenient for subway access.",
+            "cont": {
+                "itemA": [
+                    "However, for us it was located a bit off course in the sense that it is not subway convenient.",
+                    "Lots to do around the hotel.",
+                    "It is well located to hang out on Queen St West as well as the theatre district and more mainstream shopping."
+                ],
+                "itemB": [
+                    "Got a last minute deal and was happy with the location.",
+                    "Close to all amenities.",
+                    "The hotel is situated in the city centre of Toronto."
+                ]
+            }
+        }
+    },
+    "unique_aspects": {
+        "itemA": {
+            "decor": "Hotel decor was fun and the staff were quite accommodating.",
+            "amenities": "Even the elevator (circa 1900) was crazy and fun. They have created unique spaces for musicians, artists, foodies and families."
+        },
+        "itemB": {
+            "dining": "The breakfast in the hotel was good, with a good choice of food.",
+            "amenities": "The enjoyed a week for business, especially enjoyed the spa next door Elmwood Spa - they give a discount if show your room key."
+        }
+    }
+}

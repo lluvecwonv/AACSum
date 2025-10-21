@@ -44,14 +44,16 @@ def parse_assigned_list(assigned_list: Union[str, None]) -> Dict[str, List[str]]
 # -----------------------------------
 
 class AspectMerge:
-    def __init__(self, client):
+    def __init__(self, client, embedding_model="text-embedding-3-small"):
         """
         Initializes the AspectMerge class.
 
         Parameters:
         - client: An API client (e.g., OpenAI client) for embeddings.
+        - embedding_model: OpenAI embedding model to use (default: text-embedding-3-small).
         """
         self.client = client
+        self.embedding_model = embedding_model
 
     def merge_aspects(self, aspects_A: Dict[str, List[str]], aspects_B: Dict[str, List[str]]) -> Dict[str, Tuple[List[str], List[str]]]:
         """
@@ -152,5 +154,5 @@ class AspectMerge:
         Returns:
         - List[float]: The embedding vector.
         """
-        response = self.client.embeddings.create(input=text, model="text-embedding-3-small")
+        response = self.client.embeddings.create(input=text, model=self.embedding_model)
         return response.data[0].embedding

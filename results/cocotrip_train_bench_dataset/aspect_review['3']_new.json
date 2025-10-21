@@ -1,0 +1,42 @@
+{
+    "common_aspects": {
+        "room_quality": {
+            "comm": "The rooms are described as generally spacious and clean, though there are some mentions of small showers and bed size issues.",
+            "cont": {
+                "itemA": "The room was big, clean and had all that we were looking for, but the shower place is tiny.",
+                "itemB": "The room was very comfortable and even enjoyed the jacuzzi shower once we worked out how to use it!"
+            }
+        },
+        "cleanliness": {
+            "comm": "The rooms were reported to be clean.",
+            "cont": {
+                "itemA": "The rooms were very clean but the shower was incredibly small.",
+                "itemB": "The rooms were roomy and beyond clean."
+            }
+        },
+        "staff_service": {
+            "comm": "The staff are friendly and helpful.",
+            "cont": {
+                "itemA": "Many, many thanks to the delightful family and staff of Hotel Apollo.",
+                "itemB": "The staff were very friendly and helpful."
+            }
+        },
+        "location": {
+            "comm": "The hotel is centrally located, allowing easy access to major attractions and public transport.",
+            "cont": {
+                "itemA": "Located in centro storico Roma within view of the mighty Roman coloseum.",
+                "itemB": "The location is excellent, 5 mins away from the Termini and the Colosseum."
+            }
+        }
+    },
+    "unique_aspects": {
+        "itemA": {
+            "price": "No specific details about price were discussed in this review.",
+            "dining": "A tasty buffet breakfast is served each morning in the rooftop terrace dining room."
+        },
+        "itemB": {
+            "price": "Other comparable hotels were more expensive, so this was a very good value.",
+            "dining": "Breakfast was excellent, the best we had during our 12-day travels throughout Italy."
+        }
+    }
+}

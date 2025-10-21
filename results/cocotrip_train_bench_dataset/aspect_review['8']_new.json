@@ -1,0 +1,28 @@
+{
+    "common_aspects": {
+        "staff": {
+            "comm": "The staff are friendly, helpful, and efficient.",
+            "cont": {
+                "itemA": "The staff was very friendly and helpful, with English-speaking skills being somewhat limited but not problematic.",
+                "itemB": "The staff at the hotel was very helpful and friendly, and the breakfast was very good."
+            }
+        },
+        "location": {
+            "comm": "The hotel is conveniently located within walking distance to key areas in Venice.",
+            "cont": {
+                "itemA": "The location was ideal, situated off a quiet plaza but within easy walking distance to all of Venice.",
+                "itemB": "The hotel is visible from Piaza, and located about a minute's walk from the vaporetto station."
+            }
+        }
+    },
+    "unique_aspects": {
+        "itemA": {
+            "cleanliness": "The hotel was spotlessly clean, and the rooms were elegantly decorated with old-world charm.",
+            "room_quality": "The rooms were clean, comfortable, charming, and offered a nice breakfast with a selection of pastries."
+        },
+        "itemB": {
+            "dining": "Breakfast was plentiful, and there are outdoor tables for enjoying wine outside.",
+            "price": "The hotel is seen as providing great value for the amenities offered."
+        }
+    }
+}

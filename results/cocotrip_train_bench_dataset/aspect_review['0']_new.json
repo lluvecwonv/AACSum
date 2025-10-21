@@ -1,0 +1,54 @@
+{
+    "common_aspects": {
+        "Service": {
+            "comm": "The staff is helpful, friendly, and accommodating to guests' needs.",
+            "cont": {
+                "itemA": "Great food in the restaurant and staff is wonderful! Many of us asked for a late checkout last minute and they accommodated as many as possible.",
+                "itemB": "The staff was extremely friendly and helpful. They make changes and solve problems with a great attitude."
+            }
+        },
+        "Room": {
+            "comm": "The rooms are spacious, modern, and clean.",
+            "cont": {
+                "itemA": "Large, modern, clean rooms across from one of the few beaches in Key West.",
+                "itemB": ""
+            }
+        },
+        "Location": {
+            "comm": "The hotel is well-located, across from the beach and with shuttle service to main attractions.",
+            "cont": {
+                "itemA": "Located across the street from the most beautiful beach in Key West - Smathers Beach and literally 1.7 miles from Duval street it is perfect!",
+                "itemB": "Did I mention that the hotel is inconveniently located outside of the old town where the attractions are?"
+            }
+        },
+        "Price": {
+            "comm": "Pricing varies, with some guests feeling it is pricey while others find deals.",
+            "cont": {
+                "itemA": "The rate was what is to be expected for Key West, right by the airport!",
+                "itemB": "We stayed two nights at this overpriced hotel!"
+            }
+        },
+        "Quality": {
+            "comm": "There are mixed reviews about cleanliness and maintenance of rooms.",
+            "cont": {
+                "itemA": "The rooms were beautiful, and very clean, unless you looked directly behind the toilet, which could use a little extra scrubbing.",
+                "itemB": "It looks just like a dirty motel with filthy rugs and roaches!"
+            }
+        },
+        "Amenities": {
+            "comm": "The hotel offers nice amenities including a pool and shuttle service.",
+            "cont": {
+                "itemA": "The hotel offers a lot of comfort, a nice little pool, and regular shuttle service.",
+                "itemB": "The pool area and hot tub are well-maintained and a great place to just kick back."
+            }
+        }
+    },
+    "unique_aspects": {
+        "itemA": {
+            "Dining": "We especially enjoyed the outside restaurant at breakfast and thought the lavish poolside landscaping was beautiful."
+        },
+        "itemB": {
+            "Comfort": "It was a very comfortable and fun place to be at the end of an active day/evening in town."
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "common_aspects": {
+        "Comfort": {
+            "comm": "The accommodations are described as comfortable, spacious, and relaxing.",
+            "cont": {
+                "itemA": "We always stay in the 2-bedroom condos; it's such a relaxing, roomy place to stay.",
+                "itemB": "We had plenty of room and were very comfortable; the pull-out couch was of excellent quality."
+            }
+        },
+        "Cleanliness": {
+            "comm": "The properties are noted for being clean.",
+            "cont": {
+                "itemA": "The condo was very clean and the staff very friendly.",
+                "itemB": "The condo was clean and comfortable."
+            }
+        },
+        "Location": {
+            "comm": "The hotel is in a beautiful and peaceful area, which is away from the hustle of the main strip.",
+            "cont": {
+                "itemA": "Great location on the lake, wonderful staff and nice, clean condos.",
+                "itemB": "It's about 10 minutes past the main strip of Branson activities but it's worth the drive for the gorgeous views and lovely relaxing hotel."
+            }
+        }
+    },
+    "unique_aspects": {
+        "itemA": {
+            "Price": "I had some concerns about value for my money, but it was money well spent.",
+            "Quality": "Our unit was tastefully decorated and well maintained.",
+            "Dining": "The ice cream shop packed up banana splits for us to take to our room.",
+            "View": "The view was beautiful; our unit faced the lake and we enjoyed having coffee on the large covered patio.",
+            "Amenities": "The nature trails, pools, game room, hot tub and private dock sweeten the deal.",
+            "Service": "To our surprise, check in was easy even though we arrived late at night."
+        },
+        "itemB": {
+            "Quality": "For the price and service level of the hotel, I did expect to have a mini fridge; however, our room type did not have one.",
+            "Dining": "The food was expensive; the cafe restaurant had the best food.",
+            "Service": "Overall not a very welcoming feeling at the Chateau; the doormen were unpleasant and wouldn't smile.",
+            "Design": "My wife and I loved the rustic lodge look nestled amongst the trees."
+        }
+    }
+}

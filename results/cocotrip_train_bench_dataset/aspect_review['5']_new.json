@@ -1,0 +1,64 @@
+{
+    "common_aspects": {
+        "staff": {
+            "comm": "The staff are friendly and helpful, contributing positively to the overall experience.",
+            "cont": {
+                "itemA": [
+                    "The staff were courteous and helpful.",
+                    "I stayed over the weekend and was VERY impressed with the quality of service (friendly staff) and the great room (really clean)."
+                ],
+                "itemB": [
+                    "Friendly staff and good position.",
+                    "The rest of the property was outstanding."
+                ]
+            }
+        },
+        "room_quality": {
+            "comm": "The rooms are modern, clean, and well-equipped, suitable for short stays.",
+            "cont": {
+                "itemA": [
+                    "The room was modern and suited our needs for a one night rental.",
+                    "The queen room was small but nice and recently updated."
+                ],
+                "itemB": [
+                    "The room was very modern with sophisticated looking furnishings, a very comfortable bed, and nice walk-in shower.",
+                    "My spouse and I stayed in a superior studio suite and were extremely satisfied with our stay."
+                ]
+            }
+        },
+        "location": {
+            "comm": "The hotel is conveniently located in downtown, close to popular attractions and shopping.",
+            "cont": {
+                "itemA": [
+                    "Location is perfect, just on Yonge and Wellington (close to Eaton Centre for shopping and CN Tower Skydome for sightseeing).",
+                    "Things like CN Tower, Rogers Centre/Skydome, the Eaton Centre, harbourfront, and Dundas Square are all between 5 and 20 minutes' walk."
+                ],
+                "itemB": [
+                    "Hotel is in a fab location to walk to the main shopping mall and the heart of Downtown.",
+                    "Walking distance to Eaton Centre, restaurants and theatres."
+                ]
+            }
+        },
+        "cleanliness": {
+            "comm": "The hotel is described as very clean, contributing to a pleasant stay.",
+            "cont": {
+                "itemA": [
+                    "The hotel itself is clean and comfortable."
+                ],
+                "itemB": [
+                    "Hotel is very clean and the staff were lovely, very helpful, and pleasant."
+                ]
+            }
+        }
+    },
+    "unique_aspects": {
+        "itemA": {
+            "value": "We got a decent deal online by having to show our concert ticket.",
+            "amenities": "We paid a little extra for the \"Business Room\" which came with a bottle of water and Apple TV."
+        },
+        "itemB": {
+            "dining": "The breakfast down in the adjoining restaurant, Over Easy, was great in the morning.",
+            "ambiance": "My only disappointment was that there was no wi-fi (only hard-wired) so I was unable to use it."
+        }
+    }
+}

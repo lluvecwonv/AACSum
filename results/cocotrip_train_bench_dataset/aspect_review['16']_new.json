@@ -1,0 +1,34 @@
+{
+    "common_aspects": {
+        "Room Quality": {
+            "comm": "The rooms are clean and comfortable, although some may need remodeling.",
+            "cont": {
+                "itemA": "The hotel suites are very large considering you are in downtown Chicago, and the rooms need a little remodeling, though they are clean and comfortable.",
+                "itemB": "The staff was friendly and helpful, and the location is perfect, but some rooms were dusty and hot."
+            }
+        },
+        "Cleanliness": {
+            "comm": "The hotel is described as clean.",
+            "cont": {
+                "itemA": "The hotel was clean, spacious, good location and good value for money, and our room was fine.",
+                "itemB": "There are issues with cleanliness noted, including a dusty room."
+            }
+        },
+        "Location": {
+            "comm": "The hotel is centrally located and convenient for access to public transport and local attractions.",
+            "cont": {
+                "itemA": "It is very close to Michigan Ave (Magnificent miles) less than 5-10 min walking, with convenient access to the subway.",
+                "itemB": "The location is centrally located on the mag mile, allowing easy walking access to downtown attractions."
+            }
+        }
+    },
+    "unique_aspects": {
+        "itemA": {
+            "Comfort": "The beds were noted to be on the hard side and not exactly plush.",
+            "Dining": "Breakfast included a complementary buffet that was popular with families."
+        },
+        "itemB": {
+            "Service": "The hotel staff was friendly but had issues with specific service aspects, such as the valet service and handling guest reports."
+        }
+    }
+}

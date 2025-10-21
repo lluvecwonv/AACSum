@@ -37,23 +37,77 @@ This work introduces **Abstractive Aspect-Based Comparative Summarization**, whi
 ## Installation
 ### Prerequisites:
 - Python 3.8+
-- PyTorch
-- Hugging Face Transformers
-- NLTK
-- Scikit-learn
+- OpenAI API key
+- Required Python packages:
+  ```bash
+  pip install openai scikit-learn numpy
+  ```
 
 ## Usage
 ### 1. Aspect-Based Summarization
 Run the main script to generate aspect-based summaries:
+
+**Basic usage:**
 ```bash
-python main.py --data_path data/reviews.json --result_path results/summaries.json
+python main.py \
+  --data_path data/amasum/amasum_bench_dataset.json \
+  --result_path results/ \
+  --api_key YOUR_OPENAI_API_KEY \
+  --prompt template/sum.txt \
+  --assigner_prompt template/gpt_assigner.txt
 ```
+
+**Advanced usage (with custom models):**
+```bash
+python main.py \
+  --data_path data/amasum/amasum_bench_dataset.json \
+  --result_path results/ \
+  --api_key YOUR_OPENAI_API_KEY \
+  --prompt template/sum.txt \
+  --assigner_prompt template/gpt_assigner.txt \
+  --assigner_model gpt-4o \
+  --summarizer_model gpt-4o \
+  --embedding_model text-embedding-3-large \
+  --seed 1220
+```
+
+**Arguments:**
+
+*Required:*
+- `--data_path`: Path to input JSON file with review pairs
+- `--result_path`: Directory to save output summaries
+- `--api_key`: Your OpenAI API key
+- `--prompt`: Path to summarization prompt template
+- `--assigner_prompt`: Path to aspect assignment prompt template
+
+*Optional:*
+- `--assigner_model`: GPT model for aspect assignment (default: gpt-4o-mini)
+- `--summarizer_model`: GPT model for summarization (default: gpt-4o-mini)
+- `--embedding_model`: OpenAI embedding model (default: text-embedding-3-small)
+- `--seed`: Random seed for reproducibility (default: 1220)
+
+**Supported Models:**
+- GPT models: `gpt-4o`, `gpt-4o-mini`, `gpt-4-turbo`, `gpt-3.5-turbo`
+- Embedding models: `text-embedding-3-small`, `text-embedding-3-large`, `text-embedding-ada-002`
+
+**Cost Tracking:**
+The script automatically tracks API usage and saves a cost summary to `{result_path}/{file_name}/api_cost_summary.json`
+
 ### 2. Evaluation
 Evaluate the summarization performance:
 ```bash
-python evaluate.py --predictions results/summaries.json --references data/gold_summaries.json
---dataset cocotrip
+python eval.py \
+  --dataset cocotrip \
+  --predictions results/summaries.json \
+  --references data/gold_summaries.json \
+  --save_folder_path results/evaluation/
 ```
+
+**Arguments:**
+- `--dataset`: Dataset name (choices: cocotrip, amasum)
+- `--predictions`: Path to generated summaries JSON
+- `--references`: Path to gold standard summaries JSON
+- `--save_folder_path`: Directory to save evaluation results
 ---
 ## Citation
 If you use this work, please cite:

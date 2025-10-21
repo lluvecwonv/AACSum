@@ -1,0 +1,44 @@
+{
+    "common_aspects": {
+        "Comfort": {
+            "comm": "The beds are comfortable.",
+            "cont": {
+                "itemA": "The beds were very comfortable.",
+                "itemB": "The bed was comfortable."
+            }
+        },
+        "Room Quality": {
+            "comm": "The rooms are spacious and well-appointed, but some may require updating.",
+            "cont": {
+                "itemA": "The rooms were spacious and well appointed, we stayed in a studio with a king bed and full kitchen.",
+                "itemB": "The rooms are also very nice with large flat screens although they are quite small."
+            }
+        },
+        "Cleanliness": {
+            "comm": "The rooms are clean.",
+            "cont": {
+                "itemA": "The dressing area and shower were very clean, but the beds were not made up, and the floors were dirty.",
+                "itemB": "Rooms were very clean and quiet."
+            }
+        },
+        "Location": {
+            "comm": "The location is convenient for bar and restaurant access, but noise can be an issue.",
+            "cont": {
+                "itemA": "The location is great for bar/ restaurant hopping on St Charles, and having the streetcar stop right out front made everything so easy.",
+                "itemB": "Good location, tiny rooms, and it's quite noisy."
+            }
+        }
+    },
+    "unique_aspects": {
+        "itemA": {
+            "Room Quality": "The room was nicely appointed with a refrigerator, stove, and coffee pot.",
+            "Price": "Went in June so the rates were very inexpensive.",
+            "Amenities": "The pool is nice and clean, and there is a fun 24/7 bar next door for karaoke."
+        },
+        "itemB": {
+            "Room Quality": "We splurged and booked two Bourbon Street balcony rooms for a post-graduation celebration with our two young adult daughters.",
+            "Service": "Parking was also overpriced and scratched my spouse's custom car when the valet parked it.",
+            "Dining": "Very good breakfast, one of the three hotel bars to the GREAT restaurant for breakfast."
+        }
+    }
+}

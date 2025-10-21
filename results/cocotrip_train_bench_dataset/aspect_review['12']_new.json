@@ -1,0 +1,35 @@
+{
+    "common_aspects": {
+        "Service": {
+            "comm": "Staff are friendly, helpful, and accommodating, providing assistance with local tips and needs.",
+            "cont": {
+                "itemA": "The cheerful, personal touch and helpfulness of the staff, particularly Salvatore the concierge who gave great tips on restaurants, made our stay an absolute pleasure. Very small staff works hard to meet every need, and they were polite and helpful with maps, directions, restaurant recommendations, taxis, and laundry service.",
+                "itemB": "The staff was very friendly and accommodating, but it also included experiences where the service was noted as uncaring, where they treated guests poorly during times of need."
+            }
+        },
+        "Location": {
+            "comm": "The hotel is well-located, offering beautiful views and proximity to the city center.",
+            "cont": {
+                "itemA": "The view of the river Arno from our terrace was beautiful and the location was just right, being a short walk from the center but far enough away from the attractions to be quiet.",
+                "itemB": "The hotel has a good location, being convenient to the train station and main attractions, but some found the neighborhood uncomfortable to walk around at night."
+            }
+        },
+        "Cleanliness": {
+            "comm": "The hotel featured clean conditions, including decently sized bathrooms.",
+            "cont": {
+                "itemA": "The room was quite small but comfortable and clean, with a nice bathroom and a great shower. It was charming and offered a clean and comfortable stay.",
+                "itemB": "The room was clean and decent, though noted to be old and neglected in some areas."
+            }
+        }
+    },
+    "unique_aspects": {
+        "itemA": {
+            "Comfort": "Beds were very hard, affecting overall sleep quality.",
+            "Room Quality": "Rooms were large, nicely decorated, and had functional air conditioning."
+        },
+        "itemB": {
+            "Price": "The price is excellent, but it reflects the quality experienced.",
+            "Dining": "The restaurant next door for a late dinner or snack is rated as great."
+        }
+    }
+}
